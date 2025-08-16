@@ -174,6 +174,7 @@ Which takes us to, **why we should extremely push for inclusivity**:
 When you see 240ish people on the recruitments group, you might be intimidated by how to run such a massive club (the way we were). However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3.
 And even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
 
+
 ### Depth wise inclusivity
 So the reasons for being inclusive regardless of 'skill' are:
 
@@ -187,9 +188,9 @@ So the reasons for being inclusive regardless of 'skill' are:
 So there isn't much clear benefit of having a harsh filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
 
 Taking a few points out of Nikhil's recruitment document:
-- Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
-- + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
-- + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated.
+>- Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
+>- + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
+>- + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated.
 
 
 Now talking about inclusivity with respect to flexibility of slots:
@@ -503,5 +504,6 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTMxMTYxOTEwMywyMzYwNzYyMTksLTgwMTIz
+MTI1NF19
 -->
