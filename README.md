@@ -1,4 +1,4 @@
-Save all these 3 files in the same folder.
+Save all these files in the same folder.
 r3 Raw attendance is the file that I obtained from myattendancetracker.com reporting main class report.
 Based on what you saved the file name as, you should rename the block of code at the top of debsoc_attendance.ipynb.
 Then click run all cells. (You may have to install pandas, numpy, and matplotlib if the code fails).
