@@ -1,8 +1,10 @@
 
+
 [Link to the actual file (please don't read on github)](https://stackedit.io/app#the-point-of-a-debate-club)
 
-## Hello Debsoc member
+# Running the PES Debsoc
 
+Hello valued Debsoc core member,
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
 A lot of the solutions may seem like common knowledge, but I believe it's important that they're thought about and have effort behind their implementation.
@@ -506,6 +508,6 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNTc3NzExNzExLDIzNjA3NjIxOSwtODAxMjMx
-MjU0XX0=
+JoaXN0b3J5IjpbMTI1NDgxNTgwNiwyMzYwNzYyMTksLTgwMTIz
+MTI1NF19
 -->
