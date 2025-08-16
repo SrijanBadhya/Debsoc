@@ -459,7 +459,7 @@ the narrative of adjing being bad is spread through statements like, "You'd bett
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
   
-
+quote the adjing thing from how to start a debating society.
 
 
 A lot of time there are people who genuinely care about improving in debating but don't attend sessions
@@ -508,6 +508,6 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTU4NzkwMDU5NCwyMzYwNzYyMTksLTgwMTIz
-MTI1NF19
+JoaXN0b3J5IjpbLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEy
+MzEyNTRdfQ==
 -->
