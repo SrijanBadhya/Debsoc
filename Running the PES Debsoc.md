@@ -181,7 +181,7 @@ So the reasons for being inclusive regardless of 'skill' are:
 - If you're going to be left with 10% of X, try to maximize X.
 - The debsoc aims to provide value to people, and the more people you provide value to, the more you're doing for the club.
 - The point is not to filter based on skill, but to take everyone who is interested, and help them pursue this interest. 
-- Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there.
+- Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
 
@@ -205,6 +205,8 @@ Now talking about inclusivity with respect to flexibility of slots:
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - I believe that everyone the debsoc can possibly reach, should be reached.
 - + Even if these people don't appear serious enough, or end up dropping out soon, every recruit provides value in a debate for the time they are in the club, for the initial debates they participate in.
+- Every person is precious. Every person is needed to turn a debate
+
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
 - **Even if people are temporary, they still contributed to the activity of the club for the time that they were there, and that's enough.**
@@ -504,6 +506,6 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTMxMTYxOTEwMywyMzYwNzYyMTksLTgwMTIz
-MTI1NF19
+JoaXN0b3J5IjpbNTc3NzExNzExLDIzNjA3NjIxOSwtODAxMjMx
+MjU0XX0=
 -->
