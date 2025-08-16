@@ -1,5 +1,5 @@
 
-> Written with [StackEdit](https://stackedit.io/).
+[Link to the actual file (please don't read on github)](https://stackedit.io/app#the-point-of-a-debate-club)
 
 ## Hello Debsoc member
 
@@ -503,5 +503,5 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
 -->
