@@ -189,6 +189,7 @@ So the reasons for being inclusive regardless of 'skill' are:
 - If you're going to be left with 10% of X, try to maximize X.
 - The debsoc aims to provide value to people, and the more people you provide value to, the more you're doing for the club.
 - The point is not to filter based on skill, but to take everyone who is interested, and help them pursue this interest. 
+- - The focus is not on who the people are now, they're freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
@@ -196,8 +197,8 @@ So the reasons for being inclusive regardless of 'skill' are:
 So there isn't much clear benefit of having a harsh filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
 
 Taking a few points out of Nikhil's recruitment document:
-- The focus is not on who the people are now, they're freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
-- A good debater can always end up stopping debating. A bad debater can always have a growth arc. 
+
+- A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
 - "Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
 - + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
 - + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
@@ -822,11 +823,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTM3MzcyMjQyMyw0OTk1OTU3NjAsMjAyNTk2
-MTMwNywxNzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MT
-AsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4
-MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMz
-c5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUw
-NCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5OD
-I1NDk5OV19
+JoaXN0b3J5IjpbODg5NzczNTAwLDQ5OTU5NTc2MCwyMDI1OTYx
+MzA3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUsLTM3NDk1NzcxMC
+w3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgx
+MDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNz
+k2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0
+LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4Mj
+U0OTk5XX0=
 -->
