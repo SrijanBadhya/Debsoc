@@ -451,7 +451,7 @@ For the love of god, there are better motions than THW legalize weed to use as a
 The counter argument I've heard about this are
 - It's more enticing and an, "oooooo" topic.
 - It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
-- It's a cool demonstration of a flip, say
+- It's a cool demonstration of a flip, saying that banning it makes it worse. 
 
 one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
 
@@ -545,10 +545,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIxMjIyNjM3MDUsMTY3MjMxMzc5NiwtMjEx
-NjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MT
-k2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1
-NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1Nj
-U5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbLTM2NDU1Mzg4MiwxNjcyMzEzNzk2LC0yMTE2
+MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOT
+Y1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1
+MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNzU2NT
+k4LC0xOTkwMjI0OTIyLDIzNjA3NjIxOSwtODAxMjMxMjU0XX0=
 
 -->
