@@ -7,7 +7,7 @@
 Hello valued Debsoc core member,
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
-A lot of the solutions may seem like common knowledge, but I believe it's important that they're thought about and have effort behind their implementation.
+A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
 - As every coder knows, replacing an existing solution with a different solution, could lead to other problems popping up.
 - So every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
@@ -512,7 +512,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTcz
-NDQ4OSw4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMi
-wyMzYwNzYyMTksLTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbMTczOTczOTQ1NCwxNjk4MjU0OTk5LDU1MTIy
+ODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNzU2NTk4LC
+0xOTkwMjI0OTIyLDIzNjA3NjIxOSwtODAxMjMxMjU0XX0=
 -->
