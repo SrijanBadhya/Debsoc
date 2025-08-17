@@ -563,77 +563,41 @@ Thompson. UnitedHealthcare is the largest health insurance provider in the Unite
 78. 
 79. 90. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls..."
 
-
-
 92. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions.
 
-93. This house supports the rising trend of celebrities and influencers taking key roles in activism (e.g in environment, human rights, social justice movements etc.) DONE
+93. This house supports the rising trend of celebrities and influencers taking key roles in activism (e.g in environment, human rights, social justice movements etc.)
 
 94. This house would introduce eco-conscription
 
-Eco-conscription refers to the compulsory requirement of citizens over the age of 18 to serve for the national service regarding the environment for a period of 2 years. The activities include engaging in environmental restoration, natural disaster relief, reforestation, environmental clean-ups, etc. DONE
+Eco-conscription refers to the compulsory requirement of citizens over the age of 18 to serve for the national service regarding the environment for a period of 2 years. The activities include engaging in environmental restoration, natural disaster relief, reforestation, environmental clean-ups, etc. 
 
 95. This house believes that corporate social responsibility (CSR) spending should be maintained regardless of economic circumstances.
 
 96. This house would program the robots to hide the existence of past human life on Earth
 
-It is far into the future. Earth is no longer habitable for life, and the human race on Earth is about to be extinguished. However, we have mastered many advanced technologies, including far space travel. We are sending thousands of human embryos frozen in artificial wombs to a distant, liveable planet. Accompanying them will be robots who are comprehensively programmed to develop, raise, protect, and educate these “New Children” once they reach the new planet. DONE
+It is far into the future. Earth is no longer habitable for life, and the human race on Earth is about to be extinguished. However, we have mastered many advanced technologies, including far space travel. We are sending thousands of human embryos frozen in artificial wombs to a distant, liveable planet. Accompanying them will be robots who are comprehensively programmed to develop, raise, protect, and educate these “New Children” once they reach the new planet.
 
-97. As opposed to financing green energy start-ups, this house believes that states should financially incentivize existing fossil fuel companies' transition into green energy
+97. As opposed to financing green energy start-ups, this house believes that states should financially incentivize existing fossil fuel companies' transition into green energy.
+98. 
 
-98. This house would impose an absolute cap on the per capita consumption water and electricity per household.
+99. This house believes that buddig creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
 
-99. This House Believes that environmental movements should heavily prioritize local agendas over global ones. DONE
-
-100. This house, as a Squib, would choose to live in the Muggle world over the magical world
-
-In the Harry Potter universe, a Squib is a human who is born with at least one magical parent, but does not inherit magic from them. They are unable to practice magic, but can interact in magical society and see things that muggles can't, e.g. Hogwarts, Diagon Alley, etc. Squibs are rare and are looked down upon by some wizards, particularly pure-bloods.﻿ DONE
-
-101. This house believes that indigenous communities in the Amazon rainforest should undertake acts of vigilantism against poachers and illegal loggers.
-
-In recent years, logging companies have cleared swathes of land around in. digenous communities' reservations in the Amazon, with loggers and poachers often also entering their perimeters. President Bolsonaro has claimed that the reservations are too expansive and has called for mining and industrial farming on tribal land. Recently, members of indigenous tribes have begun forming vigilante groups to fight back against the encroachments. They have experienced relative success in combating illegal incursion, but this has come at the cost of being regularly exposed to armed skirmishes and vigilantism being denounced by local authorities.
-
-102. This house believes that buddig creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
-
-103. This house believes that the Headmaster/Headmistress of Hogwarts School of Witchcraft and Wizardry should abolish the house system
-
-Hogwarts School of Witchcraft and Wizardry is a fictional school of magic that appears in the Harry Potter franchise. When students enter the school at age 11 they are sorted by a sentient magic hat (known as The Sorting Hat) into one of 4 “houses” groups in which they remain for the next 7 years of their education. The houses are each affiliated with a trait (Bravery Intelligence Loyalty and Ambition) and the Sorting Hat has the ability to look into the minds of the students and sort them without failure into the house which most fits their temperament and aptitude. As students eat sleep and study with their housemates assigned houses largely define their social circles and school lives. Students are awarded/penalized “points” for their achievements and misbehaviors and the houses compete to see which group has the most points at the end of the year
 
 104. This house, as Harry Potter, would have used The Imperius Curse on Voldemort and control him to do good for the society
 
-Harry Potter is a wizard who lives in magical land. Voldemort is the most powerful evil wizard, who has previously been responsible for the deaths of Harry's parents and many other witches and wizards. The Imperius Curse makes someone a puppet, under the complete control of the wielder of the curse. It is similar to being subjected to hypnosis, but of course magical and therefore more powerful. DONE
+Harry Potter is a wizard who lives in magical land. Voldemort is the most powerful evil wizard, who has previously been responsible for the deaths of Harry's parents and many other witches and wizards. The Imperius Curse makes someone a puppet, under the complete control of the wielder of the curse. It is similar to being subjected to hypnosis, but of course magical and therefore more powerful.
 
-105. This House Would mandate all social media platforms to include a "dislike" button.
 
-106. This house supports social media companies removing spaces and content associated with the incel movement
-
-Andrew Tate is a social media influencer who has been banned from Youtube, Instagram and TikTok for his misogynistic views. In 2017 Reddit banned r/incels, a forum of 41,000 people who self-identify as "involuntarily celibate".
 
 107. This house supports the rise of true crime entertainment
 
-True crime is a nonfiction genre that combines investigative journalism and narrative storytelling to report on and describe a real-life crime event to the public. Examples include 'Serial', a podcast that investigated the 1999 murder of Hae Min Lee as well as the investigations and legal proceedings that followed. DONE
+True crime is a nonfiction genre that combines investigative journalism and narrative storytelling to report on and describe a real-life crime event to the public. Examples include 'Serial', a podcast that investigated the 1999 murder of Hae Min Lee as well as the investigations and legal proceedings that followed.
 
-108. This house believes that Taylor Swift has done more harm than good to the feminist movement DONE
+108. This house believes that Taylor Swift has done more harm than good to the feminist movement.
 
-109. This house prefers Disney optimism to Ghibli optimism in children's media
+113. This house opposes the expectation that romantic partners should be significant support systems of each other's mental health.
 
-For the purpose of this debate, there are two tropes in children's media. "Disney optimism" presents a world with 1\. clear good and evil 2\. wherein good always triumphs. "Ghibli optimism" presents a world with 1\. no true evil and morality is subjective 2\. where peaceful compromise is ultimately possible where neither side necessarily triumphs.
-
-110. This house opposes the glorification of youth
-
-111. This house prefers a world where the "Algorizzm" exist
-
-The "Algorizzm" is an innovation that matches you to your soulmate with proven perfect accuracy. The technology tells you who your soulmate is, including their name and contact information. This is the person with whom you can live the most fulfilling life with. The "Algorizzm" is mandatory to use by everyone in the world, however it is up to individuals whether they will reach out to their soulmate.
-
-112. This House, as an average college-going individual in a western liberal democracy, Hopes to get involved with a manic pixie dream girl/guy
-
-For the purposes of this debate, a Manic Pixie Dream Girl (MPDG) is a quirky, free-spirited, and easily-attached female character who either lacks personal depth or willingly sets aside her ambitions for the male protagonist. Her primary role in a story is to "fix" the brooding male protagonist and push him toward experiences he wouldn't normally pursue. MPDGs often enter one's life like a hurricane—bringing excitement, spontaneity, and emotional upheaval—but their presence is never guaranteed to last. If they stay, relationships tend to become co-dependent; if they leave, they do so just as suddenly, often leaving behind unresolved emotions and personal upheaval, but also potentially a brand new perspective on life and self-identity. For example, Natasha (Kalki Koechlin) in Zindagi Na Milegi Dobara leaves her successful career without prompting and follows Kabir (Abhay Deol) on his bachelor trip to keep an eye on him and ensure he doesn't stray. Another example is Summer (Zooey Deschanel) in 500 Days of Summer, who brings spontaneity and joy into Tom’s (Joseph Gordon-Levitt) life, pushing him out of his comfort zone, but ultimately leaves just as abruptly, forcing him to confront personal growth on his own.
-
-113. This house opposes the expectation that romantic partners should be significant support systems of each other's mental health DONE
-
-114. Context: Assuming the prevalence of any given gene in the total
-
-human population remains the same.
+114. Context: Assuming the prevalence of any given gene in the total human population remains the same.
 
 Motion: This house prefers a world
 
@@ -833,11 +797,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE5NTQyMDExOTgsLTM3NDk1NzcxMCw3NDY3
-MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
-wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
-MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
-cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
-LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
-U2NTk4XX0=
+JoaXN0b3J5IjpbMTAwNDU1MTQ2MSwtMzc0OTU3NzEwLDc0Njcw
+OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
+0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
+MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
+E5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTks
+NTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NT
+Y1OThdfQ==
 -->
