@@ -267,7 +267,10 @@ Nikhil's round 2 in 2024 had the following features:
 - Participants prep together while the speaker positions are kept a mystery by the judge.
 - The PM and LO positions are announced at the end of prep time.
 - After the first 2 speeches, both teams are given 5 minutes to discuss among themselves for the next 2 speeches.
-- At the end of this time, the DPM and DLO are anno
+- At the end of this time, the DPM and DLO are announced.
+- After these 2 speeches, there are 5 minutes of discussion time before the Gov whip and Opp whip.
+- There are still no POIs in this format.
+
 
 
 
@@ -801,7 +804,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE5MzIzMTg4MDQsLTEyODk3MzMxMDUsLTM3
+JoaXN0b3J5IjpbLTE2OTk5Mzk2MTIsLTEyODk3MzMxMDUsLTM3
 NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MD
 MsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3Niwx
 NjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMj
