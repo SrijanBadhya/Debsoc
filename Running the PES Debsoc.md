@@ -493,7 +493,7 @@ one on one time is extremely extremely important to make people feel like they e
 
 Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
 
-  
+  I support not playing pranks in the initial days cuz it erodes trust in the clu
   
 
 Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
@@ -579,11 +579,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4
-MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMz
-c5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUw
-NCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5OD
-I1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcs
-LTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMT
-IzMTI1NF19
+JoaXN0b3J5IjpbLTE1NzgxMzY3MjQsMTY2NDI0NzM0MiwxOTU2
+OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3Nz
+YzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3
+NiwtMTI5ODU4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5Nj
+AyNDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4
+OSw4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMz
+YwNzYyMTldfQ==
 -->
