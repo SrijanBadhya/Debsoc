@@ -13,7 +13,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 - So every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
 - I believe that every batch will be able to improve upon existing systems.[^1] Every change should be a step forward, instead of causing old problems to resurface.
 [^1]: I haven't yet figured out how exactly I'll add other people's input into this document with their name, but it'll probably be a combination of github pull requests and writing their name before their points. Probably even passing control on.
-- An ideal change would patch up existing flaws without opening up the flaws of old systems. However sometimes tradeoffs must be made, and I trust you in weighing which flaws are worth handling.
+- An ideal change would patch up existing flaws without opening up the flaws of old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
 
 <br>
 <br>
@@ -139,7 +139,7 @@ _For my first juniors, we had a similar format but offline._
 
 Here we naturally arrive at the big question of inclusivity.
 
-How do you handle the tradeoff between being inclusive/selective?
+How do you handle the trade-off between being inclusive/selective?
 
 
 Pros of being selective:
@@ -512,7 +512,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTczOTczOTQ1NCwxNjk4MjU0OTk5LDU1MTIy
-ODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNzU2NTk4LC
-0xOTkwMjI0OTIyLDIzNjA3NjIxOSwtODAxMjMxMjU0XX0=
+JoaXN0b3J5IjpbOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMjI4
+MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OTgsLT
+E5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
 -->
