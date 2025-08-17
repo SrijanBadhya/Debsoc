@@ -369,15 +369,15 @@ For this purpose, I think it's justified to paint an incomplete picture of debat
 
 What I mean by this is:
 - not dropping finance and IR motions in the early days.
-- Even within other subjects, giving easy accessible motions.
+- Even within other subjects, giving easy and accessible motions (and motions they would find fun).
 - Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. Give them easy motions which even they will think are balanced.
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days with aftercare
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
 
-Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people, they wouldn't have the commitment to persevere through the hardship.
+Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
-- + However, from personal experience, I and a few other people would have quit 
+- + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effect
 
 
 
@@ -533,8 +533,9 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEyOTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0
-NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LD
-E0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAy
-MjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTEwNzM5NzY4NjUsLTEyOTg1ODY1MDQsMTYw
+NzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OT
+ksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3
+NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNT
+RdfQ==
 -->
