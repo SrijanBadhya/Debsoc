@@ -244,7 +244,7 @@ I'll just quote from Nikhil's document here.
  - + "Is there something you think the opposite speaker missed that you predicted they would say?"
  
 
-I think these changes by Nikhil were absolutely goated, made the recruitment process so much more fun and engaging for both the moderators and recruits.
+I think these changes by Nikhil were absolutely amazing, made the recruitment process so much more fun and engaging for both the moderators and recruits.
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
 
 
@@ -579,10 +579,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAy
-NjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyOD
-I5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNzE5NjUw
-LDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMj
-I4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OTgs
-LTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4
+MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMz
+c5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUw
+NCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5OD
+I1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcs
+LTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMT
+IzMTI1NF19
 -->
