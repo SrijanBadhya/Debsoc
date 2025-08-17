@@ -561,6 +561,8 @@ Thompson. UnitedHealthcare is the largest health insurance provider in the Unite
 
 53. Motion: This house regrets the increasing prevalence of nihilism among young people. Infoslide: For the purposes of this debate, Nihilism refers to an increasing sense of meaninglessness, pessimism and skepticism about life in the modern day.
  
+#### Harder motions post round 3
+
 54. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls..."
 
 55. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions.
@@ -577,41 +579,40 @@ Eco-conscription refers to the compulsory requirement of citizens over the age o
 
 It is far into the future. Earth is no longer habitable for life, and the human race on Earth is about to be extinguished. However, we have mastered many advanced technologies, including far space travel. We are sending thousands of human embryos frozen in artificial wombs to a distant, liveable planet. Accompanying them will be robots who are comprehensively programmed to develop, raise, protect, and educate these “New Children” once they reach the new planet.
 
-97. As opposed to financing green energy start-ups, this house believes that states should financially incentivize existing fossil fuel companies' transition into green energy.
-98. 
+60. As opposed to financing green energy start-ups, this house believes that states should financially incentivize existing fossil fuel companies' transition into green energy.
+ 
 
-99. This house believes that buddig creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
+61. This house believes that buddig creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
 
 
-104. This house, as Harry Potter, would have used The Imperius Curse on Voldemort and control him to do good for the society
+62. This house, as Harry Potter, would have used The Imperius Curse on Voldemort and control him to do good for the society
 
 Harry Potter is a wizard who lives in magical land. Voldemort is the most powerful evil wizard, who has previously been responsible for the deaths of Harry's parents and many other witches and wizards. The Imperius Curse makes someone a puppet, under the complete control of the wielder of the curse. It is similar to being subjected to hypnosis, but of course magical and therefore more powerful.
 
 
-
-107. This house supports the rise of true crime entertainment
+63. This house supports the rise of true crime entertainment
 
 True crime is a nonfiction genre that combines investigative journalism and narrative storytelling to report on and describe a real-life crime event to the public. Examples include 'Serial', a podcast that investigated the 1999 murder of Hae Min Lee as well as the investigations and legal proceedings that followed.
 
-108. This house believes that Taylor Swift has done more harm than good to the feminist movement.
+64. This house believes that Taylor Swift has done more harm than good to the feminist movement.
 
-113. This house opposes the expectation that romantic partners should be significant support systems of each other's mental health.
+65. This house opposes the expectation that romantic partners should be significant support systems of each other's mental health.
 
-114. Context: Assuming the prevalence of any given gene in the total human population remains the same.
+66. Context: Assuming the prevalence of any given gene in the total human population remains the same.
 Motion: This house prefers a world where babies were born with a random genetic profile, rather than one inherited from their parents.
 
-115. This house opposes the creation of child-targeted social media
+67. This house opposes the creation of child-targeted social media
 
 Infoslide: Child-targeted branches of social media are becoming a common project for many companies. Platforms like YouTube Kids already exist whereas Instagram Kids is a proposed project of Facebook. These are made with the intention of promoting more consumption and usage of social media while providing a safer space for younger children.
 
 
-117. This house prefers a world with memory erasure technology.
+68. This house prefers a world with memory erasure technology.
 
 Infoslide
 
 A “memory erasure machine” is a device that is capable of removing specific memories in people’s brains in a manner that is medically safe.
 
-118. This House Would upload their consciousness to the cloud at the point of death
+69. This House Would upload their consciousness to the cloud at the point of death
 
 Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it before every debate have a short speech where you say verdict doesn't matter
 
@@ -782,7 +783,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTExMTk2NDc4MDgsLTM3NDk1NzcxMCw3NDY3
+JoaXN0b3J5IjpbLTE2MzU5ODc5NzksLTM3NDk1NzcxMCw3NDY3
 MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
 wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
 MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
