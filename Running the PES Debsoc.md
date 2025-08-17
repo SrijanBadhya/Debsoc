@@ -264,7 +264,10 @@ Why is this bad?
 
 Nikhil's round 2 in 2024 had the following features:
 - It was a 3v3 AP lite with 4 minute speeches instead of 3.
-- Participants ar
+- Participants prep together while the speaker positions are kept a mystery by the judge.
+- The PM and LO positions are announced at the end of prep time.
+- After the first 2 speeches, both teams are given 5 minutes to discuss among themselves for the next 2 speeches.
+- At the end of this time, the DPM and DLO are anno
 
 
 
@@ -798,11 +801,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjAwNDI5MzUzMCwtMTI4OTczMzEwNSwtMzc0
-OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMy
-wxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2
-NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOT
-g1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2
-LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOT
-U5MTI3XX0=
+JoaXN0b3J5IjpbLTE5MzIzMTg4MDQsLTEyODk3MzMxMDUsLTM3
+NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MD
+MsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3Niwx
+NjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMj
+k4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgw
+NiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MT
+k1OTEyN119
 -->
