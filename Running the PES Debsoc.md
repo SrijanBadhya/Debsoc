@@ -384,7 +384,8 @@ If you're reading this, you would have already faced the grueling learning curve
 - + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode.
 
 
-About motions for sessions:
+### Time
+From the feedback 
 
 
 
@@ -553,10 +554,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTg2ODIzMjc1OCwtMTExMTc3NjM3NiwxNjcy
-MzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NT
-g2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwx
-Njk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OT
-EyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3NjIxOSwt
-ODAxMjMxMjU0XX0=
+JoaXN0b3J5IjpbNTczMTUyMzAwLC0xMTExNzc2Mzc2LDE2NzIz
+MTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1OD
+Y1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2
+OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MT
+I3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04
+MDEyMzEyNTRdfQ==
 -->
