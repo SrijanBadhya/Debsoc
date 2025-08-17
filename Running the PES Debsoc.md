@@ -272,6 +272,10 @@ Nikhil's round 2 in 2024 had the following features:
 - After these 2 speeches, there are 5 minutes of discussion time before the Gov whip and Opp whip.
 - There are still no POIs in this format.
 
+Why is this new model better?
+- It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
+- Group discussion
+
 
 
 
@@ -805,11 +809,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0
-OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMy
-wxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2
-NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOT
-g1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2
-LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOT
-U5MTI3XX0=
+JoaXN0b3J5IjpbLTk3NjM2MDAzLDE3NTE1NjI0MzEsLTEyODk3
+MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLD
+E5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTEx
+MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
+I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
+LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
+M0NDg5XX0=
 -->
