@@ -513,67 +513,67 @@ For the purpose of this debate, Momijection refers to an advanced biotechnology 
 
 The term "aromantic", colloquially shortened to "aro", refers to a person who experiences no romantic desire or attraction
 
-56. This house, as a never-married, single, and wealthy elderly man, would become a sugar daddy
+39. This house, as a never-married, single, and wealthy elderly man, would become a sugar daddy
 
-57. This house would 'resurrect' their significant other
+40. This house would 'resurrect' their significant other
 
 **You are a 30 -year-old who has recently lost their significant other to terminal cancer. A technology has recently been discovered that allows you to create an imitation of them as sentient AI. They would act and recall memories identical to your loved one. They would exist in a robot body indistinguishable from humans.**
 
-58. This house, as the boxer, W agree to fight Jake Paul
+41. This house, as the boxer, W agree to fight Jake Paul
 
 You are a retired professional boxer, renowned for an illustrious career and regarded as one of the sport’s greats. Though past your prime, your name still commands respect and admiration within the boxing world. Jake Paul, a significantly younger and controversial social media influencer turned boxer, has gained attention by fighting and winning against high-profile opponents. Jake Paul offers you a lucrative opportunity to fight him.
 
 
-60. This house supports microretirement
+42. This house supports microretirement
 
 Microretiremenfers to taking a chunk or multiple chunks of time off work to experience life and travel while you're young, rather than waiting until actual retirement age in your 50s or 60s. It's similar to a sabbatical, and has also been dubbed an 'adult gap year'. 
 
 
 
-63. This house opposes the rise of pro-immigration policies in developed states with aging populations
+43. This house opposes the rise of pro-immigration policies in developed states with aging populations
 
 An aging population refers to a demographic shift where there are more elderly individuals (often 65 years and older) compared to those who belong in the younger demographic, often because of longer life expectancies and declining birth rates. This is common among developed countries like Japan, Germany, the UK, and USA. Recently, this trend has been observed in developing countries like the Philippines, India, Thailand, Mexico, and Turkey.
 
 
-65. This house would mandate a retirement age in politics.
+44. This house would mandate a retirement age in politics.
 
-66. Assuming a veil of ignorance (you won't know which section of society your parents will belong to), This house prefers to be born in a stable and well-functioning authoritarian state rather than a struggling democracy.
+45. Assuming a veil of ignorance (you won't know which section of society your parents will belong to), This house prefers to be born in a stable and well-functioning authoritarian state rather than a struggling democracy.
 
-70. This house supports hyper positivity culture.
+46. This house supports hyper positivity culture.
 
 Hyper positivity culture is the concept that heavily emphasizes on optimism and positive mindset as the best ways to live life. It sees potential negativity as something that should not be outwardly portrayed.
 
-71. This house believes that the governments of developing nations should actively encourage slum tourism
+47. This house believes that the governments of developing nations should actively encourage slum tourism
 
 Slum tourism is a type of tourism that involves visiting impoverished areas - usually through a service provided by tourism agencies. Slum tourism is now becoming increasingly prominent in developing nations, including India, Brazil, Kenya and Indonesia.
 
-72. This house would pay individuals who would migrate from highly populated cities to rural areas.
+48. This house would pay individuals who would migrate from highly populated cities to rural areas.
 
-73. This house regrets the trend of influencers posting videos on social media of themselves doing charitable acts for vulnerable or disadvantaged people.
+49. This house regrets the trend of influencers posting videos on social media of themselves doing charitable acts for vulnerable or disadvantaged people.
 
 
-74. Motion: This house regrets the glorification of Luigi Mangione's actions Infoslide: "Luigi Mangione is the suspect in the murder of UnitedHealthcare CEO Brian
+50. Motion: This house regrets the glorification of Luigi Mangione's actions Infoslide: "Luigi Mangione is the suspect in the murder of UnitedHealthcare CEO Brian
 Thompson. UnitedHealthcare is the largest health insurance provider in the United States, and has come under controversy for denying treatment and coverage for patients. Following his arrest, a wave of social media support emerged, with many users portraying Mangione as a ""modern-day hero."""
 
-75. This house regrets the romanticisation of self-sacrifice in motherhood
+51. This house regrets the romanticisation of self-sacrifice in motherhood
 
-76. This house regrets the condemnation of religions towards the hedonistic tendencies of humans (e.g., lust, materialism, seeking pleasure, avoiding suffering, etc.)
+52. This house regrets the condemnation of religions towards the hedonistic tendencies of humans (e.g., lust, materialism, seeking pleasure, avoiding suffering, etc.)
 
-77. Motion: This house regrets the increasing prevalence of nihilism among young people. Infoslide: For the purposes of this debate, Nihilism refers to an increasing sense of meaninglessness, pessimism and skepticism about life in the modern day.
-78. 
-79. 90. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls..."
+53. Motion: This house regrets the increasing prevalence of nihilism among young people. Infoslide: For the purposes of this debate, Nihilism refers to an increasing sense of meaninglessness, pessimism and skepticism about life in the modern day.
+ 
+54. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls..."
 
-92. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions.
+55. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions.
 
-93. This house supports the rising trend of celebrities and influencers taking key roles in activism (e.g in environment, human rights, social justice movements etc.)
+56. This house supports the rising trend of celebrities and influencers taking key roles in activism (e.g in environment, human rights, social justice movements etc.)
 
-94. This house would introduce eco-conscription
+57. This house would introduce eco-conscription
 
 Eco-conscription refers to the compulsory requirement of citizens over the age of 18 to serve for the national service regarding the environment for a period of 2 years. The activities include engaging in environmental restoration, natural disaster relief, reforestation, environmental clean-ups, etc. 
 
-95. This house believes that corporate social responsibility (CSR) spending should be maintained regardless of economic circumstances.
+58. This house believes that corporate social responsibility (CSR) spending should be maintained regardless of economic circumstances.
 
-96. This house would program the robots to hide the existence of past human life on Earth
+59. This house would program the robots to hide the existence of past human life on Earth
 
 It is far into the future. Earth is no longer habitable for life, and the human race on Earth is about to be extinguished. However, we have mastered many advanced technologies, including far space travel. We are sending thousands of human embryos frozen in artificial wombs to a distant, liveable planet. Accompanying them will be robots who are comprehensively programmed to develop, raise, protect, and educate these “New Children” once they reach the new planet.
 
@@ -782,11 +782,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTM3ODUxOTk0NywtMzc0OTU3NzEwLDc0Njcw
-OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
-0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
-MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
-E5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTks
-NTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NT
-Y1OThdfQ==
+JoaXN0b3J5IjpbLTExMTk2NDc4MDgsLTM3NDk1NzcxMCw3NDY3
+MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
+wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
+MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
+cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
+LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
+U2NTk4XX0=
 -->
