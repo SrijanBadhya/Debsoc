@@ -446,7 +446,9 @@ Adjust with adj, or sometimes adjust with fake 'reply' speaker
 [Back to Table of Contents](#table-of-contents)
 
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
-- Most freshers don't know about the system of the black market, or the psychologies of druggies, 
+- Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
+- So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
+- Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
 
 The counter argument I've heard about this are
 - It's short and sweet, that's why it comes to mind easily.
@@ -546,10 +548,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjIzMTQ5MDc2LDE2NzIzMTM3OTYsLTIxMTYy
-ODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNzE5Nj
-UwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUx
-MjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OT
-gsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTExMTE3NzYzNzYsMTY3MjMxMzc5NiwtMjEx
+NjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MT
+k2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1
+NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1Nj
+U5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIzMTI1NF19
 
 -->
