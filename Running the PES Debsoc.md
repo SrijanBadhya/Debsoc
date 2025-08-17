@@ -490,13 +490,13 @@ Infoslide: Streaming refers to the grouping of students of similar academic achi
 
 #### Motions used in round 3
 
-14.Thw mandate a youth quota in parliament
+14. Thw mandate a youth quota in parliament
 
-15.Thw ban private education
+15. Thw ban private education
 
-16.Tho the further development of artificial intelligence 
+16. Tho the further development of artificial intelligence 
 
-17.Thw pay gangs for decreased violence in areas of their control
+17. Thw pay gangs for decreased violence in areas of their control
 
 18. THW ban all arranged marriages
 
@@ -824,11 +824,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5
-NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMz
-EwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1
-Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNz
-c2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2
-NzYsLTEyOTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOT
-YwMjQ5ODA2XX0=
+JoaXN0b3J5IjpbLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMx
+OTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyND
+MxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2
+NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MT
+IzMDcsLTExMTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4Mjkz
+MCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MTk2NTAsMj
+A3ODQ2NDU1OV19
 -->
