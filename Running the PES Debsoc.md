@@ -210,7 +210,7 @@ Now talking about inclusivity with respect to flexibility of slots:
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - I believe that everyone the debsoc can possibly reach, should be reached.
 - + Even if these people don't appear serious enough, or end up dropping out soon, every recruit provides value in a debate for the time they are in the club, for the initial debates they participate in.
-- Every person is precious. Every person is needed to turn a debate
+- One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and proceed to 
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
@@ -224,7 +224,7 @@ Further developments from the 2023 model designed in 2024 by Nikhil:
 
 I'll just quote from Nikhil's document here. 
 
- - "Round 1 now has 2 speeches of 4 minutes each from each person (like a half BP, no POIs).
+ - Round 1 now has 2 speeches of 4 minutes each from each person (like a half BP, no POIs).
  - 10 minute prep time.
  - + There is an increase in prep time from 5 minutes to 10 minutes. A lot of new debaters are intimidated by the process and struggle to kickstart idea generation, let alone structure and reasoning for the arguments. I personally was confused by the motion wording and felt a general sense of panic given the limited prep time during my round 1. An additional 5 minutes would help participants calm down, giving them enough leeway to structure their arguments and be ready to present them. 10 minutes is long enough to generate the level of arguments expected in round 1 but short enough to handle the scale of multiple people in a day.
  - After the speeches, the moderator asks questions to clarify logical gaps that the speakers may have missed in their speeches, giving them a chance to clarify themselves in a conversational manner.
@@ -240,7 +240,7 @@ I'll just quote from Nikhil's document here.
  - + "What do you think was the most important impact you were trying to convey in your speech? Why do you think that is the most important issue in the debate?"
  - + "If there was a point you could have elaborated on more, what would that have been, and what new angles would you have added?"
  - + "Is there something you think the opposite speaker missed that you predicted they would say?"
- "
+ 
 
 I think these changes by Nikhil were absolutely goated, made the recruitment process so much more fun and engaging for both the moderators and recruits.
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
@@ -512,7 +512,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMjI4
-MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OTgsLT
-E5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTYxOTcwODA0OCw5NjAyNDk4MDYsMTY5ODI1
+NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLT
+E4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIz
+MTI1NF19
 -->
