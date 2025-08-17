@@ -196,6 +196,7 @@ So the reasons for being inclusive regardless of 'skill' are:
 - - A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
 
 So there isn't much clear benefit of having a harsh filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
+**Accidentally leaving an interested person out is usually more expensive than accidentally taking an uninterested person in.**
 
 Taking a few points out of Nikhil's recruitment document:
 - It would be unfair to judge candidates on their initial skill set without giving them a chance to improve.
@@ -823,11 +824,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5
-NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3Nz
-EwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcw
-ODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMT
-M3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1
-MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OT
-gyNTQ5OTldfQ==
+JoaXN0b3J5IjpbLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5
+NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMz
+EwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1
+Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNz
+c2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2
+NzYsLTEyOTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOT
+YwMjQ5ODA2XX0=
 -->
