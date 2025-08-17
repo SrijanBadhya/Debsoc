@@ -415,11 +415,10 @@ But you can consider occasionally catering to these people (I should have).
 
 ## Motion list
 
+#### Motions used in round 1 & 2
 1.  This house, .as Aditya, would give Shreya the elixir.
 
 Infoslide: There is a real and fully functional love elixir, although it is very rare. You manage to acquire a vial capable of making any person fall madly and permanently in love with you. You are Aditya. For the past 4 years, you have been deeply in love with Shreya. You are very good friends, but nothing more. Shreya has put you in the friend zone and is in a happy relationship with Rahul. Your friends also tell you that she is out of your league.
-
-
 
 5.  This House supports AI romantic relationships
 
@@ -431,14 +430,11 @@ Infoslide: There is a real and fully functional love elixir, although it is very
 
 Infoslide: For the purpose of this debate, "innate intelligence" is one's inherent capacity to adapt, learn, and respond to stimuli in their environment based on their genetic predispositions, neurological development, and instinctual behaviors.
 
-10.  You are an unborn baby in heaven, unknown about where you'll be born. Assuming feasibility, This house would choose not to be born. 
-
-11.  Assuming feasibility this house prefers a world where existing wealth is distributed equally among all individuals
+10.  You are an unborn baby in heaven, unaware about where on Earth, to which parent you'll be born. Assuming feasibility, This house would choose not to be born. 
 
 12.  This house regrets dating apps
 
 13.  This house supports norms of maximum transparency (e.g. sharing phone passwords, location sharing, emotional transparency, etc.) in romantic relationships.
-
 
 15.  This house regrets the Existence of Valentine's Day
 
@@ -452,11 +448,7 @@ Infoslide: Streaming refers to the grouping of students of similar academic achi
 
 20.  That the government should ban all personal mobile devices that can access the internet for people under 18
 
-  
-  
-  
-
-Extra
+#### Motions used in round 3
 
 22.Thw mandate a youth quota in parliament
 
@@ -474,9 +466,7 @@ Extra
 
 
 
-34. This house supports the trend of adult children going no contact with their parents. DONE
-
-35. This House Believes that India should prioritise policies that aim to significantly reduce economic inequality rather than prioritise policies that aim to rapidly drive economic growth DONE
+34. This house supports the trend of adult children going no contact with their parents. 
 
 36. This house believes that governments in the developing world should limit migration to major cities DONE
 
@@ -925,11 +915,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbOTI4MTMyNTQ3LC0zNzQ5NTc3MTAsNzQ2NzA5
-NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLT
-IxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMzc5NiwtMjEx
-NjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MT
-k2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1
-NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1Nj
-U5OF19
+JoaXN0b3J5IjpbLTE4MzEwNjgzMzMsLTM3NDk1NzcxMCw3NDY3
+MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
+wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
+MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
+cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
+LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
+U2NTk4XX0=
 -->
