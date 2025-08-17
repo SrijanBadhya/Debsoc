@@ -406,7 +406,7 @@ The obvious solutions to this are:
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
 Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. I am cutting out the motions I had initially thought were good, but ended up leading to messy debates, and being bad.
-So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
+So all the motions here have been tested, I have witnessed the debates that ensued from these motions. 
 Feel free to reuse these motions or compile new ones.
 
 I had prioritized parenting, education, and romance motions, but feedback showed that people soon got bored of these motions and wanted different ones.
@@ -415,24 +415,15 @@ But you can consider occasionally catering to these people (I should have).
 
 ## Motion list
 
-1.
-
-2.  This house, .as Aditya, would give Shreya the elixir.
+1.  This house, .as Aditya, would give Shreya the elixir.
 
 Infoslide: There is a real and fully functional love elixir, although it is very rare. You manage to acquire a vial capable of making any person fall madly and permanently in love with you. You are Aditya. For the past 4 years, you have been deeply in love with Shreya. You are very good friends, but nothing more. Shreya has put you in the friend zone and is in a happy relationship with Rahul. Your friends also tell you that she is out of your league.
 
-  
-  
 
-3.  This house would pursue the relationship Infoslide: You are a timid young adult who had great difficulties in forming romantic relationships. Recently, you met a romantic interest, and already know you are deeply in love with them. You stumble upon proof that you will have a long-term relationship with that romantic interest, but that you two will eventually split up permanently. You may decide if you want to end the relationship or continue to pursue it. In both cases this knowledge will be erased from your memory upon following through with your decision. (basically This House Believes That it is better to have loved and lost than to have never loved at all.) DON'T DEBATE THIS
-
-4.  This House regrets the narrative that money cannot buy happiness. DONT DEBATE THIS
 
 5.  This House supports AI romantic relationships
 
 6.  This house regrets the notion that love ought be explicitly expressed.
-
-7.  This house prefers to live a long but average life than a short but exciting one DONT DEBATE THIS
 
 8.  This house believes that scientists are more valuable to a country than soldiers.
 
@@ -448,15 +439,12 @@ Infoslide: For the purpose of this debate, "innate intelligence" is one's inhere
 
 13.  This house supports norms of maximum transparency (e.g. sharing phone passwords, location sharing, emotional transparency, etc.) in romantic relationships.
 
-14.  Given the choice, This house would forgo deep platonic friendships rather than forgo deep romantic love. DONT DEBATE THIS
 
 15.  This house regrets the Existence of Valentine's Day
 
 16.  This House regrets streaming in primary and secondary education.
 
 Infoslide: Streaming refers to the grouping of students of similar academic achievements into the same classes.
-
-17.  This house opposes the increasing prevalence of pessimism among young people DONT DEBATE THIS
 
 18.  This house believes that helicopter parenting has done more harm than good Infoslide: Helicopter parents are parents who primarily control their children’s academic careers (i.e., push their children to attain high levels of academic achievement or decide participation in extracurricular activities). However, these parents also pay extremely close attention to their child in other aspects like outdoor activities, child experiences and problems, and their child’s friends.
 
@@ -470,33 +458,21 @@ Infoslide: Streaming refers to the grouping of students of similar academic achi
 
 Extra
 
-21.Thw ban zoos (lame?)
+22.Thw mandate a youth quota in parliament
 
-22.Thw mandate a youth quota in parliament DONE
+23.Thw ban private education
 
-23.Thw ban private education DONE
+24.Tho the further development of artificial intelligence 
 
-24.Tho the further development of artificial intelligence DONE
+25.Thw pay gangs for decreased violence in areas of their control
 
-25.Thw pay gangs for decreased violence in areas of their control DONE
+27. THW ban all arranged marriages
 
-26. Assuming it could be done peacefully, THW replace all existing governments with 1 global government
-
-27. THW ban all arranged marriages DONE
-
-28. THR the glorification of geniuses DONE
+28. THR the glorification of geniuses
 
 29. TH prefers a religion which preaches that one's fate in the world is predetermined rather than one that preaches that one's choice influences it (idk about this one)
 
-30. This House Opposes the rise of the Situationship
 
-A "situationship" is a term used to describe a romantic or intimate relationship that lacks clear definitions or commitment. Situationships are characterized by emotional intimacy, spending time together, and often involve a sexual component. However, people in a situationship do not set clear boundaries for their relationship or place it in a category. DONE
-
-31. This house supports the narrative that romantic love should happen accidentally
-
-32. This house believes that capitalism is detrimental to social justice DONT DEBATE THIS DONE
-
-33. This House believes that the right to privacy is more important than the freedom of the press DONT DO THIS
 
 34. This house supports the trend of adult children going no contact with their parents. DONE
 
@@ -949,11 +925,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTExMzI2MTMzNzcsLTM3NDk1NzcxMCw3NDY3
-MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
-wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
-MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
-cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
-LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
-U2NTk4XX0=
+JoaXN0b3J5IjpbMTMxODA5MjU1NSwtMzc0OTU3NzEwLDc0Njcw
+OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
+0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
+MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
+E5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTks
+NTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NT
+Y1OThdfQ==
 -->
