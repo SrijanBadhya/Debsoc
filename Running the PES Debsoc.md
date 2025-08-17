@@ -375,9 +375,11 @@ What I mean by this is:
 - spending extra time and effort in the early days compared to later days with aftercare
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
 
-Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
+If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
-- + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness.
+- + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode.
+
+
 
 
 
@@ -533,9 +535,9 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYw
-NzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OT
-ksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3
-NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNT
-RdfQ==
+JoaXN0b3J5IjpbLTEzMzA0MDYyNzgsLTEyMzcxMjY2NzYsLTEy
+OTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5OD
+A2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYx
+OTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2Mj
+E5LC04MDEyMzEyNTRdfQ==
 -->
