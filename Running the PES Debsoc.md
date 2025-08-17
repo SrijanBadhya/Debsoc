@@ -371,7 +371,10 @@ What I mean by this is:
 - not dropping finance and IR motions in the early days.
 - Even within other subjects, giving easy and accessible motions (and motions they would find fun). Feeling hopeless and having nothing to say before a speech is quite depressing. 
 - Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. Give them easy motions which even they will think are balanced.
-- Unfortunately philosophy motions are usually fun, but usually
+- Unfortunately philosophy motions are usually fun, but usually follow the format of, "THW use this amazing technology", and feel unbalanced for opp because:
+- + Freshers feel lost thinking of an opp case cuz the benefits look great and they don't know how to outweigh.
+- + beginners don't think about regulation, mismanagement, and long term consequences.
+- + so even if there is tremendous learning potential after the round, people can feel depressed during the round.
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days with aftercare
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
@@ -550,10 +553,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjc4NTExNjEsLTExMTE3NzYzNzYsMTY3MjMx
-Mzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4Nj
-UwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5
-ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMj
-csLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgw
-MTIzMTI1NF19
+JoaXN0b3J5IjpbLTg2ODIzMjc1OCwtMTExMTc3NjM3NiwxNjcy
+MzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NT
+g2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwx
+Njk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OT
+EyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3NjIxOSwt
+ODAxMjMxMjU0XX0=
 -->
