@@ -361,6 +361,9 @@ Lateral entry people are very important, make sure they know they're allowed, an
 # Inside a session
 [Back to Table of Contents](#table-of-contents)
   
+Many factors go into ensuring the quality of experience of a debate session.
+Debate is an extreme sport, and half the people are going to feel sad at the end of
+
 
 before every debate have a short speech where you say verdict doesn't matter
 
@@ -514,8 +517,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1
-NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLT
-E4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIz
-MTI1NF19
+JoaXN0b3J5IjpbLTE1Mzk2NzQ4MzYsMjA3ODQ2NDU1OSw5NjAy
+NDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OS
+w4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYw
+NzYyMTksLTgwMTIzMTI1NF19
 -->
