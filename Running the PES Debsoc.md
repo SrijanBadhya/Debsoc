@@ -614,21 +614,22 @@ A “memory erasure machine” is a device that is capable of removing specific 
 
 69. This House Would upload their consciousness to the cloud at the point of death
 
-Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it before every debate have a short speech where you say verdict doesn't matter
-
-  
+Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it 
 
 
 
 
 
 
+
+
+
+
+before every debate have a short speech where you say verdict doesn't matter
 
 
 
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
-
-  
 
 
 balancing teams in debates
@@ -783,7 +784,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE2MzU5ODc5NzksLTM3NDk1NzcxMCw3NDY3
+JoaXN0b3J5IjpbLTEyODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3
 MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
 wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
 MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
