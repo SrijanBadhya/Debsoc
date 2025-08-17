@@ -369,12 +369,14 @@ For this purpose, I think it's justified to paint an incomplete picture of debat
 
 What I mean by this is:
 - not dropping finance and IR motions in the early days.
+- Even within other subjects, giving easy accessible motions.
+- Giving motions that look some
 - not being brutally honest and telling speakers their speeches were shit in the early days.
-- 
+- spending extra time and effort in the early days compared to later days with aftercare
 
 Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people, they wouldn't have the commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
-- 
+- + However from personal experience, since I and a few other people would have quit 
 
 
 
@@ -530,8 +532,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTkxNzY2NzgwMSwyMDc4NDY0NTU5LDk2MDI0
-OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LD
-g2MTk1OTEyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3
-NjIxOSwtODAxMjMxMjU0XX0=
+JoaXN0b3J5IjpbMzEzNzg5NzIwLDIwNzg0NjQ1NTksOTYwMjQ5
+ODA2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksOD
+YxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2
+MjE5LC04MDEyMzEyNTRdfQ==
 -->
