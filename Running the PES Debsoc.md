@@ -450,11 +450,12 @@ For the love of god, there are better motions than THW legalize weed to use as a
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
 
-The counter argument I've heard about this are
+The counter arguments I've heard about this are
 - It's short and sweet, that's why it comes to mind easily.
 - It's more enticing and an, "oooooo" topic.
 - It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
 - It's a cool demonstration of a flip, saying that banning it makes it worse. 
+- "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
 one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
 
@@ -548,10 +549,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTgyMDA5MjM3MiwtMTExMTc3NjM3NiwxNjcy
-MzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NT
-g2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwx
-Njk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OT
-EyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3NjIxOSwt
-ODAxMjMxMjU0XX0=
+JoaXN0b3J5IjpbMTQxNjg3NjA0LC0xMTExNzc2Mzc2LDE2NzIz
+MTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1OD
+Y1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2
+OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MT
+I3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04
+MDEyMzEyNTRdfQ==
 -->
