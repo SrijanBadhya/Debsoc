@@ -534,25 +534,10 @@ Microretiremenfers to taking a chunk or multiple chunks of time off work to expe
 
 An aging population refers to a demographic shift where there are more elderly individuals (often 65 years and older) compared to those who belong in the younger demographic, often because of longer life expectancies and declining birth rates. This is common among developed countries like Japan, Germany, the UK, and USA. Recently, this trend has been observed in developing countries like the Philippines, India, Thailand, Mexico, and Turkey.
 
-64. This house would allow negative voting
 
-A "Negative Vote" deducts one vote from the party you select. This would count as a normal vote and would replace voting for any other party in the same election.
+65. This house would mandate a retirement age in politics.
 
-65. This house would mandate a retirement age in politics DONE
-
-66. Assuming a veil of ignorance, This house prefers to be born in a stable and well-functioning authoritarian state rather than a struggling democracy
-
-67. With the benefit of hindsight, This house as Indira Gandhi in 1975 would not declare the Emergency in India
-
-Indira Gandhi, India’s Prime Minister from 1966-1977, declared a state of Emergency in India after the Supreme Court disallowed her to dispense her prime ministerial duties after the High Court in Allahbad set aside her election on charges of electoral malpractice. During the Emergency, most of the fundamental rights of Indians were restricted, and 100s of people were detained as political prisoners without having the right to approach a court of law in case of an illegal detention. These political prisoners involved eminent politicians from various political parties such as JP Narayan from the Communist Party, LK Advani and Atal Bihari Vajpayee from the Bharatiya Jan Sangh, etc. Indira Gandhi decided to lift the Emergency in 1977, and a re-election was called by her. This election saw her lose with a massive victory for the Opposition bloc (the Janata Dal) which composed of political parties from different sides of the political aisle. She came back to power in 1981."
-
-68. For the purpose of this debate, cognition and consciousness refers to the ability for animals to be self-aware of their environment and internalize subjective experiences (e.g. emotions, thoughts, and desires).
-
-This house hopes for the existence of animal cognition and consciousness
-
-69. As a member of the youth, This house prefers the half-empty over half-full philosophy in life
-
-Individuals who believe in the half-full philosophy focus on the optimistic aspect of life, which allows them to find silver linings in every situation they are in. On the other hand, those who believe in the half-empty philosophy take a more critical approach to their life, preparing themselves for the worst.
+66. Assuming a veil of ignorance (you won't know which section of society your parents will belong to), This house prefers to be born in a stable and well-functioning authoritarian state rather than a struggling democracy.
 
 70. This house supports hyper positivity culture.
 
@@ -563,8 +548,6 @@ Hyper positivity culture is the concept that heavily emphasizes on optimism and 
 Slum tourism is a type of tourism that involves visiting impoverished areas - usually through a service provided by tourism agencies. Slum tourism is now becoming increasingly prominent in developing nations, including India, Brazil, Kenya and Indonesia.
 
 72. This house would pay individuals who would migrate from highly populated cities to rural areas.
-
-73. This house would mandate all citizens to undergo a period of working for national service, in sectors including but not limited to military, charity, and civil services (e.g. police, firefighting).
 
 74. This house regrets the trend of influencers posting videos on social media of themselves doing charitable acts for vulnerable or disadvantaged people.
 
@@ -887,11 +870,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTM0MTgxNTk3MywtMzc0OTU3NzEwLDc0Njcw
-OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
-0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
-MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
-E5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTks
-NTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NT
-Y1OThdfQ==
+JoaXN0b3J5IjpbLTEyMTU2ODI4MTIsLTM3NDk1NzcxMCw3NDY3
+MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
+wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
+MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
+cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
+LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
+U2NTk4XX0=
 -->
