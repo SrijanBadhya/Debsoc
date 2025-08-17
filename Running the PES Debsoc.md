@@ -445,6 +445,13 @@ Adjust with adj, or sometimes adjust with fake 'reply' speaker
 # Keeping up debate spirit and passion:
 [Back to Table of Contents](#table-of-contents)
 
+For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
+- 
+
+The counter argument I've heard about this are
+- It's more enticing and an, "oooooo" topic.
+- It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
+- It's a cool demonstration of a flip, say
 
 one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
 
@@ -538,9 +545,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIz
-NzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2ND
-U1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5
-MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyND
-kyMiwyMzYwNzYyMTksLTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbLTIxMjIyNjM3MDUsMTY3MjMxMzc5NiwtMjEx
+NjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MT
+k2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1
+NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1Nj
+U5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIzMTI1NF19
+
 -->
