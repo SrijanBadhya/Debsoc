@@ -262,6 +262,10 @@ Why is this bad?
 - Many participants, including myself, felt left out of the conversation due to the social dynamics of the discussion. The moderator did try to include all participants manually, but this did not solve the fundamental problem with the method of testing.
 
 
+Nikhil's round 2 in 2024 had the following features:
+- It was a 3v3 AP lite with 4 minute speeches instead of 3.
+- Participants ar
+
 
 
 explain why no pois.
@@ -794,7 +798,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTQ2NDY3NDE3OSwtMTI4OTczMzEwNSwtMzc0
+JoaXN0b3J5IjpbMjAwNDI5MzUzMCwtMTI4OTczMzEwNSwtMzc0
 OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMy
 wxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2
 NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOT
