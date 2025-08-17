@@ -468,37 +468,25 @@ Infoslide: Streaming refers to the grouping of students of similar academic achi
 
 34. This house supports the trend of adult children going no contact with their parents. 
 
-36. This house believes that governments in the developing world should limit migration to major cities DONE
+36. This house believes that governments in the developing world should limit migration to major cities.
 
-37. TH, as a minority student, would choose to attend a university aimed at serving members of their own minority group rather than a top national university DONE
+37. TH, as a minority student, would choose to attend a university aimed at serving members of their own minority group rather than a top national university.
 
-38. THBT universities should be liable for their graduates being unable to find employment DONE
-
-39. This House Would make the number of votes an individual has inversely proportional to their wealth (i.e. the more wealth an individual has the fewer votes in an election). DONE
+38. THW make universities liable for their graduates being unable to find employment.
 
 40. TH prefers secular governments that exclude all religion from public spaces to those that allow unlimited religious expression.
 
-41. THW only allow admission to tertiary educational institutions on the basis of standardized testing, as opposed to non- quantitative methods (e.g essays, personal statements from teachers, extra curricular achievements etc.) DONE
+41. THW only allow admission to tertiary educational institutions on the basis of standardized testing, as opposed to non- quantitative methods (e.g essays, personal statements from teachers, extra curricular achievements etc.) 
 
-42. In areas of low socio economic development, THS the 'Teach For' model
+43. This House supports granting megacities autonomous control over their economic and social policy (e.g. immigration, health, criminal justice) with national taxation policy remaining under the control of the federal government.
 
-  
-
-Context Slide:
-
-  
-
-The 'Teach For' model involves recruiting recent graduates (not necessarily with teaching degrees) to teach at primary/secondary schools, often where teachers are difficult to recruit. Graduates undergo a short, intensive training program prior to teaching, and generally stay for 1-2 years before moving onto another industry. DONE DONT DO THIS
-
-43. This House supports granting megacities autonomous control over their economic and social policy (e.g. immigration, health, criminal justice) with national taxation policy remaining under the control of the federal government
-
-44. Assuming feasibility, this house believe that humans should be allowed to buy and sell years of their natural lifespan DONE
+44. Assuming feasibility, this house believe that humans should be allowed to buy and sell years of their natural lifespan.
 
 45. This house supports the Ciceronian Philosophy of love
 
-The Ciceronian philosophy of love, as articulated by Cicero, views love as a virtuous and selfless force that seeks the good of others without personal gain. This concept emphasizes loving disinterestedly, or loving without expecting anything in return. It is closely aligned with unconditional love, where affection and care are given freely, often to the extent of offering one's full self for the well-being of others. DONE
+The Ciceronian philosophy of love, as articulated by Cicero, views love as a virtuous and selfless force that seeks the good of others without personal gain. This concept emphasizes loving disinterestedly, or loving without expecting anything in return. It is closely aligned with unconditional love, where affection and care are given freely, often to the extent of offering one's full self for the well-being of others. 
 
-46. This house prefers to live in a world where the memories of parents are inherited by their children. DONE
+46. This house prefers to live in a world where the memories of parents are inherited by their children. 
 
 For the purposes of this debate, the transmission of memories happens at the moment of the individual's parents' death. Only the memories directly experienced by the fathers and mothers are passed on, and not the memories of grandparents or other ancestors.
 
@@ -915,11 +903,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE4MzEwNjgzMzMsLTM3NDk1NzcxMCw3NDY3
-MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
-wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
-MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
-cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
-LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
-U2NTk4XX0=
+JoaXN0b3J5IjpbLTE2MzcwOTU0MiwtMzc0OTU3NzEwLDc0Njcw
+OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
+0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
+MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
+E5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTks
+NTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NT
+Y1OThdfQ==
 -->
