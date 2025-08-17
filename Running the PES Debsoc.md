@@ -373,7 +373,8 @@ What I mean by this is:
 - 
 
 Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people, they wouldn't have the commitment to persevere through the hardship.
-- Sure, the counter to this is that exposing people to the hardest side
+- Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
+- 
 
 
 
@@ -529,7 +530,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTkyNjc0NzU1MiwyMDc4NDY0NTU5LDk2MDI0
+JoaXN0b3J5IjpbLTkxNzY2NzgwMSwyMDc4NDY0NTU5LDk2MDI0
 OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LD
 g2MTk1OTEyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3
 NjIxOSwtODAxMjMxMjU0XX0=
