@@ -169,7 +169,7 @@ I'll come to the group discussion part later, but **the month-long recruitment w
 - Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them leaking info from the group later as backstabbing.
 - This was the best way to measure if someone could be an asset to the club in the future; if they would participate enthusiastically and be able to set aside time for debsoc.
-- **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately some people interpreted this as 'consistently high performance', instead of 'high attendance'. So one guy showed up for on
+- **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for one debate, and complained to me later that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' is also risky cuz it's a turn-off like college.**
 
 (Having a round 1 and a round 2 before this month long recruitment is still useful because
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3.
@@ -805,11 +805,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIwODcxMTk3OTgsLTEyODk3MzMxMDUsLTM3
-NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MD
-MsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3Niwx
-NjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMj
-k4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgw
-NiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MT
-k1OTEyN119
+JoaXN0b3J5IjpbMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0
+OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMy
+wxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2
+NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOT
+g1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2
+LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOT
+U5MTI3XX0=
 -->
