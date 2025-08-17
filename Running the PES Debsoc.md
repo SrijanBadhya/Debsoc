@@ -249,8 +249,13 @@ I'll just quote from Nikhil's document here.
 I think these changes by Nikhil were absolutely amazing, made the recruitment process so much more fun and engaging for both the moderators and recruits.
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
 
+### Round 2
+Quoting Nikhil on the issues in the Group Discussion format of 2023:
 
-
+- A lot of participants were introverted or had social anxiety, and though they had ideas to contribute to the discussion, a lack of confidence prevented them from doing so.
+- The group discussion format quickly turns into a ‘loudest person gets the room’ kind of situation, where a person comfortable with pushing their ideas through and holding their stance through all the noise wins.
+- The discussion takes the shape of the social dynamic holding the group in place, which dilutes the breadth and quality of discussion.
+- 
 
 
 
@@ -784,11 +789,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEyODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3
-MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
-wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
-MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
-cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
-LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
-U2NTk4XX0=
+JoaXN0b3J5IjpbMTc5MDc3NTI4MCwtMTI4OTczMzEwNSwtMzc0
+OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMy
+wxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2
+NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOT
+g1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2
+LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOT
+U5MTI3XX0=
 -->
