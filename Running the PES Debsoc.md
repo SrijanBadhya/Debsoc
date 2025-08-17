@@ -388,8 +388,10 @@ If you're reading this, you would have already faced the grueling learning curve
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 
 Having to sit idle before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
-Multiple different delays add up
-- In 2023, it was very often that juniors would show up before seniors, and this looks extremely optically bad 
+Multiple different delays add up, and they should be minimized.
+- In 2023 very often that juniors would show up before seniors, and this is extremely optically bad for seniors to look 'unserious'.
+- making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
+- 
 
 
 
@@ -557,10 +559,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTI5NjM2ODA1OCwtMjEwMjYxMjMwNywtMTEx
-MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
-I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
-LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
-M0NDg5LDg2MTk1OTEyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIy
-LDIzNjA3NjIxOSwtODAxMjMxMjU0XX0=
+JoaXN0b3J5IjpbNDA4MzU3NDcyLC0yMTAyNjEyMzA3LC0xMTEx
+Nzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMj
+Y2NzYsLTEyOTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTks
+OTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3Mz
+Q0ODksODYxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIs
+MjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
 -->
