@@ -46,6 +46,8 @@ Alternate systems conceptualized or once followed will be in _italics_.
 2. [Inside a session:](#inside-a-session)
 3. 
 
+
+
   ## The point of a Debate Club
 _aka Guiding Principles_
 
@@ -508,6 +510,6 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEy
-MzEyNTRdfQ==
+JoaXN0b3J5IjpbLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYw
+NzYyMTksLTgwMTIzMTI1NF19
 -->
