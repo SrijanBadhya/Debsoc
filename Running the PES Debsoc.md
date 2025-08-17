@@ -278,7 +278,7 @@ Why is this new model better?
 - Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
 - Mid-Debate Strategy Sessions: After the first speeches from both teams, the teams re-discuss for 5 minutes together. This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive process from the previous step continues.
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
-- We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helps us keep a note of 
+- We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
 
 
@@ -813,11 +813,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTExNjg2OTQ3OTMsMTc1MTU2MjQzMSwtMTI4
-OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczND
-IsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0x
-MTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMz
-cxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1
-NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OT
-E3MzQ0ODldfQ==
+JoaXN0b3J5IjpbMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5
+NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0Mi
+wxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTEx
+MTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNz
+EyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1
+OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MT
+czNDQ4OV19
 -->
