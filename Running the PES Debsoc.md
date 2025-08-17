@@ -390,7 +390,7 @@ before every debate have a short speech where you say verdict doesn't matter
 
   
 
-Sprinkle in stuff like Harry Potter motions
+Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
 drop list of tried and tested motions here.
 Also include the high table discussion on motions.
@@ -548,10 +548,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTExMTE3NzYzNzYsMTY3MjMxMzc5NiwtMjEx
-NjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MT
-k2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1
-NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1Nj
-U5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIzMTI1NF19
-
+JoaXN0b3J5IjpbLTgyMDA5MjM3MiwtMTExMTc3NjM3NiwxNjcy
+MzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NT
+g2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwx
+Njk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OT
+EyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3NjIxOSwt
+ODAxMjMxMjU0XX0=
 -->
