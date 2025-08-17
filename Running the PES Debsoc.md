@@ -494,25 +494,16 @@ For the purposes of this debate, the transmission of memories happens at the mom
 
 For the purposes of this debate, the cycle of strength is described by the following proverb: Hard times create strong men, Strong men create easy times, Easy times create weak men, Weak men create hard times.
 
-48. This house prefers a world where graduate programs do not admit students applying immediately after their undergraduate course of study DONE
+48. This house prefers a world where graduate programs do not admit students applying immediately after their undergraduate course of study.
 
-49. This house supports the complete replacement of human teachers with artificial intelligence in schools. DONE
+49. This house supports the complete replacement of human teachers with artificial intelligence in schools.
 
-50. Motion: This house regrets the rise in gentle parenting Infoslide: Gentle parenting content has been trending on social media recently. Gentle
-
-parenting is based on the idea that children are capable and whole beings, and that they should be partners in making choices. Parents that practice gentle parenting rarely say no to their children and often try to redirect their
-
-children or encourage them to confront the natural consequences of their
-
-actions rather than imposing specific punishments.
-
-51. This house regrets the rise of the narrative "If he wanted to he would"
-
-The narrative "If he wanted to, he would" conveys the idea that genuine care and prioritization are demonstrated through deliberate action. Conversely, a lack of action is often interpreted as a lack of desire or interest. This narrative gained popularity on TikTok, where users—predominantly women—shared videos showcasing thoughtful gestures from their partners, such as buying flowers or planning elaborate dates, often accompanied by this caption.
+50. Motion: This house regrets the rise in gentle parenting.
+Infoslide: Gentle parenting content has been trending on social media recently. Gentle parenting is based on the idea that children are capable and whole beings, and that they should be partners in making choices. Parents that practice gentle parenting rarely say no to their children and often try to redirect their children or encourage them to confront the natural consequences of their actions rather than imposing specific punishments.
 
 52. This house regrets the narrative that all failed relationships are learning experiences.
 
-53. This house prefers a world where relationships are seen as a duty as opposed to one driven by passion. DONE
+53. This house prefers a world where relationships are seen as a duty as opposed to one driven by passion.
 
 54. meme motion: Assuming the existence of artificial uterus that allows us to create children without sex, This house would mandate all individuals to undergo Momijection.
 
@@ -522,29 +513,22 @@ For the purpose of this debate, Momijection refers to an advanced biotechnology 
 
 The term "aromantic", colloquially shortened to "aro", refers to a person who experiences no romantic desire or attraction
 
-56. This house, as a never-married, single, and wealthy elderly man, would become a sugar daddy DONE
+56. This house, as a never-married, single, and wealthy elderly man, would become a sugar daddy
 
 57. This house would 'resurrect' their significant other
 
-**You are a 30 -year-old who has recently lost their significant other to terminal cancer. A technology has recently been discovered that allows you to create an imitation of them as sentient AI. They would act and recall memories identical to your loved one. They would exist in a robot body indistinguishable from humans.** DONE
+**You are a 30 -year-old who has recently lost their significant other to terminal cancer. A technology has recently been discovered that allows you to create an imitation of them as sentient AI. They would act and recall memories identical to your loved one. They would exist in a robot body indistinguishable from humans.**
 
 58. This house, as the boxer, W agree to fight Jake Paul
 
-You are a retired professional boxer, renowned for an illustrious career and regarded as one of the sport’s greats. Though past your prime, your name still commands respect and admiration within the boxing world. Jake Paul, a significantly younger and controversial social media influencer turned boxer, has gained attention by fighting and winning against high-profile opponents. Jake Paul offers you a lucrative opportunity to fight him. DONE
+You are a retired professional boxer, renowned for an illustrious career and regarded as one of the sport’s greats. Though past your prime, your name still commands respect and admiration within the boxing world. Jake Paul, a significantly younger and controversial social media influencer turned boxer, has gained attention by fighting and winning against high-profile opponents. Jake Paul offers you a lucrative opportunity to fight him.
 
-59. This house prefers the Divergent world to ours
-
-For the purposes of this debate, the Divergent world behaves in the following way: society is divided into different factions based on key personality traits like bravery, intelligence, kindness, honesty etc... These factions form separate communities, often acting as sub-federal authorities (they function like a municipality or district). Each faction has a specific role: Bravery focuses on defense, Intelligence on education and research, Kindness on healthcare and community, and Honesty on law and justice. When adolescents reach the age of maturity, they take a test to determine their strongest trait and are assigned to the corresponding faction. Once assigned, individuals cannot change factions and must commit to their role.
 
 60. This house supports microretirement
 
-Microretiremenfers to taking a chunk or multiple chunks of time off work to experience life and travel while you're young, rather than waiting until actual retirement age in your 50s or 60s. It's similar to a sabbatical, and has also been dubbed an 'adult gap year'. DONE
+Microretiremenfers to taking a chunk or multiple chunks of time off work to experience life and travel while you're young, rather than waiting until actual retirement age in your 50s or 60s. It's similar to a sabbatical, and has also been dubbed an 'adult gap year'. 
 
-61. This house would refuse to cover the corruption scandals of the presidential candidate
 
-You’re a left-leaning journalist in a conservative democracy, just days before an election. You receive exclusive information that the leading opposition candidate - who promises social reform and civil rights - has a history of corruption and cover -ups. This candidate is running against an incumbent (currently ruling) party that has steadily eroded civil liberties and moved toward authoritarianism
-
-62. This house would disallow political parties to promise freebies during election campaigns
 
 63. This house opposes the rise of pro-immigration policies in developed states with aging populations
 
@@ -903,7 +887,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE2MzcwOTU0MiwtMzc0OTU3NzEwLDc0Njcw
+JoaXN0b3J5IjpbMTM0MTgxNTk3MywtMzc0OTU3NzEwLDc0Njcw
 OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
 0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
 MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
