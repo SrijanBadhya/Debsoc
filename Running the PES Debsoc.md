@@ -7,6 +7,7 @@
 Hello valued Debsoc core member,
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
+As seniors, it's our responsibility to not make our juniors feel lost about running the club. This document is extensive but I want to make you aware of every incident that can pop up during recruitments and debate sess
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
 - As every coder knows, replacing an existing solution with a different solution, could lead to other problems popping up.
@@ -504,7 +505,7 @@ Good to talk about how you went through the same struggles, and used to fumble g
 Akshath Saxena, seniors need to have and show passion for it to flow to juniors
 
   
-  
+
 
 we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
 
@@ -579,11 +580,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2OTc3
-NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNz
-YsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3Niwt
-MTI5ODU4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyND
-k4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4
-NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNz
-YyMTldfQ==
+JoaXN0b3J5IjpbLTIwMzEyODcwODksNzQ2NzA5NjMsMTY2NDI0
+NzM0MiwxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMD
+csLTExMTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwt
+MTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MTk2NTAsMjA3OD
+Q2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcs
+MTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MD
+IyNDkyMl19
 -->
