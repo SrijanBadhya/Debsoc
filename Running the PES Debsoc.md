@@ -387,7 +387,7 @@ If you're reading this, you would have already faced the grueling learning curve
 ### Time
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 
-
+Having to sit idle before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
 
 
 
@@ -555,10 +555,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3
-MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5OD
-U4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYs
-MTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NT
-kxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTks
-LTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbLTE1OTI5Nzc4MiwtMjEwMjYxMjMwNywtMTEx
+MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
+I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
+LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
+M0NDg5LDg2MTk1OTEyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIy
+LDIzNjA3NjIxOSwtODAxMjMxMjU0XX0=
 -->
