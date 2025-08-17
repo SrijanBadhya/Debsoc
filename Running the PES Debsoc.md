@@ -367,7 +367,10 @@ Debate is an extreme sport, and half the people are going to feel sad at the end
 Debate is a weird sport. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial.
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality.
 
-
+What I mean by this is:
+- not dropping finance and IR motions in the early days.
+- not being brutally honest and telling speakers their speeches were shit in the early days.
+- 
 
 Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people, they wouldn't have the commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side
@@ -526,7 +529,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTY2NTcxODEyOCwyMDc4NDY0NTU5LDk2MDI0
+JoaXN0b3J5IjpbLTkyNjc0NzU1MiwyMDc4NDY0NTU5LDk2MDI0
 OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LD
 g2MTk1OTEyNywtMTgwNzU2NTk4LC0xOTkwMjI0OTIyLDIzNjA3
 NjIxOSwtODAxMjMxMjU0XX0=
