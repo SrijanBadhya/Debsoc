@@ -153,6 +153,7 @@ Pros of being selective:
 <br>
 However, since 2023, the debsoc, with the idea of Harsha, found a way increase selectivity while being inclusive.
 The first round remained the same. 
+
 _The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
 And the third round was a month long, with sessions everyday, and people who attended the most sessions would be recruited.
 
@@ -510,7 +511,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1
-NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIzMTI1NF
-19
+JoaXN0b3J5IjpbNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5
+MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC
+04MDEyMzEyNTRdfQ==
 -->
