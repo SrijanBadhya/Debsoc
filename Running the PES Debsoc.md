@@ -394,13 +394,16 @@ Multiple different delays add up, and they should be minimized.
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors.
 
 The obvious solutions to this are:
-- Do whatever it takes to show up as early as possible, or have someone there.
-- **Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
-- + You can't always rely on the people who voted to arrive, and this would result in waiting unnecessarily for nobody.
-- + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
-- + You can inform the juniors that they will be ironing, and can replace slots with people when they show up.
-- + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
-- + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
+1. Do whatever it takes to show up as early as possible, or have someone there.
+2. **Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
+ + You can't always rely on the people who voted to arrive, and this would result in waiting unnecessarily for nobody.
++ Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
++ You can inform the juniors that they will be ironing, and can replace slots with people when they show up.
+ + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
+ + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
+3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
+
+Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. 
 
 
 
@@ -568,7 +571,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTMxMDA2NzA4MiwtMjEwMjYxMjMwNywtMTEx
+JoaXN0b3J5IjpbMTk3NjYyMjkzOCwtMjEwMjYxMjMwNywtMTEx
 MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
 I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
 LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
