@@ -371,7 +371,7 @@ What I mean by this is:
 - not dropping finance and IR motions in the early days.
 - Even within other subjects, giving easy and accessible motions (and motions they would find fun). Feeling hopeless and having nothing to say before a speech is quite depressing. 
 - Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. Give them easy motions which even they will think are balanced.
-- Unfortunately philosophy motions are usually fun, 
+- Unfortunately philosophy motions are usually fun, but usually
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days with aftercare
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
@@ -550,10 +550,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNTYxMjUxNzM5LC0xMTExNzc2Mzc2LDE2NzIz
-MTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1OD
-Y1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2
-OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MT
-I3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04
-MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbMjc4NTExNjEsLTExMTE3NzYzNzYsMTY3MjMx
+Mzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4Nj
+UwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5
+ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMj
+csLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgw
+MTIzMTI1NF19
 -->
