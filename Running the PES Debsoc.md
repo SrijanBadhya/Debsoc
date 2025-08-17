@@ -403,7 +403,11 @@ The obvious solutions to this are:
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
-Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. 
+Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. I am cutting out the motions I had initially thought were good, but ended up leading to messy debates, and being bad.
+So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
+Feel free to reuse these motions, since these
+
+## Motion list
 
 
 
@@ -571,7 +575,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTk3NjYyMjkzOCwtMjEwMjYxMjMwNywtMTEx
+JoaXN0b3J5IjpbLTEzOTQ0ODAzMSwtMjEwMjYxMjMwNywtMTEx
 MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
 I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
 LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
