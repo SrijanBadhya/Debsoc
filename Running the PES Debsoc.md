@@ -446,70 +446,70 @@ Infoslide: Streaming refers to the grouping of students of similar academic achi
 
 12.  This house prefers households with one working parent and one stay-at-home parent, to households with two working parents
 
-1.  That the government should ban all personal mobile devices that can access the internet for people under 18
+13.  That the government should ban all personal mobile devices that can access the internet for people under 18
 
 #### Motions used in round 3
 
-22.Thw mandate a youth quota in parliament
+14.Thw mandate a youth quota in parliament
 
-23.Thw ban private education
+15.Thw ban private education
 
-24.Tho the further development of artificial intelligence 
+16.Tho the further development of artificial intelligence 
 
-25.Thw pay gangs for decreased violence in areas of their control
+17.Thw pay gangs for decreased violence in areas of their control
 
-27. THW ban all arranged marriages
+18. THW ban all arranged marriages
 
-28. THR the glorification of geniuses
+19. THR the glorification of geniuses
 
-29. TH prefers a religion which preaches that one's fate in the world is predetermined rather than one that preaches that one's choice influences it (idk about this one)
+20. TH prefers a religion which preaches that one's fate in the world is predetermined rather than one that preaches that one's choice influences it (idk about this one)
 
 
 
-34. This house supports the trend of adult children going no contact with their parents. 
+21. This house supports the trend of adult children going no contact with their parents. 
 
-36. This house believes that governments in the developing world should limit migration to major cities.
+22. This house believes that governments in the developing world should limit migration to major cities.
 
-37. TH, as a minority student, would choose to attend a university aimed at serving members of their own minority group rather than a top national university.
+23. TH, as a minority student, would choose to attend a university aimed at serving members of their own minority group rather than a top national university.
 
-38. THW make universities liable for their graduates being unable to find employment.
+24. THW make universities liable for their graduates being unable to find employment.
 
-40. TH prefers secular governments that exclude all religion from public spaces to those that allow unlimited religious expression.
+25. TH prefers secular governments that exclude all religion from public spaces to those that allow unlimited religious expression.
 
-41. THW only allow admission to tertiary educational institutions on the basis of standardized testing, as opposed to non- quantitative methods (e.g essays, personal statements from teachers, extra curricular achievements etc.) 
+26. THW only allow admission to tertiary educational institutions on the basis of standardized testing, as opposed to non- quantitative methods (e.g essays, personal statements from teachers, extra curricular achievements etc.) 
 
-43. This House supports granting megacities autonomous control over their economic and social policy (e.g. immigration, health, criminal justice) with national taxation policy remaining under the control of the federal government.
+27. This House supports granting megacities autonomous control over their economic and social policy (e.g. immigration, health, criminal justice) with national taxation policy remaining under the control of the federal government.
 
-44. Assuming feasibility, this house believe that humans should be allowed to buy and sell years of their natural lifespan.
+28. Assuming feasibility, this house believe that humans should be allowed to buy and sell years of their natural lifespan.
 
-45. This house supports the Ciceronian Philosophy of love
+29. This house supports the Ciceronian Philosophy of love
 
 The Ciceronian philosophy of love, as articulated by Cicero, views love as a virtuous and selfless force that seeks the good of others without personal gain. This concept emphasizes loving disinterestedly, or loving without expecting anything in return. It is closely aligned with unconditional love, where affection and care are given freely, often to the extent of offering one's full self for the well-being of others. 
 
-46. This house prefers to live in a world where the memories of parents are inherited by their children. 
+30. This house prefers to live in a world where the memories of parents are inherited by their children. 
 
 For the purposes of this debate, the transmission of memories happens at the moment of the individual's parents' death. Only the memories directly experienced by the fathers and mothers are passed on, and not the memories of grandparents or other ancestors.
 
-47. This House regrets the narrative of cycle of strength.
+31. This House regrets the narrative of cycle of strength.
 
 For the purposes of this debate, the cycle of strength is described by the following proverb: Hard times create strong men, Strong men create easy times, Easy times create weak men, Weak men create hard times.
 
-48. This house prefers a world where graduate programs do not admit students applying immediately after their undergraduate course of study.
+32. This house prefers a world where graduate programs do not admit students applying immediately after their undergraduate course of study.
 
-49. This house supports the complete replacement of human teachers with artificial intelligence in schools.
+33. This house supports the complete replacement of human teachers with artificial intelligence in schools.
 
-50. Motion: This house regrets the rise in gentle parenting.
+34. Motion: This house regrets the rise in gentle parenting.
 Infoslide: Gentle parenting content has been trending on social media recently. Gentle parenting is based on the idea that children are capable and whole beings, and that they should be partners in making choices. Parents that practice gentle parenting rarely say no to their children and often try to redirect their children or encourage them to confront the natural consequences of their actions rather than imposing specific punishments.
 
-52. This house regrets the narrative that all failed relationships are learning experiences.
+35. This house regrets the narrative that all failed relationships are learning experiences.
 
-53. This house prefers a world where relationships are seen as a duty as opposed to one driven by passion.
+36. This house prefers a world where relationships are seen as a duty as opposed to one driven by passion.
 
-54. meme motion: Assuming the existence of artificial uterus that allows us to create children without sex, This house would mandate all individuals to undergo Momijection.
+37. meme motion: Assuming the existence of artificial uterus that allows us to create children without sex, This house would mandate all individuals to undergo Momijection.
 
-For the purpose of this debate, Momijection refers to an advanced biotechnology that safely and immediately removes sexual desires and errogenous zones. The effect is permanent and irreversible.
+For the purpose of this debate, Momijection refers to an advanced biotechnology that safely and immediately removes sexual desires and errogenous zones. The effect is permanent and irreversible. (untested but too fun to delete)
 
-55. Without knowing anything else about the conditions of one's birth, This house would choose to be born aromantic and assexual
+38. Without knowing anything else about the conditions of one's birth, This house would choose to be born aromantic and assexual
 
 The term "aromantic", colloquially shortened to "aro", refers to a person who experiences no romantic desire or attraction
 
@@ -782,7 +782,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTM0ODMxMjgwNSwtMzc0OTU3NzEwLDc0Njcw
+JoaXN0b3J5IjpbMTM3ODUxOTk0NywtMzc0OTU3NzEwLDc0Njcw
 OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
 0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
 MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
