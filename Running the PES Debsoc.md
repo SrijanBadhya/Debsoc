@@ -446,9 +446,10 @@ Adjust with adj, or sometimes adjust with fake 'reply' speaker
 [Back to Table of Contents](#table-of-contents)
 
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
-- 
+- Most freshers don't know about the system of the black market, or the psychologies of druggies, 
 
 The counter argument I've heard about this are
+- It's short and sweet, that's why it comes to mind easily.
 - It's more enticing and an, "oooooo" topic.
 - It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
 - It's a cool demonstration of a flip, saying that banning it makes it worse. 
@@ -545,10 +546,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTM2NDU1Mzg4MiwxNjcyMzEzNzk2LC0yMTE2
-MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOT
-Y1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1
-MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNzU2NT
-k4LC0xOTkwMjI0OTIyLDIzNjA3NjIxOSwtODAxMjMxMjU0XX0=
+JoaXN0b3J5IjpbMjIzMTQ5MDc2LDE2NzIzMTM3OTYsLTIxMTYy
+ODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNzE5Nj
+UwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUx
+MjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OT
+gsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
 
 -->
