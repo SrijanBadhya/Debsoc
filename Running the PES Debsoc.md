@@ -208,11 +208,11 @@ Now talking about inclusivity with respect to flexibility of slots:
 - I however staunchly believe that inclusivity should be maximized if you have the bandwidth to accomodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments. I don't recommend going this extreme without having the bandwidth.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
-- New people show up for round 2 all the time, and I believe that we should conduct their round 2 and then a round 1 for
+- New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
 - I believe that everyone the debsoc can possibly reach, should be reached.
 - + Even if these people don't appear serious enough, or end up dropping out soon, every recruit provides value in a debate for the time they are in the club, for the initial debates they participate in.
-- One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and proceed to accomodate people who needed it after that. 
-- + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then saying, "anyone who still wants to get recruited needs to dm
+- One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and proceed to accommodate people who needed it after that. 
+- + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads".
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
@@ -514,7 +514,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjEyODU5MjEzOSw5NjAyNDk4MDYsMTY5ODI1
+JoaXN0b3J5IjpbMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1
 NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLT
 E4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTksLTgwMTIz
 MTI1NF19
