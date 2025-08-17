@@ -1,6 +1,6 @@
 
 
-[Link to the actual file (please don't read this on github)](https://stackedit.io/app#the-point-of-a-debate-club)
+[Link to the actual file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
 
 # Running the PES Debsoc
 
@@ -510,6 +510,6 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYw
-NzYyMTksLTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbODYxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAy
+MjQ5MjIsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
 -->
