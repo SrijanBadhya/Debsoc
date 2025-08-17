@@ -207,7 +207,7 @@ Now talking about inclusivity with respect to flexibility of slots:
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
 - + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way.
 - Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people.
-- I however staunchly believe that inclusivity should be maximized if you have the bandwidth to accomodate these people.
+- I however staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments. I don't recommend going this extreme without having the bandwidth.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
@@ -280,7 +280,7 @@ Scoring is not important.
 
 Major benefit of self filtration and rounds is that 60% of the people drop out in round 1 and 2, so you're better able to handle the people who are left in round 3. You have better expectations of how many will show up.
 
-
+juniors are unaware that they even have the right to judge, so make sure you give them the option to, always.
 
 people talk about selective being good because, "people will feel good when they struggled and made it to the soc and others didn't". This is bullshit. A bunch of people are bound to dip out on their own anyway.
 
@@ -804,11 +804,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE2OTk5Mzk2MTIsLTEyODk3MzMxMDUsLTM3
-NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MD
-MsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3Niwx
-NjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMj
-k4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgw
-NiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MT
-k1OTEyN119
+JoaXN0b3J5IjpbNDYzNzg0NzA5LC0xMjg5NzMzMTA1LC0zNzQ5
+NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLD
+E0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3
+MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5OD
+U4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYs
+MTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NT
+kxMjddfQ==
 -->
