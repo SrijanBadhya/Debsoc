@@ -364,8 +364,8 @@ Lateral entry people are very important, make sure they know they're allowed, an
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are going to feel sad at the end of a session. Sadness cannot be avoided, only minimized.
 
-Debate is a weird sport, and debaters need to be treated in particular ways.
-Most of you who are reading through the document have already faced 
+Debate is a weird sport, and debaters need to be treated in particular ways. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is. So hooking in people to come for the initial sessions in the short term
+Most of you who are reading through the document have already faced the grueling learning curve of being humbled over and over.
 
 
 
@@ -521,8 +521,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjkxODk3NTkyLDIwNzg0NjQ1NTksOTYwMjQ5
-ODA2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksOD
-YxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2
-MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTE2MzAzMzg3ODQsMjA3ODQ2NDU1OSw5NjAy
+NDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OS
+w4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYw
+NzYyMTksLTgwMTIzMTI1NF19
 -->
