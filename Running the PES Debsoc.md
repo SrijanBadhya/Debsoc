@@ -283,6 +283,13 @@ Why is this new model better?
 
 
 
+
+
+how making people pro am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth.
+
+
+
+
 explain why no pois.
 
 Scoring is not important.
@@ -813,11 +820,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5
-NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0Mi
-wxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTEx
-MTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNz
-EyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1
-OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MT
-czNDQ4OV19
+JoaXN0b3J5IjpbNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2
+MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLD
+E2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAy
+NjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyOD
+I5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNzE5NjUw
+LDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTksNTUxMj
+I4MjY3XX0=
 -->
