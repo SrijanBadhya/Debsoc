@@ -368,7 +368,7 @@ Debate is a weird sport. I believe that it takes quite a while to get a feel for
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality.
 
 What I mean by this is:
-- not dropping finance and IR motions in the early days.
+- not dropping finance and IR (International Relations) motions in the early days.
 - Even within other subjects, giving easy and accessible motions (and motions they would find fun). Feeling hopeless and having nothing to say before a speech is quite depressing. 
 - Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. Give them easy motions which even they will think are balanced.
 - Unfortunately philosophy motions are usually fun, but usually follow the format of, "THW use this amazing technology", and feel unbalanced for opp because:
@@ -405,7 +405,10 @@ The obvious solutions to this are:
 
 Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. I am cutting out the motions I had initially thought were good, but ended up leading to messy debates, and being bad.
 So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
-Feel free to reuse these motions, since these
+Feel free to reuse these motions or compile new ones.
+
+I had prioritized parenting, education, and romance motions, but feedback showed that people soon got bored of these motions and wanted different ones.
+- There are also oddballs who want finance and IR motions, 
 
 ## Motion list
 
@@ -575,7 +578,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEzOTQ0ODAzMSwtMjEwMjYxMjMwNywtMTEx
+JoaXN0b3J5IjpbMTIyMTMyMDA4MSwtMjEwMjYxMjMwNywtMTEx
 MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
 I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
 LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
