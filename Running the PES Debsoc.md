@@ -420,33 +420,33 @@ But you can consider occasionally catering to these people (I should have).
 
 Infoslide: There is a real and fully functional love elixir, although it is very rare. You manage to acquire a vial capable of making any person fall madly and permanently in love with you. You are Aditya. For the past 4 years, you have been deeply in love with Shreya. You are very good friends, but nothing more. Shreya has put you in the friend zone and is in a happy relationship with Rahul. Your friends also tell you that she is out of your league.
 
-5.  This House supports AI romantic relationships
+2.  This House supports AI romantic relationships
 
-6.  This house regrets the notion that love ought be explicitly expressed.
+3.  This house regrets the notion that love ought be explicitly expressed.
 
-8.  This house believes that scientists are more valuable to a country than soldiers.
+4.  This house believes that scientists are more valuable to a country than soldiers.
 
-9.  This house prefers a world where every human's innate intelligence is identically average
+5.  This house prefers a world where every human's innate intelligence is identically average
 
 Infoslide: For the purpose of this debate, "innate intelligence" is one's inherent capacity to adapt, learn, and respond to stimuli in their environment based on their genetic predispositions, neurological development, and instinctual behaviors.
 
-10.  You are an unborn baby in heaven, unaware about where on Earth, to which parent you'll be born. Assuming feasibility, This house would choose not to be born. 
+6.  You are an unborn baby in heaven, unaware about where on Earth, to which parent you'll be born. Assuming feasibility, This house would choose not to be born. 
 
-12.  This house regrets dating apps
+7.  This house regrets dating apps
 
-13.  This house supports norms of maximum transparency (e.g. sharing phone passwords, location sharing, emotional transparency, etc.) in romantic relationships.
+8.  This house supports norms of maximum transparency (e.g. sharing phone passwords, location sharing, emotional transparency, etc.) in romantic relationships.
 
-15.  This house regrets the Existence of Valentine's Day
+9.  This house regrets the Existence of Valentine's Day
 
-16.  This House regrets streaming in primary and secondary education.
+10.  This House regrets streaming in primary and secondary education.
 
 Infoslide: Streaming refers to the grouping of students of similar academic achievements into the same classes.
 
-18.  This house believes that helicopter parenting has done more harm than good Infoslide: Helicopter parents are parents who primarily control their children’s academic careers (i.e., push their children to attain high levels of academic achievement or decide participation in extracurricular activities). However, these parents also pay extremely close attention to their child in other aspects like outdoor activities, child experiences and problems, and their child’s friends.
+11.  This house believes that helicopter parenting has done more harm than good Infoslide: Helicopter parents are parents who primarily control their children’s academic careers (i.e., push their children to attain high levels of academic achievement or decide participation in extracurricular activities). However, these parents also pay extremely close attention to their child in other aspects like outdoor activities, child experiences and problems, and their child’s friends.
 
-19.  This house prefers households with one working parent and one stay-at-home parent, to households with two working parents
+12.  This house prefers households with one working parent and one stay-at-home parent, to households with two working parents
 
-20.  That the government should ban all personal mobile devices that can access the internet for people under 18
+1.  That the government should ban all personal mobile devices that can access the internet for people under 18
 
 #### Motions used in round 3
 
@@ -598,30 +598,12 @@ True crime is a nonfiction genre that combines investigative journalism and narr
 113. This house opposes the expectation that romantic partners should be significant support systems of each other's mental health.
 
 114. Context: Assuming the prevalence of any given gene in the total human population remains the same.
-
-Motion: This house prefers a world
-
-where babies were born with
-
-a random genetic profile,
-
-rather than one inherited from their parents. DONE
+Motion: This house prefers a world where babies were born with a random genetic profile, rather than one inherited from their parents.
 
 115. This house opposes the creation of child-targeted social media
 
-Infoslide: Child-targeted branches of social media are becoming a common project for many companies. Platforms like YouTube Kids already exist whereas Instagram Kids is a proposed project of Facebook. These are made with the intention of promoting more consumption and usage of social media while providing a safer space for younger children. DONE
+Infoslide: Child-targeted branches of social media are becoming a common project for many companies. Platforms like YouTube Kids already exist whereas Instagram Kids is a proposed project of Facebook. These are made with the intention of promoting more consumption and usage of social media while providing a safer space for younger children.
 
-116. Motion: This House, as the Pope, Would publicly denounce God Infoslide: You are the newly elected pope Leo XIV. For the entirety of your life, you
-
-have been a devoted Catholic who believes that God does everything with a
-
-greater goal in mind. A few days after your inauguration, God manifests before
-
-you during your private prayer and announces that there is no grand plan
-
-behind human suffering. He simply releases some form of disaster (Black Death,
-
-COVID, tsunami) once in a while for his entertainment.
 
 117. This house prefers a world with memory erasure technology.
 
@@ -631,16 +613,19 @@ A “memory erasure machine” is a device that is capable of removing specific 
 
 118. This House Would upload their consciousness to the cloud at the point of death
 
-Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
-
-before every debate have a short speech where you say verdict doesn't matter
+Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it before every debate have a short speech where you say verdict doesn't matter
 
   
 
-Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
-drop list of tried and tested motions here.
-Also include the high table discussion on motions.
+
+
+
+
+
+
+
+Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
   
 
@@ -797,7 +782,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTAwNDU1MTQ2MSwtMzc0OTU3NzEwLDc0Njcw
+JoaXN0b3J5IjpbLTM0ODMxMjgwNSwtMzc0OTU3NzEwLDc0Njcw
 OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
 0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
 MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
