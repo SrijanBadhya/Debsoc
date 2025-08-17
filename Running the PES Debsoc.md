@@ -549,60 +549,23 @@ Slum tourism is a type of tourism that involves visiting impoverished areas - us
 
 72. This house would pay individuals who would migrate from highly populated cities to rural areas.
 
-74. This house regrets the trend of influencers posting videos on social media of themselves doing charitable acts for vulnerable or disadvantaged people.
+73. This house regrets the trend of influencers posting videos on social media of themselves doing charitable acts for vulnerable or disadvantaged people.
 
-75. Motion: This house regrets the decline in marriage rates. Infoslide: In the 1960s 72% of Americans over 18 were married. In 2015, about half were. Across Europe, marriage rates have dropped 'close to 50% since 1965.' this trend holds true across most OECD countries.
 
-76. Motion: This house regrets the glorification of Luigi Mangione's actions Infoslide: "Luigi Mangione is the suspect in the murder of UnitedHealthcare CEO Brian
+74. Motion: This house regrets the glorification of Luigi Mangione's actions Infoslide: "Luigi Mangione is the suspect in the murder of UnitedHealthcare CEO Brian
+Thompson. UnitedHealthcare is the largest health insurance provider in the United States, and has come under controversy for denying treatment and coverage for patients. Following his arrest, a wave of social media support emerged, with many users portraying Mangione as a ""modern-day hero."""
 
-Thompson. UnitedHealthcare is the largest health insurance provider in the
+75. This house regrets the romanticisation of self-sacrifice in motherhood
 
-United States, and has come under controversy for denying treatment and
+76. This house regrets the condemnation of religions towards the hedonistic tendencies of humans (e.g., lust, materialism, seeking pleasure, avoiding suffering, etc.)
 
-coverage for patients. Following his arrest, a wave of social media support
+77. Motion: This house regrets the increasing prevalence of nihilism among young people. Infoslide: For the purposes of this debate, Nihilism refers to an increasing sense of meaninglessness, pessimism and skepticism about life in the modern day.
+78. 
+79. 90. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls..."
 
-emerged, with many users portraying Mangione as a ""modern-day hero.""" DONE
 
-77. This house regrets the romanticisation of self-sacrifice in motherhood DONE
 
-78. This house regrets the decline of home cooking
-
-79. This house regrets the glorification of corporate careers DONE
-
-80. This house regrets the condemnation of religions towards the hedonistic tendencies of humans (e.g., lust, materialism, seeking pleasure, avoiding suffering, etc.) DONE
-
-81. Motion: This house regrets the increasing prevalence of nihilism among young people. Infoslide: For the purposes of this debate, Nihilism refers to an increasing sense of meaninglessness, pessimism and skepticism about life in the modern day.
-
-82. Motion: This house regrets the narrative adults should be independent (i.e. supporting themselves financially, living on their own, being emotionally self-sufficient etc.)
-
-83. Motion: This House regrets the partition of India Infoslide: The original nation of India encompassed modern-day India, Bangladesh, and
-
-Pakistan. At the time of India's independence, the two major political parties were the Hindu-majority Indian National Congress (INC) and the Muslim League.
-
-The options were to either partition the Muslim-majority areas from the Hindu-
-
-majority areas or maintain the current borders.
-
-Backed by the Muslim population and the British viceroy, the League supported partition. The INC was heavily against this but eventually capitulated in response to riots. The new borders created West Pakistan (modern-day Pakistan), East Pakistan (modern-day Bangladesh) and India in between.
-
-84. Motion: This House Regrets the narrative of deference to one's elders (e.g "older people are more experienced," "your parents know best" etc)
-
-85. Motion: In Asian countries, This house regrets the dominant narrative that “family comes first”
-
-86. Motion: This house regrets the creation of nuclear bombs DONE
-
-87. Motion: This House Regrets the Expectation of teachers to be second parents to their students. DONE
-
-88. Motion: This house regrets the creation of child influencers Infoslide: With the rise of social media, more “parent influencers” emerged. Many of these people post their children online to gain more traction. These videos sometimes go viral, and these children are seen by millions of people on the internet.
-89. 90. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls...
-
-" DONE
-
-91. This house prefers LGBTQ+ characters whose identity is central to their portrayal (e.g. Charlie Spring and Nick Nelson in Heartstopper, Elio in Call Me By Your Name), rather than as an incidental trait (e.g. Rosa Diaz in Brooklyn 99)
-
-"
-
-92. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions DONE
+92. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions.
 
 93. This house supports the rising trend of celebrities and influencers taking key roles in activism (e.g in environment, human rights, social justice movements etc.) DONE
 
@@ -870,7 +833,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEyMTU2ODI4MTIsLTM3NDk1NzcxMCw3NDY3
+JoaXN0b3J5IjpbLTE5NTQyMDExOTgsLTM3NDk1NzcxMCw3NDY3
 MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
 wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
 MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
