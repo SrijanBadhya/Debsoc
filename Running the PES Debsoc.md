@@ -369,7 +369,7 @@ For this purpose, I think it's justified to paint an incomplete picture of debat
 
 What I mean by this is:
 - not dropping finance and IR motions in the early days.
-- Even within other subjects, giving easy and accessible motions (and motions they would find fun). Feeling hopeless and having nothing to say before a speech is quite depressing.
+- Even within other subjects, giving easy and accessible motions (and motions they would find fun). Feeling hopeless and having nothing to say before a speech is quite depressing. 
 - Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. Give them easy motions which even they will think are balanced.
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days with aftercare
@@ -535,9 +535,9 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTI5NDQwMzE2NiwtMTIzNzEyNjY3NiwtMTI5
-ODU4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MD
-YsMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5
-NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMT
-ksLTgwMTIzMTI1NF19
+JoaXN0b3J5IjpbLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEy
+OTg1ODY1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5OD
+A2LDE2OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYx
+OTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2Mj
+E5LC04MDEyMzEyNTRdfQ==
 -->
