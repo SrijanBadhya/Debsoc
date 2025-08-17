@@ -395,7 +395,10 @@ Multiple different delays add up, and they should be minimized.
 
 The obvious solutions to this are:
 - Do whatever it takes to show up as early as possible, or have someone there.
-- Start prep time even when you have only 2 or 3 people, even if you
+- Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because
+- + You can't always rely on the people who voted to arrive, and this would result in waiting unnecessarily for nobody.
+- + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
+- + You can inform the juniors that they will be iron
 
 
 
@@ -563,7 +566,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTAxNTUxNDY0MiwtMjEwMjYxMjMwNywtMTEx
+JoaXN0b3J5IjpbLTQxNDczNjE4MywtMjEwMjYxMjMwNywtMTEx
 MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
 I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
 LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
