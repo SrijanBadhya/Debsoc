@@ -385,7 +385,7 @@ If you're reading this, you would have already faced the grueling learning curve
 
 
 ### Time
-From the feedback 
+From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 
 
 
@@ -461,6 +461,7 @@ The counter arguments I've heard about this are
 - It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
 - It's a cool demonstration of a flip, saying that banning it makes it worse. 
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
+
 
 one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
 
@@ -554,10 +555,10 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNTczMTUyMzAwLC0xMTExNzc2Mzc2LDE2NzIz
-MTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1OD
-Y1MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2
-OTgyNTQ5OTksNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MT
-I3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC04
-MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3
+MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5OD
+U4NjUwNCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYs
+MTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NT
+kxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMiwyMzYwNzYyMTks
+LTgwMTIzMTI1NF19
 -->
