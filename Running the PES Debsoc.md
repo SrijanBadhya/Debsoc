@@ -238,8 +238,9 @@ I'll just quote from Nikhil's document here.
  - + "You mentioned point X and explained how that leads to impact Y. Could you provide more reasons how X leads to Y? Is X the only reason Y happens?"
  - + "Regarding point X brought out by the other speaker, you responded by saying Y. Do you think this effectively countered point X? How could you have responded better?"
  - + "What do you think was the most important impact you were trying to convey in your speech? Why do you think that is the most important issue in the debate?"
-> - + "If there was a point you could have elaborated on more, what would that have been, and what new angles would you have added?"
-> - + "Is there something you think the opposite speaker missed that you predicted they would say?"
+ - + "If there was a point you could have elaborated on more, what would that have been, and what new angles would you have added?"
+ - + "Is there something you think the opposite speaker missed that you predicted they would say?"
+ "
 
 I think these changes by Nikhil were absolutely goated, made the recruitment process so much more fun and engaging for both the moderators and recruits.
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
@@ -511,7 +512,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEzMTA2ODA0MzcsNTUxMjI4MjY3LDE0OTE3
-MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5Mj
-IsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbMTY5ODI1NDk5OSw1NTEyMjgyNjcsMTQ5MTcz
+NDQ4OSw4NjE5NTkxMjcsLTE4MDc1NjU5OCwtMTk5MDIyNDkyMi
+wyMzYwNzYyMTksLTgwMTIzMTI1NF19
 -->
