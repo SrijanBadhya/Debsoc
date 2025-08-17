@@ -193,9 +193,9 @@ So the reasons for being inclusive regardless of 'skill' are:
 So there isn't much clear benefit of having a harsh filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
 
 Taking a few points out of Nikhil's recruitment document:
->- Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
->- + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
->- + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated.
+- "Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
+- + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
+- + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
 
 
 Now talking about inclusivity with respect to flexibility of slots:
@@ -224,20 +224,20 @@ Further developments from the 2023 model designed in 2024 by Nikhil:
 
 I'll just quote from Nikhil's document here. 
 
-> - Round 1 now has 2 speeches of 4 minutes each from each person (like a half BP, no POIs).
-> - 10 minute prep time.
-> - + There is an increase in prep time from 5 minutes to 10 minutes. A lot of new debaters are intimidated by the process and struggle to kickstart idea generation, let alone structure and reasoning for the arguments. I personally was confused by the motion wording and felt a general sense of panic given the limited prep time during my round 1. An additional 5 minutes would help participants calm down, giving them enough leeway to structure their arguments and be ready to present them. 10 minutes is long enough to generate the level of arguments expected in round 1 but short enough to handle the scale of multiple people in a day.
-> - After the speeches, the moderator asks questions to clarify logical gaps that the speakers may have missed in their speeches, giving them a chance to clarify themselves in a conversational manner.
-> - The moderator later asks them retrospective questions on what they could have done better and how they would have argued for the other side.
-> - + Previously, the moderator used to be passive in adjudicating the debate. Participants would leave after the speeches, and the moderator would note their inputs. In the new system, the moderator becomes more involved and 2 "enters the debate," interacting with the speakers and questioning them about various aspects of the debate. Here are a few reasons for this change:
-> - + + Without 'active moderation', there is a feeling of mystery and anxiety after the speeches are over. The moderator passively tracks the debate, and participants are unsure about the metrics they are being judged on.
-> - + + Most participants may have an intuitive understanding of the case, but it might not have come out in the speeches due to the new format and general anxiety of a recruitment round. The questions by the moderators are meant to allow speakers to explain themselves in a more conversational manner while allowing them to retrospectively analyze their case. The questions are aimed at understanding how well a participant responds to an issue in the debate that the moderator has pointed out.
-> - + + From the participant's point of view, they feel that the process is more personal and feels like an interview of sorts. The questions assess them over multiple metrics, and they are also able to understand their performances better in retrospect.
-> - + + In practice, this conversation is usually fun and leaves the freshers with the impression of, "Wow these seniors are so cool, nice and fun!" (as per what we've seen in the feedback form). This interaction is where freshers usually have fun, and this makes them want to keep coming back.
-> - Example questions moderators could ask:
-> - + "You mentioned point X and explained how that leads to impact Y. Could you provide more reasons how X leads to Y? Is X the only reason Y happens?"
-> - + "Regarding point X brought out by the other speaker, you responded by saying Y. Do you think this effectively countered point X? How could you have responded better?"
-> - + "What do you think was the most important impact you were trying to convey in your speech? Why do you think that is the most important issue in the debate?"
+ - "Round 1 now has 2 speeches of 4 minutes each from each person (like a half BP, no POIs).
+ - 10 minute prep time.
+ - + There is an increase in prep time from 5 minutes to 10 minutes. A lot of new debaters are intimidated by the process and struggle to kickstart idea generation, let alone structure and reasoning for the arguments. I personally was confused by the motion wording and felt a general sense of panic given the limited prep time during my round 1. An additional 5 minutes would help participants calm down, giving them enough leeway to structure their arguments and be ready to present them. 10 minutes is long enough to generate the level of arguments expected in round 1 but short enough to handle the scale of multiple people in a day.
+ - After the speeches, the moderator asks questions to clarify logical gaps that the speakers may have missed in their speeches, giving them a chance to clarify themselves in a conversational manner.
+ - The moderator later asks them retrospective questions on what they could have done better and how they would have argued for the other side.
+ - + Previously, the moderator used to be passive in adjudicating the debate. Participants would leave after the speeches, and the moderator would note their inputs. In the new system, the moderator becomes more involved and 2 "enters the debate," interacting with the speakers and questioning them about various aspects of the debate. Here are a few reasons for this change:
+ - + + Without 'active moderation', there is a feeling of mystery and anxiety after the speeches are over. The moderator passively tracks the debate, and participants are unsure about the metrics they are being judged on.
+ - + + Most participants may have an intuitive understanding of the case, but it might not have come out in the speeches due to the new format and general anxiety of a recruitment round. The questions by the moderators are meant to allow speakers to explain themselves in a more conversational manner while allowing them to retrospectively analyze their case. The questions are aimed at understanding how well a participant responds to an issue in the debate that the moderator has pointed out.
+ - + + From the participant's point of view, they feel that the process is more personal and feels like an interview of sorts. The questions assess them over multiple metrics, and they are also able to understand their performances better in retrospect.
+ - + + In practice, this conversation is usually fun and leaves the freshers with the impression of, "Wow these seniors are so cool, nice and fun!" (as per what we've seen in the feedback form). This interaction is where freshers usually have fun, and this makes them want to keep coming back.
+ - Example questions moderators could ask:
+ - + "You mentioned point X and explained how that leads to impact Y. Could you provide more reasons how X leads to Y? Is X the only reason Y happens?"
+ - + "Regarding point X brought out by the other speaker, you responded by saying Y. Do you think this effectively countered point X? How could you have responded better?"
+ - + "What do you think was the most important impact you were trying to convey in your speech? Why do you think that is the most important issue in the debate?"
 > - + "If there was a point you could have elaborated on more, what would that have been, and what new angles would you have added?"
 > - + "Is there something you think the opposite speaker missed that you predicted they would say?"
 
@@ -511,7 +511,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5
-MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5MjIsMjM2MDc2MjE5LC
-04MDEyMzEyNTRdfQ==
+JoaXN0b3J5IjpbLTEzMTA2ODA0MzcsNTUxMjI4MjY3LDE0OTE3
+MzQ0ODksODYxOTU5MTI3LC0xODA3NTY1OTgsLTE5OTAyMjQ5Mj
+IsMjM2MDc2MjE5LC04MDEyMzEyNTRdfQ==
 -->
