@@ -408,7 +408,8 @@ So all the motions here have been tested, I have witnessed the debates that ensu
 Feel free to reuse these motions or compile new ones.
 
 I had prioritized parenting, education, and romance motions, but feedback showed that people soon got bored of these motions and wanted different ones.
-- There are also oddballs who want finance and IR motions, 
+- There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
+But you can consider occasionally catering to these people (I should have).
 
 ## Motion list
 
@@ -578,7 +579,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTIyMTMyMDA4MSwtMjEwMjYxMjMwNywtMTEx
+JoaXN0b3J5IjpbMjAxNDg3MDc0MywtMjEwMjYxMjMwNywtMTEx
 MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
 I2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4NDY0NTU5
 LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2NywxNDkxNz
