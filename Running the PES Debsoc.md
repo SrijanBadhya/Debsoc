@@ -274,7 +274,8 @@ Nikhil's round 2 in 2024 had the following features:
 
 Why is this new model better?
 - It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
-- Group discussion
+- Group discussion portrays the wrong picture of what debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
+- Unknown Speaker Position: Participants do not know their speaker position. This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
 
 
 
@@ -809,7 +810,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTk3NjM2MDAzLDE3NTE1NjI0MzEsLTEyODk3
+JoaXN0b3J5IjpbODE4NjgxNTM3LDE3NTE1NjI0MzEsLTEyODk3
 MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLD
 E5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTEx
 MTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MT
