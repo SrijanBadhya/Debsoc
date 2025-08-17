@@ -405,8 +405,8 @@ The obvious solutions to this are:
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
-Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. I am cutting out the motions I had initially thought were good, but ended up leading to messy debates, and being bad.
-So all the motions here have been tested, I have witnessed the debates that ensued from these motions. 
+Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
+So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
 
 I had prioritized parenting, education, and romance motions, but feedback showed that people soon got bored of these motions and wanted different ones.
@@ -431,7 +431,7 @@ Infoslide: There is a real and fully functional love elixir, although it is very
 
 Infoslide: For the purpose of this debate, "innate intelligence" is one's inherent capacity to adapt, learn, and respond to stimuli in their environment based on their genetic predispositions, neurological development, and instinctual behaviors.
 
-10.  Assuming feasibility, This house would choose not to be born
+10.  You are an unborn baby in heaven, unknown about where you'll be born. Assuming feasibility, This house would choose not to be born. 
 
 11.  Assuming feasibility this house prefers a world where existing wealth is distributed equally among all individuals
 
@@ -925,11 +925,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTMxODA5MjU1NSwtMzc0OTU3NzEwLDc0Njcw
-OTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC
-0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIx
-MTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMTYwNz
-E5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OTgyNTQ5OTks
-NTUxMjI4MjY3LDE0OTE3MzQ0ODksODYxOTU5MTI3LC0xODA3NT
-Y1OThdfQ==
+JoaXN0b3J5IjpbOTI4MTMyNTQ3LC0zNzQ5NTc3MTAsNzQ2NzA5
+NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLT
+IxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMzc5NiwtMjEx
+NjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUwNCwxNjA3MT
+k2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5ODI1NDk5OSw1
+NTEyMjgyNjcsMTQ5MTczNDQ4OSw4NjE5NTkxMjcsLTE4MDc1Nj
+U5OF19
 -->
