@@ -198,7 +198,7 @@ So the reasons for being inclusive regardless of 'skill' are:
 So there isn't much clear benefit of having a harsh filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
 
 Taking a few points out of Nikhil's recruitment document:
-
+- It would be unfair to judge candidates on their initial skill set without giving them a chance to improve.
 - "Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
 - + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
 - + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
@@ -823,11 +823,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTc3MTMyNDM0Myw0OTk1OTU3NjAsMjAyNTk2
-MTMwNywxNzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MT
-AsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4
-MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMz
-c5NiwtMjExNjI4MjkzMCwtMTIzNzEyNjY3NiwtMTI5ODU4NjUw
-NCwxNjA3MTk2NTAsMjA3ODQ2NDU1OSw5NjAyNDk4MDYsMTY5OD
-I1NDk5OV19
+JoaXN0b3J5IjpbLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5
+NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3Nz
+EwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcw
+ODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMT
+M3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1
+MDQsMTYwNzE5NjUwLDIwNzg0NjQ1NTksOTYwMjQ5ODA2LDE2OT
+gyNTQ5OTldfQ==
 -->
