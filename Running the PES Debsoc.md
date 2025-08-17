@@ -415,7 +415,375 @@ But you can consider occasionally catering to these people (I should have).
 
 ## Motion list
 
+1.
 
+2.  This house, .as Aditya, would give Shreya the elixir.
+
+Infoslide: There is a real and fully functional love elixir, although it is very rare. You manage to acquire a vial capable of making any person fall madly and permanently in love with you. You are Aditya. For the past 4 years, you have been deeply in love with Shreya. You are very good friends, but nothing more. Shreya has put you in the friend zone and is in a happy relationship with Rahul. Your friends also tell you that she is out of your league.
+
+  
+  
+
+3.  This house would pursue the relationship Infoslide: You are a timid young adult who had great difficulties in forming romantic relationships. Recently, you met a romantic interest, and already know you are deeply in love with them. You stumble upon proof that you will have a long-term relationship with that romantic interest, but that you two will eventually split up permanently. You may decide if you want to end the relationship or continue to pursue it. In both cases this knowledge will be erased from your memory upon following through with your decision. (basically This House Believes That it is better to have loved and lost than to have never loved at all.) DON'T DEBATE THIS
+
+4.  This House regrets the narrative that money cannot buy happiness. DONT DEBATE THIS
+
+5.  This House supports AI romantic relationships
+
+6.  This house regrets the notion that love ought be explicitly expressed.
+
+7.  This house prefers to live a long but average life than a short but exciting one DONT DEBATE THIS
+
+8.  This house believes that scientists are more valuable to a country than soldiers.
+
+9.  This house prefers a world where every human's innate intelligence is identically average
+
+Infoslide: For the purpose of this debate, "innate intelligence" is one's inherent capacity to adapt, learn, and respond to stimuli in their environment based on their genetic predispositions, neurological development, and instinctual behaviors.
+
+10.  Assuming feasibility, This house would choose not to be born
+
+11.  Assuming feasibility this house prefers a world where existing wealth is distributed equally among all individuals
+
+12.  This house regrets dating apps
+
+13.  This house supports norms of maximum transparency (e.g. sharing phone passwords, location sharing, emotional transparency, etc.) in romantic relationships.
+
+14.  Given the choice, This house would forgo deep platonic friendships rather than forgo deep romantic love. DONT DEBATE THIS
+
+15.  This house regrets the Existence of Valentine's Day
+
+16.  This House regrets streaming in primary and secondary education.
+
+Infoslide: Streaming refers to the grouping of students of similar academic achievements into the same classes.
+
+17.  This house opposes the increasing prevalence of pessimism among young people DONT DEBATE THIS
+
+18.  This house believes that helicopter parenting has done more harm than good Infoslide: Helicopter parents are parents who primarily control their children’s academic careers (i.e., push their children to attain high levels of academic achievement or decide participation in extracurricular activities). However, these parents also pay extremely close attention to their child in other aspects like outdoor activities, child experiences and problems, and their child’s friends.
+
+19.  This house prefers households with one working parent and one stay-at-home parent, to households with two working parents
+
+20.  That the government should ban all personal mobile devices that can access the internet for people under 18
+
+  
+  
+  
+
+Extra
+
+21.Thw ban zoos (lame?)
+
+22.Thw mandate a youth quota in parliament DONE
+
+23.Thw ban private education DONE
+
+24.Tho the further development of artificial intelligence DONE
+
+25.Thw pay gangs for decreased violence in areas of their control DONE
+
+26. Assuming it could be done peacefully, THW replace all existing governments with 1 global government
+
+27. THW ban all arranged marriages DONE
+
+28. THR the glorification of geniuses DONE
+
+29. TH prefers a religion which preaches that one's fate in the world is predetermined rather than one that preaches that one's choice influences it (idk about this one)
+
+30. This House Opposes the rise of the Situationship
+
+A "situationship" is a term used to describe a romantic or intimate relationship that lacks clear definitions or commitment. Situationships are characterized by emotional intimacy, spending time together, and often involve a sexual component. However, people in a situationship do not set clear boundaries for their relationship or place it in a category. DONE
+
+31. This house supports the narrative that romantic love should happen accidentally
+
+32. This house believes that capitalism is detrimental to social justice DONT DEBATE THIS DONE
+
+33. This House believes that the right to privacy is more important than the freedom of the press DONT DO THIS
+
+34. This house supports the trend of adult children going no contact with their parents. DONE
+
+35. This House Believes that India should prioritise policies that aim to significantly reduce economic inequality rather than prioritise policies that aim to rapidly drive economic growth DONE
+
+36. This house believes that governments in the developing world should limit migration to major cities DONE
+
+37. TH, as a minority student, would choose to attend a university aimed at serving members of their own minority group rather than a top national university DONE
+
+38. THBT universities should be liable for their graduates being unable to find employment DONE
+
+39. This House Would make the number of votes an individual has inversely proportional to their wealth (i.e. the more wealth an individual has the fewer votes in an election). DONE
+
+40. TH prefers secular governments that exclude all religion from public spaces to those that allow unlimited religious expression.
+
+41. THW only allow admission to tertiary educational institutions on the basis of standardized testing, as opposed to non- quantitative methods (e.g essays, personal statements from teachers, extra curricular achievements etc.) DONE
+
+42. In areas of low socio economic development, THS the 'Teach For' model
+
+  
+
+Context Slide:
+
+  
+
+The 'Teach For' model involves recruiting recent graduates (not necessarily with teaching degrees) to teach at primary/secondary schools, often where teachers are difficult to recruit. Graduates undergo a short, intensive training program prior to teaching, and generally stay for 1-2 years before moving onto another industry. DONE DONT DO THIS
+
+43. This House supports granting megacities autonomous control over their economic and social policy (e.g. immigration, health, criminal justice) with national taxation policy remaining under the control of the federal government
+
+44. Assuming feasibility, this house believe that humans should be allowed to buy and sell years of their natural lifespan DONE
+
+45. This house supports the Ciceronian Philosophy of love
+
+The Ciceronian philosophy of love, as articulated by Cicero, views love as a virtuous and selfless force that seeks the good of others without personal gain. This concept emphasizes loving disinterestedly, or loving without expecting anything in return. It is closely aligned with unconditional love, where affection and care are given freely, often to the extent of offering one's full self for the well-being of others. DONE
+
+46. This house prefers to live in a world where the memories of parents are inherited by their children. DONE
+
+For the purposes of this debate, the transmission of memories happens at the moment of the individual's parents' death. Only the memories directly experienced by the fathers and mothers are passed on, and not the memories of grandparents or other ancestors.
+
+47. This House regrets the narrative of cycle of strength.
+
+For the purposes of this debate, the cycle of strength is described by the following proverb: Hard times create strong men, Strong men create easy times, Easy times create weak men, Weak men create hard times.
+
+48. This house prefers a world where graduate programs do not admit students applying immediately after their undergraduate course of study DONE
+
+49. This house supports the complete replacement of human teachers with artificial intelligence in schools. DONE
+
+50. Motion: This house regrets the rise in gentle parenting Infoslide: Gentle parenting content has been trending on social media recently. Gentle
+
+parenting is based on the idea that children are capable and whole beings, and that they should be partners in making choices. Parents that practice gentle parenting rarely say no to their children and often try to redirect their
+
+children or encourage them to confront the natural consequences of their
+
+actions rather than imposing specific punishments.
+
+51. This house regrets the rise of the narrative "If he wanted to he would"
+
+The narrative "If he wanted to, he would" conveys the idea that genuine care and prioritization are demonstrated through deliberate action. Conversely, a lack of action is often interpreted as a lack of desire or interest. This narrative gained popularity on TikTok, where users—predominantly women—shared videos showcasing thoughtful gestures from their partners, such as buying flowers or planning elaborate dates, often accompanied by this caption.
+
+52. This house regrets the narrative that all failed relationships are learning experiences.
+
+53. This house prefers a world where relationships are seen as a duty as opposed to one driven by passion. DONE
+
+54. meme motion: Assuming the existence of artificial uterus that allows us to create children without sex, This house would mandate all individuals to undergo Momijection.
+
+For the purpose of this debate, Momijection refers to an advanced biotechnology that safely and immediately removes sexual desires and errogenous zones. The effect is permanent and irreversible.
+
+55. Without knowing anything else about the conditions of one's birth, This house would choose to be born aromantic and assexual
+
+The term "aromantic", colloquially shortened to "aro", refers to a person who experiences no romantic desire or attraction
+
+56. This house, as a never-married, single, and wealthy elderly man, would become a sugar daddy DONE
+
+57. This house would 'resurrect' their significant other
+
+**You are a 30 -year-old who has recently lost their significant other to terminal cancer. A technology has recently been discovered that allows you to create an imitation of them as sentient AI. They would act and recall memories identical to your loved one. They would exist in a robot body indistinguishable from humans.** DONE
+
+58. This house, as the boxer, W agree to fight Jake Paul
+
+You are a retired professional boxer, renowned for an illustrious career and regarded as one of the sport’s greats. Though past your prime, your name still commands respect and admiration within the boxing world. Jake Paul, a significantly younger and controversial social media influencer turned boxer, has gained attention by fighting and winning against high-profile opponents. Jake Paul offers you a lucrative opportunity to fight him. DONE
+
+59. This house prefers the Divergent world to ours
+
+For the purposes of this debate, the Divergent world behaves in the following way: society is divided into different factions based on key personality traits like bravery, intelligence, kindness, honesty etc... These factions form separate communities, often acting as sub-federal authorities (they function like a municipality or district). Each faction has a specific role: Bravery focuses on defense, Intelligence on education and research, Kindness on healthcare and community, and Honesty on law and justice. When adolescents reach the age of maturity, they take a test to determine their strongest trait and are assigned to the corresponding faction. Once assigned, individuals cannot change factions and must commit to their role.
+
+60. This house supports microretirement
+
+Microretiremenfers to taking a chunk or multiple chunks of time off work to experience life and travel while you're young, rather than waiting until actual retirement age in your 50s or 60s. It's similar to a sabbatical, and has also been dubbed an 'adult gap year'. DONE
+
+61. This house would refuse to cover the corruption scandals of the presidential candidate
+
+You’re a left-leaning journalist in a conservative democracy, just days before an election. You receive exclusive information that the leading opposition candidate - who promises social reform and civil rights - has a history of corruption and cover -ups. This candidate is running against an incumbent (currently ruling) party that has steadily eroded civil liberties and moved toward authoritarianism
+
+62. This house would disallow political parties to promise freebies during election campaigns
+
+63. This house opposes the rise of pro-immigration policies in developed states with aging populations
+
+An aging population refers to a demographic shift where there are more elderly individuals (often 65 years and older) compared to those who belong in the younger demographic, often because of longer life expectancies and declining birth rates. This is common among developed countries like Japan, Germany, the UK, and USA. Recently, this trend has been observed in developing countries like the Philippines, India, Thailand, Mexico, and Turkey.
+
+64. This house would allow negative voting
+
+A "Negative Vote" deducts one vote from the party you select. This would count as a normal vote and would replace voting for any other party in the same election.
+
+65. This house would mandate a retirement age in politics DONE
+
+66. Assuming a veil of ignorance, This house prefers to be born in a stable and well-functioning authoritarian state rather than a struggling democracy
+
+67. With the benefit of hindsight, This house as Indira Gandhi in 1975 would not declare the Emergency in India
+
+Indira Gandhi, India’s Prime Minister from 1966-1977, declared a state of Emergency in India after the Supreme Court disallowed her to dispense her prime ministerial duties after the High Court in Allahbad set aside her election on charges of electoral malpractice. During the Emergency, most of the fundamental rights of Indians were restricted, and 100s of people were detained as political prisoners without having the right to approach a court of law in case of an illegal detention. These political prisoners involved eminent politicians from various political parties such as JP Narayan from the Communist Party, LK Advani and Atal Bihari Vajpayee from the Bharatiya Jan Sangh, etc. Indira Gandhi decided to lift the Emergency in 1977, and a re-election was called by her. This election saw her lose with a massive victory for the Opposition bloc (the Janata Dal) which composed of political parties from different sides of the political aisle. She came back to power in 1981."
+
+68. For the purpose of this debate, cognition and consciousness refers to the ability for animals to be self-aware of their environment and internalize subjective experiences (e.g. emotions, thoughts, and desires).
+
+This house hopes for the existence of animal cognition and consciousness
+
+69. As a member of the youth, This house prefers the half-empty over half-full philosophy in life
+
+Individuals who believe in the half-full philosophy focus on the optimistic aspect of life, which allows them to find silver linings in every situation they are in. On the other hand, those who believe in the half-empty philosophy take a more critical approach to their life, preparing themselves for the worst.
+
+70. This house supports hyper positivity culture.
+
+Hyper positivity culture is the concept that heavily emphasizes on optimism and positive mindset as the best ways to live life. It sees potential negativity as something that should not be outwardly portrayed.
+
+71. This house believes that the governments of developing nations should actively encourage slum tourism
+
+Slum tourism is a type of tourism that involves visiting impoverished areas - usually through a service provided by tourism agencies. Slum tourism is now becoming increasingly prominent in developing nations, including India, Brazil, Kenya and Indonesia.
+
+72. This house would pay individuals who would migrate from highly populated cities to rural areas.
+
+73. This house would mandate all citizens to undergo a period of working for national service, in sectors including but not limited to military, charity, and civil services (e.g. police, firefighting).
+
+74. This house regrets the trend of influencers posting videos on social media of themselves doing charitable acts for vulnerable or disadvantaged people.
+
+75. Motion: This house regrets the decline in marriage rates. Infoslide: In the 1960s 72% of Americans over 18 were married. In 2015, about half were. Across Europe, marriage rates have dropped 'close to 50% since 1965.' this trend holds true across most OECD countries.
+
+76. Motion: This house regrets the glorification of Luigi Mangione's actions Infoslide: "Luigi Mangione is the suspect in the murder of UnitedHealthcare CEO Brian
+
+Thompson. UnitedHealthcare is the largest health insurance provider in the
+
+United States, and has come under controversy for denying treatment and
+
+coverage for patients. Following his arrest, a wave of social media support
+
+emerged, with many users portraying Mangione as a ""modern-day hero.""" DONE
+
+77. This house regrets the romanticisation of self-sacrifice in motherhood DONE
+
+78. This house regrets the decline of home cooking
+
+79. This house regrets the glorification of corporate careers DONE
+
+80. This house regrets the condemnation of religions towards the hedonistic tendencies of humans (e.g., lust, materialism, seeking pleasure, avoiding suffering, etc.) DONE
+
+81. Motion: This house regrets the increasing prevalence of nihilism among young people. Infoslide: For the purposes of this debate, Nihilism refers to an increasing sense of meaninglessness, pessimism and skepticism about life in the modern day.
+
+82. Motion: This house regrets the narrative adults should be independent (i.e. supporting themselves financially, living on their own, being emotionally self-sufficient etc.)
+
+83. Motion: This House regrets the partition of India Infoslide: The original nation of India encompassed modern-day India, Bangladesh, and
+
+Pakistan. At the time of India's independence, the two major political parties were the Hindu-majority Indian National Congress (INC) and the Muslim League.
+
+The options were to either partition the Muslim-majority areas from the Hindu-
+
+majority areas or maintain the current borders.
+
+Backed by the Muslim population and the British viceroy, the League supported partition. The INC was heavily against this but eventually capitulated in response to riots. The new borders created West Pakistan (modern-day Pakistan), East Pakistan (modern-day Bangladesh) and India in between.
+
+84. Motion: This House Regrets the narrative of deference to one's elders (e.g "older people are more experienced," "your parents know best" etc)
+
+85. Motion: In Asian countries, This house regrets the dominant narrative that “family comes first”
+
+86. Motion: This house regrets the creation of nuclear bombs DONE
+
+87. Motion: This House Regrets the Expectation of teachers to be second parents to their students. DONE
+
+88. Motion: This house regrets the creation of child influencers Infoslide: With the rise of social media, more “parent influencers” emerged. Many of these people post their children online to gain more traction. These videos sometimes go viral, and these children are seen by millions of people on the internet.
+89. 90. Motion: This house regrets the reboot trend Infoslide: "The reboot trend refers to the trend of remaking popular movies and TV shows or continuing them years after being discontinued. Examples include, but are not limited to Ghostbusters, Avatar: The Last Airbender, Mean Girls...
+
+" DONE
+
+91. This house prefers LGBTQ+ characters whose identity is central to their portrayal (e.g. Charlie Spring and Nick Nelson in Heartstopper, Elio in Call Me By Your Name), rather than as an incidental trait (e.g. Rosa Diaz in Brooklyn 99)
+
+"
+
+92. Motion: This house believes that developed countries should not require developing countries to adhere to any environmental restrictions DONE
+
+93. This house supports the rising trend of celebrities and influencers taking key roles in activism (e.g in environment, human rights, social justice movements etc.) DONE
+
+94. This house would introduce eco-conscription
+
+Eco-conscription refers to the compulsory requirement of citizens over the age of 18 to serve for the national service regarding the environment for a period of 2 years. The activities include engaging in environmental restoration, natural disaster relief, reforestation, environmental clean-ups, etc. DONE
+
+95. This house believes that corporate social responsibility (CSR) spending should be maintained regardless of economic circumstances.
+
+96. This house would program the robots to hide the existence of past human life on Earth
+
+It is far into the future. Earth is no longer habitable for life, and the human race on Earth is about to be extinguished. However, we have mastered many advanced technologies, including far space travel. We are sending thousands of human embryos frozen in artificial wombs to a distant, liveable planet. Accompanying them will be robots who are comprehensively programmed to develop, raise, protect, and educate these “New Children” once they reach the new planet. DONE
+
+97. As opposed to financing green energy start-ups, this house believes that states should financially incentivize existing fossil fuel companies' transition into green energy
+
+98. This house would impose an absolute cap on the per capita consumption water and electricity per household.
+
+99. This House Believes that environmental movements should heavily prioritize local agendas over global ones. DONE
+
+100. This house, as a Squib, would choose to live in the Muggle world over the magical world
+
+In the Harry Potter universe, a Squib is a human who is born with at least one magical parent, but does not inherit magic from them. They are unable to practice magic, but can interact in magical society and see things that muggles can't, e.g. Hogwarts, Diagon Alley, etc. Squibs are rare and are looked down upon by some wizards, particularly pure-bloods.﻿ DONE
+
+101. This house believes that indigenous communities in the Amazon rainforest should undertake acts of vigilantism against poachers and illegal loggers.
+
+In recent years, logging companies have cleared swathes of land around in. digenous communities' reservations in the Amazon, with loggers and poachers often also entering their perimeters. President Bolsonaro has claimed that the reservations are too expansive and has called for mining and industrial farming on tribal land. Recently, members of indigenous tribes have begun forming vigilante groups to fight back against the encroachments. They have experienced relative success in combating illegal incursion, but this has come at the cost of being regularly exposed to armed skirmishes and vigilantism being denounced by local authorities.
+
+102. This house believes that buddig creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
+
+103. This house believes that the Headmaster/Headmistress of Hogwarts School of Witchcraft and Wizardry should abolish the house system
+
+Hogwarts School of Witchcraft and Wizardry is a fictional school of magic that appears in the Harry Potter franchise. When students enter the school at age 11 they are sorted by a sentient magic hat (known as The Sorting Hat) into one of 4 “houses” groups in which they remain for the next 7 years of their education. The houses are each affiliated with a trait (Bravery Intelligence Loyalty and Ambition) and the Sorting Hat has the ability to look into the minds of the students and sort them without failure into the house which most fits their temperament and aptitude. As students eat sleep and study with their housemates assigned houses largely define their social circles and school lives. Students are awarded/penalized “points” for their achievements and misbehaviors and the houses compete to see which group has the most points at the end of the year
+
+104. This house, as Harry Potter, would have used The Imperius Curse on Voldemort and control him to do good for the society
+
+Harry Potter is a wizard who lives in magical land. Voldemort is the most powerful evil wizard, who has previously been responsible for the deaths of Harry's parents and many other witches and wizards. The Imperius Curse makes someone a puppet, under the complete control of the wielder of the curse. It is similar to being subjected to hypnosis, but of course magical and therefore more powerful. DONE
+
+105. This House Would mandate all social media platforms to include a "dislike" button.
+
+106. This house supports social media companies removing spaces and content associated with the incel movement
+
+Andrew Tate is a social media influencer who has been banned from Youtube, Instagram and TikTok for his misogynistic views. In 2017 Reddit banned r/incels, a forum of 41,000 people who self-identify as "involuntarily celibate".
+
+107. This house supports the rise of true crime entertainment
+
+True crime is a nonfiction genre that combines investigative journalism and narrative storytelling to report on and describe a real-life crime event to the public. Examples include 'Serial', a podcast that investigated the 1999 murder of Hae Min Lee as well as the investigations and legal proceedings that followed. DONE
+
+108. This house believes that Taylor Swift has done more harm than good to the feminist movement DONE
+
+109. This house prefers Disney optimism to Ghibli optimism in children's media
+
+For the purpose of this debate, there are two tropes in children's media. "Disney optimism" presents a world with 1\. clear good and evil 2\. wherein good always triumphs. "Ghibli optimism" presents a world with 1\. no true evil and morality is subjective 2\. where peaceful compromise is ultimately possible where neither side necessarily triumphs.
+
+110. This house opposes the glorification of youth
+
+111. This house prefers a world where the "Algorizzm" exist
+
+The "Algorizzm" is an innovation that matches you to your soulmate with proven perfect accuracy. The technology tells you who your soulmate is, including their name and contact information. This is the person with whom you can live the most fulfilling life with. The "Algorizzm" is mandatory to use by everyone in the world, however it is up to individuals whether they will reach out to their soulmate.
+
+112. This House, as an average college-going individual in a western liberal democracy, Hopes to get involved with a manic pixie dream girl/guy
+
+For the purposes of this debate, a Manic Pixie Dream Girl (MPDG) is a quirky, free-spirited, and easily-attached female character who either lacks personal depth or willingly sets aside her ambitions for the male protagonist. Her primary role in a story is to "fix" the brooding male protagonist and push him toward experiences he wouldn't normally pursue. MPDGs often enter one's life like a hurricane—bringing excitement, spontaneity, and emotional upheaval—but their presence is never guaranteed to last. If they stay, relationships tend to become co-dependent; if they leave, they do so just as suddenly, often leaving behind unresolved emotions and personal upheaval, but also potentially a brand new perspective on life and self-identity. For example, Natasha (Kalki Koechlin) in Zindagi Na Milegi Dobara leaves her successful career without prompting and follows Kabir (Abhay Deol) on his bachelor trip to keep an eye on him and ensure he doesn't stray. Another example is Summer (Zooey Deschanel) in 500 Days of Summer, who brings spontaneity and joy into Tom’s (Joseph Gordon-Levitt) life, pushing him out of his comfort zone, but ultimately leaves just as abruptly, forcing him to confront personal growth on his own.
+
+113. This house opposes the expectation that romantic partners should be significant support systems of each other's mental health DONE
+
+114. Context: Assuming the prevalence of any given gene in the total
+
+human population remains the same.
+
+Motion: This house prefers a world
+
+where babies were born with
+
+a random genetic profile,
+
+rather than one inherited from their parents. DONE
+
+115. This house opposes the creation of child-targeted social media
+
+Infoslide: Child-targeted branches of social media are becoming a common project for many companies. Platforms like YouTube Kids already exist whereas Instagram Kids is a proposed project of Facebook. These are made with the intention of promoting more consumption and usage of social media while providing a safer space for younger children. DONE
+
+116. Motion: This House, as the Pope, Would publicly denounce God Infoslide: You are the newly elected pope Leo XIV. For the entirety of your life, you
+
+have been a devoted Catholic who believes that God does everything with a
+
+greater goal in mind. A few days after your inauguration, God manifests before
+
+you during your private prayer and announces that there is no grand plan
+
+behind human suffering. He simply releases some form of disaster (Black Death,
+
+COVID, tsunami) once in a while for his entertainment.
+
+117. This house prefers a world with memory erasure technology.
+
+Infoslide
+
+A “memory erasure machine” is a device that is capable of removing specific memories in people’s brains in a manner that is medically safe.
+
+118. This House Would upload their consciousness to the cloud at the point of death
+
+Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
 
 before every debate have a short speech where you say verdict doesn't matter
 
@@ -581,11 +949,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3
-MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNy
-wtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0x
-MjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MDcxOTY1MCwyMDc4ND
-Y0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5LDU1MTIyODI2Nywx
-NDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNzU2NTk4LC0xOTkwMj
-I0OTIyXX0=
+JoaXN0b3J5IjpbLTExMzI2MTMzNzcsLTM3NDk1NzcxMCw3NDY3
+MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMi
+wtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0y
+MTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMjk4NTg2NTA0LDE2MD
+cxOTY1MCwyMDc4NDY0NTU5LDk2MDI0OTgwNiwxNjk4MjU0OTk5
+LDU1MTIyODI2NywxNDkxNzM0NDg5LDg2MTk1OTEyNywtMTgwNz
+U2NTk4XX0=
 -->
