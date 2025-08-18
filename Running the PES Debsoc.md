@@ -489,6 +489,7 @@ I personally write down my feedback while the speeches are going on. The moment 
 The impulsive way to give feedback is telling people how they messed up and what they can improve on.
 But I think you should consciously try to tell people what they got right as well for a few reasons.
 - Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something nice which they should keep doing. 
+- From the feedback form, something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all?"
 
 
 
@@ -849,11 +850,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE3MjI4NjQ4NzIsLTMwNzI1OTIxNCwxNTU4
-MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MT
-EsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcw
-NDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NTc2MCwyMDI1OTYxMz
-A3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUsLTM3NDk1NzcxMCw3
-NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMD
-YwMl19
+JoaXN0b3J5IjpbLTY3NTc5Nzc2MiwtMzA3MjU5MjE0LDE1NTgz
+NDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMS
+w2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0
+NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMD
+csMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0
+NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNj
+AyXX0=
 -->
