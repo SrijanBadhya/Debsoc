@@ -420,7 +420,7 @@ What I mean by this is:
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days with aftercare
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
-- before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it. Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that the
+- **before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
@@ -658,7 +658,8 @@ A “memory erasure machine” is a device that is capable of removing specific 
 Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
 
 
-
+# More on Sessions
+- The
 
 
 
@@ -824,11 +825,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMzI4MjE1MTIzLDY1MzA1NzU0MSw1Mjk1MTQ4
-MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Ni
-w0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5
-NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0Mi
-wxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTEx
-MTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNz
-EyNjY3Nl19
+JoaXN0b3J5IjpbLTc3Nzk0MjM2Nyw2NTMwNTc1NDEsNTI5NTE0
+ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0Nj
+YsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4
+OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczND
+IsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0x
+MTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMz
+cxMjY2NzZdfQ==
 -->
