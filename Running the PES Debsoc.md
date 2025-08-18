@@ -502,9 +502,10 @@ This solves 2 problems.
 1. It doesn't make your feedback feel obvious to them, and more importantly, 
 2. It makes them feel good about themselves, and makes them realize it isn't an inherent IQ issue but a presentation issue.
 
-I believe speaker scores should not be given in mocks, 
-
-There's no real benefit of 'extra motivation to grind' when you give 
+I believe speaker scores should not be given in mocks.
+- Speaker scores are such a scam, different adjes give different speaker scores, and brackets are also unclear.
+- At least with feedback you can give everyone feedback. With  public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the
+- There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
 speaker scores are cringe to give in mocks
 'omg they won't know how speaker scores work in real tournaments then' is a weak excuse. slowly toughening people up is important, and keeping them happy to some level. When they've already had a bad day, shit speaks can further mess the up.
 
@@ -854,7 +855,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjA4NzAwODIxMSwtMTM3Nzk2ODg2LC0xODM2
+JoaXN0b3J5IjpbLTc0MzQ0MTk0MCwtMTM3Nzk2ODg2LC0xODM2
 ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NT
 I2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1
 MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2Nj
