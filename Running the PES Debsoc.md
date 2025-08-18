@@ -317,7 +317,7 @@ Avoid disclosing the exact number of sessions the cutoff was, because people mig
 
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
 
-
+(make a video of this too)
 
 [Round 3 in 2023](https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135)
 round 3 in 2023
@@ -460,8 +460,6 @@ I had prioritized parenting, education, and romance motions, but the feedback fo
 ![From the Google Form](https://i.ibb.co/fd1q7Tyk/motionpref.png)
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 But you can consider occasionally catering to these people (I should have).
-
-
 
 
 
@@ -853,11 +851,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE5Mjc3NjY1NzIsOTA3ODk3MzEzLC0xOTg0
-OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MD
-M4LC03NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywt
-MTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1Mj
-M2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEs
-NTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMT
-k2MDc0NjZdfQ==
+JoaXN0b3J5IjpbLTYxOTU4MjQ2OCw5MDc4OTczMTMsLTE5ODQ5
+OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMz
+gsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0x
+MzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMz
+YyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1MzA1NzU0MSw1
+Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOT
+YwNzQ2Nl19
 -->
