@@ -481,7 +481,7 @@ At that moment, it's very important to tell people, to cross over, shake hands, 
 - It's very important to give the initial push for them to cross over after the debate if they don't.
 
 
-###  Feedback
+##  Feedback
 
 Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
 I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
@@ -511,6 +511,8 @@ I believe speaker scores should not be given in mocks.
 - Another argument is that people can track their progress, but speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
 
 
+### Miscellaneous
+
 
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
@@ -533,11 +535,11 @@ Having too many seniors always better than too less seniors, you can always pro 
 Adjust with adj, or sometimes adjust with fake 'reply' speaker
 
 
-# How to solve Debsoc Drama
+# How to resolve Debsoc Drama
 You're cooked. I'm just as clueless as you.
 
 
-# Keeping up debate spirit and passion:
+# Keeping up debate spirit
 [Back to Table of Contents](#table-of-contents)
 
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
@@ -847,11 +849,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2
-ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NT
-I2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1
-MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2Nj
-E2NCwtMTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2MTMwNywx
-NzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2Nz
-A5NjNdfQ==
+JoaXN0b3J5IjpbLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3
+OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNzI1OT
+IxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5
+MTc5Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYyNT
+k2LC0xODcwNDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NTc2MCwy
+MDI1OTYxMzA3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUsLTM3ND
+k1NzcxMF19
 -->
