@@ -2,7 +2,7 @@
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
 
-# Running the PES Debsoc
+# This House Would...
 
 Hello valued Debsoc core member,
 
@@ -24,7 +24,8 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 ~~It feels cringe to type this~~
 I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've been a part of conducting recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
 You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll definitely reply within a week. 
-There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1Xm1_dZz6VS4Kio9N6Xo82HoAT-vVU__I/view?usp=drive_link). I felt that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I started this project.
+
+There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1Xm1_dZz6VS4Kio9N6Xo82HoAT-vVU__I/view?usp=drive_link). I felt that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
 
 <br>
 <br>
@@ -844,11 +845,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3
-OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLT
-E4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5
-NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3Nz
-EwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcw
-ODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMT
-M3OTZdfQ==
+JoaXN0b3J5IjpbMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1
+NDE3NzMsOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLT
+MxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Niw0OTk1
+OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5NzMzMT
+A1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2
+OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3Nz
+YzNzZdfQ==
 -->
