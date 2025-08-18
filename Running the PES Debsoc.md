@@ -493,6 +493,7 @@ But I think you should consciously try to tell people what they got right as wel
 - If juniors just change their approach constantly, they won't really know what to keep.
 - Just like tournaments, speakers feel understood and cared for when their ideas were received by the judge. The more positive emotions people associate with the debsoc, the more they'll want to keep coming.
 - From the feedback form, something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
+![image](https://i.ibb.co/27VvCzRf/feedback-reaction.png)
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
 
@@ -850,11 +851,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5
-OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3Nz
-I3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2Nywx
-MzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1MzA1Nz
-U0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwt
-MTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNT
-YyNDMxXX0=
+JoaXN0b3J5IjpbMjE1OTUwMjczLDE2NTQ0NzM1MDEsMjE0NDYw
+NzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Njg4Ni
+wtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1
+NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3OT
+kxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4
+NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5Nj
+EzMDddfQ==
 -->
