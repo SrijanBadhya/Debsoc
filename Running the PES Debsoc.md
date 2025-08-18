@@ -448,6 +448,7 @@ The obvious solutions to this are:
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and can replace slots with people when they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
+ + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so late
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
@@ -563,8 +564,8 @@ But even if there already is someone, more seniors are always needed.
  
 Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions.
 
-
-
+When more than a room full of juniors pull up, there are a few ways to adjust it.
+You can make the extra person adj a handful of times
 Adjust with adj, or sometimes adjust with fake 'reply' speaker
 
 
@@ -880,11 +881,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIwNzc5NjUyODMsLTIxNDQ5MjAzMTIsODM5
-NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
-AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
-Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
-I1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3
-Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMD
-YyNTk2XX0=
+JoaXN0b3J5IjpbMTI5NjEyNDk5MywtMjE0NDkyMDMxMiw4Mzk3
+ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
+EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
+Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
+U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
+LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
+I1OTZdfQ==
 -->
