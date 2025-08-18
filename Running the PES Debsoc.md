@@ -670,7 +670,8 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the debsoc.
 
 
-You will be quite busy as an organizer and a judge. 
+You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
+At that moment, it's very important to tell people, to cross over, shake hands, and chill. It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
 
 
 ###  Feedback
@@ -837,11 +838,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTE3OTU0MTc3Myw5MTc5Nzk5MTEsNjUzMDU3
-NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcwNDY2MTY0LC
-0xMzE5NjA3NDY2LDQ5OTU5NTc2MCwyMDI1OTYxMzA3LDE3NTE1
-NjI0MzEsLTEyODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2My
-wxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEw
-MjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2Mj
-gyOTMwXX0=
+JoaXN0b3J5IjpbMTM2OTUwMDI1LDExNzk1NDE3NzMsOTE3OTc5
+OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMT
+g3MDQ2NjE2NCwtMTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2
+MTMwNywxNzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MT
+AsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4
+MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMz
+c5Nl19
 -->
