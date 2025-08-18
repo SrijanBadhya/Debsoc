@@ -515,7 +515,9 @@ I believe speaker scores should not be given in mocks.
 
 ### Miscellaneous
 Once you know the skill levels of people, match up teammates to make the debate 'balanced'
-- Losing debates nonstop will get to anyone. Even the weakest debater is a valuable member of the soc, and their self 
+- Losing debates nonstop will get to anyone. Even the weakest debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash.
+- So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
+- This also gives 
 
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
@@ -852,7 +854,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTUzMDE5NzAxNCw5MDc4OTczMTMsLTE5ODQ5
+JoaXN0b3J5IjpbLTE5ODg3MjI1NSw5MDc4OTczMTMsLTE5ODQ5
 OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMz
 gsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0x
 MzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMz
