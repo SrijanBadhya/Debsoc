@@ -671,7 +671,11 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 
 
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
-At that moment, it's very important to tell people, to cross over, shake hands, and chill. It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
+At that moment, it's very important to tell people, to cross over, shake hands, and chill. 
+- It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
+- When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
+- This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
+- It's very important to give the initial push for them to cross over after the debate if they don't.
 
 
 ###  Feedback
@@ -685,9 +689,6 @@ Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar dadd
 
 balancing teams in debates
 
-  
-
-Very important to tell people to cross over, shake hands, and get the community going, instead of people staying in their own seats
 
   
   
@@ -838,11 +839,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTM2OTUwMDI1LDExNzk1NDE3NzMsOTE3OTc5
-OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMT
-g3MDQ2NjE2NCwtMTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2
-MTMwNywxNzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MT
-AsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2OTc3NTAzLDE0NzA4
-MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3NzYzNzYsMTY3MjMxMz
-c5Nl19
+JoaXN0b3J5IjpbMTk2NjY1MjE2NywxMTc5NTQxNzczLDkxNzk3
+OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLT
+E4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5
+NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3Nz
+EwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcw
+ODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMT
+M3OTZdfQ==
 -->
