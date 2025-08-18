@@ -536,7 +536,8 @@ There isn't much 'risk'.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
-When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. Some
+When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and everytime the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like Aditi's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
+It is still well aligned in 
 
 
   
@@ -864,11 +865,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE2OTAzMTExODgsLTIxNDQ5MjAzMTIsODM5
-NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
-AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
-Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
-I1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3
-Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMD
-YyNTk2XX0=
+JoaXN0b3J5IjpbMTI2NTA2OTgyNiwtMjE0NDkyMDMxMiw4Mzk3
+ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
+EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
+Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
+U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
+LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
+I1OTZdfQ==
 -->
