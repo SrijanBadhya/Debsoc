@@ -667,9 +667,10 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
 - The one on one interaction could be about anything, doesn't have to be about feedback on their speech, but whatever they feel about everything.
-- The feeling of being 
+- The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the debsoc.
 
 
+###  Feedback
 
 
 
@@ -692,6 +693,7 @@ In feedback, also focus on what they did right, to encourage them to do this nex
 
   
   
+
 
 Also a great way to give feedback to debaters, is ask them questions about their case, like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". This solves 2 problems. 1. It doesn't make your feedback feel obvious to them, and more importantly, 2. It makes them feel good about themselves, and make them realize it isn't an IQ issue but a presentation issue.
 
@@ -833,11 +835,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTE5MjkxOTcxOCw2NTMwNTc1NDEsNTI5NTE0
-ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0Nj
-YsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4
-OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczND
-IsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0x
-MTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMz
-cxMjY2NzZdfQ==
+JoaXN0b3J5IjpbLTIxMDEwNDk4NDUsNjUzMDU3NTQxLDUyOTUx
+NDgxNywtMzEyMDYyNTk2LC0xODcwNDY2MTY0LC0xMzE5NjA3ND
+Y2LDQ5OTU5NTc2MCwyMDI1OTYxMzA3LDE3NTE1NjI0MzEsLTEy
+ODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3Mz
+QyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywt
+MTExMTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMj
+M3MTI2Njc2XX0=
 -->
