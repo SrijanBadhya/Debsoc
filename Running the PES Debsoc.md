@@ -431,6 +431,7 @@ If you're reading this, you would have already faced the grueling learning curve
 
 ### Time
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
+![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
 Having to sit idle before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
 Multiple different delays add up, and they should be minimized.
@@ -852,7 +853,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE0OTMzNTIyNTUsMTY1NDQ3MzUwMSwyMTQ0
+JoaXN0b3J5IjpbLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0
 NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2OD
 g2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQs
 MTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OT
