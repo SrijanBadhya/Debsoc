@@ -391,6 +391,7 @@ General comments about each speaker are nice, but they're too much work for an o
   
   
   
+scheduling, pains of us attending more sessions than recruits themselves
   
   
 
@@ -521,6 +522,8 @@ Once you know the skill levels of people, match up teammates to make the debate 
 - This also gives all debaters experience in working with different kinds of people.
 
 
+### Keeping it fun
+
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
 Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list))
 - This leads to more fun, laughter, and people feeling that the soc is a place they can have a great time in.
@@ -533,7 +536,7 @@ There isn't much 'risk'.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
-
+When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. Some
 
 
   
@@ -861,7 +864,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTExMDczMTE3MTMsLTIxNDQ5MjAzMTIsODM5
+JoaXN0b3J5IjpbLTE2OTAzMTExODgsLTIxNDQ5MjAzMTIsODM5
 NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
 AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
 Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
