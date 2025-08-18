@@ -486,11 +486,11 @@ At that moment, it's very important to tell people, to cross over, shake hands, 
 Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
 I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
 
-The impulsive way to give feedback is telling people how they messed up and what they can improve on.
-But I think you should consciously try to tell people what they got right as well for a few reasons.
-- Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something nice which they should keep doing. 
+**The impulsive way to give feedback is telling people how they messed up and what they can improve on.
+But I think you should consciously try to tell people what they got right as well for a few reasons.**
+- Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something good which they should keep going. 
 - If juniors just change their approach constantly, they won't really know what to keep.
-- From the feedback form, something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all?"
+- From the feedback form, something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
 
@@ -853,7 +853,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE0ODk1OTM5NDIsLTMwNzI1OTIxNCwxNTU4
+JoaXN0b3J5IjpbLTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4
 MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MT
 EsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcw
 NDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NTc2MCwyMDI1OTYxMz
