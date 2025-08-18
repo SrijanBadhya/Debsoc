@@ -566,8 +566,9 @@ But even if there already is someone, more seniors are always needed.
 Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions.
 
 When more than a room full of juniors pull up, there are a few ways to adjust it.
-You can make the extra person adj a handful of times
-Adjust with adj, or sometimes adjust with fake 'reply' speaker
+You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do delib with them and ask them questions, make them feel like they're exercising their debate muscle. 
+
+When we had 8 people pull up to a session before we taught them BPs, 
 
 
 # How to resolve Debsoc Drama
@@ -882,11 +883,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3
-ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
-EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
-Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
-U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
-LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
-I1OTZdfQ==
+JoaXN0b3J5IjpbLTI5MDk4NzAzNywtOTI1MDE3MTExLC0yMTQ0
+OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NT
+MsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2
+NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4OD
+k5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1
+LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MT
+Q4MTddfQ==
 -->
