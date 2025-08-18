@@ -714,7 +714,8 @@ Adjust with adj, or sometimes adjust with fake 'reply' speaker
 
   
 
-# How to solve Debsoc 
+# How to solve Debsoc Drama
+You're cooked. I'm as clueless as you.
   
   
 
@@ -728,7 +729,7 @@ For the love of god, there are better motions than THW legalize weed to use as a
 
 The counter arguments I've heard about this are
 - It's short and sweet, that's why it comes to mind easily.
-- It's more enticing and an, "oooooo" topic.
+- It's more enticing and an "oooooo" topic.
 - It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
 - It's a cool demonstration of a flip, saying that banning it makes it worse. 
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
@@ -826,11 +827,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0
-NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMD
-csMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0
-NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNj
-AyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYs
-LTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLTEyOTg1ODY1MDQsMT
-YwNzE5NjUwXX0=
+JoaXN0b3J5IjpbLTEzNzU1NzIzMTgsNTI5NTE0ODE3LC0zMTIw
+NjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1Nz
+YwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwt
+Mzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3Nz
+UwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2
+LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLT
+EyOTg1ODY1MDRdfQ==
 -->
