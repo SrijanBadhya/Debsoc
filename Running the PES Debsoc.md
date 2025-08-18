@@ -659,7 +659,12 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 
 # More on Sessions
-- Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that 
+
+Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
+- Debate feels like a college class where you're one random person lost among the masses.
+- I think the most important principle to keep in mind as a senior, is to **give individual attention to every participant**. 
+- Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
+- Make people feel v
 
 
 
@@ -825,7 +830,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTg2MDc5MDMzMCw2NTMwNTc1NDEsNTI5NTE0
+JoaXN0b3J5IjpbMTQ0NjA4MzYxMiw2NTMwNTc1NDEsNTI5NTE0
 ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0Nj
 YsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4
 OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczND
