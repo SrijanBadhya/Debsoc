@@ -654,7 +654,7 @@ A “memory erasure machine” is a device that is capable of removing specific 
 
 69. This House Would upload their consciousness to the cloud at the point of death
 
-Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it 
+Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
 
 
 
@@ -665,7 +665,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 
 
-before every debate have a short speech where you say verdict doesn't matter
+before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it.
 
 
 
@@ -827,11 +827,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEzNzU1NzIzMTgsNTI5NTE0ODE3LC0zMTIw
-NjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1Nz
-YwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwt
-Mzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3Nz
-UwMywxNDcwODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2
-LDE2NzIzMTM3OTYsLTIxMTYyODI5MzAsLTEyMzcxMjY2NzYsLT
-EyOTg1ODY1MDRdfQ==
+JoaXN0b3J5IjpbNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYy
+NTk2LC0xODcwNDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NTc2MC
+wyMDI1OTYxMzA3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUsLTM3
+NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MD
+MsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3Niwx
+NjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMj
+k4NTg2NTA0XX0=
 -->
