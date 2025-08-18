@@ -537,7 +537,10 @@ There isn't much 'risk'.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
 When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and everytime the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like Aditi's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
-It is still well aligned in 
+It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
+
+I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've impemented it twice in debsoc sessions.
+The way it works is that everyone goes to the podium, and stands in 2 lines of 3 people each. It works like an AP with no prep
 
 
   
@@ -865,7 +868,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTI2NTA2OTgyNiwtMjE0NDkyMDMxMiw4Mzk3
+JoaXN0b3J5IjpbLTk4MjA4OTI0OSwtMjE0NDkyMDMxMiw4Mzk3
 ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
 EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
 Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
