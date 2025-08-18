@@ -420,6 +420,7 @@ What I mean by this is:
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days with aftercare
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
+- before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it. Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that the
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
@@ -665,10 +666,6 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 
 
-before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it.
-
-
-
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
 
@@ -827,11 +824,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYy
-NTk2LC0xODcwNDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NTc2MC
-wyMDI1OTYxMzA3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUsLTM3
-NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MD
-MsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3Niwx
-NjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMjM3MTI2Njc2LC0xMj
-k4NTg2NTA0XX0=
+JoaXN0b3J5IjpbMzI4MjE1MTIzLDY1MzA1NzU0MSw1Mjk1MTQ4
+MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Ni
+w0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5
+NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0Mi
+wxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTEx
+MTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNz
+EyNjY3Nl19
 -->
