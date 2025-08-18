@@ -118,7 +118,7 @@ I personally would try to say don't judge the club at all.
 
 - Metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
 - However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak, or even see it clearly. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
-- Else you can also ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members.
+- Else you can also ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
 - _Common metrics people often take, are tournament wins, or number of active members, or number of active members in sessions, etc._
 - Unfortunately even the result from such a metric can be misleading. Just because you have less members this year than last year doesn't mean you were shit at running the club (but more on that later).
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
@@ -853,11 +853,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0
-NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2OD
-g2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQs
-MTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OT
-c5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5Niwt
-MTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNT
-k2MTMwN119
+JoaXN0b3J5IjpbOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0
+NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2Nz
+csLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwt
+MzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NT
+QxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0z
+MTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NT
+k1NzYwXX0=
 -->
