@@ -554,7 +554,9 @@ We have had seniors take up voluntary adjing slots using an excel sheet before, 
 
 I don't know if this is due to bystander effect because there seems to be someone already conducting the session. 
 But even if there already is someone, more seniors are always needed.
-- The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to r
+- The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to refresh.
+- When I spoke to Akshat Saxena, I realized that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
+- Case prep with a senior you've teamed up with 
 
 
 every year we have seniors take up voluntary adjing slots or whatever but it never works out.
@@ -880,11 +882,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNjYyMDQyNDI3LC0yMTQ0OTIwMzEyLDgzOTc4
-MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMS
-wyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3
-Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNT
-kyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMs
-OTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2Mj
-U5Nl19
+JoaXN0b3J5IjpbLTEyODg2NTI0ODYsLTIxNDQ5MjAzMTIsODM5
+NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
+AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
+Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
+I1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3
+Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMD
+YyNTk2XX0=
 -->
