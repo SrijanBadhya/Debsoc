@@ -659,7 +659,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 
 # More on Sessions
-- The
+- Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that 
 
 
 
@@ -825,7 +825,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTc3Nzk0MjM2Nyw2NTMwNTc1NDEsNTI5NTE0
+JoaXN0b3J5IjpbMTg2MDc5MDMzMCw2NTMwNTc1NDEsNTI5NTE0
 ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0Nj
 YsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4
 OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczND
