@@ -495,7 +495,8 @@ But I think you should consciously try to tell people what they got right as wel
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
 
-(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more
+(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, but was too much in the zone of 'constructive criticism').
+
 
 
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
@@ -855,11 +856,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTcxNTg5MDMxMiwtMTMyODg5OTIwMSwtMzA3
-MjU5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNz
-czLDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIw
-NjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1Nz
-YwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwt
-Mzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3Nz
-UwM119
+JoaXN0b3J5IjpbLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMw
+NzI1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MT
+c3Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEy
+MDYyNTk2LC0xODcwNDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NT
+c2MCwyMDI1OTYxMzA3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUs
+LTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nz
+c1MDNdfQ==
 -->
