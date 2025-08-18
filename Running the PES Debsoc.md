@@ -447,16 +447,19 @@ The obvious solutions to this are:
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
-Here are the motions I used in 2024-2025. They were curated to fit the motion criteria talked about earlier. I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
+Here are the motions I used in 2024-2025.
+[Motion list](#motion-list)
+ They were curated to fit the motion criteria talked about earlier. I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
 So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
+
 
 I had prioritized parenting, education, and romance motions, but feedback showed that people soon got bored of these motions and wanted different ones.
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 But you can consider occasionally catering to these people (I should have).
 
 
-Here's a link to the list of motions u.
+
 
 
 
@@ -846,11 +849,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbODUzODY2MDA3LDE1NTgzNDUyNjcsMTM1MjM2
-MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNT
-I5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2
-MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMS
-wtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQy
-NDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMz
-A3XX0=
+JoaXN0b3J5IjpbLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNTIz
+NjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLD
+UyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcwNDY2MTY0LC0xMzE5
+NjA3NDY2LDQ5OTU5NTc2MCwyMDI1OTYxMzA3LDE3NTE1NjI0Mz
+EsLTEyODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0
+MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEwMjYxMj
+MwN119
 -->
