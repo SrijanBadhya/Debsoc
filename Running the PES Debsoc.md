@@ -680,6 +680,9 @@ At that moment, it's very important to tell people, to cross over, shake hands, 
 
 ###  Feedback
 
+Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
+I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
+
 
 
 
@@ -839,11 +842,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTk2NjY1MjE2NywxMTc5NTQxNzczLDkxNzk3
-OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLT
-E4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5
-NjEzMDcsMTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3Nz
-EwLDc0NjcwOTYzLDE2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcw
-ODEwNjAyLC0yMTAyNjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMT
-M3OTZdfQ==
+JoaXN0b3J5IjpbLTIwNjQ0NzQ1NTIsMTE3OTU0MTc3Myw5MTc5
+Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC
+0xODcwNDY2MTY0LC0xMzE5NjA3NDY2LDQ5OTU5NTc2MCwyMDI1
+OTYxMzA3LDE3NTE1NjI0MzEsLTEyODk3MzMxMDUsLTM3NDk1Nz
+cxMCw3NDY3MDk2MywxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3
+MDgxMDYwMiwtMjEwMjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMz
+EzNzk2XX0=
 -->
