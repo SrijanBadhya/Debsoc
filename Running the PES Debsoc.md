@@ -504,10 +504,12 @@ This solves 2 problems.
 
 I believe speaker scores should not be given in mocks.
 - Speaker scores are such a scam, different adjes give different speaker scores, and brackets are also unclear.
-- At least with feedback you can give everyone feedback. With  public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the
+- At least with feedback you can give everyone feedback and criticize them all. With public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the eyes of an average fresher)
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
-speaker scores are cringe to give in mocks
-'omg they won't know how speaker scores work in real tournaments then' is a weak excuse. slowly toughening people up is important, and keeping them happy to some level. When they've already had a bad day, shit speaks can further mess the up.
+- When they've already had a bad day, shit speaks can further mess them up. 
+- The argument against this is, "omg they won't know how speaker scores work in real tournaments then", but the harms outweigh the benefits. It's not really important to know how speakers scores work at tournam
+
+
 
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
@@ -855,11 +857,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTc0MzQ0MTk0MCwtMTM3Nzk2ODg2LC0xODM2
-ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NT
-I2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1
-MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2Nj
-E2NCwtMTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2MTMwNywx
-NzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2Nz
-A5NjNdfQ==
+JoaXN0b3J5IjpbLTE5NzE1OTUxODYsLTEzNzc5Njg4NiwtMTgz
+Njg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzND
+UyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2
+NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0Nj
+YxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMDcs
+MTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0Nj
+cwOTYzXX0=
 -->
