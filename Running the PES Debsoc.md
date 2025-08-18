@@ -455,6 +455,189 @@ I had prioritized parenting, education, and romance motions, but feedback showed
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 But you can consider occasionally catering to these people (I should have).
 
+
+Here's a link to the list of motions u.
+
+
+
+Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
+- Debate feels like a college class where you're one random person lost among the masses.
+- I think the most important principle to keep in mind as a senior, is to **give individual attention to every participant**. 
+- Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
+- Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and like they don't belong.
+- Everyone belongs, so make sure they do feel that they belong.
+- The one on one interaction could be about anything, doesn't have to be about feedback on their speech, but whatever they feel about everything.
+- The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the debsoc.
+
+
+You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
+At that moment, it's very important to tell people, to cross over, shake hands, and chill. 
+- It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
+- When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
+- This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
+- It's very important to give the initial push for them to cross over after the debate if they don't.
+
+
+###  Feedback
+
+Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
+I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
+
+The impulsive way to give feedback is telling people how they messed up and what they can improve on.
+But I think you should consciously try to tell people what they got right as well for a few reasons.
+- Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something nice which they should keep doing. 
+
+
+
+Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
+
+
+balancing teams in debates
+
+
+  
+  
+  
+
+In feedback, also focus on what they did right, to encourage them to do this next time
+
+  
+  
+
+
+Also a great way to give feedback to debaters, is ask them questions about their case, like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". This solves 2 problems. 1. It doesn't make your feedback feel obvious to them, and more importantly, 2. It makes them feel good about themselves, and make them realize it isn't an IQ issue but a presentation issue.
+
+  
+  
+
+speaker scores are cringe to give in mocks
+'omg they won't know how speaker scores work in real tournaments then' is a weak excuse. slowly toughening people up is important, and keeping them happy to some level. When they've already had a bad day, shit speaks can further mess the up.
+  
+  
+  
+
+scheduling, pains of us attending more sessions than recruits themselves
+
+  
+
+every year we have seniors take up voluntary adjing slots or whatever but it never works out.
+
+  
+
+Senior judge: junior participant ratio is a big deal. Early on too many juniors. One way to combat is having more seniors. Another way is spreading out sessions even more.
+
+Having too many seniors always better than too less seniors, you can always pro am case prep or something
+
+Adjust with adj, or sometimes adjust with fake 'reply' speaker
+
+  
+
+# How to solve Debsoc Drama
+You're cooked. I'm just as clueless as you.
+
+
+# Keeping up debate spirit and passion:
+[Back to Table of Contents](#table-of-contents)
+
+For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
+- Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
+- So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
+- Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
+
+The counter arguments I've heard about this are
+- It's short and sweet, that's why it comes to mind easily.
+- It's more enticing and an "oooooo" topic.
+- It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
+- It's a cool demonstration of a flip, saying that banning it makes it worse. 
+- "If the first motion I encounter in the soc is something dry like parents and education I might leave"
+
+
+one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
+
+  
+
+Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
+
+  I support not playing pranks in the initial days cuz it erodes trust in the clubheads.
+  
+
+Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
+
+  
+  
+
+Akshath Saxena, seniors need to have and show passion for it to flow to juniors
+
+  
+
+
+we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
+
+  
+
+A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
+
+  
+
+Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
+
+  
+
+don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
+
+  
+  
+
+the narrative of adjing being bad is spread through statements like, "You'd better come early next time if you wanna speak", etc
+
+  
+
+Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
+
+  
+quote the adjing thing from how to start a debating society.
+
+
+A lot of time there are people who genuinely care about improving in debating but don't attend sessions
+
+  
+
+Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
+
+
+  freeloaders need to be banned. It's awkward, but you need to stand your ground.
+  
+
+Share motion, share random fun pictures, make people feel the fomo
+
+  
+
+a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
+
+  
+
+Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community.
+
+  
+
+Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
+
+  
+
+As Aditi Mallya girls said, mix it up, have fun, keep debating fun, do random stuff like Alley debating
+
+Also turncoat, especially on low turnout days
+
+
+  
+
+talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
+
+  
+
+Talk about whatsapp group chats and why you need an admins only sessions group
+
+
 ## Motion list
 
 #### Motions used in round 1 & 2
@@ -658,198 +841,16 @@ A “memory erasure machine” is a device that is capable of removing specific 
 
 Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
 
-
-# More on Sessions
-
-Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
-- Debate feels like a college class where you're one random person lost among the masses.
-- I think the most important principle to keep in mind as a senior, is to **give individual attention to every participant**. 
-- Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
-- Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and like they don't belong.
-- Everyone belongs, so make sure they do feel that they belong.
-- The one on one interaction could be about anything, doesn't have to be about feedback on their speech, but whatever they feel about everything.
-- The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the debsoc.
-
-
-You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
-At that moment, it's very important to tell people, to cross over, shake hands, and chill. 
-- It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
-- When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
-- This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
-- It's very important to give the initial push for them to cross over after the debate if they don't.
-
-
-###  Feedback
-
-Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
-I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
-
-The impulsive way to give feedback is telling people how they messed up and what they can improve on.
-But I think you should consciously try to tell people what they got right as well for a few reasons.
-- Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something nice which they should keep doing. 
-
-
-
-Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
-
-
-balancing teams in debates
-
-
-  
-  
-  
-
-In feedback, also focus on what they did right, to encourage them to do this next time
-
-  
-  
-
-
-Also a great way to give feedback to debaters, is ask them questions about their case, like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". This solves 2 problems. 1. It doesn't make your feedback feel obvious to them, and more importantly, 2. It makes them feel good about themselves, and make them realize it isn't an IQ issue but a presentation issue.
-
-  
-  
-
-speaker scores are cringe to give in mocks
-'omg they won't know how speaker scores work in real tournaments then' is a weak excuse. slowly toughening people up is important, and keeping them happy to some level. When they've already had a bad day, shit speaks can further mess the up.
-  
-  
-  
-
-scheduling, pains of us attending more sessions than recruits themselves
-
-  
-
-every year we have seniors take up voluntary adjing slots or whatever but it never works out.
-
-  
-
-Senior judge: junior participant ratio is a big deal. Early on too many juniors. One way to combat is having more seniors. Another way is spreading out sessions even more.
-
-Having too many seniors always better than too less seniors, you can always pro am case prep or something
-
-Adjust with adj, or sometimes adjust with fake 'reply' speaker
-
-  
-
-# How to solve Debsoc Drama
-You're cooked. I'm just as clueless as you.
-
-
-# Keeping up debate spirit and passion:
-[Back to Table of Contents](#table-of-contents)
-
-For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
-- Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
-- So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
-- Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
-
-The counter arguments I've heard about this are
-- It's short and sweet, that's why it comes to mind easily.
-- It's more enticing and an "oooooo" topic.
-- It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
-- It's a cool demonstration of a flip, saying that banning it makes it worse. 
-- "If the first motion I encounter in the soc is something dry like parents and education I might leave"
-
-
-one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
-
-  
-
-Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
-
-  I support not playing pranks in the initial days cuz it erodes trust in the clubheads.
-  
-
-Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
-
-  
-  
-
-Akshath Saxena, seniors need to have and show passion for it to flow to juniors
-
-  
-
-
-we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
-
-  
-
-A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
-
-  
-
-Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
-
-  
-
-don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
-
-  
-  
-
-the narrative of adjing being bad is spread through statements like, "You'd better come early next time if you wanna speak", etc
-
-  
-
-Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
-
-  
-quote the adjing thing from how to start a debating society.
-
-
-A lot of time there are people who genuinely care about improving in debating but don't attend sessions
-
-  
-
-Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
-
-
-  freeloaders need to be banned. It's awkward, but you need to stand your ground.
-  
-
-Share motion, share random fun pictures, make people feel the fomo
-
-  
-
-a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
-
-  
-
-Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community.
-
-  
-
-Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
-
-  
-
-As Aditi Mallya girls said, mix it up, have fun, keep debating fun, do random stuff like Alley debating
-
-Also turncoat, especially on low turnout days
-
-
-  
-
-talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
-
-  
-
-Talk about whatsapp group chats and why you need an admins only sessions group
-
-
-
  
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1
-NDE3NzMsOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLT
-MxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Niw0OTk1
-OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5NzMzMT
-A1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0MiwxOTU2
-OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTExMTE3Nz
-YzNzZdfQ==
+JoaXN0b3J5IjpbODUzODY2MDA3LDE1NTgzNDUyNjcsMTM1MjM2
+MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNT
+I5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2
+MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMS
+wtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLDE2NjQy
+NDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAyNjEyMz
+A3XX0=
 -->
