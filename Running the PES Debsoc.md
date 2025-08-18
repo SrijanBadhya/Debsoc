@@ -508,7 +508,7 @@ I believe speaker scores should not be given in mocks.
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
 - When they've already had a bad day, shit speaks can further mess them up. 
 - The argument against this is, "omg they won't know how speaker scores work in real tournaments then", but the harms outweigh the benefits. It's not really important to know how speakers scores work at tournaments unless you're a judge.
-- Another argument is that people can track their progress, but speaker scores are quite stagnant and vibe based, even great debaters often score 75s, and this c
+- Another argument is that people can track their progress, but speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
 
 
 
@@ -517,16 +517,6 @@ Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar dadd
 
 balancing teams in debates
 
- 
- 
-
-  
-  
-
-
-  
-  
-  
 
 scheduling, pains of us attending more sessions than recruits themselves
 
@@ -542,7 +532,6 @@ Having too many seniors always better than too less seniors, you can always pro 
 
 Adjust with adj, or sometimes adjust with fake 'reply' speaker
 
-  
 
 # How to solve Debsoc Drama
 You're cooked. I'm just as clueless as you.
@@ -858,11 +847,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE4Mzg0MzQwNzYsLTEzNzc5Njg4NiwtMTgz
-Njg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzND
-UyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2
-NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0Nj
-YxNjQsLTEzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMDcs
-MTc1MTU2MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0Nj
-cwOTYzXX0=
+JoaXN0b3J5IjpbLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2
+ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NT
+I2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1
+MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2Nj
+E2NCwtMTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2MTMwNywx
+NzUxNTYyNDMxLC0xMjg5NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2Nz
+A5NjNdfQ==
 -->
