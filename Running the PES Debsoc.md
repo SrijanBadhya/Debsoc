@@ -455,7 +455,7 @@ Feel free to reuse these motions or compile new ones.
 
 
 I had prioritized parenting, education, and romance motions, but feedback shows that people soon got bored of these motions and wanted different ones too.
-
+![enter image description here](https://ibb.co/qYy7w2cN)
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 But you can consider occasionally catering to these people (I should have).
 
@@ -850,11 +850,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQw
-NjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OT
-IwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwx
-MTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0OD
-E3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYs
-NDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2MjQzMSwtMTI4OT
-czMzEwNV19
+JoaXN0b3J5IjpbLTU4MTEzNDkyOCwyMTQ0NjA3OTMyLC02OTc5
+OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3Nz
+I3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2Nywx
+MzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1MzA1Nz
+U0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwt
+MTMxOTYwNzQ2Niw0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNT
+YyNDMxXX0=
 -->
