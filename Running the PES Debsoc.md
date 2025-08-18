@@ -522,11 +522,12 @@ Once you know the skill levels of people, match up teammates to make the debate 
 
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
-Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion
+Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (sr
 - People won't straight up complain to the PES management about this. 
 - It can't be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
-- Through many debates people 
+- Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
+- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
 
 
@@ -857,11 +858,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbOTU0OTc3NDg3LC0yMTQ0OTIwMzEyLDgzOTc4
-MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMS
-wyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3
-Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNT
-kyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMs
-OTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2Mj
-U5Nl19
+JoaXN0b3J5IjpbLTkxMzgyOTA1NywtMjE0NDkyMDMxMiw4Mzk3
+ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
+EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
+Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
+U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
+LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
+I1OTZdfQ==
 -->
