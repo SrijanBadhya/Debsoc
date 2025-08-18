@@ -408,7 +408,7 @@ Lateral entry people are very important, make sure they know they're allowed, an
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are going to feel sad at the end of a session. Sadness cannot be avoided, only minimized.
 
-Debate is a weird sport, and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial.
+Debate is a weird sport, and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial.
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality.
 
 What I mean by this is:
@@ -855,7 +855,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNTI2MDkzOTQ0LDkwNzg5NzMxMywtMTk4NDk5
+JoaXN0b3J5IjpbODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5
 MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOC
 wtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEz
 Mjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNj
