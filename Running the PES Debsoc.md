@@ -725,7 +725,6 @@ Adjust with adj, or sometimes adjust with fake 'reply' speaker
 # How to solve Debsoc Drama
 You're cooked. I'm just as clueless as you.
 
-  
 
 # Keeping up debate spirit and passion:
 [Back to Table of Contents](#table-of-contents)
@@ -835,11 +834,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4
-MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Ni
-w0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5
-NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0Mi
-wxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTEx
-MTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNz
-EyNjY3Nl19
+JoaXN0b3J5IjpbNDA5MzEwMDQxLDkxNzk3OTkxMSw2NTMwNTc1
+NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLT
+EzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2
+MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLD
+E2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAy
+NjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyOD
+I5MzBdfQ==
 -->
