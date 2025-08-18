@@ -670,6 +670,9 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the debsoc.
 
 
+You will be quite busy as an organizer and a judge. 
+
+
 ###  Feedback
 
 
@@ -834,11 +837,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNDA5MzEwMDQxLDkxNzk3OTkxMSw2NTMwNTc1
-NDEsNTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLT
-EzMTk2MDc0NjYsNDk5NTk1NzYwLDIwMjU5NjEzMDcsMTc1MTU2
-MjQzMSwtMTI4OTczMzEwNSwtMzc0OTU3NzEwLDc0NjcwOTYzLD
-E2NjQyNDczNDIsMTk1Njk3NzUwMywxNDcwODEwNjAyLC0yMTAy
-NjEyMzA3LC0xMTExNzc2Mzc2LDE2NzIzMTM3OTYsLTIxMTYyOD
-I5MzBdfQ==
+JoaXN0b3J5IjpbMTE3OTU0MTc3Myw5MTc5Nzk5MTEsNjUzMDU3
+NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcwNDY2MTY0LC
+0xMzE5NjA3NDY2LDQ5OTU5NTc2MCwyMDI1OTYxMzA3LDE3NTE1
+NjI0MzEsLTEyODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2My
+wxNjY0MjQ3MzQyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEw
+MjYxMjMwNywtMTExMTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2Mj
+gyOTMwXX0=
 -->
