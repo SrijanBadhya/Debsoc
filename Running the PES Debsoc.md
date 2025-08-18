@@ -520,9 +520,11 @@ Once you know the skill levels of people, match up teammates to make the debate 
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
 
-- Debate can get boring fast until you've stayed long enough to acquire the taste. 
-Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), sugar daddy motions
-- People won't straight up complain to 
+
+Debate can get boring fast until you've stayed long enough to acquire the taste. 
+Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion
+- People won't straight up complain to the PES management about this. 
+- The most 
 
 
 
@@ -853,11 +855,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5
-NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5Mz
-IsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4
-MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4Mz
-Q1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MTEs
-NjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcwND
-Y2MTY0XX0=
+JoaXN0b3J5IjpbMTM4MjQ0NTE5OSwtMjE0NDkyMDMxMiw4Mzk3
+ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
+EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
+Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
+U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
+LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
+I1OTZdfQ==
 -->
