@@ -723,8 +723,8 @@ Adjust with adj, or sometimes adjust with fake 'reply' speaker
   
 
 # How to solve Debsoc Drama
-You're cooked. I'm as clueless as you.
-  
+You're cooked. I'm just as clueless as you.
+
   
 
 # Keeping up debate spirit and passion:
@@ -835,11 +835,11 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIxMDEwNDk4NDUsNjUzMDU3NTQxLDUyOTUx
-NDgxNywtMzEyMDYyNTk2LC0xODcwNDY2MTY0LC0xMzE5NjA3ND
-Y2LDQ5OTU5NTc2MCwyMDI1OTYxMzA3LDE3NTE1NjI0MzEsLTEy
-ODk3MzMxMDUsLTM3NDk1NzcxMCw3NDY3MDk2MywxNjY0MjQ3Mz
-QyLDE5NTY5Nzc1MDMsMTQ3MDgxMDYwMiwtMjEwMjYxMjMwNywt
-MTExMTc3NjM3NiwxNjcyMzEzNzk2LC0yMTE2MjgyOTMwLC0xMj
-M3MTI2Njc2XX0=
+JoaXN0b3J5IjpbOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4
+MTcsLTMxMjA2MjU5NiwtMTg3MDQ2NjE2NCwtMTMxOTYwNzQ2Ni
+w0OTk1OTU3NjAsMjAyNTk2MTMwNywxNzUxNTYyNDMxLC0xMjg5
+NzMzMTA1LC0zNzQ5NTc3MTAsNzQ2NzA5NjMsMTY2NDI0NzM0Mi
+wxOTU2OTc3NTAzLDE0NzA4MTA2MDIsLTIxMDI2MTIzMDcsLTEx
+MTE3NzYzNzYsMTY3MjMxMzc5NiwtMjExNjI4MjkzMCwtMTIzNz
+EyNjY3Nl19
 -->
