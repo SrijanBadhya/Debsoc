@@ -523,7 +523,10 @@ Once you know the skill levels of people, match up teammates to make the debate 
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
 Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list))
-- This l
+- This leads to more fun, laughter, and people feeling that the soc is a place they can have a great time in.
+- Being informal and saying weird stuff makes people get more open and comfortable with each other.
+
+There isn't much 'risk'.
 - People won't straight up complain to the PES management about this. 
 - It can't be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
@@ -859,7 +862,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTA1OTAyNTE3OSwtMjE0NDkyMDMxMiw4Mzk3
+JoaXN0b3J5IjpbLTM2ODI3OTU0NSwtMjE0NDkyMDMxMiw4Mzk3
 ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
 EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
 Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
