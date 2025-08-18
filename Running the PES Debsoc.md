@@ -491,8 +491,10 @@ At that moment, it's very important to tell people, to cross over, shake hands, 
 Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
 I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
 
-Ideally the judges who conduct sessions are ones who've read and understood the manual, so that they have
-Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about".
+Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
+- Their feedback is far likelier to be valid.
+- Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech"
+- Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about".
 
 **The impulsive way to give feedback is telling people how they messed up and what they can improve on.
 But I think you should consciously try to tell people what they got right as well for a few reasons.**
@@ -886,11 +888,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMzgzNjc4MTM0LC00OTk4NzA3ODEsLTkyNTAx
-NzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3MzEzLC
-0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3
-OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2Nz
-cyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcs
-MTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNT
-c1NDFdfQ==
+JoaXN0b3J5IjpbLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUw
+MTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMy
+wtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5
+Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Nj
+c3MjcsLTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3
+LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MTEsNjUzMD
+U3NTQxXX0=
 -->
