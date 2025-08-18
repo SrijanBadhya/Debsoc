@@ -520,10 +520,9 @@ Once you know the skill levels of people, match up teammates to make the debate 
 - This also gives all debaters experience in working with different kinds of people.
 
 - Debate can get boring fast until you've stayed long enough to acquire the taste. 
-Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
+Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), sugar daddy motions
+- People won't straight up complain to 
 
-
-balancing teams in debates
 
 
 scheduling, pains of us attending more sessions than recruits themselves
@@ -698,8 +697,6 @@ Infoslide: Streaming refers to the grouping of students of similar academic achi
 
 20. TH prefers a religion which preaches that one's fate in the world is predetermined rather than one that preaches that one's choice influences it (idk about this one)
 
-
-
 21. This house supports the trend of adult children going no contact with their parents. 
 
 22. This house believes that governments in the developing world should limit migration to major cities.
@@ -855,11 +852,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5
-MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOC
-wtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEz
-Mjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNj
-IwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLDUy
-OTUxNDgxNywtMzEyMDYyNTk2LC0xODcwNDY2MTY0LC0xMzE5Nj
-A3NDY2XX0=
+JoaXN0b3J5IjpbMTcyMTQwMjk5LDgzOTc4MDY5NCw5MDc4OTcz
+MTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC
+02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2
+ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NT
+I2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1
+MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2Nj
+E2NF19
 -->
