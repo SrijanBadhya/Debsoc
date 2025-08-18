@@ -450,7 +450,7 @@ The obvious solutions to this are:
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
  + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so people who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
- + Making latecomers adj can be problematic to how adjing is treated (Srijan link to the adj rant later)
+ + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates (Srijan link to the adj rant later)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
 Here are the motions I used in 2024-2025.
@@ -883,11 +883,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEyNDgzNzYyODgsLTkyNTAxNzExMSwtMjE0
-NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxOD
-UzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03
-NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyOD
-g5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAw
-NSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NT
-E0ODE3XX0=
+JoaXN0b3J5IjpbLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0
+OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NT
+MsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2
+NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4OD
+k5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1
+LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MT
+Q4MTddfQ==
 -->
