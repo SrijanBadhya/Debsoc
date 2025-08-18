@@ -556,16 +556,15 @@ I don't know if this is due to bystander effect because there seems to be someon
 But even if there already is someone, more seniors are always needed.
 - The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to refresh.
 - When I spoke to Akshat Saxena, I realized that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
-- Case prep with a senior you've teamed up with 
+- Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
+- Having too many seniors is always better than having too less seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the ca
 
-
-every year we have seniors take up voluntary adjing slots or whatever but it never works out.
 
   
 
 Senior judge: junior participant ratio is a big deal. Early on too many juniors. One way to combat is having more seniors. Another way is spreading out sessions even more.
 
-Having too many seniors always better than too less seniors, you can always pro am case prep or something
+
 
 Adjust with adj, or sometimes adjust with fake 'reply' speaker
 
@@ -882,11 +881,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEyODg2NTI0ODYsLTIxNDQ5MjAzMTIsODM5
-NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
-AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
-Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
-I1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3
-Myw5MTc5Nzk5MTEsNjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMD
-YyNTk2XX0=
+JoaXN0b3J5IjpbMTI1MDM4NDU4MCwtMjE0NDkyMDMxMiw4Mzk3
+ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
+EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
+Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
+U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
+LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
+I1OTZdfQ==
 -->
