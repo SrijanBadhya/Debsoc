@@ -540,10 +540,15 @@ When there have been 2 or 3 people showing up for a session (like it often happe
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
 
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've impemented it twice in debsoc sessions.
-The way it works is that everyone goes to the podium, and stands in 2 lines of 3 people each. It works like an AP with no prep
+The way it works is that everyone goes to the podium, and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1 minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
+It was fun cuz of how goofy it was, and very time efficient too.
 
 
-  
+  ### A few issues that persist with respect to sessions
+
+Dividing the workload
+
+
 
 every year we have seniors take up voluntary adjing slots or whatever but it never works out.
 
@@ -868,11 +873,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTk4MjA4OTI0OSwtMjE0NDkyMDMxMiw4Mzk3
-ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
-EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
-Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
-U5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzcz
-LDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0zMTIwNj
-I1OTZdfQ==
+JoaXN0b3J5IjpbMjExOTYxOTA0LC0yMTQ0OTIwMzEyLDgzOTc4
+MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMS
+wyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3
+Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNT
+kyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMs
+OTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2Mj
+U5Nl19
 -->
