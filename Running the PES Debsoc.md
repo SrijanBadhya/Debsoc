@@ -399,7 +399,8 @@ Lateral entry people are very important, make sure they know they're allowed, an
   
   
   
-  
+  last day of recruitments, meme day,
+  you can also see how comfortable juniors have gotten with you, if they shit on you the way you've told them to.
   
 
 # Inside a session
@@ -852,11 +853,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTcyMTQwMjk5LDgzOTc4MDY5NCw5MDc4OTcz
-MTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC
-02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2
-ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NT
-I2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1
-MzA1NzU0MSw1Mjk1MTQ4MTcsLTMxMjA2MjU5NiwtMTg3MDQ2Nj
-E2NF19
+JoaXN0b3J5IjpbLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5
+NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5Mz
+IsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4
+MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4Mz
+Q1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MTEs
+NjUzMDU3NTQxLDUyOTUxNDgxNywtMzEyMDYyNTk2LC0xODcwND
+Y2MTY0XX0=
 -->
