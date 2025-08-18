@@ -448,8 +448,9 @@ The obvious solutions to this are:
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and can replace slots with people when they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
- + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so late
+ + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so people who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
+ + Making latecomers adj can be problematic to how adjing is treated (Srijan link to the adj rant later)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
 Here are the motions I used in 2024-2025.
@@ -881,7 +882,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTI5NjEyNDk5MywtMjE0NDkyMDMxMiw4Mzk3
+JoaXN0b3J5IjpbLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3
 ODA2OTQsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MD
 EsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEz
 Nzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3Mj
