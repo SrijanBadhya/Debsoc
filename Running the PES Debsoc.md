@@ -498,9 +498,13 @@ But I think you should consciously try to tell people what they got right as wel
 (I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, but was too much in the zone of 'constructive criticism').
 
 A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". 
-This solves 2 problems. 1. It doesn't make your feedback feel obvious to them, and more importantly, 2. It makes them feel good about themselves, and make them realize it isn't an IQ issue but a presentation issue.
+This solves 2 problems. 
+1. It doesn't make your feedback feel obvious to them, and more importantly, 
+2. It makes them feel good about themselves, and makes them realize it isn't an inherent IQ issue but a presentation issue.
 
 
+speaker scores are cringe to give in mocks
+'omg they won't know how speaker scores work in real tournaments then' is a weak excuse. slowly toughening people up is important, and keeping them happy to some level. When they've already had a bad day, shit speaks can further mess the up.
 
 Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar daddy motions
 
@@ -508,17 +512,12 @@ Sprinkle in stuff like Harry Potter motions, PES motions (carefully), sugar dadd
 balancing teams in debates
 
  
-  
-  
-
-
-Also a great way to give feedback to debaters, is ask them questions about their case, like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". This solves 2 problems. 1. It doesn't make your feedback feel obvious to them, and more importantly, 2. It makes them feel good about themselves, and make them realize it isn't an IQ issue but a presentation issue.
+ 
 
   
   
 
-speaker scores are cringe to give in mocks
-'omg they won't know how speaker scores work in real tournaments then' is a weak excuse. slowly toughening people up is important, and keeping them happy to some level. When they've already had a bad day, shit speaks can further mess the up.
+
   
   
   
@@ -853,7 +852,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTc3NDkzODc2MCwtMTgzNjg2NzcyNywtMTMy
+JoaXN0b3J5IjpbLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywtMTMy
 ODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1MjM2Mj
 AwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5
 NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MD
