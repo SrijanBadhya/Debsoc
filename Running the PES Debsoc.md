@@ -491,6 +491,9 @@ At that moment, it's very important to tell people, to cross over, shake hands, 
 Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
 I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
 
+Ideally the judges who conduct sessions are ones who've read and understood the manual, so that they have
+Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about".
+
 **The impulsive way to give feedback is telling people how they messed up and what they can improve on.
 But I think you should consciously try to tell people what they got right as well for a few reasons.**
 - Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something good which they should keep going. 
@@ -883,11 +886,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0
-OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NT
-MsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2
-NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4OD
-k5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1
-LDExNzk1NDE3NzMsOTE3OTc5OTExLDY1MzA1NzU0MSw1Mjk1MT
-Q4MTddfQ==
+JoaXN0b3J5IjpbMzgzNjc4MTM0LC00OTk4NzA3ODEsLTkyNTAx
+NzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3MzEzLC
+0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3
+OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2Nz
+cyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcs
+MTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNT
+c1NDFdfQ==
 -->
