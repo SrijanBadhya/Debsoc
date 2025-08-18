@@ -293,7 +293,7 @@ Why is this new model better?
 
 how making people pro am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth.
 
-
+Talk about what wasn't implementable from Nikhil's model either.
 
 
 explain why no pois.
@@ -853,11 +853,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0
-NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2Nz
-csLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwt
-MzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NT
-QxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEsNTI5NTE0ODE3LC0z
-MTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMTk2MDc0NjYsNDk5NT
-k1NzYwXX0=
+JoaXN0b3J5IjpbLTE5Mjc3NjY1NzIsOTA3ODk3MzEzLC0xOTg0
+OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MD
+M4LC03NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywt
+MTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1Mj
+M2MjAwNSwxMTc5NTQxNzczLDkxNzk3OTkxMSw2NTMwNTc1NDEs
+NTI5NTE0ODE3LC0zMTIwNjI1OTYsLTE4NzA0NjYxNjQsLTEzMT
+k2MDc0NjZdfQ==
 -->
