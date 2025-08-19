@@ -45,7 +45,7 @@ Alternate systems conceptualized or once followed will be in _italics_.
 
 # Table of Contents
 I. [Guiding Principles](#guiding-principles)
-	1. [The Point of a Debate Club](#the-point-of-a-debate-club)
+	1.  [The Point of a Debate Club](#the-point-of-a-debate-club)
 	2.
 II. [Recruitments](#recruitments)
 III. [Inside a session](#inside-a-session)
@@ -902,7 +902,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODg2MTY5Njc3LC0xMDYzNDI2ODAwLDUwNjU5MD
+c3RvcnkiOlsxMzE4NDA2ODY5LC0xMDYzNDI2ODAwLDUwNjU5MD
 Y5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0
 LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3Mj
 YyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0Mjcw
