@@ -624,6 +624,7 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 ### Encouraging Adjing is Complicated
 
 [Link back to the 'Time' subsection if you came from the link there](#time)
+#### My story
 The debsoc controversy I am the most infamous for is my history with Adjudication.
 This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 2 weeks before the tournament, there were 5 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
@@ -957,11 +958,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OT
-MzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4
-OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLT
-k4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYz
-MjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Nj
-c1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05
-ODgzNTU3NzBdfQ==
+c3RvcnkiOlsxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0xODA1ND
+QxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNjc0Nzkx
+LC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2ODAwLD
+UwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0
+MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5Mz
+kzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0
+ODM0MjcwMjddfQ==
 -->
