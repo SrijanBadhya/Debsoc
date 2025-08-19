@@ -370,7 +370,7 @@ This incentive to debate is only short term
 
 
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
-
+This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people will either be dead, will have forgotten details, or will be able to laugh it off.
 
 
 We often do this weird thing where we don't make them feel safe and like, "they've already debated enough to be in", because we don't want them to be lazy and stop showing up, but I don't think it's good to give them anxiety either and psych them later.
@@ -943,7 +943,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTk5ODk5NTk3LDIxMTk5MzM2MjMsLTE1MzYyNz
+c3RvcnkiOlstNDAxNTU3NzAxLDIxMTk5MzM2MjMsLTE1MzYyNz
 I2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4
 LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMj
 gyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYz
