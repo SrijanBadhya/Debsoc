@@ -176,6 +176,8 @@ I'll come to the group discussion part later, but **the month-long recruitment w
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3.
 - + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases.)
 
+A few i
+
 This level of selectivity captured the most benefits, and I believe that aiming to be more selective gives diminishing marginal benefits and leads to more harms.
 
 Which takes us to, **why we should extremely push for inclusivity**:
@@ -286,7 +288,8 @@ Why is this new model better?
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
-Also I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both 
+Also I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), cause it leads to a higher quality debate.
+![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 
 
@@ -889,7 +892,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTg0ODU1NDIxNCwtNDg5NDk4MDY1LC00OTk4
+JoaXN0b3J5IjpbMTkzNDI1NDYzMSwtNDg5NDk4MDY1LC00OTk4
 NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
 QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
 NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
