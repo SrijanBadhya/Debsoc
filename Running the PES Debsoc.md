@@ -65,9 +65,10 @@ III. [Inside a session](#inside-a-session)
 3. [Feedback](#feedback)
 4. [Balancing](#balancing)
 5. [Keeping It Fun](#keeping-it-fun)
-	i)[Turncoat](#turncoat)
-	ii)[Alley Debating](#alley-debating) 
+	a) [Turncoat](#turncoat)
+	b) [Alley Debating](#alley-debating) 
 6. [Issues](#a-few-issues-of-sessions-that-persist)
+
 IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
@@ -925,7 +926,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAyNDQxNzQzNiwtMjEzMzY0MTA4OCwtMTY4OD
+c3RvcnkiOlstMTAyMjk3NTg2MCwtMjEzMzY0MTA4OCwtMTY4OD
 kyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Njcx
 MywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MS
 wxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4
