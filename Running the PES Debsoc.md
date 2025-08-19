@@ -49,7 +49,7 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-1. [Recruitment Concepts](#recruitment-concepts)
+3. [Recruitment Concepts](#recruitment-concepts)
      i) [History](#history)
      ii) [Depth wise inclusivity](#depth-wise-inclusivity)
      iii) [Breadth wise inclusivity](#breadth-wise-inclusivity)
@@ -57,9 +57,11 @@ II. [Recruitments](#recruitments)
      - [Round 1](#round-1)
      - [Round 2](#round-2)
      v) Something
-2. [Recruitment Logistics](#recruitment-logistics)
+4. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
+5. [Session Concepts](#session-concepts)
+6. 
 
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
@@ -436,7 +438,8 @@ Lateral entry people are very important, make sure they know they're allowed, an
 
 # Inside a session
 [Back to Table of Contents](#table-of-contents)
-  
+
+## Session Concepts
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are going to feel sad at the end of a session. Sadness cannot be avoided, only minimized.
 
@@ -915,11 +918,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODczMjg5NTcxLC0xNjg4OTIwMTQ4LC0xMDYzND
-I2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2
-LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMT
-c5ODI5MzkzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2
-NjU2LDE0ODM0MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC
-00OTk4NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3
-ODA2OTRdfQ==
+c3RvcnkiOlstMTA1MzIwNTIxNCwtMTY4ODkyMDE0OCwtMTA2Mz
+QyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4
+NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLD
+E3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1
+NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NS
+wtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5
+NzgwNjk0XX0=
 -->
