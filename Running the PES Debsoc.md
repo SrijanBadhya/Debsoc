@@ -68,10 +68,10 @@ III. [Inside a session](#inside-a-session)
 	i)[Turncoat](#turncoat)
 	ii)[Alley Debating](#alley-debating) 
 6. [Issues](#a-few-issues-of-sessions-that-persist)
-IV. [How 
+IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
-Appendix (i) [Easy Accessible Motion List)
+Appendix (i) [Easy Accessible Motion List](#motion-list)
 
 
   ## Guiding Principles
@@ -719,7 +719,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 
 
 ## Motion list
-
+[Back to Table of Contents](#table-of-contents)
 #### Motions used in round 1 & 2
 1.  This house, as Aditya, would give Shreya the elixir.
 
@@ -925,7 +925,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI1MzYxNDI0NiwtMjEzMzY0MTA4OCwtMTY4OD
+c3RvcnkiOlstMjAyNDQxNzQzNiwtMjEzMzY0MTA4OCwtMTY4OD
 kyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Njcx
 MywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MS
 wxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4
