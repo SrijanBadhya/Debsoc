@@ -628,6 +628,7 @@ This was before CUPD, my first tournament. My seniors put up a poll for speakers
 2 weeks before the tournament, there were 5 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
 As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
 The 5 of us continued to avoid discussion about which 3 would form a team and which 2 would adj.
+In an attempt 
 
 
 
@@ -955,7 +956,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjcwOTk0MTY2LC0xODA1NDQxOTk1LDIxMTk5Mz
+c3RvcnkiOlstNjI3MTQ0NzQzLC0xODA1NDQxOTk1LDIxMTk5Mz
 M2MjMsLTE1MzYyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4
 LC0xNjg4OTIwMTQ4LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOT
 g5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMy
