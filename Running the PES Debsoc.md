@@ -619,6 +619,9 @@ You can make the extra person adj a handful of times, but make sure they don't f
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
+### Online Sessions
+At the beginn
+
 
 # How to resolve Debsoc Drama
 You're cooked. I'm just as clueless as you.
@@ -926,11 +929,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMjU1MDMxMjcsMjExOTkzMzYyMywtMTUzNjI3Mj
-Y0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgs
-LTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyOD
-IxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMwNjM3
-ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMwMzcwLC
-01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC00ODk0
-OTgwNjVdfQ==
+c3RvcnkiOlstMjEwNTIxMDM4MywyMTE5OTMzNjIzLC0xNTM2Mj
+cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
+OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
+I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
+Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNz
+AsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4
+OTQ5ODA2NV19
 -->
