@@ -176,7 +176,9 @@ I'll come to the group discussion part later, but **the month-long recruitment w
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3.
 - + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases.)
 
-A few i
+A few issues with the month long recruitment:
+- First year B.Tech and other branches have different exam schedules, and people will always
+- + Another issue this leads to is that if all seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
 
 This level of selectivity captured the most benefits, and I believe that aiming to be more selective gives diminishing marginal benefits and leads to more harms.
 
@@ -892,11 +894,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTkzNDI1NDYzMSwtNDg5NDk4MDY1LC00OTk4
-NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
-QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
-NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
-g4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0
-LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNz
-k3OTkxMV19
+JoaXN0b3J5IjpbLTIxMjYzODIwMTMsLTQ4OTQ5ODA2NSwtNDk5
+ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNj
+k0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIx
+NDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OT
+Y4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNzI1OTIx
+NCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MT
+c5Nzk5MTFdfQ==
 -->
