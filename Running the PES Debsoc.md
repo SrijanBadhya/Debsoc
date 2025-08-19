@@ -506,7 +506,7 @@ Feedback is often tricky when your brain has shut down after the debate and you 
 I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
-- Their feedback is far likelier to be valid.
+- Their feedback is far more likely to be valid.
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech".
 - Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". So they may never realize their mistake.
 
@@ -899,11 +899,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5OTUxOTU2ODgsNTA2NTkwNjk5LC05ODk3NjY3MT
-MsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEs
-MTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1OD
-MwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1Nzcw
-LC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMT
-Q0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4
-NTNdfQ==
+c3RvcnkiOlstMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Nj
+cxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4
+MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNT
+U4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3
+NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLT
+IxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5
+MTg1M119
 -->
