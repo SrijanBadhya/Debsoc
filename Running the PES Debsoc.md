@@ -286,6 +286,7 @@ Why is this new model better?
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
+Also I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both 
 
 
 
@@ -888,11 +889,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTE0NDY0NzkwLC00ODk0OTgwNjUsLTQ5OTg3
-MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NC
-w5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0
-NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2OD
-g2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQs
-MTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OT
-c5OTExXX0=
+JoaXN0b3J5IjpbLTg0ODU1NDIxNCwtNDg5NDk4MDY1LC00OTk4
+NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
+QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
+NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
+g4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0
+LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNz
+k3OTkxMV19
 -->
