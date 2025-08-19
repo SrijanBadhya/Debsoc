@@ -424,7 +424,7 @@ Lateral entry people are very important, make sure they know they're allowed, an
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are going to feel sad at the end of a session. Sadness cannot be avoided, only minimized.
 
-Debate is a weird sport, and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial.
+Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial.
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality.
 
 What I mean by this is:
@@ -899,11 +899,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NT
-Y4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4Njcx
-LDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNj
-Q1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2
-NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsOD
-M5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDcz
-NTAxXX0=
+c3RvcnkiOls5OTUxOTU2ODgsNTA2NTkwNjk5LC05ODk3NjY3MT
+MsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEs
+MTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1OD
+MwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1Nzcw
+LC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMT
+Q0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4
+NTNdfQ==
 -->
