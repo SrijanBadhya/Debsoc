@@ -132,9 +132,9 @@ I personally would try to say don't judge the club at all.
 
 ## Recruitment Concepts
   
-Thise single most important activity of a club.
+This is the single most important activity of a club.
 
-The single place (besides arguably PESDT) where systems matter the most, because you have an enormous scaled up load to handle.
+This is the single place (besides arguably PESDT) where systems matter the most, because you have an enormous scaled up load to handle.
 
 First, a brief view on how recruitments were done in the past:
 _For my batch (2021, but recruitments ended up happening in the January of 2022), we had one online round with a quick 1v1 debate, since this was the covid era. 3+1 minute speeches with one witness, and once the debate ended, we had no contact._
@@ -294,18 +294,18 @@ Why is this new model better?
 - It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
 - Group discussion portrays the wrong picture of what debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
 - Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
-- Mid-Debate Strategy Sessions: After the first speeches from both teams, the teams re-discuss for 5 minutes together. This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive process from the previous step continues.
+- Mid-Debate Strategy Sessions: This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive process from the previous step continues.
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
-Also, I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), cause it leads to a higher quality debate.
+Also, I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), because it leads to a higher quality debate.
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 
 
 
 Talk about what wasn't implementable from Nikhil's model either. 
-how making people pro am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth.
+how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth.
 
 
 
@@ -899,7 +899,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMzQ3NzgyNjksLTk4OTc2NjcxMywtMTI4MjE1NT
+c3RvcnkiOls1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NT
 Y4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4Njcx
 LDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNj
 Q1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2
