@@ -45,14 +45,15 @@ Alternate systems conceptualized or once followed will be in _italics_.
 
 # Table of Contents
 I. [The Point of a Debate Club](#the-point-of-a-debate-club)
+	1. [The Point of a Debate Club](#the-point-of-a-debate-club)
 II. [Recruitments](#recruitments)
 III. [Inside a session](#inside-a-session)
+
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
 
 
-  ## The point of a Debate Club
-_aka Guiding Principles_
+  ## Th
 
 <br>
 <br>
@@ -112,7 +113,7 @@ Some of us believe that being more chill and having more people for fun, is wort
 
 
 
-
+#### Metrics
 So if not tournament wins, what metric _do_ you judge the club by?
 I personally would try to say don't judge the club at all. 
 
@@ -899,7 +900,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDc4MDI4NjgxLC0xMDYzNDI2ODAwLDUwNjU5MD
+c3RvcnkiOlstNTkxMTI1MDY5LC0xMDYzNDI2ODAwLDUwNjU5MD
 Y5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0
 LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3Mj
 YyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0Mjcw
