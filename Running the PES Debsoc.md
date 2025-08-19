@@ -356,7 +356,7 @@ Talk about how we thought about handling the load by having slots. But this is w
 
 Talk about how system, data filling errors are so common, regardless of how careful you think you are
 
-  code word stuff in round 2, people talk about their teammates, they don't remember names, etc etc.
+code word stuff in round 2, people talk about their teammates, they don't remember names, etc etc.
 
 Even the current system was not perfect, we missed out on phone numbers during attendance, and some wrong people were added because sometimes we relied on only WhatsApp numbers names that they put, and messed up with the people who put names like ~.
 
@@ -898,11 +898,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4
-NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
-QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
-NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
-g4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0
-LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNz
-k3OTkxMV19
+JoaXN0b3J5IjpbLTYxODIwNDAyNiwtOTg4MzU1NzcwLC00ODk0
+OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMz
+EyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1
+NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2Nj
+Y3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAx
+LC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNz
+k1NDE3NzNdfQ==
 -->
