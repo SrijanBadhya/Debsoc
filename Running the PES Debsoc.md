@@ -533,9 +533,9 @@ I believe speaker scores should not be given in mocks.
 - Another argument is that people can track their progress, but speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
 
 
-### Miscellaneous
+### Balancing
 Once you know the skill levels of people, match up teammates to make the debate 'balanced'.
-- Losing debates nonstop will get to anyone. Even the weakest debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash.
+- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc)
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
 
@@ -894,7 +894,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTEwNzc2ODQ1ODksMTQ4MzQyNzAyNywtOTg4
+JoaXN0b3J5IjpbLTE0MDA1MDM4NzYsMTQ4MzQyNzAyNywtOTg4
 MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MT
 ExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5
 ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OT
