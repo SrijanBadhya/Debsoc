@@ -49,7 +49,7 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-1. [Recruitment Concepts](#recruitment-concepts)
+3. [Recruitment Concepts](#recruitment-concepts)
      a) [History](#history)
      b) [Depth wise inclusivity](#depth-wise-inclusivity)
      c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
@@ -57,17 +57,18 @@ II. [Recruitments](#recruitments)
 	     &emsp; i) [Round 1](#round-1)
 	     &emsp; ii) [Round 2](#round-2)
      e) Something
-2. [Recruitment Logistics](#recruitment-logistics)
+4. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
-1. [Session Concepts](#session-concepts)
-2. [Time](#time)
-3. [Feedback](#feedback)
-4. [Balancing](#balancing)
-5. [Keeping It Fun](#keeping-it-fun)
+5. [Session Concepts](#session-concepts)
+6. [Time](#time)
+7. [Feedback](#feedback)
+8. [Balancing](#balancing)
+9. [Keeping It Fun](#keeping-it-fun)
 	a) [Turncoat](#turncoat)
 	b) [Alley Debating](#alley-debating) 
-6. [Issues](#a-few-issues-of-sessions-that-persist)
+10. [Issues](#a-few-issues-of-sessions-that-persist)
+11. [Online sessions](#online-sessions) 
 
 IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -620,7 +621,7 @@ You can make the extra person adj a handful of times, but make sure they don't f
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
 ### Online Sessions
-At the beginn
+At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home, 
 
 
 # How to resolve Debsoc Drama
@@ -929,7 +930,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjEwNTIxMDM4MywyMTE5OTMzNjIzLC0xNTM2Mj
+c3RvcnkiOlstMTI0ODAzMjU5NiwyMTE5OTMzNjIzLC0xNTM2Mj
 cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
 OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
 I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
