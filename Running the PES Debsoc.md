@@ -54,7 +54,7 @@ II. [Recruitments](#recruitments)
      ii) [Depth wise inclusivity](#depth-wise-inclusivity)
      iii) [Breadth wise inclusivity](#breadth-wise-inclusivity)
      iv) [The 2024 Model](#the-2024-model)
-     -
+     - [Round 1](#round-1)
 5. 
 III. [Inside a session](#inside-a-session)
 
@@ -253,8 +253,8 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
 
-### The 2024 model
-#### Round 1
+## The 2024 model
+### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
 
 I'll just quote from Nikhil's document here. 
@@ -373,7 +373,7 @@ Talk about how we thought about handling the load by having slots. But this is w
 
 Talk about how system, data filling errors are so common, regardless of how careful you think you are
 
-code word stuff in round 2, people talk about their teammates, they don't remember names, etc etc.
+code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
 Even the current system was not perfect, we missed out on phone numbers during attendance, and some wrong people were added because sometimes we relied on only WhatsApp numbers names that they put, and messed up with the people who put names like ~.
 
@@ -912,11 +912,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzU4ODYyMzM1LC0xMDYzNDI2ODAwLDUwNjU5MD
-Y5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0
-LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3Mj
-YyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0Mjcw
-MjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3ODEsLT
-kyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3
-MzEzXX0=
+c3RvcnkiOlstMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OT
+A2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIz
+NCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNz
+I2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3
+MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC
+05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5
+NzMxM119
 -->
