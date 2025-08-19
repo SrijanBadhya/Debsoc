@@ -49,7 +49,7 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-1. [Recruitment Concepts](#recruitment-concepts)
+3. [Recruitment Concepts](#recruitment-concepts)
      a) [History](#history)
      b) [Depth wise inclusivity](#depth-wise-inclusivity)
      c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
@@ -60,7 +60,7 @@ II. [Recruitments](#recruitments)
 4. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
-1. [Session Concepts](#session-concepts)
+5. [Session Concepts](#session-concepts)
 6. [Time](#time)
 7. [Feedback](#feedback)
 8. [Balancing](#balancing)
@@ -68,7 +68,8 @@ III. [Inside a session](#inside-a-session)
 	a) [Turncoat](#turncoat)
 	b) [Alley Debating](#alley-debating) 
 10. [Issues](#a-few-issues-of-sessions-that-persist)
-11. [Online sessions](#online-sessions) 
+11. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
+12. [Online sessions](#online-sessions) 
 
 IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -622,9 +623,9 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 
 ### Encouraging Adjing is Complicated
 
-[Link back to the time subsection if you came from the link there](#time)
+[Link back to the 'Time' subsection if you came from the link there](#time)
 The debsoc controversy I am the most infamous for is my history with Adjudication.
-This was before CUPD, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
+This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 2 weeks before the tournament, there were 5 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
 As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
 The 5 of us continued to avoid discussion about which 3 would form a team and which 2 would adj.
@@ -956,11 +957,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjI3MTQ0NzQzLC0xODA1NDQxOTk1LDIxMTk5Mz
-M2MjMsLTE1MzYyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4
-LC0xNjg4OTIwMTQ4LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOT
-g5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMy
-NDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3MjYyNDc2Nz
-UsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0MjcwMjcsLTk4
-ODM1NTc3MF19
+c3RvcnkiOlstMTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OT
+MzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4
+OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLT
+k4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYz
+MjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Nj
+c1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05
+ODgzNTU3NzBdfQ==
 -->
