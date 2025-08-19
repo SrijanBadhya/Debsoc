@@ -220,6 +220,7 @@ Now talking about inclusivity with respect to flexibility of slots:
 ### Breadth wise inclusivity
 - We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 - But when you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 10% likely, when you take a sample of 100 people, you get 10 people this event happens to.
+- Moreover since Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, regardless of how interested they are in the Debsoc.
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
 - + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way.
 - Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people.
@@ -895,11 +896,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1
-NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NS
-wtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5
-NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
-AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
-Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
-I1OTIxNF19
+JoaXN0b3J5IjpbLTE0NDAxODM2OTQsNzI2MjQ3Njc1LC0yNTU4
+MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3Nz
+AsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIx
+NDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MT
+g1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwt
+NzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMj
+g4OTkyMDFdfQ==
 -->
