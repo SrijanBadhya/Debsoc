@@ -492,7 +492,7 @@ The obvious solutions to this are:
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
  + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so people who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
- + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates (Srijan link to the adj rant later)
+ + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#encouraging-adjing-is-complicated)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
 Here are the motions I used in 2024-2025.
@@ -943,11 +943,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
-cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
-OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
-I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
-Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNz
-AsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4
-OTQ5ODA2NV19
+c3RvcnkiOlstODA1MDYyNiwtMTgwNTQ0MTk5NSwyMTE5OTMzNj
+IzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwt
+MTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OT
+c2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3
+MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC
+0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgz
+NTU3NzBdfQ==
 -->
