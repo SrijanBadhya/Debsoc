@@ -855,7 +855,7 @@ It is far into the future. Earth is no longer habitable for life, and the human 
 60. As opposed to financing green energy start-ups, this house believes that states should financially incentivize existing fossil fuel companies' transition into green energy.
  
 
-61. This house believes that buddig creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
+61. This house believes that budding creators of books and tv/movie series should follow the general wishes of fans when creating the series instead of pursuing their own creative desires (eg. Harry getting together with Ginny instead of Hermione in the Harry Potter series as per what the majority of fans wanted)
 
 
 62. This house, as Harry Potter, would have used The Imperius Curse on Voldemort and control him to do good for the society
@@ -894,11 +894,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTk5MDY3Mzg2MywxNDgzNDI3MDI3LC05ODgz
-NTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMT
-EsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4
-NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5OD
-AzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3Mjcs
-LTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNT
-IzNjIwMDVdfQ==
+JoaXN0b3J5IjpbLTEwNzc2ODQ1ODksMTQ4MzQyNzAyNywtOTg4
+MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MT
+ExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5
+ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OT
+gwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3
+LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMz
+UyMzYyMDA1XX0=
 -->
