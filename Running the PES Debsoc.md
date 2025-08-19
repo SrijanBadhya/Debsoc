@@ -50,7 +50,9 @@ I. [Guiding Principles](#guiding-principles)
 
 II. [Recruitments](#recruitments)
 1. [Recruitment Concepts](#recruitment-concepts)
-     i) 
+     i) [History](#history)
+     ii) [Depth wise inclusivity](#depth-wise-inclusivity)
+     iii) [Breadth wise inclusivity](#breadth-wise-inclusivity)
 5. 
 III. [Inside a session](#inside-a-session)
 
@@ -908,7 +910,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyODgwODM4MTUsLTEwNjM0MjY4MDAsNTA2NTkwNj
+c3RvcnkiOlszOTA5NTQ3OTAsLTEwNjM0MjY4MDAsNTA2NTkwNj
 k5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQs
 LTE2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNj
 I0NzY3NSwtMjU1ODMwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAy
