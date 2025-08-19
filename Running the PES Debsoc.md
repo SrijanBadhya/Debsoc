@@ -442,7 +442,7 @@ Multiple different delays add up, and they should be minimized.
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors.
 
 The obvious solutions to this are:
-1. Do whatever it takes to show up as early as possible, or have someone there.
+1. Do whatever it takes to show up as early as possible, or have someone there to get things going.
 2. **Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
  + You can't always rely on the people who voted to arrive, and this would result in waiting unnecessarily for nobody.
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
@@ -888,11 +888,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUw
-MTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMy
-wtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5
-Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Nj
-c3MjcsLTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3
-LDEzNTIzNjIwMDUsMTE3OTU0MTc3Myw5MTc5Nzk5MTEsNjUzMD
-U3NTQxXX0=
+JoaXN0b3J5IjpbLTU5MzgyMDUxMSwtNDg5NDk4MDY1LC00OTk4
+NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
+QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
+NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
+g4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0
+LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNz
+k3OTkxMV19
 -->
