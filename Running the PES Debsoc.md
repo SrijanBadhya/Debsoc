@@ -44,10 +44,10 @@ The claims will be in **bold**, and the reasons will be in white bullet points. 
 Alternate systems conceptualized or once followed will be in _italics_. 
 
 # Table of Contents
-1. [The Point of a Debate Club](#the-point-of-a-debate-club)
-1. [Recruitments](#recruitments)
-2. [Inside a session:](#inside-a-session)
-3. 
+I. [The Point of a Debate Club](#the-point-of-a-debate-club)
+II. [Recruitments](#recruitments)
+III. [Inside a session](#inside-a-session)
+IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
 
 
@@ -899,11 +899,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Nj
-cxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4
-MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNT
-U4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3
-NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLT
-IxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5
-MTg1M119
+c3RvcnkiOlstNDc4MDI4NjgxLC0xMDYzNDI2ODAwLDUwNjU5MD
+Y5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0
+LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3Mj
+YyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0Mjcw
+MjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3ODEsLT
+kyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3
+MzEzXX0=
 -->
