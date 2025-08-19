@@ -216,6 +216,7 @@ Taking a few points out of Nikhil's recruitment document:
 
 
 Now talking about inclusivity with respect to flexibility of slots:
+
 ### Breadth wise inclusivity
 - We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 - But when you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 10% likely, when you take a sample of 100 people, you get 10 people this event happens to.
@@ -894,11 +895,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNjczMzI2NDQ4LC01MTY0NTY2NTYsMTQ4MzQy
-NzAyNywtOTg4MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MS
-wtOTI1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4
-OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OT
-MyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0x
-ODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1OD
-M0NTI2N119
+JoaXN0b3J5IjpbLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0
+MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3OD
+EsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3
+ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNz
+kzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Njg4Niwt
+MTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NT
+gzNDUyNjddfQ==
 -->
