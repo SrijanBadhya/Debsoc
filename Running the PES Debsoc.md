@@ -552,7 +552,7 @@ But I think you should consciously try to tell people what they got right as wel
 
 A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". 
 This solves 2 problems. 
-1. If you gave regular feedback, it might feel wrong to them (like they disagree with you but they won't push you more on it)
+1. If you gave regular feedback, it might feel wrong to them (like they disagree with you, but they won't push you more on it)
 2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
 3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but a presentation issue.
 
@@ -567,7 +567,7 @@ I believe speaker scores should not be given in mocks.
 
 ### Balancing
 Once you know the skill levels of people, match up teammates to make the debate 'balanced' occasionally.
-- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
+- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
 
@@ -584,7 +584,7 @@ There isn't much 'risk'.
 - It can't be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
-- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
+- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier.
 
 #### Turncoat
 When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
@@ -632,6 +632,7 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - Conversation between the seniors and juniors often ends after the OA/feedback. You have to consciously initiate further conversation. However offline, conversation would happen naturally on the way to the gate.
 - Nobody really leaves an impression, you can't often remember debating alongside someone if they were just a name on your screen.
 - People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
+- If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
 
 However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
 
@@ -942,11 +943,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MzQyMjAyMTEsMjExOTkzMzYyMywtMTUzNjI3Mj
-Y0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgs
-LTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyOD
-IxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMwNjM3
-ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMwMzcwLC
-01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC00ODk0
-OTgwNjVdfQ==
+c3RvcnkiOlsxNTk5ODk5NTk3LDIxMTk5MzM2MjMsLTE1MzYyNz
+I2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4
+LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMj
+gyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYz
+Nzg2NzEsMTc5ODI5MzkzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MC
+wtNTE2NDU2NjU2LDE0ODM0MjcwMjcsLTk4ODM1NTc3MCwtNDg5
+NDk4MDY1XX0=
 -->
