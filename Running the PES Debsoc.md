@@ -628,7 +628,9 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - Without being able to see each other, conversation quickly turns awkward.
 - People talk over each other each other making everything more awkward.
 - It's easy to become depressed post your debate because you're all alone (happens to me often).
-- The impressions of people aren't that 
+- The impressions of people aren't that impactful.
+- Conversation between the seniors and juniors often ends after the OA/feedback. You have to consciously initiate further conversation. However offline, conversation would happen naturally on the way to the gate.
+- People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
 
 
 # How to resolve Debsoc Drama
@@ -937,11 +939,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODI3NDM5MTk4LDIxMTk5MzM2MjMsLTE1MzYyNz
-I2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4
-LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMj
-gyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYz
-Nzg2NzEsMTc5ODI5MzkzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MC
-wtNTE2NDU2NjU2LDE0ODM0MjcwMjcsLTk4ODM1NTc3MCwtNDg5
-NDk4MDY1XX0=
+c3RvcnkiOls2Njg2ODkyNTAsMjExOTkzMzYyMywtMTUzNjI3Mj
+Y0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgs
+LTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyOD
+IxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMwNjM3
+ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMwMzcwLC
+01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC00ODk0
+OTgwNjVdfQ==
 -->
