@@ -201,6 +201,7 @@ So the reasons for being inclusive regardless of 'skill' are:
 - - The focus is not on who the people are now, they're freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
+![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
 - - A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
@@ -897,11 +898,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOT
-M5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1Niwx
-NDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5OD
-cwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0
-LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIxND
-Q2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4
-ODZdfQ==
+c3RvcnkiOlstMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mz
+c4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAs
+LTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OT
+Q5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAz
+MTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNj
+U0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2
+Njc3XX0=
 -->
