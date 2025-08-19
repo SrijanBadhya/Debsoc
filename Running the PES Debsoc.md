@@ -67,8 +67,8 @@ The single biggest purpose of a club is to ==provide value to every single membe
 
 Why do people want to join a club?
 
-- They believe the activity would be enjoyable
-- They believe they'll learn something from the activity
+- They believe the activity would be enjoyable.
+- They believe they'll learn something from the activity.
 - They believe they'll be able to hang out with fun nice people.
 
 I will henceforth link all my arguments to these impacts of joy, growth, and community.
@@ -897,11 +897,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Nj
-c1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05
-ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMT
-cxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywt
-MTk4NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nz
-k5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3
-MjddfQ==
+c3RvcnkiOlstMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOT
+M5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1Niwx
+NDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5OD
+cwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0
+LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNTAxLDIxND
+Q2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0xMzc3OTY4
+ODZdfQ==
 -->
