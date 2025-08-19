@@ -47,9 +47,10 @@ Alternate systems conceptualized or once followed will be in _italics_.
 I. [Guiding Principles](#guiding-principles)
 1. [The Point of a Debate Club](#the-point-of-a-debate-club)
 2. [Metrics](#metrics)
-3.
+
 II. [Recruitments](#recruitments)
-4. Re
+1. [Recruitment Concepts](#recruitment-concepts)
+2. 
 III. [Inside a session](#inside-a-session)
 
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -247,6 +248,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 
 
 ### The 2024 model
+### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
 
 I'll just quote from Nikhil's document here. 
@@ -904,11 +906,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzA1ODAzNjQ4LC0xMDYzNDI2ODAwLDUwNjU5MD
-Y5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0
-LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3Mj
-YyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0Mjcw
-MjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3ODEsLT
-kyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3
-MzEzXX0=
+c3RvcnkiOlstMjExMDIwNjk3OCwtMTA2MzQyNjgwMCw1MDY1OT
+A2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIz
+NCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNz
+I2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3
+MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC
+05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5
+NzMxM119
 -->
