@@ -596,7 +596,7 @@ The way it works is that everyone goes to the podium and stands in 2 lines of 3 
 It was fun cuz of how goofy it was, and very time efficient too.
 
 
-  ### A few issues of sessions that persist
+  ## A few issues of sessions that persist
 
 Dividing the workload:
 
@@ -619,6 +619,12 @@ When more than a room full of juniors pull up, there are a few ways to adjust it
 You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
+
+### Encouraging Adjing is Complicated
+
+
+[Link back to the beginning of Sessions if you came from the link there]
+
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -943,11 +949,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODA1MDYyNiwtMTgwNTQ0MTk5NSwyMTE5OTMzNj
-IzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwt
-MTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OT
-c2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3
-MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC
-0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgz
-NTU3NzBdfQ==
+c3RvcnkiOls2MTUwODI4NTEsLTE4MDU0NDE5OTUsMjExOTkzMz
+YyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgs
+LTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05OD
+k3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0
+NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NS
+wtMjU1ODMwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4
+MzU1NzcwXX0=
 -->
