@@ -615,7 +615,7 @@ But even if there already is someone, **more seniors are always needed.**
 Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions.
 
 When more than a room full of juniors pull up, there are a few ways to adjust it.
-You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do delib with them and ask them questions, make them feel like they're exercising their debate muscle. 
+You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
@@ -926,11 +926,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5Mj
-AxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMs
-LTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMT
-MwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMw
-MzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC
-00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0
-OTIwMzEyXX0=
+c3RvcnkiOlstMTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2ND
+EwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5
+LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLT
+E2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0
+NzY3NSwtMjU1ODMwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNy
+wtOTg4MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1
+MDE3MTExXX0=
 -->
