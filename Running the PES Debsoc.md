@@ -504,7 +504,7 @@ I personally write down my feedback while the speeches are going on. The moment 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
 - Their feedback is far likelier to be valid.
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech"
-- Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about".
+- Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". So they may never realize their mistake.
 
 **The impulsive way to give feedback is telling people how they messed up and what they can improve on.
 But I think you should consciously try to tell people what they got right as well for a few reasons.**
@@ -898,7 +898,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTQ2NzEyODU1NCwtOTg4MzU1NzcwLC00ODk0
+JoaXN0b3J5IjpbMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC00ODk0
 OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMz
 EyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1
 NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2Nj
