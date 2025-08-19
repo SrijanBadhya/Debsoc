@@ -278,6 +278,7 @@ Why is this bad?
 - Except maybe for panel deliberation, the skills tested in the group discussion round are never explicitly used in parliamentary debating. Sure, skills like quick thinking and being adaptive are transferable, but there are other methods to assess this.
 - Participants might leave with the impression that cutting through the noise and voicing out their opinion is rewarded, and those who cannot do this will be dissuaded. This is bad because it goes against the fundamental aspects of debating, which are to carefully listen to other arguments and present yours without the fear of interruption.
 - Many participants, including myself, felt left out of the conversation due to the social dynamics of the discussion. The moderator did try to include all participants manually, but this did not solve the fundamental problem with the method of testing.
+- (From Srijan) A huge chunk of our loyal debaterbase comes from people who struggle with social anxiety who commit to the debsoc in hopes 
 
 
 Nikhil's round 2 in 2024 had the following features:
@@ -898,7 +899,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTU4NDM4NTIyLC0xMjgyMTU1Njg2LC0xODc0MD
+c3RvcnkiOlstNDUxNTQwMjM3LC0xMjgyMTU1Njg2LC0xODc0MD
 E1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5Mzkz
 MCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0OD
 M0MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3
