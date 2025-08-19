@@ -50,7 +50,8 @@ I. [Guiding Principles](#guiding-principles)
 
 II. [Recruitments](#recruitments)
 1. [Recruitment Concepts](#recruitment-concepts)
-2. 
+     i) 
+5. 
 III. [Inside a session](#inside-a-session)
 
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -142,6 +143,7 @@ This is the single most important activity of a club.
 
 This is the single place (besides arguably PESDT) where systems matter the most, because you have an enormous scaled up load to handle.
 
+### History
 First, a brief view on how recruitments were done in the past:
 _For my batch (2021, but recruitments ended up happening in the January of 2022), we had one online round with a quick 1v1 debate, since this was the covid era. 3+1 minute speeches with one witness, and once the debate ended, we had no contact._
 _The debsoc would take in everyone who participated in this round._
@@ -248,7 +250,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 
 
 ### The 2024 model
-### Round 1
+#### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
 
 I'll just quote from Nikhil's document here. 
@@ -906,11 +908,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjExMDIwNjk3OCwtMTA2MzQyNjgwMCw1MDY1OT
-A2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIz
-NCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNz
-I2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3
-MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC
-05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5
-NzMxM119
+c3RvcnkiOlsyODgwODM4MTUsLTEwNjM0MjY4MDAsNTA2NTkwNj
+k5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQs
+LTE2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNj
+I0NzY3NSwtMjU1ODMwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAy
+NywtOTg4MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOT
+I1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTcz
+MTNdfQ==
 -->
