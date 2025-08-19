@@ -455,7 +455,7 @@ The obvious solutions to this are:
 
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
- They were curated to fit the motion criteria talked about earlier. I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
+ They were curated to fit the motion criteria talked about earlier (srijan link to this later). I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
 So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
 
@@ -888,11 +888,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTU5MzgyMDUxMSwtNDg5NDk4MDY1LC00OTk4
-NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
-QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
-NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
-g4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0
-LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNz
-k3OTkxMV19
+JoaXN0b3J5IjpbMTE0NDY0NzkwLC00ODk0OTgwNjUsLTQ5OTg3
+MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NC
+w5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0
+NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2OD
+g2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQs
+MTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OT
+c5OTExXX0=
 -->
