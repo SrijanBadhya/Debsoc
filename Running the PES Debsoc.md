@@ -53,6 +53,8 @@ II. [Recruitments](#recruitments)
      i) [History](#history)
      ii) [Depth wise inclusivity](#depth-wise-inclusivity)
      iii) [Breadth wise inclusivity](#breadth-wise-inclusivity)
+     iv) [The 2024 Model](#the-2024-model)
+     -
 5. 
 III. [Inside a session](#inside-a-session)
 
@@ -910,11 +912,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszOTA5NTQ3OTAsLTEwNjM0MjY4MDAsNTA2NTkwNj
-k5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQs
-LTE2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNj
-I0NzY3NSwtMjU1ODMwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAy
-NywtOTg4MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOT
-I1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTcz
-MTNdfQ==
+c3RvcnkiOlsxNzU4ODYyMzM1LC0xMDYzNDI2ODAwLDUwNjU5MD
+Y5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1MjM0
+LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5MzkzMCw3Mj
+YyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0Mjcw
+MjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3ODEsLT
+kyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3
+MzEzXX0=
 -->
