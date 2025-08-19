@@ -432,7 +432,7 @@ What I mean by this is:
 - + beginners don't think about regulation, mismanagement, and long term consequences.
 - + so even if there is tremendous learning potential after the round, people can feel depressed during the round.
 - not being brutally honest and telling speakers their speeches were shit in the early days.
-- spending extra time and effort in the early days compared to later days with aftercare
+- spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
 - **before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
 
@@ -465,7 +465,7 @@ The obvious solutions to this are:
 
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
- They were curated to fit the motion criteria talked about earlier (srijan link to this later). I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
+ They were curated to fit the motion criteria talked about earlier this chapter. I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
 So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
 
@@ -898,7 +898,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTYxODIwNDAyNiwtOTg4MzU1NzcwLC00ODk0
+JoaXN0b3J5IjpbMjAzNTQwNjQ5NSwtOTg4MzU1NzcwLC00ODk0
 OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMz
 EyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1
 NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2Nj
