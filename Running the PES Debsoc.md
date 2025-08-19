@@ -49,22 +49,22 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-3. [Recruitment Concepts](#recruitment-concepts)
-     i) [History](#history)
-     ii) [Depth wise inclusivity](#depth-wise-inclusivity)
-     iii) [Breadth wise inclusivity](#breadth-wise-inclusivity)
-     iv) [The 2024 Model](#the-2024-model)
+1. [Recruitment Concepts](#recruitment-concepts)
+     a) [History](#history)
+     b) [Depth wise inclusivity](#depth-wise-inclusivity)
+     c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
+     d) [The 2024 Model](#the-2024-model)
      - [Round 1](#round-1)
      - [Round 2](#round-2)
-     v) Something
-4. [Recruitment Logistics](#recruitment-logistics)
+     e) Something
+2. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
-5. [Session Concepts](#session-concepts)
-6. [Time](#time)
-7. [Feedback](#feedback)
-8. [Balancing](#balancing)
-9. [Keeping It Fun](#keeping-it-fun)
+1. [Session Concepts](#session-concepts)
+2. [Time](#time)
+3. [Feedback](#feedback)
+4. [Balancing](#balancing)
+5. [Keeping It Fun](#keeping-it-fun)
 	i)[Turncoat](#turncoat)
 	ii)[Alley Debating](#alley-debating) 
 
@@ -923,11 +923,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2Mz
-QyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4
-NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLD
-E3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1
-NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NS
-wtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5
-NzgwNjk0XX0=
+c3RvcnkiOlszNTAyMjg1MzgsLTIxMzM2NDEwODgsLTE2ODg5Mj
+AxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMs
+LTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMT
+MwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMw
+MzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC
+00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0
+OTIwMzEyXX0=
 -->
