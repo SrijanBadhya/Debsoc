@@ -520,9 +520,9 @@ But I think you should consciously try to tell people what they got right as wel
 
 A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". 
 This solves 2 problems. 
-1. It doesn't make your feedback feel wrong to them (like they disagree with you but they won't push you more on it)
-2. 
-3. It makes them feel good about themselves, and makes them realize it isn't an inherent IQ issue but a presentation issue.
+1. If you gave regular feedback, it might feel wrong to them (like they disagree with you but they won't push you more on it)
+2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
+3. It makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but a presentation issue.
 
 I believe speaker scores should not be given in mocks.
 - Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear.
@@ -899,11 +899,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTIwNjQyMTU2MjIsMTQ4MzQyNzAyNywtOTg4
-MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MT
-ExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5
-ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OT
-gwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3
-LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMz
-UyMzYyMDA1XX0=
+JoaXN0b3J5IjpbNjAxMjk0MTkwLDE0ODM0MjcwMjcsLTk4ODM1
+NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3ODEsLTkyNTAxNzExMS
+wtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3MzEzLC0xOTg0
+OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MD
+M4LC03NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywt
+MTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1Mj
+M2MjAwNV19
 -->
