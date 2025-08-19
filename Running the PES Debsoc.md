@@ -522,7 +522,7 @@ A great way to give feedback to debaters, is to **ask them questions about their
 This solves 2 problems. 
 1. If you gave regular feedback, it might feel wrong to them (like they disagree with you but they won't push you more on it)
 2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
-3. It makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but a presentation issue.
+3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but a presentation issue.
 
 I believe speaker scores should not be given in mocks.
 - Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear.
@@ -534,7 +534,7 @@ I believe speaker scores should not be given in mocks.
 
 
 ### Miscellaneous
-Once you know the skill levels of people, match up teammates to make the debate 'balanced'
+Once you know the skill levels of people, match up teammates to make the debate 'balanced'.
 - Losing debates nonstop will get to anyone. Even the weakest debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash.
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
@@ -554,11 +554,11 @@ There isn't much 'risk'.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
-When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and everytime the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like Aditi's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
+When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like Aditi's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
 
-I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've impemented it twice in debsoc sessions.
-The way it works is that everyone goes to the podium, and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1 minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
+I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
+The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1 minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cuz of how goofy it was, and very time efficient too.
 
 
@@ -899,11 +899,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNjAxMjk0MTkwLDE0ODM0MjcwMjcsLTk4ODM1
-NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3ODEsLTkyNTAxNzExMS
-wtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3ODk3MzEzLC0xOTg0
-OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNzkzMiwtNjk3OTk4MD
-M4LC03NjQwNjY2NzcsLTEzNzc5Njg4NiwtMTgzNjg2NzcyNywt
-MTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NTgzNDUyNjcsMTM1Mj
-M2MjAwNV19
+JoaXN0b3J5IjpbMTU0MTA2MjMzMiwxNDgzNDI3MDI3LC05ODgz
+NTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMT
+EsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4
+NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5OD
+AzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3Mjcs
+LTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNT
+IzNjIwMDVdfQ==
 -->
