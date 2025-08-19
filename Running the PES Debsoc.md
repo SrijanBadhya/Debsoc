@@ -57,8 +57,8 @@ II. [Recruitments](#recruitments)
      - [Round 1](#round-1)
      - [Round 2](#round-2)
      v) Something
-2. [Recruitment Logistics](#recruitment-logistics
-5. 
+2. [Recruitment Logistics](#recruitment-logistics)
+
 III. [Inside a session](#inside-a-session)
 
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -915,7 +915,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTQwMDE5MjA5LC0xNjg4OTIwMTQ4LC0xMDYzND
+c3RvcnkiOlsxODczMjg5NTcxLC0xNjg4OTIwMTQ4LC0xMDYzND
 I2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2
 LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMT
 c5ODI5MzkzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2
