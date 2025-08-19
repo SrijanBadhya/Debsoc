@@ -623,7 +623,12 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
 
-While Nikhil and I understood this exclusive benefit, we're still certified h
+While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
+- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA).
+- Without being able to see each other, conversation quickly turns awkward.
+- People talk over each other each other making everything more awkward.
+- It's easy to become depressed post your debate because you're all alone (happens to me often).
+- The impressions of people aren't that 
 
 
 # How to resolve Debsoc Drama
@@ -932,7 +937,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjM4MDY2MTkyLDIxMTk5MzM2MjMsLTE1MzYyNz
+c3RvcnkiOlsxODI3NDM5MTk4LDIxMTk5MzM2MjMsLTE1MzYyNz
 I2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4
 LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMj
 gyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYz
