@@ -68,9 +68,10 @@ III. [Inside a session](#inside-a-session)
 	i)[Turncoat](#turncoat)
 	ii)[Alley Debating](#alley-debating) 
 6. [Issues](#a-few-issues-of-sessions-that-persist)
+IV. [How 
+V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
-IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
-
+Appendix (i) [Easy Accessible Motion List)
 
 
   ## Guiding Principles
@@ -924,11 +925,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE3MjE5MDgsLTIxMzM2NDEwODgsLTE2ODg5Mj
-AxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMs
-LTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMT
-MwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMw
-MzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNywtOTg4MzU1NzcwLC
-00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0
-OTIwMzEyXX0=
+c3RvcnkiOlstMTI1MzYxNDI0NiwtMjEzMzY0MTA4OCwtMTY4OD
+kyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Njcx
+MywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MS
+wxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4
+MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3Nz
+AsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIx
+NDQ5MjAzMTJdfQ==
 -->
