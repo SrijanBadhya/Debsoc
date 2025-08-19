@@ -55,6 +55,9 @@ II. [Recruitments](#recruitments)
      iii) [Breadth wise inclusivity](#breadth-wise-inclusivity)
      iv) [The 2024 Model](#the-2024-model)
      - [Round 1](#round-1)
+     - [Round 2](#round-2)
+     v) Something
+2. [Recruitment Logistics](#recruitment-logistics
 5. 
 III. [Inside a session](#inside-a-session)
 
@@ -912,11 +915,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OT
-A2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIz
-NCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNz
-I2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1NiwxNDgzNDI3
-MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC
-05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5
-NzMxM119
+c3RvcnkiOlsxMTQwMDE5MjA5LC0xNjg4OTIwMTQ4LC0xMDYzND
+I2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2
+LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMT
+c5ODI5MzkzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2
+NjU2LDE0ODM0MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC
+00OTk4NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3
+ODA2OTRdfQ==
 -->
