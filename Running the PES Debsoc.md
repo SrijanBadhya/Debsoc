@@ -452,7 +452,7 @@ Multiple different delays add up, and they should be minimized.
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors.
 
 The obvious solutions to this are:
-1. Do whatever it takes to show up as early as possible, or have someone there to get things going.
+1. Do whatever it takes to show up as early as possible or have someone there to get things going.
 2. **Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
  + You can't always rely on the people who voted to arrive, and this would result in waiting unnecessarily for nobody.
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
@@ -485,7 +485,7 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
 - The one on one interaction could be about anything, doesn't have to be about feedback on their speech, but whatever they feel about everything.
-- The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the debsoc.
+- The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
 
 
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
@@ -898,11 +898,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbNzEyMjQyNzU2LC05ODgzNTU3NzAsLTQ4OTQ5
-ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMT
-IsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0
-NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Nj
-c3LC0xMzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEs
-LTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OT
-U0MTc3M119
+JoaXN0b3J5IjpbMTQ2NzEyODU1NCwtOTg4MzU1NzcwLC00ODk0
+OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMz
+EyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1
+NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2Nj
+Y3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAx
+LC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNz
+k1NDE3NzNdfQ==
 -->
