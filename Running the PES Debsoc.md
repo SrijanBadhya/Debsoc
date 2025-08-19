@@ -535,7 +535,7 @@ I believe speaker scores should not be given in mocks.
 
 ### Balancing
 Once you know the skill levels of people, match up teammates to make the debate 'balanced'.
-- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc)
+- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
 
@@ -894,11 +894,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTE0MDA1MDM4NzYsMTQ4MzQyNzAyNywtOTg4
-MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MT
-ExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5
-ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OT
-gwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3
-LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMz
-UyMzYyMDA1XX0=
+JoaXN0b3J5IjpbLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgz
+NTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMT
+EsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4
+NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5OD
+AzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3Mjcs
+LTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNT
+IzNjIwMDVdfQ==
 -->
