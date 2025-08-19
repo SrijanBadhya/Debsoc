@@ -434,7 +434,7 @@ What I mean by this is:
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
-- **before every debate have a short speech where you say verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
+- **before every debate have a short speech where you say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
@@ -898,11 +898,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjAzNTQwNjQ5NSwtOTg4MzU1NzcwLC00ODk0
-OTgwNjUsLTQ5OTg3MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMz
-EyLDgzOTc4MDY5NCw5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1
-NDQ3MzUwMSwyMTQ0NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2Nj
-Y3NywtMTM3Nzk2ODg2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAx
-LC0zMDcyNTkyMTQsMTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNz
-k1NDE3NzNdfQ==
+JoaXN0b3J5IjpbNzEyMjQyNzU2LC05ODgzNTU3NzAsLTQ4OTQ5
+ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMT
+IsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0
+NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Nj
+c3LC0xMzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEs
+LTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNTIzNjIwMDUsMTE3OT
+U0MTc3M119
 -->
