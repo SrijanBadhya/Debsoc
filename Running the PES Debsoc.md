@@ -630,7 +630,7 @@ This was before CUPD 2023, my first tournament. My seniors put up a poll for spe
 2 weeks before the tournament, there were 5 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
 As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
 The 5 of us continued to avoid discussion about which 3 would form a team and which 2 would adj.
-In an attempt 
+In an attempt to 
 
 
 
@@ -958,11 +958,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0xODA1ND
-QxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNjc0Nzkx
-LC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2ODAwLD
-UwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0
-MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5Mz
-kzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0
-ODM0MjcwMjddfQ==
+c3RvcnkiOls1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5ND
+AwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQx
+LDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMT
+A2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1
+NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4Nj
+cxLDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUx
+NjQ1NjY1Nl19
 -->
