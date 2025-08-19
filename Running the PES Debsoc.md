@@ -565,7 +565,7 @@ I believe speaker scores should not be given in mocks.
 
 
 ### Balancing
-Once you know the skill levels of people, match up teammates to make the debate 'balanced'.
+Once you know the skill levels of people, match up teammates to make the debate 'balanced' occasionally.
 - Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
@@ -586,7 +586,7 @@ There isn't much 'risk'.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
 #### Turncoat
-When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like Aditi's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
+When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
 
 #### Alley Debating
@@ -926,7 +926,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTE3MDQ3NjE1LC0xNTM2MjcyNjQxLDI3MzY3ND
+c3RvcnkiOlsyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3ND
 c5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgw
 MCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMT
 g3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgy
