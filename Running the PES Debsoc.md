@@ -542,7 +542,7 @@ But I think you should consciously try to tell people what they got right as wel
 - Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something good which they should keep going. 
 - If juniors just change their approach constantly, they won't really know what to keep.
 - Just like tournaments, speakers feel understood and cared for when their ideas were received by the judge. The more positive emotions people associate with the debsoc, the more they'll want to keep coming.
-- From the feedback form (Srijan link this later), something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
+- From the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059), something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
 ![image](https://i.ibb.co/27VvCzRf/feedback-reaction.png)
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
@@ -926,11 +926,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2ND
-EwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5
-LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLT
-E2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0
-NzY3NSwtMjU1ODMwMzcwLC01MTY0NTY2NTYsMTQ4MzQyNzAyNy
-wtOTg4MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MSwtOTI1
-MDE3MTExXX0=
+c3RvcnkiOlsxOTE3MDQ3NjE1LC0xNTM2MjcyNjQxLDI3MzY3ND
+c5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgw
+MCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMT
+g3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgy
+OTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1NjY1Ni
+wxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NSwtNDk5
+ODcwNzgxXX0=
 -->
