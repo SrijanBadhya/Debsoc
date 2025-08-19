@@ -64,7 +64,9 @@ III. [Inside a session](#inside-a-session)
 6. [Time](#time)
 7. [Feedback](#feedback)
 8. [Balancing](#balancing)
-9. [Keeping
+9. [Keeping It Fun](#keeping-it-fun)
+	i)[Turncoat](#turncoat)
+	ii)[Alley Debating](#alley-debating) 
 
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
@@ -921,11 +923,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjI0OTYwMjc4LC0xNjg4OTIwMTQ4LC0xMDYzND
-I2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2
-LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMT
-c5ODI5MzkzMCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2
-NjU2LDE0ODM0MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC
-00OTk4NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3
-ODA2OTRdfQ==
+c3RvcnkiOlstMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2Mz
+QyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4
+NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLD
+E3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1
+NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NS
+wtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5
+NzgwNjk0XX0=
 -->
