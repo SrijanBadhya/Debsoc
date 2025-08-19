@@ -20,7 +20,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 
 <br>
 
-**So who am I, and why care about what I say?**
+**So who am I, and why care about what's written here?**
 ~~It feels cringe to type this~~
 I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've been a part of conducting recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
 You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll definitely reply within a week. 
@@ -895,11 +895,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0ODM0
-MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3OD
-EsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOTA3
-ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYwNz
-kzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Njg4Niwt
-MTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0LDE1NT
-gzNDUyNjddfQ==
+JoaXN0b3J5IjpbNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNjQ1
+NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2NS
+wtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsODM5
+NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDczNT
+AxLDIxNDQ2MDc5MzIsLTY5Nzk5ODAzOCwtNzY0MDY2Njc3LC0x
+Mzc3OTY4ODYsLTE4MzY4Njc3MjcsLTEzMjg4OTkyMDEsLTMwNz
+I1OTIxNF19
 -->
