@@ -554,11 +554,11 @@ There isn't much 'risk'.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are more risky.
 
-### Turncoat
+#### Turncoat
 When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like Aditi's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
 
-### Alley Debating
+#### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cuz of how goofy it was, and very time efficient too.
@@ -894,11 +894,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbLTUxNjQ1NjY1NiwxNDgzNDI3MDI3LC05ODgz
-NTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMT
-EsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4
-NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5OD
-AzOCwtNzY0MDY2Njc3LC0xMzc3OTY4ODYsLTE4MzY4Njc3Mjcs
-LTEzMjg4OTkyMDEsLTMwNzI1OTIxNCwxNTU4MzQ1MjY3LDEzNT
-IzNjIwMDVdfQ==
+JoaXN0b3J5IjpbNjczMzI2NDQ4LC01MTY0NTY2NTYsMTQ4MzQy
+NzAyNywtOTg4MzU1NzcwLC00ODk0OTgwNjUsLTQ5OTg3MDc4MS
+wtOTI1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NCw5MDc4
+OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0NjA3OT
+MyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2ODg2LC0x
+ODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQsMTU1OD
+M0NTI2N119
 -->
