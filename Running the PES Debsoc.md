@@ -132,7 +132,7 @@ I personally would try to say don't judge the club at all.
 
 ## Recruitment Concepts
   
-The single most important activity of a club.
+Thise single most important activity of a club.
 
 The single place (besides arguably PESDT) where systems matter the most, because you have an enormous scaled up load to handle.
 
@@ -899,11 +899,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MD
-E1MjM0LC0xNjMyNDcyMTgxLDEzMDYzNzg2NzEsMTc5ODI5Mzkz
-MCw3MjYyNDc2NzUsLTI1NTgzMDM3MCwtNTE2NDU2NjU2LDE0OD
-M0MjcwMjcsLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4NzA3
-ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OTQsOT
-A3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0NDYw
-NzkzMl19
+c3RvcnkiOlszMzQ3NzgyNjksLTk4OTc2NjcxMywtMTI4MjE1NT
+Y4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2Mzc4Njcx
+LDE3OTgyOTM5MzAsNzI2MjQ3Njc1LC0yNTU4MzAzNzAsLTUxNj
+Q1NjY1NiwxNDgzNDI3MDI3LC05ODgzNTU3NzAsLTQ4OTQ5ODA2
+NSwtNDk5ODcwNzgxLC05MjUwMTcxMTEsLTIxNDQ5MjAzMTIsOD
+M5NzgwNjk0LDkwNzg5NzMxMywtMTk4NDk5MTg1MywxNjU0NDcz
+NTAxXX0=
 -->
