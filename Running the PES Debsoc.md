@@ -67,6 +67,7 @@ III. [Inside a session](#inside-a-session)
 5. [Keeping It Fun](#keeping-it-fun)
 	i)[Turncoat](#turncoat)
 	ii)[Alley Debating](#alley-debating) 
+6. [Issues](#a-few-issues-of-sessions-that-persist)
 
 IV. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
@@ -923,7 +924,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNTAyMjg1MzgsLTIxMzM2NDEwODgsLTE2ODg5Mj
+c3RvcnkiOlstNDE3MjE5MDgsLTIxMzM2NDEwODgsLTE2ODg5Mj
 AxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMs
 LTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMT
 MwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1ODMw
