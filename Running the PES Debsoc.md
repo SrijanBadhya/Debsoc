@@ -681,13 +681,6 @@ Inertia is huge, don't let them go too long without debating. Try to have some s
 
   
 
-As Aditi Mallya girls said, mix it up, have fun, keep debating fun, do random stuff like Alley debating
-
-Also turncoat, especially on low turnout days
-
-
-  
-
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
 
   
@@ -698,7 +691,7 @@ Talk about whatsapp group chats and why you need an admins only sessions group
 ## Motion list
 
 #### Motions used in round 1 & 2
-1.  This house, .as Aditya, would give Shreya the elixir.
+1.  This house, as Aditya, would give Shreya the elixir.
 
 Infoslide: There is a real and fully functional love elixir, although it is very rare. You manage to acquire a vial capable of making any person fall madly and permanently in love with you. You are Aditya. For the past 4 years, you have been deeply in love with Shreya. You are very good friends, but nothing more. Shreya has put you in the friend zone and is in a happy relationship with Rahul. Your friends also tell you that she is out of your league.
 
@@ -901,7 +894,7 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMTkzNDk1ODAyNiwxNDgzNDI3MDI3LC05ODgz
+JoaXN0b3J5IjpbMTk5MDY3Mzg2MywxNDgzNDI3MDI3LC05ODgz
 NTU3NzAsLTQ4OTQ5ODA2NSwtNDk5ODcwNzgxLC05MjUwMTcxMT
 EsLTIxNDQ5MjAzMTIsODM5NzgwNjk0LDkwNzg5NzMxMywtMTk4
 NDk5MTg1MywxNjU0NDczNTAxLDIxNDQ2MDc5MzIsLTY5Nzk5OD
