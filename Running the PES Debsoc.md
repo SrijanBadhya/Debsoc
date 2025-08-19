@@ -179,7 +179,7 @@ I'll come to the group discussion part later, but **the month-long recruitment w
 A few issues with the month long recruitment:
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks left in the semester in November, and hence round 3 got pushed to 2025.
 - First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (first years be like).
-- + Another issue this leads to is that if all seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
+- + Another issue this leads to is that if all the active seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
 - People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to increase people's confidence that you will take them in).
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
 
@@ -294,7 +294,7 @@ Why is this new model better?
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
-Also I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), cause it leads to a higher quality debate.
+Also, I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), cause it leads to a higher quality debate.
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 
@@ -898,11 +898,11 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IFJ1bm5pbmcgdGhlIFBFUy
 BEZWJzb2NcbmF1dGhvcjogU3JpamFuIEJhZGh5YVxuc3RhdHVz
 OiBJbiBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG4iLC
-JoaXN0b3J5IjpbMjY3OTA2MDk1LC00ODk0OTgwNjUsLTQ5OTg3
-MDc4MSwtOTI1MDE3MTExLC0yMTQ0OTIwMzEyLDgzOTc4MDY5NC
-w5MDc4OTczMTMsLTE5ODQ5OTE4NTMsMTY1NDQ3MzUwMSwyMTQ0
-NjA3OTMyLC02OTc5OTgwMzgsLTc2NDA2NjY3NywtMTM3Nzk2OD
-g2LC0xODM2ODY3NzI3LC0xMzI4ODk5MjAxLC0zMDcyNTkyMTQs
-MTU1ODM0NTI2NywxMzUyMzYyMDA1LDExNzk1NDE3NzMsOTE3OT
-c5OTExXX0=
+JoaXN0b3J5IjpbLTk4ODM1NTc3MCwtNDg5NDk4MDY1LC00OTk4
+NzA3ODEsLTkyNTAxNzExMSwtMjE0NDkyMDMxMiw4Mzk3ODA2OT
+QsOTA3ODk3MzEzLC0xOTg0OTkxODUzLDE2NTQ0NzM1MDEsMjE0
+NDYwNzkzMiwtNjk3OTk4MDM4LC03NjQwNjY2NzcsLTEzNzc5Nj
+g4NiwtMTgzNjg2NzcyNywtMTMyODg5OTIwMSwtMzA3MjU5MjE0
+LDE1NTgzNDUyNjcsMTM1MjM2MjAwNSwxMTc5NTQxNzczLDkxNz
+k3OTkxMV19
 -->
