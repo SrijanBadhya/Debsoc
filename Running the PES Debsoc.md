@@ -627,11 +627,11 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 #### My story
 The debsoc controversy I am the most infamous for is my history with Adjudication.
 This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
-2 weeks before the tournament, there were 5 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
+2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
 As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
-The 5 of us continued to avoid discussion about which 3 would form a team and which 2 would adj.
+The 4 of us continued to avoid discussion about which 3 would form a team and which one would adj.
 In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. 
-Anyway my seniors saw it and the next debate session I was ripped apart. I said t
+Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select
 
 
 
@@ -959,11 +959,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM5Mzk4MTYyNSwzNDg0Nzg2MTEsNTU2NzkzND
-g4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUs
-MjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMz
-M2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkw
-Njk5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMz
-QsLTE2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcy
-NjI0NzY3NV19
+c3RvcnkiOlsxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0OD
+gsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwy
+MTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMz
+Y0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2
+OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAxNTIzNC
+wtMTYzMjQ3MjE4MSwxMzA2Mzc4NjcxLDE3OTgyOTM5MzAsNzI2
+MjQ3Njc1XX0=
 -->
