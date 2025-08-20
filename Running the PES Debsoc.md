@@ -677,8 +677,12 @@ The ideal scenario to get them to switch to adjing is that they wanna try someth
 
 How do we make sure this trend continues?
 - Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a trend of debsoc seniors voluntarily judging, which is nice and makes it look desirable.
+- The target audience of people who will like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
+&emsp;
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
+
+
 
 
 
@@ -1016,7 +1020,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMDkwNDc0MjQsLTQ4NzczMDQ1MiwtMTYwNDk5OT
+c3RvcnkiOls2NTMxMjcyMjIsLTQ4NzczMDQ1MiwtMTYwNDk5OT
 AzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2
 OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4Nj
 ExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0x
