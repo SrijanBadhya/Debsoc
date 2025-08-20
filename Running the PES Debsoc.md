@@ -680,7 +680,9 @@ How do we make sure this trend continues?
 - The target audience of people who will like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
 - + I know someone who got into adjing because they were too afraid to speak.
 - + I know someone who judges when they're too exhausted to speak.
-- + I know people 
+- + I know people who end up judging all the time because they're late all the time.
+- + I know people who equally feel like judging/speaking, and because they're the only one among 7 people who feel that way, they're made a judge.
+- + People feel to pressured to give
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
@@ -1022,11 +1024,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4ODY1MDgxNzksMTAwMjY4NDAwNCwtNDg3NzMwND
-UyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0x
-NTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OT
-gzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3
-ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNj
-I3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAx
-NDhdfQ==
+c3RvcnkiOlsxNzI1MTEzMTIxLDEwMDI2ODQwMDQsLTQ4NzczMD
+Q1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwt
+MTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NT
+k4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0x
+Nzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1Mz
+YyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIw
+MTQ4XX0=
 -->
