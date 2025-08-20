@@ -684,7 +684,7 @@ How do we make sure this trend continues?
 - + I know people who equally feel like judging/speaking, and because they're the only one among 7 people who feel that way, they're made a judge.
 - + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging)
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
-- +
+- + (Srijan talk about the feedback and ego thing here)(Also somewhere talk about freshers initially looking up to judging because they believe that being a judge is a sign that you're qualified to judge).
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 -
@@ -1030,7 +1030,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM4MTY2NjkyOSwxMDAyNjg0MDA0LC00ODc3Mz
+c3RvcnkiOlstMTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3Mz
 A0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAs
 LTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOT
 U5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwt
