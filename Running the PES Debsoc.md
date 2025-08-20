@@ -641,8 +641,9 @@ Anyway, this highlights a couple problems with adjing.
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as can be seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
-2. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
-3. My seniors believed that freshers should 
+2. Adjing tournaments can be disappointing due to a multitude of reasons like 
+3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
+4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good initiative, but 
 
 
 
@@ -971,7 +972,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzgyNzA1NTI1LDIzNTA2MDQ3NywxMjcyOTU5OD
+c3RvcnkiOlstMjgwMzE0OTM4LDIzNTA2MDQ3NywxMjcyOTU5OD
 M2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4
 NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
 cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
