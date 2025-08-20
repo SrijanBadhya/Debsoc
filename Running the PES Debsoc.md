@@ -594,7 +594,7 @@ It is still well aligned in the direction of sharpening your debate skills, and 
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
-It was fun of how goofy it was, and very time efficient too.
+It was fun cuz of how goofy it was, and very time efficient too.
 
 
 #### Impromptu debates
@@ -655,7 +655,7 @@ Anyway, this highlights a couple problems with adjing.
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
 3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
-4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are
+4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are:
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
 5. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
@@ -669,9 +669,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
 
-
-
 ### Be careful with all your words to not propagate a negative narrative of adjing
+
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
 
 
@@ -1005,11 +1004,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNzczNTg5MTYsLTQ4NzczMDQ1MiwtMTYwNDk5OT
-AzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2
-OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4Nj
-ExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0x
-ODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNj
-c0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2
-ODAwXX0=
+c3RvcnkiOlstMTE0NTA4ODAxNiwtNDg3NzMwNDUyLC0xNjA0OT
+k5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEy
+LDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nz
+g2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgs
+LTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNz
+M2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0
+MjY4MDBdfQ==
 -->
