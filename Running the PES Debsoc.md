@@ -631,7 +631,7 @@ This was before CUPD 2023, my first tournament. My seniors put up a poll for spe
 As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
 The 5 of us continued to avoid discussion about which 3 would form a team and which 2 would adj.
 In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. 
-
+Anyway my seniors saw it and the next debate session I was ripped apart. I said t
 
 
 
@@ -959,11 +959,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MD
-UsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywt
-MTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2OD
-g5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3
-MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxOD
-EsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcyNjI0NzY3NSwtMjU1
-ODMwMzcwXX0=
+c3RvcnkiOlstMTM5Mzk4MTYyNSwzNDg0Nzg2MTEsNTU2NzkzND
+g4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUs
+MjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMz
+M2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkw
+Njk5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQwMTUyMz
+QsLTE2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4MjkzOTMwLDcy
+NjI0NzY3NV19
 -->
