@@ -654,7 +654,8 @@ Anyway, this highlights a couple problems with adjing.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
 5. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
 
-_One initial solution I had thought of a year ago, was to make people adj once every three tournaments. Juniors can speak in their first tournaments, and 
+_One initial solution I had thought of a year ago, was to make people adj once every three tournaments. Juniors can speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucks. 
+- This also distributes people evenly among multiple tournaments.
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
 7. How do you get them to switch to adjing if they get used to speaking?
 
@@ -736,7 +737,7 @@ A good way to make people feel valued is to remember them by their name and call
 
 Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
-  
+ glorification of people who break
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
@@ -993,7 +994,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDg0MDkyMzY5LDE2MzM2NTU2MzAsLTE1NDQzMj
+c3RvcnkiOlstNTg5ODU0OTg4LDE2MzM2NTU2MzAsLTE1NDQzMj
 gwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0
 ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5ND
 AwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQx
