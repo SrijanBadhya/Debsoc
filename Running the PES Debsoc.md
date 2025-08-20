@@ -637,7 +637,8 @@ Being a forced adj for CUPD didn't get me to like adjing either.
 For those who know me, things changed eventually, and I ended up adjing 3x more debates than I've spoken in.
 Anyway, this highlights a couple problems with adjing.
 
-# Something
+### Adjing obstacles
+
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as can be seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
@@ -658,7 +659,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 - _This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, and mathematically the ratios match when people switch roles across tournaments._
 - _Freshers can speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucks._ 
 - _This also distributes adjes evenly among multiple tournaments._
-- However, later I realized this was bad for the [narrative of adjing](#be-careful-with-all-your-words-to-not-propagate-a-negative-narrative-of-adjing). (The only way to still execute this is equally say that speaking twice is 3 tourneys is also 'compulsory', but this is too delicate and weird, and for
+- However, later I realized this was bad for the [narrative of adjing](#be-careful-with-all-your-words-to-not-propagate-a-negative-narrative-of-adjing). (The only way to still execute this is equally say that speaking twice is 3 tourneys is also 'compulsory', but this is too delicate and weird, and slipping up one time ruins the narrative of adjing.
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
 7. How do you get them to switch to adjing if they get used to speaking?
 
@@ -997,11 +998,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTcxNjg4ODEwLDExOTQzODEzMywxNjMzNjU1Nj
-MwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3
-Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MD
-UsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywt
-MTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2OD
-g5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3
-MTNdfQ==
+c3RvcnkiOlstMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NT
+YzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEy
+NzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NT
+A1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMs
+LTE1MzYyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNj
+g4OTIwMTQ4LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2
+NzEzXX0=
 -->
