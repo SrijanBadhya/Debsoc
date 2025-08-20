@@ -679,7 +679,7 @@ How do we make sure this trend continues?
 
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
 
-Trends get pushed in micro ways. One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so
+Trends get pushed in micro ways. One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
 
 
@@ -1012,7 +1012,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc2NDQzNzk4OSwtNDg3NzMwNDUyLC0xNjA0OT
+c3RvcnkiOlstMTE3NTI3NzgyOSwtNDg3NzMwNDUyLC0xNjA0OT
 k5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEy
 LDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nz
 g2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgs
