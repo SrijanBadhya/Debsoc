@@ -671,6 +671,9 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
 
+The ideal scenario to get them to switch to adjing is that they wanna try something new, try adjing, and end up liking it. For them to adj in tournaments, they need to have more incentive to adj, than to speak, which is hard.
+
+
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
 
 
@@ -1004,11 +1007,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE0NTA4ODAxNiwtNDg3NzMwNDUyLC0xNjA0OT
-k5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEy
-LDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nz
-g2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgs
-LTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNz
-M2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0
-MjY4MDBdfQ==
+c3RvcnkiOlsyMzkwMTgyOTgsLTQ4NzczMDQ1MiwtMTYwNDk5OT
+AzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2
+OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4Nj
+ExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0x
+ODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNj
+c0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2
+ODAwXX0=
 -->
