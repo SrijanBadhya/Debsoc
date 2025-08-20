@@ -639,7 +639,7 @@ Anyway, this highlights a couple problems with adjing.
 
 ### Adjing obstacles
 
-1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as can be seen from
+1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
 2. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
@@ -668,6 +668,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
+
+
 
 
 
@@ -998,7 +1000,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDg0ODg0MDgzLC0xNjA0OTk5MDM0LDExOTQzOD
+c3RvcnkiOlsxMzc0Mjc1NDM2LC0xNjA0OTk5MDM0LDExOTQzOD
 EzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2Mywy
 MzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzND
 g4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUs
