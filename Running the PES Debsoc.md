@@ -654,7 +654,8 @@ Anyway, this highlights a couple problems with adjing.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
 
 
-### Be car
+### Be careful with all your words to not propagate a negative narrative of adjing
+From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
 
 
 
@@ -984,7 +985,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTc5MTg5OTI3LC0xNTQ0MzI4MDEyLDY5OTg5Nj
+c3RvcnkiOlsxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5Nj
 A2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2
 NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0ND
 E5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEs
