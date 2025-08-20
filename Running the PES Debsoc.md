@@ -645,10 +645,11 @@ Anyway, this highlights a couple problems with adjing.
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence speakers scroll their phones during their OA and don't take them seriously, people go to ask the chair feedback instead of them, and they feel they have no impact on the tournament because their vote doesn't matter. They don't get any numerical result from the tournament either.
 - Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
-- There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends.
- - 
-4. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
-5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good initiative, but 
+- There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
+ - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
+ - Adjing is boring and challenging with no real payoff.
+3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
+4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good initiative, but 
 
 
 
@@ -977,11 +978,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2MTY4Mzg4LDIzNTA2MDQ3NywxMjcyOTU5OD
-M2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4
-NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
-cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
-OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
-I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
-Mzc4NjcxXX0=
+c3RvcnkiOls2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4Mz
+YsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3
+Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNz
+I2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4
+LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMj
+gyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYz
+Nzg2NzFdfQ==
 -->
