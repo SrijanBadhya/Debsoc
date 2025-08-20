@@ -670,6 +670,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
+From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive.
 
 The ideal scenario to get them to switch to adjing is that they wanna try something new, try adjing, and end up liking it. The ideal scenario is people voluntarily adj in tournaments and push through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
 
@@ -677,11 +678,10 @@ The ideal scenario to get them to switch to adjing is that they wanna try someth
 How do we make sure this trend continues?
 - Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a trend of debsoc seniors voluntarily judging, which is nice and makes it look desirable.
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.)
-- But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included
+- But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
 
 
-From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
 
 Trends get pushed in micro ways. One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
@@ -1016,7 +1016,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNzg4Mzg4MjQsLTQ4NzczMDQ1MiwtMTYwNDk5OT
+c3RvcnkiOlszMDkwNDc0MjQsLTQ4NzczMDQ1MiwtMTYwNDk5OT
 AzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2
 OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4Nj
 ExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0x
