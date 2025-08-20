@@ -638,7 +638,8 @@ For those who know me, things changed eventually, and I ended up adjing 3x more 
 Anyway, this highlights a couple problems with adjing.
 
 # Something
-1. 
+1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as can be seen from
+&emsp;
 
 
 
@@ -967,11 +968,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MzMxMzE4NCwyMzUwNjA0NzcsMTI3Mjk1OTgzNi
-wzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2
-OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3Mj
-Y0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgs
-LTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyOD
-IxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMwNjM3
-ODY3MV19
+c3RvcnkiOlsxNjM1Nzg3OTY2LDIzNTA2MDQ3NywxMjcyOTU5OD
+M2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4
+NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
+cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
+OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
+I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
+Mzc4NjcxXX0=
 -->
