@@ -655,9 +655,10 @@ Anyway, this highlights a couple problems with adjing.
 5. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
 
 _One initial solution I had thought of a year ago, was to make people adj once every three or four tournaments._
--_This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, and mathematically the ratios match when people switch roles across tournaments.__
+- _This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, and mathematically the ratios match when people switch roles across tournaments._
 - _Freshers can speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucks._ 
 - _This also distributes adjes evenly among multiple tournaments._
+- However, later I realized this was bad for the [narrative of adjing](#be-careful-with-all-your-words-to-not-propagate-a-negative-narrative-of-adjing)
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
 7. How do you get them to switch to adjing if they get used to speaking?
 
@@ -996,11 +997,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzMxMjEzNzYsMTE5NDM4MTMzLDE2MzM2NTU2Mz
-AsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcy
-OTU5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNS
-wtMTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0x
-NTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4OD
-kyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Njcx
-M119
+c3RvcnkiOlstMTI5MDgzNzg0MSwxMTk0MzgxMzMsMTYzMzY1NT
+YzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEy
+NzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NT
+A1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMs
+LTE1MzYyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNj
+g4OTIwMTQ4LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2
+NzEzXX0=
 -->
