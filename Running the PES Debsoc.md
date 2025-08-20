@@ -690,7 +690,7 @@ How do we make sure this trend continues?
 
 
 Trends get pushed in micro ways. One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
-Making people judge when they come late seems like a 'punishment', esp
+Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
 
 
 
@@ -1022,11 +1022,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTQ5NjkwMjQyLDEwMDI2ODQwMDQsLTQ4NzczMD
-Q1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwt
-MTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NT
-k4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0x
-Nzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1Mz
-YyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIw
-MTQ4XX0=
+c3RvcnkiOls4ODY1MDgxNzksMTAwMjY4NDAwNCwtNDg3NzMwND
+UyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0x
+NTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OT
+gzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3
+ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNj
+I3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAx
+NDhdfQ==
 -->
