@@ -650,7 +650,9 @@ Anyway, this highlights a couple problems with adjing.
  - Adjing is boring and challenging with no real payoff.
 3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
 4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are
-- There are a dozen freshers in the
+- There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
+- The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments.
+
 
 
 
@@ -979,11 +981,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MzI4NDEwMSwtMTU0NDMyODAxMiw2OTk4OTYwNj
-MsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5
-MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOT
-k1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNjc0NzkxLC0y
-MTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2ODAwLDUwNj
-U5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1Njg2LC0xODc0MDE1
-MjM0XX0=
+c3RvcnkiOls2NjE5Nzk5ODgsLTE1NDQzMjgwMTIsNjk5ODk2MD
+YzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1NTY3
+OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwtMTgwNTQ0MT
+k5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwt
+MjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MD
+Y1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAx
+NTIzNF19
 -->
