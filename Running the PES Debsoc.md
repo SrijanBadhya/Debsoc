@@ -348,7 +348,7 @@ juniors are unaware that they even have the right to judge, so make sure you giv
 
 people talk about selective being good because, "people will feel good when they struggled and made it to the soc and others didn't". This is bullshit. A bunch of people are bound to dip out on their own anyway.
 
-inclusivity is great. false negative is way more costly than false positive.   
+
 
 Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
 
@@ -981,7 +981,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NjE5Nzk5ODgsLTE1NDQzMjgwMTIsNjk5ODk2MD
+c3RvcnkiOls2ODcyMDU0MTcsLTE1NDQzMjgwMTIsNjk5ODk2MD
 YzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1NTY3
 OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwtMTgwNTQ0MT
 k5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwt
