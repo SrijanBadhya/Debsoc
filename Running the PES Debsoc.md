@@ -671,7 +671,10 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
 
-The ideal scenario to get them to switch to adjing is that they wanna try something new, try adjing, and end up liking it. The ideal scenario is people voluntarily adj in tournaments and push through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily passionately adj tournaments
+The ideal scenario to get them to switch to adjing is that they wanna try something new, try adjing, and end up liking it. The ideal scenario is people voluntarily adj in tournaments and push through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
+
+How do we make sure this trend continues?
+-Hav
 
 
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
@@ -1007,11 +1010,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMTg3ODExNTcsLTQ4NzczMDQ1MiwtMTYwNDk5OT
-AzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2
-OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4Nj
-ExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0x
-ODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNj
-c0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2
-ODAwXX0=
+c3RvcnkiOlstNzg4MTE4Njg4LC00ODc3MzA0NTIsLTE2MDQ5OT
+kwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIs
+Njk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3OD
+YxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwt
+MTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3Mz
+Y3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQy
+NjgwMF19
 -->
