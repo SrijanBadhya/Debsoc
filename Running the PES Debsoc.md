@@ -683,17 +683,21 @@ How do we make sure this trend continues?
 - + I know people who end up judging all the time because they're late all the time.
 - + I know people who equally feel like judging/speaking, and because they're the only one among 7 people who feel that way, they're made a judge.
 - + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging)
-- 
+- + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
+- +
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
+-
 
 
 
 
 
 
-Trends get pushed in micro ways. One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
-Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
+Trends get pushed in micro ways. 
+- One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
+
+-Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
 
 
 
@@ -1025,7 +1029,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM2MzUxNjYwNCwxMDAyNjg0MDA0LC00ODc3Mz
+c3RvcnkiOlstMTA5NzU5MTQxOSwxMDAyNjg0MDA0LC00ODc3Mz
 A0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAs
 LTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOT
 U5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwt
