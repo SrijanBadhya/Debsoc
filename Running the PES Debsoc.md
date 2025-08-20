@@ -641,9 +641,12 @@ Anyway, this highlights a couple problems with adjing.
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as can be seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
-2. Adjing tournaments can be disappointing due to a multitude of reasons like 
-3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
-4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good initiative, but 
+2. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
+- They spent most of their time in t
+- There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends.
+ - 
+4. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
+5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good initiative, but 
 
 
 
@@ -972,11 +975,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjgwMzE0OTM4LDIzNTA2MDQ3NywxMjcyOTU5OD
-M2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4
-NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
-cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
-OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
-I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
-Mzc4NjcxXX0=
+c3RvcnkiOls2NzAzOTE5MDAsMjM1MDYwNDc3LDEyNzI5NTk4Mz
+YsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3
+Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNz
+I2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4
+LC0xMDYzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMj
+gyMTU1Njg2LC0xODc0MDE1MjM0LC0xNjMyNDcyMTgxLDEzMDYz
+Nzg2NzFdfQ==
 -->
