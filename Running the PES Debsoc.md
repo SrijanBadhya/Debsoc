@@ -652,6 +652,7 @@ Anyway, this highlights a couple problems with adjing.
 4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
+5. Freshers can't really adj during round 1 r
 
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
@@ -985,11 +986,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5Nj
-A2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2
-NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0ND
-E5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEs
-LTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNT
-A2NTkwNjk5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQw
-MTUyMzRdfQ==
+c3RvcnkiOlstMTMxODk3OTUyNCwxNjMzNjU1NjMwLC0xNTQ0Mz
+I4MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwz
+NDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OT
+QwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0
+MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLT
+EwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyODIx
+NTU2ODZdfQ==
 -->
