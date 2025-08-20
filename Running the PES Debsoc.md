@@ -678,7 +678,9 @@ The ideal scenario to get them to switch to adjing is that they wanna try someth
 How do we make sure this trend continues?
 - Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a trend of debsoc seniors voluntarily judging, which is nice and makes it look desirable.
 - The target audience of people who will like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
-- + 
+- + I know someone who got into adjing because they were too afraid to speak.
+- + I know someone who judges when they're too exhausted to speak.
+- + I know people 
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
@@ -688,7 +690,7 @@ How do we make sure this trend continues?
 
 
 Trends get pushed in micro ways. One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
-
+Making people judge when they come late seems like a 'punishment', esp
 
 
 
@@ -1020,11 +1022,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OT
-kwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIs
-Njk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3OD
-YxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwt
-MTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3Mz
-Y3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQy
-NjgwMF19
+c3RvcnkiOlstNTQ5NjkwMjQyLDEwMDI2ODQwMDQsLTQ4NzczMD
+Q1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwt
+MTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NT
+k4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0x
+Nzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1Mz
+YyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIw
+MTQ4XX0=
 -->
