@@ -644,6 +644,7 @@ Anyway, this highlights a couple problems with adjing.
 2. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence speakers scroll their phones during their OA and don't take them seriously, people go to ask the chair feedback instead of them, and they feel they have no impact on the tournament because their vote doesn't matter. They don't get any numerical result from the tournament either.
+- Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends.
  - 
 4. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
@@ -976,7 +977,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjQ2NTY1NjM1LDIzNTA2MDQ3NywxMjcyOTU5OD
+c3RvcnkiOlstMTY2MTY4Mzg4LDIzNTA2MDQ3NywxMjcyOTU5OD
 M2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4
 NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
 cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
