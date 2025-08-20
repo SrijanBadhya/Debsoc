@@ -697,7 +697,8 @@ How do we make sure this trend continues?
 Trends get pushed in micro ways. 
 - One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
--Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
+- Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
+- Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
 
 
 
@@ -1029,7 +1030,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA5NzU5MTQxOSwxMDAyNjg0MDA0LC00ODc3Mz
+c3RvcnkiOlstMTM4MTY2NjkyOSwxMDAyNjg0MDA0LC00ODc3Mz
 A0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAs
 LTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOT
 U5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwt
