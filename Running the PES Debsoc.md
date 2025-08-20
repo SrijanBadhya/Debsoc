@@ -25,7 +25,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've been a part of conducting recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
 You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll definitely reply within a week. 
 
-There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1Xm1_dZz6VS4Kio9N6Xo82HoAT-vVU__I/view?usp=drive_link). I felt that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
+There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view). I felt that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
 
 <br>
 <br>
@@ -651,7 +651,10 @@ Anyway, this highlights a couple problems with adjing.
 3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
 4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
-- The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments.
+- The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
+
+
+### Be car
 
 
 
@@ -981,11 +984,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2ODcyMDU0MTcsLTE1NDQzMjgwMTIsNjk5ODk2MD
-YzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1NTY3
-OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwtMTgwNTQ0MT
-k5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5MSwt
-MjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQyNjgwMCw1MD
-Y1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1NTY4NiwtMTg3NDAx
-NTIzNF19
+c3RvcnkiOlstOTc5MTg5OTI3LC0xNTQ0MzI4MDEyLDY5OTg5Nj
+A2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2
+NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0ND
+E5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEs
+LTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNT
+A2NTkwNjk5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLTE4NzQw
+MTUyMzRdfQ==
 -->
