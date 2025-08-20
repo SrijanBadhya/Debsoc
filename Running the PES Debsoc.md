@@ -453,7 +453,7 @@ Lateral entry people are very important, make sure they know they're allowed, an
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are going to feel sad at the end of a session. Sadness cannot be avoided, only minimized.
 
-Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial.
+Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate).
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality.
 
 What I mean by this is:
@@ -595,6 +595,10 @@ It is still well aligned in the direction of sharpening your debate skills, and 
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cuz of how goofy it was, and very time efficient too.
+
+
+#### Impromptu debates
+Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the PM just starts yapping. (TH
 
 
   ## A few issues of sessions that persist
@@ -1000,7 +1004,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzc0Mjc1NDM2LC0xNjA0OTk5MDM0LDExOTQzOD
+c3RvcnkiOlsxNTgzOTE3MzEzLC0xNjA0OTk5MDM0LDExOTQzOD
 EzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2Mywy
 MzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzND
 g4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUs
