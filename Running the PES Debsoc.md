@@ -673,8 +673,11 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 The ideal scenario to get them to switch to adjing is that they wanna try something new, try adjing, and end up liking it. The ideal scenario is people voluntarily adj in tournaments and push through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
 
+
 How do we make sure this trend continues?
-- Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. 
+- Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a trend of debsoc seniors voluntarily judging, which is nice and makes it look desirable.
+- I don't know how exactly to encourage adjing (because if you start outright telling everyone 
+
 
 
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
@@ -1012,11 +1015,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE3NTI3NzgyOSwtNDg3NzMwNDUyLC0xNjA0OT
-k5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEy
-LDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nz
-g2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgs
-LTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNz
-M2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0
-MjY4MDBdfQ==
+c3RvcnkiOlstNjQxMTk5Mjk5LC00ODc3MzA0NTIsLTE2MDQ5OT
+kwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIs
+Njk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3OD
+YxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwt
+MTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3Mz
+Y3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMTA2MzQy
+NjgwMF19
 -->
