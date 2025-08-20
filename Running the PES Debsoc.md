@@ -641,7 +641,8 @@ Anyway, this highlights a couple problems with adjing.
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as can be seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
-2. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we o
+2. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
+3. My seniors believed that freshers should 
 
 
 
@@ -970,11 +971,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY0MjEzMjc2OSwyMzUwNjA0NzcsMTI3Mjk1OT
-gzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3
-ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNj
-I3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAx
-NDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLT
-EyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMw
-NjM3ODY3MV19
+c3RvcnkiOlsxNzgyNzA1NTI1LDIzNTA2MDQ3NywxMjcyOTU5OD
+M2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4
+NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2Mj
+cyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0
+OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMT
+I4MjE1NTY4NiwtMTg3NDAxNTIzNCwtMTYzMjQ3MjE4MSwxMzA2
+Mzc4NjcxXX0=
 -->
