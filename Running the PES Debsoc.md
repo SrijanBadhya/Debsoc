@@ -654,7 +654,8 @@ Anyway, this highlights a couple problems with adjing.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
 5. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
 
-_One initial solution I had thought of a year ago, was to make people adj once every three tournaments. T
+_One initial solution I had thought of a year ago, was to make people adj once every three or four tournaments. 
+-_This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, 
 - _Freshers can speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucks._ 
 - _This also distributes adjes evenly among multiple tournaments._
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
@@ -995,11 +996,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyOD
-AxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4
-NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MD
-A4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEs
-MjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMD
-YzNDI2ODAwLDUwNjU5MDY5OSwtOTg5NzY2NzEzLC0xMjgyMTU1
-Njg2XX0=
+c3RvcnkiOls3OTI5NDQ3MDgsMTE5NDM4MTMzLDE2MzM2NTU2Mz
+AsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcy
+OTU5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNS
+wtMTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0x
+NTM2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4OD
+kyMDE0OCwtMTA2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2Njcx
+M119
 -->
