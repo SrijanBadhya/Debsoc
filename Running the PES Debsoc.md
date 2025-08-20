@@ -652,11 +652,15 @@ Anyway, this highlights a couple problems with adjing.
 4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
-5. Freshers can't really adj during round 1 r
+5. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
+6. How do you get them to switch to adjing if they get used to speaking?
+
+
 
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. 
+
 
 
 
@@ -986,11 +990,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMxODk3OTUyNCwxNjMzNjU1NjMwLC0xNTQ0Mz
-I4MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwz
-NDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OT
-QwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0
-MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLT
-EwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyODIx
-NTU2ODZdfQ==
+c3RvcnkiOlsxMjgzNDU2MjUzLDE2MzM2NTU2MzAsLTE1NDQzMj
+gwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0
+ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5ND
+AwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQx
+LDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODkyMDE0OCwtMT
+A2MzQyNjgwMCw1MDY1OTA2OTksLTk4OTc2NjcxMywtMTI4MjE1
+NTY4Nl19
 -->
