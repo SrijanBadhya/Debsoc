@@ -594,7 +594,7 @@ It is still well aligned in the direction of sharpening your debate skills, and 
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
-It was fun cuz of how goofy it was, and very time efficient too.
+It was fun of how goofy it was, and very time efficient too.
 
 
 #### Impromptu debates
@@ -1005,11 +1005,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzOD
-EzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2Mywy
-MzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzND
-g4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUs
-MjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2NzQ3OTEsLTIxMz
-M2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4MDAsNTA2NTkw
-Njk5XX0=
+c3RvcnkiOlsyNzczNTg5MTYsLTQ4NzczMDQ1MiwtMTYwNDk5OT
+AzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2
+OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4Nj
+ExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0x
+ODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2NDEsMjczNj
+c0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIwMTQ4LC0xMDYzNDI2
+ODAwXX0=
 -->
