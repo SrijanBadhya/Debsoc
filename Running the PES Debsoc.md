@@ -632,6 +632,8 @@ As we were all freshers to the debsoc, I expected our seniors to assign roles fo
 The 4 of us continued to avoid discussion about which 3 would form a team and which one would adj.
 In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. 
 Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel.
+I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming am I right). 
+Being a forced adj for CUPD didn't g
 
 
 
@@ -960,11 +962,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MT
-EsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4
-MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNjI3MjY0MSwyNzM2Nz
-Q3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAxNDgsLTEwNjM0MjY4
-MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLTEyODIxNTU2ODYsLT
-E4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMwNjM3ODY3MSwxNzk4
-MjkzOTMwXX0=
+c3RvcnkiOlstMTcwOTM4ODk1OSwyMzUwNjA0NzcsMTI3Mjk1OT
+gzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3
+ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYyMywtMTUzNj
+I3MjY0MSwyNzM2NzQ3OTEsLTIxMzM2NDEwODgsLTE2ODg5MjAx
+NDgsLTEwNjM0MjY4MDAsNTA2NTkwNjk5LC05ODk3NjY3MTMsLT
+EyODIxNTU2ODYsLTE4NzQwMTUyMzQsLTE2MzI0NzIxODEsMTMw
+NjM3ODY3MV19
 -->
