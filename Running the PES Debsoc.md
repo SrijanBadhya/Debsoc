@@ -679,7 +679,7 @@ How do we make sure this trend continues?
 - Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a trend of debsoc seniors voluntarily judging, which is nice and makes it look desirable.
 - The target audience of people who will like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
 - + 
-- I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.)
+- I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
 
@@ -1020,7 +1020,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzI2ODE2ODc4LC00ODc3MzA0NTIsLTE2MDQ5OT
+c3RvcnkiOlsxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OT
 kwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIs
 Njk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3OD
 YxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwt
