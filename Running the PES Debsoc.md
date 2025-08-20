@@ -682,7 +682,8 @@ How do we make sure this trend continues?
 - + I know someone who judges when they're too exhausted to speak.
 - + I know people who end up judging all the time because they're late all the time.
 - + I know people who equally feel like judging/speaking, and because they're the only one among 7 people who feel that way, they're made a judge.
-- + People feel to pressured to give
+- + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging)
+- 
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
@@ -1024,11 +1025,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzI1MTEzMTIxLDEwMDI2ODQwMDQsLTQ4NzczMD
-Q1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwt
-MTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NT
-k4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0x
-Nzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1Mz
-YyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQxMDg4LC0xNjg4OTIw
-MTQ4XX0=
+c3RvcnkiOlstMTM2MzUxNjYwNCwxMDAyNjg0MDA0LC00ODc3Mz
+A0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAs
+LTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOT
+U5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwt
+MTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNT
+M2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODky
+MDE0OF19
 -->
