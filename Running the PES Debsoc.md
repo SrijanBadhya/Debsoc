@@ -598,7 +598,8 @@ It was fun cuz of how goofy it was, and very time efficient too.
 
 
 #### Impromptu debates
-Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the PM just starts yapping. (TH
+Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more people this format isn't as impactful because they don't feel the time crunch as much.
+Good way to keep you on your feet and make you better prepared for tourney time crunches.
 
 
   ## A few issues of sessions that persist
@@ -1004,7 +1005,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTgzOTE3MzEzLC0xNjA0OTk5MDM0LDExOTQzOD
+c3RvcnkiOlstNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzOD
 EzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2Mywy
 MzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzND
 g4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUs
