@@ -71,7 +71,9 @@ III. [Inside a session](#inside-a-session)
 	b) [Alley Debating](#alley-debating) 
 10. [Issues](#a-few-issues-of-sessions-that-persist)
 11. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
-12. [Online sessions](#online-sessions) 
+	a)
+	b) [Elevating the judging experience](#elevating-the-judging-experience)
+13. [Online sessions](#online-sessions) 
 
 IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -714,7 +716,7 @@ I think there are primarily 2 ways to replicate a portion of this feeling that I
 1. If you're the chair, make the junior feel like their thoughts are heard. 
 2. If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.
 
-Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. So
+Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
 
 
@@ -1041,11 +1043,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDQ0NTAzMTY5LDIwODgxNzY1OTgsNzU4Njc2OT
-U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
-NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
-U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
-MTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NT
-k1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYy
-M119
+c3RvcnkiOlstMTkwOTU5MDg2MywyMDg4MTc2NTk4LDc1ODY3Nj
+k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
+LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
+Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
+LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0Nj
+U5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2
+MjNdfQ==
 -->
