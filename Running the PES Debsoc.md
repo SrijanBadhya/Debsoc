@@ -4,7 +4,7 @@
 
 # This House Would...
 
-Hello valued Debsoc core member,
+Welcome valued Debsoc core member,
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
 As seniors, it's our responsibility to not make our juniors feel lost about running the club. This document is extensive, but I want to make you aware of every incident that can pop up during recruitments and debate sessions.
@@ -1032,11 +1032,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2OD
-QwMDQsLTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMs
-MTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MD
-YwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwx
-NjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMT
-k5MzM2MjMsLTE1MzYyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQx
-MDg4XX0=
+c3RvcnkiOls3NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1ND
+AzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQs
+MTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIsNjk5OD
+k2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1
+NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwtMTgwNT
+Q0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5
+MV19
 -->
