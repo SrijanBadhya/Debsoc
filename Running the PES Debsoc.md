@@ -709,9 +709,10 @@ How do we get inexperienced juniors to enjoy judging though? Since they are not 
 The two scenarios a junior would be judging is 
 1. As a panel to a senior chair
 2. As a chair, a sole judge, when the senior present decides to speak instead.
-3
+
 I think there are primarily 2 ways to replicate a portion of this feeling that I had, and it's the duty of the senior present to try.
-1. If you're the chair, make 
+1. If you're the chair, make the junior feel like their thoughts are heard. 
+2. If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say
 
 
 
@@ -1040,7 +1041,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjg5MjIyNzQzLDIwODgxNzY1OTgsNzU4Njc2OT
+c3RvcnkiOlstOTk4ODI3MTQxLDIwODgxNzY1OTgsNzU4Njc2OT
 U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
 NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
 U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
