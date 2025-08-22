@@ -43,6 +43,8 @@ I believe it's good to keep in mind the merits and demerits of alternate policie
 The claims will be in **bold**, and the reasons will be in white bullet points. But first let me talk about the guiding values which are the basis for all the claims here (what we prioritized in our decisions).
 Alternate systems conceptualized or once followed will be in _italics_. 
 
+My whole yap isn't to say, "This is what you _should_ follow", but to just explain the frontier of my knowledge and lay out my case, hoping that you can overcome and expand up
+
 # Table of Contents
 I. [Guiding Principles](#guiding-principles)
 1. [The Point of a Debate Club](#the-point-of-a-debate-club)
@@ -1030,11 +1032,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3Mz
-A0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAs
-LTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOT
-U5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwt
-MTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIzLC0xNT
-M2MjcyNjQxLDI3MzY3NDc5MSwtMjEzMzY0MTA4OCwtMTY4ODky
-MDE0OF19
+c3RvcnkiOlsxMDk1MDIxMzA3LC0xMjQyNTU0MDM0LDEwMDI2OD
+QwMDQsLTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMs
+MTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MD
+YwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwx
+NjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMT
+k5MzM2MjMsLTE1MzYyNzI2NDEsMjczNjc0NzkxLC0yMTMzNjQx
+MDg4XX0=
 -->
