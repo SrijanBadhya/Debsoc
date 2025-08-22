@@ -705,8 +705,13 @@ Trends get pushed in micro ways.
 - I wasn't a 'useless trainee' judge anymore, but a chair who people depended on.
 - I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit.
 
-How do we get inexperienced juniors to enjoy judging though?
-I think there are primarily 2 ways to replicate a portion of this feelin
+How do we get inexperienced juniors to enjoy judging though? Since they are not fully qualified to give feedback.
+The two scenarios a junior would be judging is 
+1. As a panel to a senior chair
+2. As a chair, a sole judge, when the senior present decides to speak instead.
+3
+I think there are primarily 2 ways to replicate a portion of this feeling that I had, and it's the duty of the senior present to try.
+1. If you're the chair, make 
 
 
 
@@ -1035,7 +1040,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTM1MTEzOTM3LDIwODgxNzY1OTgsNzU4Njc2OT
+c3RvcnkiOlsxNjg5MjIyNzQzLDIwODgxNzY1OTgsNzU4Njc2OT
 U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
 NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
 U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
