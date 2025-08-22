@@ -70,8 +70,8 @@ III. [Inside a session](#inside-a-session)
 	a) [Turncoat](#turncoat)
 	b) [Alley Debating](#alley-debating) 
 10. [Issues](#a-few-issues-of-sessions-that-persist)
-11. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
-	a)
+	a) Adjing
+	a)[Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	b) [Elevating the judging experience](#elevating-the-judging-experience)
 13. [Online sessions](#online-sessions) 
 
@@ -1043,11 +1043,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkwOTU5MDg2MywyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0Nj
-U5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2
-MjNdfQ==
+c3RvcnkiOlsxNTE3NDQ2NDM4LDIwODgxNzY1OTgsNzU4Njc2OT
+U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
+NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
+U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
+MTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NT
+k1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYy
+M119
 -->
