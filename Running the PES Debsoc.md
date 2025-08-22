@@ -720,7 +720,7 @@ I think there are primarily 2 ways to replicate a portion of this feeling that I
 
 Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
-However I wouldn't recommend getting the fresher to give an OA to everyone because people might follow incorrect advice from them. What I did was ask this panel judge to 
+However I wouldn't recommend getting the fresher to give an OA to everyone because people might follow incorrect advice from them. What I did was ask this panel judge to give their OA privately to me. However, if you think you can interrupt their OA and catch them on every mistake or misleading piece of feedback, and prevent harm to the other fresher speakers, then go for public OAs. However interrupting is annoying, and you might make a mental note of their mistakes and tell them later, but in this case you're also quite likely to forget your mental notes.
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -1045,11 +1045,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYyODc2MjY1OSwyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0Nj
-U5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2
-MjNdfQ==
+c3RvcnkiOls2MjM0NzE2NSwyMDg4MTc2NTk4LDc1ODY3Njk1Ny
+wyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQsLTQ4
+NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NT
+YzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEy
+NzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NT
+A1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjNd
+fQ==
 -->
