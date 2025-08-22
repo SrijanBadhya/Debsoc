@@ -687,7 +687,7 @@ How do we make sure this trend continues?
 - + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging)
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
 - + **The interesting thing about the narrative of freshers early on before they judge, is that judging looks like a position of authority.** Freshers believe that you need to be highly qualified to be a judge, and that being a judge is a sign of you being great (They're unaware that anyone can judge in a tournament). 
-- I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)(talk about feedback and making them feel like they're the shit). 
+- I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few ideas( on how you can increase a fresher's enjoyment of judging mocks. (Srijan link to something later)(talk about feedback and making them feel like they're the shit). 
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 -
 
@@ -1032,11 +1032,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTExOTIzMTM3NSwyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0Nj
-U5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2
-MjNdfQ==
+c3RvcnkiOlsxMjQzMTAzMTY3LDIwODgxNzY1OTgsNzU4Njc2OT
+U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
+NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
+U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
+MTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NT
+k1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYy
+M119
 -->
