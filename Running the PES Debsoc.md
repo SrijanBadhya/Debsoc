@@ -72,6 +72,8 @@ III. [Inside a session](#inside-a-session)
 10. [Issues](#a-few-issues-of-sessions-that-persist)
 	a) Adjing
 	a)[Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
+	a) [My story](#my-story)
+	b) [Adjing obstacles](#adjing-obstacles)
 	b) [Elevating the judging experience](#elevating-the-judging-experience)
 13. [Online sessions](#online-sessions) 
 
@@ -1043,11 +1045,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTE3NDQ2NDM4LDIwODgxNzY1OTgsNzU4Njc2OT
-U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
-NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
-U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
-MTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NT
-k1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5OTUsMjExOTkzMzYy
-M119
+c3RvcnkiOlstMjQ0NjY1MzMsMjA4ODE3NjU5OCw3NTg2NzY5NT
+csMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00
+ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NT
+U2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3Nywx
+MjcyOTU5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OT
+UwNSwtMTc4NzY5NDAwOCwtMTgwNTQ0MTk5NSwyMTE5OTMzNjIz
+XX0=
 -->
