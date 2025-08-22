@@ -712,9 +712,9 @@ The two scenarios a junior would be judging is
 
 I think there are primarily 2 ways to replicate a portion of this feeling that I had, and it's the duty of the senior present to try.
 1. If you're the chair, make the junior feel like their thoughts are heard. 
-2. If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say
+2. If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.
 
-
+Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. So
 
 
 
@@ -1041,7 +1041,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTk4ODI3MTQxLDIwODgxNzY1OTgsNzU4Njc2OT
+c3RvcnkiOlsyMDQ0NTAzMTY5LDIwODgxNzY1OTgsNzU4Njc2OT
 U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
 NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
 U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzcs
