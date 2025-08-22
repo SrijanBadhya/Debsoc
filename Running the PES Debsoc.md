@@ -43,7 +43,7 @@ I believe it's good to keep in mind the merits and demerits of alternate policie
 The claims will be in **bold**, and the reasons will be in white bullet points. But first let me talk about the guiding values which are the basis for all the claims here (what we prioritized in our decisions).
 Alternate systems conceptualized or once followed will be in _italics_. 
 
-My whole yap isn't to say, "This is what you _should_ follow", but to just explain the frontier of my knowledge and lay out my case, hoping that you can overcome and expand up
+**My whole yap isn't to say, "This is what you _should_ follow", but to just explain the frontier of my knowledge and lay out my case, hoping that you can overcome and expand the frontier and make better systems.**
 
 # Table of Contents
 I. [Guiding Principles](#guiding-principles)
@@ -1032,7 +1032,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDk1MDIxMzA3LC0xMjQyNTU0MDM0LDEwMDI2OD
+c3RvcnkiOlsyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2OD
 QwMDQsLTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMs
 MTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MD
 YwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwx
