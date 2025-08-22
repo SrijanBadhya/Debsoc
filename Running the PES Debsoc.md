@@ -804,7 +804,7 @@ Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' o
 
 Share motion, share random fun pictures, make people feel the fomo
 
-  
+  Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
@@ -1032,11 +1032,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1ND
-AzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQs
-MTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIsNjk5OD
-k2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1
-NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAwOCwtMTgwNT
-Q0MTk5NSwyMTE5OTMzNjIzLC0xNTM2MjcyNjQxLDI3MzY3NDc5
-MV19
+c3RvcnkiOlsyMDg4MTc2NTk4LDc1ODY3Njk1NywyMTI5OTYyMT
+I1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQsLTQ4NzczMDQ1Miwt
+MTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NTYzMCwtMTU0ND
+MyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNzI5NTk4MzYs
+MzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1LC0xNzg3Nj
+k0MDA4LC0xODA1NDQxOTk1LDIxMTk5MzM2MjMsLTE1MzYyNzI2
+NDFdfQ==
 -->
