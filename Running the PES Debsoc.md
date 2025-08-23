@@ -644,6 +644,7 @@ The 4 of us continued to avoid discussion about which 3 would form a team and wh
 In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. 
 Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel.
 I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming am I right). 
+I had never been told that judges competed too, so I felt even more useless.
 Being a forced adj for CUPD didn't get me to like adjing either.
 For those who know me, things changed eventually, and I ended up adjing 3x more debates than I've spoken in.
 Anyway, this highlights a couple problems with adjing.
@@ -1054,11 +1055,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NT
-csMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIw
-ODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NT
-QwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0
-LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OT
-g5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTFd
-fQ==
+c3RvcnkiOlsxMzY3NzU1MjM4LDM1OTIxMjUzOCw1NTk1NzA0Nj
+ksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1LC0xMjg3MTU1MzM2LC0x
+ODMzMjE0NTQsMjA4ODE3NjU5OCw3NTg2NzY5NTcsMjEyOTk2Mj
+EyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIs
+LTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1ND
+QzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2
+XX0=
 -->
