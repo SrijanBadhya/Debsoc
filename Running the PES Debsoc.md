@@ -793,9 +793,11 @@ The counter arguments I've heard about this are
 
 one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
 
-  
 
 Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
+
+Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
+Hook people into debate (like friends  before their academic load starts during recruitment season
 
   I support not playing pranks in the initial days cuz it erodes trust in the clubheads.
   
@@ -803,11 +805,9 @@ Heavily encourage spectators, a lot of people find it easier to opt in, both alr
 Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
   
-  
 
 Akshath Saxena, seniors need to have and show passion for it to flow to juniors
 
-  
 
 
 we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
@@ -1072,11 +1072,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzIwMzQ2ODg0LDEzNjc3NTUyMzgsMzU5MjEyNT
-M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
-ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-XX0=
+c3RvcnkiOls3NDA1MDUwNjQsMTM2Nzc1NTIzOCwzNTkyMTI1Mz
+gsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4
+NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNzU4Njc2OT
+U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
+NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
+U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzdd
+fQ==
 -->
