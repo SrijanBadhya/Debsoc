@@ -632,7 +632,9 @@ You can make the extra person adj a handful of times, but make sure they don't f
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
-2. Another issue is 
+2. Another issue is the complications of adjing. It was initially a subsection under "Inside a Session", but my rant grew longer and longer.
+
+# Adj Rant
 
 ### Encouraging Adjing is Complicated
 
@@ -824,15 +826,10 @@ don't alienate mun people because a lot of people try out both clubs. take the h
 
   
   
-
-the narrative of adjing being bad is spread through statements like, "You'd better come early next time if you wanna speak", etc
-
   
 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
-  
-quote the adjing thing from how to start a debating society.
 
 
 A lot of time there are people who genuinely care about improving in debating but don't attend sessions
@@ -863,7 +860,7 @@ Inertia is huge, don't let them go too long without debating. Try to have some s
 
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
 
-  
+
 
 Talk about whatsapp group chats and why you need an admins only sessions group
 
@@ -1075,11 +1072,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA1Nzg4NTc1NywxMzY3NzU1MjM4LDM1OTIxMj
-UzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1LC0x
-Mjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OCw3NTg2Nz
-Y5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0
-LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2Mz
-M2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3
-N119
+c3RvcnkiOlsxMzIwMzQ2ODg0LDEzNjc3NTUyMzgsMzU5MjEyNT
+M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
+ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
+k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
+LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
+Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
+XX0=
 -->
