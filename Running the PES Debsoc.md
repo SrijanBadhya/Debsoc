@@ -69,8 +69,8 @@ III. [Inside a session](#inside-a-session)
 &emsp;5. [Keeping It Fun](#keeping-it-fun)
 &emsp;&emsp;a) [Turncoat](#turncoat)
 &emsp;&emsp;b) [Alley Debating](#alley-debating) 
-&emsp;12. [Online sessions](#online-sessions) 
-&emsp;9. [Issues](#a-few-issues-of-sessions-that-persist)
+&emsp;6. [Online sessions](#online-sessions) 
+&emsp;7. [Issues](#a-few-issues-of-sessions-that-persist)
 
 IV. Adj Rant
 1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
@@ -1094,7 +1094,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE1OTIyNjUsODkwMTE0NDg2LC0xOTY0MDA3Mj
+c3RvcnkiOlsxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3Mj
 AxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3
 LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3Nz
 U1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1Nywx
