@@ -706,6 +706,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ## The Adj Narrative
 
+### Characterization
+
 ==**Be careful with all your words to not propagate a negative narrative of adjing.**==
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive. 
 
@@ -1088,11 +1090,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMzOTY2NTg5NCwtMTk2NDAwNzIwMSwtMTMzOD
-cwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEy
-NDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNT
-kyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3
-NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNz
-U4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4
-NDAwNF19
+c3RvcnkiOls4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MD
+A3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQy
+LDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5Mj
+EyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUs
+LTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1OD
+Y3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQw
+MDRdfQ==
 -->
