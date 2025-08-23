@@ -610,7 +610,7 @@ Good way to keep you on your feet and make you better prepared for tourney time 
 
   ## A few issues of sessions that persist
 
-Dividing the workload:
+1. Dividing the workload:
 
 Every year we try hard to encourage people to come, and people do 'commit' in theory. 
 But it always looks like people lack the push to actually show up.
@@ -631,6 +631,8 @@ When more than a room full of juniors pull up, there are a few ways to adjust it
 You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
+
+2. Another issue is 
 
 ### Encouraging Adjing is Complicated
 
@@ -1073,7 +1075,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjE0NjAwNzE1OCwxMzY3NzU1MjM4LDM1OTIxMj
+c3RvcnkiOlstMjA1Nzg4NTc1NywxMzY3NzU1MjM4LDM1OTIxMj
 UzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1LC0x
 Mjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OCw3NTg2Nz
 Y5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0
