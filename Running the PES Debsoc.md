@@ -51,26 +51,26 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-&emsp; 3. [Recruitment Concepts](#recruitment-concepts)
-     &emsp;&emspa) [History](#history)
+&emsp; 1. [Recruitment Concepts](#recruitment-concepts)
+     &emsp;&emsp;a) [History](#history)
      &emsp;&emsp;b) [Depth wise inclusivity](#depth-wise-inclusivity)
      &emsp;&emsp;c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
      &emsp;&emsp;d) [The 2024 Model](#the-2024-model)
 	     &emsp; &emsp;&emsp;i) [Round 1](#round-1)
 	     &emsp; &emsp;&emsp;ii) [Round 2](#round-2)
      &emsp;&emsp;e) Something
-&emsp; 3. [Recruitment Logistics](#recruitment-logistics)
+&emsp; 2. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
-4. [Session Concepts](#session-concepts)
-5. [Time](#time)
-6. [Feedback](#feedback)
-7. [Balancing](#balancing)
-8. [Keeping It Fun](#keeping-it-fun)
-	a) [Turncoat](#turncoat)
-	b) [Alley Debating](#alley-debating) 
-12. [Online sessions](#online-sessions) 
-9. [Issues](#a-few-issues-of-sessions-that-persist)
+&emsp;1. [Session Concepts](#session-concepts)
+&emsp;2. [Time](#time)
+&emsp;3. [Feedback](#feedback)
+&emsp;4. [Balancing](#balancing)
+&emsp;5. [Keeping It Fun](#keeping-it-fun)
+&emsp;&emsp;a) [Turncoat](#turncoat)
+&emsp;&emsp;b) [Alley Debating](#alley-debating) 
+&emsp;12. [Online sessions](#online-sessions) 
+&emsp;9. [Issues](#a-few-issues-of-sessions-that-persist)
 
 IV. Adj Rant
 1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjQ4MjUyNzQyLDg5MDExNDQ4NiwtMTk2NDAwNz
-IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
-Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
-c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
-MTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwOD
-gxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQw
-MzRdfQ==
+c3RvcnkiOlstMTE1OTIyNjUsODkwMTE0NDg2LC0xOTY0MDA3Mj
+AxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3
+LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3Nz
+U1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1Nywx
+NjQ5ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4OD
+E3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAz
+NF19
 -->
