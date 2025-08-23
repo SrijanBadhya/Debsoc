@@ -74,16 +74,16 @@ III. [Inside a session](#inside-a-session)
 
 IV. Adj Rant
 1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
-	a) [My story](#my-story)
-	b) [Adjing obstacles](#adjing-obstacles)
+	a) [My Story](#my-story)
+	b) [Adjing Obstacles](#adjing-obstacles)
 2. [The Adj Narrative](#the-adj-narrative)
 	a) [Characterization](#characterization)
 	b) [Common Pitfalls](#common-pitfalls)
-	c) [Elevating the judging experience](#elevating-the-judging-experience)
+	c) [Elevating The Judging Experience](#elevating-the-judging-experience)
 
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
-VI. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
+VI. [Keeping p Debate Spirit](#keeping-up-debate-spirit)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -666,7 +666,7 @@ b) Another issue is the complications of adjing. It was initially a subsection u
 ## Encouraging Adjing is Complicated
 
 [Link back to the 'Time' subsection if you came from the link there](#time)
-### My story
+### My Story
 The debsoc controversy I am the most infamous for is my history with Adjudication.
 This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
@@ -680,7 +680,7 @@ Being a forced adj for CUPD didn't get me to like adjing either.
 For those who know me, things changed eventually, and I ended up adjing 3x more debates than I've spoken in.
 Anyway, this highlights a couple problems with adjing.
 
-### Adjing obstacles
+### Adjing Obstacles
 
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
@@ -767,7 +767,7 @@ judging. The advice would be to ask the good judges to chair the first few month
 
 Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish.
 
-### Elevating the judging experience
+### Elevating The Judging Experience
 Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
 - I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me.
 - I wasn't a 'useless trainee' judge anymore, but a chair who people depended on.
@@ -794,7 +794,7 @@ However, interrupting is annoying, and you might make a mental note of their mis
 You're cooked. I'm just as clueless as you.
 
 
-# Keeping up debate spirit
+# Keeping Up Debate Spirit
 [Back to Table of Contents](#table-of-contents)
 
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk1Mjk1MjkzNyw4OTAxMTQ0ODYsLTE5NjQwMD
-cyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgz
-NzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNj
-c3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3
-LDE2NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMD
-g4MTc2NTk4LDc1ODY3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0
-MDM0XX0=
+c3RvcnkiOlsxODM3NzUxNzI0LDg5MDExNDQ4NiwtMTk2NDAwNz
+IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
+Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
+c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
+MTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwOD
+gxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQw
+MzRdfQ==
 -->
