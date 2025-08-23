@@ -91,17 +91,17 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 ## The Point of a Debate Club
 2 parts: Debate, and Club
 
-_There have been people who say that the point of a debate club is to debate, and it's bad if you're chilling too much_
-I believe chilling is fine if it assists in the direction of the purpose of the club.
+_There have been people who say that the point of a debate club is to debate, and it's bad to chill too much_
+I believe chilling is fine in so far as assists in the direction of the purpose of the club. (there I said it, the first and last time I use that debate phrase!!)
 
 The single biggest purpose of a club is to ==provide value to every single member.==
 
 
 Why do people want to join a club?
 
-- They believe the activity would be enjoyable.
+- They believe the activity will be enjoyable.
 - They believe they'll learn something from the activity.
-- They believe they'll be able to hang out with fun nice people.
+- They believe they'll be able to hang out with nice fun people.
 
 I will henceforth link all my arguments to these impacts of joy, growth, and community.
 I believe a club should not stray away from meeting these 3 needs of its members. 
@@ -1047,11 +1047,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMwMDY3MDE4OCwtMTI4NzE1NTMzNiwtMTgzMz
-IxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUs
-LTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNj
-A0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4
-MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzND
-g0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQw
-MDhdfQ==
+c3RvcnkiOlsxMTMxMTcxMTIyLC0xMjg3MTU1MzM2LC0xODMzMj
+E0NTQsMjA4ODE3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwt
+MTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MD
+Q5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgw
+MTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0OD
+Q3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAw
+OF19
 -->
