@@ -859,6 +859,8 @@ a lot of people who stay in debsoc are friendless otherwise, so the community an
 
 Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community.
 
+fear is not a great motivator to be active, 
+we'll kick you out" was dumb
   
 
 Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
@@ -1079,11 +1081,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1Mj
-M4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5
-ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3Nj
-U5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwx
-MDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5ND
-M4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYz
+c3RvcnkiOls0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MD
+IsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMx
+ODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxND
+U0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEy
+NDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OT
+k5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEy
 XX0=
 -->
