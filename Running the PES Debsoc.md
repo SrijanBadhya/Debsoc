@@ -653,7 +653,7 @@ Anyway, this highlights a couple problems with adjing.
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
-2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes 
+2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with carrying the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#be-careful-with-all-your-words-to-not-propagate-a-negative-narrative-of-adjing)).
 3. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence speakers scroll their phones during their OA and don't take them seriously, people go to ask the chair feedback instead of them, and they feel they have no impact on the tournament because their vote doesn't matter. They don't get any numerical result from the tournament either.
@@ -1049,7 +1049,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjU3ODU1MzI1LC0xMjg3MTU1MzM2LC0xODMzMj
+c3RvcnkiOlsxNjQ5ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMj
 E0NTQsMjA4ODE3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwt
 MTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MD
 Q5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgw
