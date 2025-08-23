@@ -676,7 +676,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 
 ### Be careful with all your words to not propagate a negative narrative of adjing
-From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive.
+From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive. 
+
 
 The ideal scenario to get them to switch to adjing is that they wanna try something new, try adjing, and end up liking it. The ideal scenario is people voluntarily adj in tournaments and push through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
 
@@ -1047,7 +1048,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTMxMTcxMTIyLC0xMjg3MTU1MzM2LC0xODMzMj
+c3RvcnkiOlsxNDIyMDgxMjQ0LC0xMjg3MTU1MzM2LC0xODMzMj
 E0NTQsMjA4ODE3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwt
 MTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MD
 Q5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgw
