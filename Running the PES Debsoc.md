@@ -681,7 +681,7 @@ Anyway, this highlights a couple problems with adjing.
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
-2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with carrying the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#be-careful-with-all-your-words-to-not-propagate-a-negative-narrative-of-adjing)).
+2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with carrying the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#the-adj-narrative)).
 3. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence speakers scroll their phones during their OA and don't take them seriously, people go to ask the chair feedback instead of them, and they feel they have no impact on the tournament because their vote doesn't matter. They don't get any numerical result from the tournament either.
@@ -699,12 +699,14 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 - _This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, and mathematically the ratios match when people switch roles across tournaments._
 - _Freshers can speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucks._ 
 - _This also distributes adjes evenly among multiple tournaments._
-- However, later I realized this was bad for the [narrative of adjing](#be-careful-with-all-your-words-to-not-propagate-a-negative-narrative-of-adjing). (The only way to still execute this is equally say that _speaking_ twice in 3 tourneys is also 'compulsory', but this is too delicate and weird, and one slip-up ruins the narrative of adjing).
+- However, later I realized this was bad for the [narrative of adjing](#the-adj-narrative). (The only way to still execute this is equally say that _speaking_ twice in 3 tourneys is also 'compulsory', but this is too delicate and weird, and one slip-up ruins the narrative of adjing).
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
 
-### Be careful with all your words to not propagate a negative narrative of adjing
+### The Adj Narrative
+
+**Be careful with all your words to not propagate a negative narrative of adjing.**
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
@@ -1084,11 +1086,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OT
-g0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIs
-MTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxOD
-A3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0
-LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyND
-I1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5
-MDM0XX0=
+c3RvcnkiOlstMTMzMzE3Mjc2NCwtMTMzODcwMDc4NiwtMTgwMj
+A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
+LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NT
+cwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMz
+NiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMj
+k5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMw
+NDUyXX0=
 -->
