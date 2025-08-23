@@ -488,7 +488,7 @@ Having to sit idle before a debate starts significantly impacts the quality of e
 Multiple different delays add up, and they should be minimized.
 - In 2023 very often that juniors would show up before seniors, and this is extremely optically bad for seniors to look 'unserious'.
 - making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
-- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time is taken to filter a motion cause they also needed
+- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time is taken to filter a motion cause they also needed to not give juniors motions motions which they didn't understand. 
 
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
@@ -1047,11 +1047,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4OTQ2MzE3ODQsLTE4MzMyMTQ1NCwyMDg4MTc2NT
-k4LDc1ODY3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEw
-MDI2ODQwMDQsLTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0Mz
-gxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMs
-MjM1MDYwNDc3LDEyNzI5NTk4MzYsMzQ4NDc4NjExLDU1Njc5Mz
-Q4OCwxNjE0NjU5NTA1LC0xNzg3Njk0MDA4LC0xODA1NDQxOTk1
-XX0=
+c3RvcnkiOlstMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNz
+Y1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQs
+MTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOT
+QzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2
+MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2Nz
+kzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5
+OTVdfQ==
 -->
