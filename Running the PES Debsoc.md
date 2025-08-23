@@ -708,6 +708,7 @@ Samuel, my senior, once said this to encourage judging,
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
 The way he carefully did it was by knowing that at the time people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out.
+**I think it's very important to inform people that judges also compete, because we don't consciously inform this to new recruits, and recruits also never expect that judges compete as well. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.**
 A few issues are
 - "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy
 - 
@@ -1070,7 +1071,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYyNzQ0NzI1LDEzNjc3NTUyMzgsMzU5MjEyNT
+c3RvcnkiOlstMTU5ODQzMzk2LDEzNjc3NTUyMzgsMzU5MjEyNT
 M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
 ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
 k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
