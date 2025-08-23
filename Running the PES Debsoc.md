@@ -59,23 +59,25 @@ II. [Recruitments](#recruitments)
 	     &emsp; i) [Round 1](#round-1)
 	     &emsp; ii) [Round 2](#round-2)
      e) Something
-4. [Recruitment Logistics](#recruitment-logistics)
+3. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
-5. [Session Concepts](#session-concepts)
-6. [Time](#time)
-7. [Feedback](#feedback)
-8. [Balancing](#balancing)
-9. [Keeping It Fun](#keeping-it-fun)
+4. [Session Concepts](#session-concepts)
+5. [Time](#time)
+6. [Feedback](#feedback)
+7. [Balancing](#balancing)
+8. [Keeping It Fun](#keeping-it-fun)
 	a) [Turncoat](#turncoat)
 	b) [Alley Debating](#alley-debating) 
-10. [Issues](#a-few-issues-of-sessions-that-persist)
+9. [Issues](#a-few-issues-of-sessions-that-persist)
+10. 
+IV.
 	a) Adjing
 	a)[Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	a) [My story](#my-story)
 	b) [Adjing obstacles](#adjing-obstacles)
 	b) [Elevating the judging experience](#elevating-the-judging-experience)
-11. [Online sessions](#online-sessions) 
+12. [Online sessions](#online-sessions) 
 
 IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -1082,11 +1084,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
-EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwz
-NTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OT
-g3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgs
-NzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMj
-Y4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEz
-M119
+c3RvcnkiOlstMTA0OTg5NDM0NSwtMTgwMjA5MzI2NCwtMTU1OT
+g0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIs
+MTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxOD
+A3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0
+LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyND
+I1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5
+MDM0XX0=
 -->
