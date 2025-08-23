@@ -699,16 +699,18 @@ How do we make sure this trend continues?
 
 Samuel, my senior, once said this to encourage judging,
 
-*"Also, I notice a lot of you love speaking and I couldn't be glader you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
+"Also, I notice a lot of you love speaking and I couldn't be glader you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
 1) Adjudicating is also a competition in tournaments, and speakers rate you on your Oral Adjudication (OA)
 2) It's easier to break (qualify to playoffs), as an adjudicator than a speaker
 3) The prize money for adjes is obscene - 10-20k ez for best adjes at big tournaments
 4) Adjing makes you a better debater, because you analyse the debate from a neutral perspective and have to do all aspects from framing to weighing, making you well rounded
 5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
-All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"*
+All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
 The way he carefully did it was by knowing that at the time people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out.
-I'm 
+A few issues are
+- "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy
+- 
 
 
 
@@ -1068,7 +1070,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2MDE2MjE1LDEzNjc3NTUyMzgsMzU5MjEyNT
+c3RvcnkiOlstMTYyNzQ0NzI1LDEzNjc3NTUyMzgsMzU5MjEyNT
 M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
 ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
 k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
