@@ -72,9 +72,12 @@ III. [Inside a session](#inside-a-session)
 9. [Issues](#a-few-issues-of-sessions-that-persist)
 10. 
 IV. Adj Rant
-1. )[Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
+1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	a) [My story](#my-story)
 	b) [Adjing obstacles](#adjing-obstacles)
+	2. The Adj Narrative
+	a) Characterization
+	) Common Pitfalls
 	b) [Elevating the judging experience](#elevating-the-judging-experience)
 12. [Online sessions](#online-sessions) 
 
@@ -1090,11 +1093,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MD
-A3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQy
-LDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5Mj
-EyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUs
-LTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1OD
-Y3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQw
-MDRdfQ==
+c3RvcnkiOlstMjgzNzIzMjMzLDg5MDExNDQ4NiwtMTk2NDAwNz
+IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
+Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
+c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
+MTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwOD
+gxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQw
+MzRdfQ==
 -->
