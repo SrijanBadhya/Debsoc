@@ -713,11 +713,11 @@ A few issues from Sam's text are
 - "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy.
 - The judge prize money isn't that accurately portrayed, and that feels like a speculative impact to a lot of people.
 - Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging.
-- A fundamental issue is that people may wonder why there is even pressure put on them to judge, because if judging is actually fun, everybody should be trying to do it. 
+- A fundamental issue is that people may wonder why there is even pressure put on them to judge, because if judging is actually fun, everybody should be trying to do it. Maybe people don't think so deep. Luckily this isn't a real problem with Samuel's context of, "making people aware of something they've never tried out", but while trying to convince people to judge, you replicate this text, 
 
 
 
-Trends get pushed in micro ways. 
+**Trends get pushed in micro ways, and try to avoid being a perpetuator as much as you can** 
 - One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
@@ -1073,11 +1073,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDg0NTgwODA0LDEzNjc3NTUyMzgsMzU5MjEyNT
-M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
-ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-XX0=
+c3RvcnkiOlstMTQ5NjQ3Njc0NywxMzY3NzU1MjM4LDM1OTIxMj
+UzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1LC0x
+Mjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OCw3NTg2Nz
+Y5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0
+LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2Mz
+M2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3
+N119
 -->
