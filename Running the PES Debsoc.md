@@ -797,14 +797,14 @@ one on one time is extremely extremely important to make people feel like they e
 Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
 
 Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
-Hook people into debate (like friends  before their academic load starts during recruitment season
+Hook people into debate (like first years who are newly second years, who want to join cuz their friend is in the debsoc a lot) before their academic load starts during recruitment season.
 
-  I support not playing pranks in the initial days cuz it erodes trust in the clubheads.
-  
+  I support not playing pranks in the initial days cuz it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc".
+
 
 Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
-  
+
 
 Akshath Saxena, seniors need to have and show passion for it to flow to juniors
 
@@ -812,11 +812,11 @@ Akshath Saxena, seniors need to have and show passion for it to flow to juniors
 
 we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
 
-  
+
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
-  
+
 
 Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
@@ -824,9 +824,9 @@ Put extra effort to talk to everyone so that they don't feel like they're part o
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
-  
-  
-  
+
+
+
 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
@@ -843,6 +843,7 @@ Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' o
   
 
 Share motion, share random fun pictures, make people feel the fomo
+
 
   Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
 
@@ -1072,11 +1073,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NDA1MDUwNjQsMTM2Nzc1NTIzOCwzNTkyMTI1Mz
-gsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4
-NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNzU4Njc2OT
-U3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwt
-NDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNj
-U1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2MywyMzUwNjA0Nzdd
-fQ==
+c3RvcnkiOlstMjcwMTI5NDA2LDEzNjc3NTUyMzgsMzU5MjEyNT
+M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
+ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
+k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
+LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
+Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
+XX0=
 -->
