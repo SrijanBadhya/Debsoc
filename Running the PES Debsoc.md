@@ -697,17 +697,18 @@ How do we make sure this trend continues?
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few [ideas](#elevating-the-judging-experience) on how you can increase a fresher's enjoyment of judging mocks. 
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
-Samuel, my senior, once said this on the group to encourage judging,
+Samuel, my senior, once said this to encourage judging,
 
-    "Also, I notice a lot of you love speaking and I couldn't be glader you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
-    1) Adjudicating is also a competition in tournaments, and speakers rate you on your Oral Adjudication (OA)
-    2) It's easier to break (qualify to playoffs), as an adjudicator than a speaker
-    3) The prize money for adjes is obscene - 10-20j ez for best adjes at big tournaments
-    4) Adjing makes you a better debater, because you analyse the debate from a neutral perspective and have to do all aspects from framing to weighing, making you well rounded
-    5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
-    All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
+*"Also, I notice a lot of you love speaking and I couldn't be glader you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
+1) Adjudicating is also a competition in tournaments, and speakers rate you on your Oral Adjudication (OA)
+2) It's easier to break (qualify to playoffs), as an adjudicator than a speaker
+3) The prize money for adjes is obscene - 10-20k ez for best adjes at big tournaments
+4) Adjing makes you a better debater, because you analyse the debate from a neutral perspective and have to do all aspects from framing to weighing, making you well rounded
+5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
+All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"*
 
 The way he carefully did it was by knowing that at the time people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out.
+I'm 
 
 
 
@@ -1062,17 +1063,16 @@ A “memory erasure machine” is a device that is capable of removing specific 
 Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
 
  
-
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE4ODMzODk3NiwxMzY3NzU1MjM4LDM1OTIxMj
-UzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1LC0x
-Mjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OCw3NTg2Nz
-Y5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0
-LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2Mz
-M2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3
-N119
+c3RvcnkiOlstMTY2MDE2MjE1LDEzNjc3NTUyMzgsMzU5MjEyNT
+M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
+ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
+k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
+LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
+Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
+XX0=
 -->
