@@ -275,7 +275,8 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 
 
 # Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
-Their justification is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't 
+Their justification is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc".
+you can quote this, and talk about how you can have inclusion freely and tourney selectively, properly.
 
 ## The 2024 model
 ### Round 1
@@ -729,6 +730,7 @@ A few issues from Sam's text are
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
+- If you have strict ba
 - Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out. Here are some very relevant excerpts from page 39.
 - - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into
 judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
@@ -1076,11 +1078,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjkwNTM2MjE4LDE4OTEzMjQ4MDIsMTM2Nzc1NT
-IzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0
-OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNz
-Y1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQs
-MTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOT
-QzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2
-M119
+c3RvcnkiOlstMTc0NzA4NzgwMywxODkxMzI0ODAyLDEzNjc3NT
+UyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2
+NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MT
+c2NTk4LDc1ODY3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0
+LDEwMDI2ODQwMDQsLTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMT
+k0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYw
+NjNdfQ==
 -->
