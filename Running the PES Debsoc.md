@@ -704,7 +704,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
 
-### The Adj Narrative
+## The Adj Narrative
 
 ==**Be careful with all your words to not propagate a negative narrative of adjing.**==
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive. 
@@ -745,6 +745,7 @@ A few issues from Sam's text are
 - A fundamental issue is that people may wonder why there is even pressure put on them to judge, because if judging is actually fun, everybody should be trying to do it. Maybe people don't think so deep. Luckily this isn't a real problem with Samuel's context of, "making people aware of something they've never tried out", but while trying to convince people to judge, you replicate this text, some nuances may be missed and it might not work out.
 
 
+### Common Pitfalls
 
 **Trends get pushed in micro ways, and try to avoid being a perpetuator as much as you can** 
 - One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
@@ -1086,11 +1087,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMj
-A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
-LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NT
-cwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMz
-NiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMj
-k5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMw
-NDUyXX0=
+c3RvcnkiOlstMjAxNTE1MTUzOSwtMTk2NDAwNzIwMSwtMTMzOD
+cwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEy
+NDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNT
+kyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3
+NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNz
+U4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4
+NDAwNF19
 -->
