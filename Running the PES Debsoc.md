@@ -69,8 +69,9 @@ III. [Inside a session](#inside-a-session)
 8. [Keeping It Fun](#keeping-it-fun)
 	a) [Turncoat](#turncoat)
 	b) [Alley Debating](#alley-debating) 
-9. [Issues](#a-few-issues-of-sessions-that-persist)
 12. [Online sessions](#online-sessions) 
+9. [Issues](#a-few-issues-of-sessions-that-persist)
+
 IV. Adj Rant
 1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	a) [My story](#my-story)
@@ -635,7 +636,7 @@ However since you can access a few people who are online-only, it's recommended 
 
   ## A few issues of sessions that persist
 
-1. Dividing the workload:
+a) Dividing the workload:
 
 Every year we try hard to encourage people to come, and people do 'commit' in theory. 
 But it always looks like people lack the push to actually show up.
@@ -657,7 +658,7 @@ You can make the extra person adj a handful of times, but make sure they don't f
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
-2. Another issue is the complications of adjing. It was initially a subsection under "Inside a Session", but my rant grew longer and longer.
+b) Another issue is the complications of adjing. It was initially a subsection under "Inside a Session", but my rant grew longer and longer.
 
 # Adj Rant
 [Back to Table of Contents](#table-of-contents)
@@ -1093,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjkzODQ3MTA1LDg5MDExNDQ4NiwtMTk2NDAwNz
-IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
-Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
-c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
-MTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwOD
-gxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQw
-MzRdfQ==
+c3RvcnkiOlstMTk1Mjk1MjkzNyw4OTAxMTQ0ODYsLTE5NjQwMD
+cyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgz
+NzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNj
+c3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3
+LDE2NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMD
+g4MTc2NTk4LDc1ODY3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0
+MDM0XX0=
 -->
