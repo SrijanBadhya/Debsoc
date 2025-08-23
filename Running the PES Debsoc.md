@@ -51,15 +51,15 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-	3. [Recruitment Concepts](#recruitment-concepts)
-     a) [History](#history)
-     b) [Depth wise inclusivity](#depth-wise-inclusivity)
-     c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
-     d) [The 2024 Model](#the-2024-model)
-	     &emsp; i) [Round 1](#round-1)
-	     &emsp; ii) [Round 2](#round-2)
-     e) Something
-3. [Recruitment Logistics](#recruitment-logistics)
+&emsp; 3. [Recruitment Concepts](#recruitment-concepts)
+     &emsp;&emspa) [History](#history)
+     &emsp;&emsp;b) [Depth wise inclusivity](#depth-wise-inclusivity)
+     &emsp;&emsp;c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
+     &emsp;&emsp;d) [The 2024 Model](#the-2024-model)
+	     &emsp; &emsp;&emsp;i) [Round 1](#round-1)
+	     &emsp; &emsp;&emsp;ii) [Round 2](#round-2)
+     &emsp;&emsp;e) Something
+&emsp; 3. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
 4. [Session Concepts](#session-concepts)
@@ -1094,7 +1094,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDQyMjE0MzU5LDg5MDExNDQ4NiwtMTk2NDAwNz
+c3RvcnkiOlsxNjQ4MjUyNzQyLDg5MDExNDQ4NiwtMTk2NDAwNz
 IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
 Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
 c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
