@@ -736,9 +736,10 @@ Samuel, my senior, once said this to encourage judging,
 5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
-The way he carefully did it was by knowing that at the time people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out.
-**I think it's very important to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits, and recruits also never expect that judges compete as well, so they're usually ignorant of this fact. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.** (if new debaters don't know that judges compete, then why would they want to register as an adj at a tournament)
-A few issues from Sam's text are
+The way he carefully did it was by knowing that at the time people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out, which was a smart move.
+**I think it's very important to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits, and recruits also never expect that judges compete as well, so they're usually ignorant of this fact. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.** (if new debaters don't know that judges compete, then why would they want to register as an adj at a tournament).
+
+However, a few issues from Sam's text are
 - "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy.
 - The judge prize money isn't that accurately portrayed, and that feels like a speculative impact to a lot of people.
 - Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging.
@@ -1087,7 +1088,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAxNTE1MTUzOSwtMTk2NDAwNzIwMSwtMTMzOD
+c3RvcnkiOlstMTMzOTY2NTg5NCwtMTk2NDAwNzIwMSwtMTMzOD
 cwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEy
 NDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNT
 kyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3
