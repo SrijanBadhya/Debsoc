@@ -703,6 +703,7 @@ Trends get pushed in micro ways.
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
+- Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. 
 
 
 #### Elevating the judging experience
@@ -1049,11 +1050,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjQ5ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMj
-E0NTQsMjA4ODE3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwt
-MTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MD
-Q5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgw
-MTIsNjk5ODk2MDYzLDIzNTA2MDQ3NywxMjcyOTU5ODM2LDM0OD
-Q3ODYxMSw1NTY3OTM0ODgsMTYxNDY1OTUwNSwtMTc4NzY5NDAw
-OF19
+c3RvcnkiOlstNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEyODcxNT
+UzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Njk1Nywy
+MTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQsLTQ4Nz
+czMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMzY1NTYz
+MCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3LDEyNz
+I5NTk4MzYsMzQ4NDc4NjExLDU1Njc5MzQ4OCwxNjE0NjU5NTA1
+XX0=
 -->
