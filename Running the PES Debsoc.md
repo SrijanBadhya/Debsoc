@@ -70,16 +70,16 @@ III. [Inside a session](#inside-a-session)
 	a) [Turncoat](#turncoat)
 	b) [Alley Debating](#alley-debating) 
 9. [Issues](#a-few-issues-of-sessions-that-persist)
-10. 
+12. [Online sessions](#online-sessions) 
 IV. Adj Rant
 1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	a) [My story](#my-story)
 	b) [Adjing obstacles](#adjing-obstacles)
-	2. The Adj Narrative
-	a) Characterization
-	) Common Pitfalls
-	b) [Elevating the judging experience](#elevating-the-judging-experience)
-12. [Online sessions](#online-sessions) 
+2. [The Adj Narrative](#the-adj-narrative)
+	a) [Characterization](#characterization)
+	b) [Common Pitfalls](#common-pitfalls)
+	c) [Elevating the judging experience](#elevating-the-judging-experience)
+
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 VI. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -1093,7 +1093,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjgzNzIzMjMzLDg5MDExNDQ4NiwtMTk2NDAwNz
+c3RvcnkiOlstNjkzODQ3MTA1LDg5MDExNDQ4NiwtMTk2NDAwNz
 IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
 Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
 c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
