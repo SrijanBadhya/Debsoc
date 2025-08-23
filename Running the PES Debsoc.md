@@ -35,8 +35,8 @@ In true debate fashion, this handbook will have my claims about what to follow, 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
 - If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
 
-It does take effort to keep these policies implemented, and I want to be able to convince you that it is worth the effort to implement something instead of having faith in "natural processes".
-I don't want mistakes from the past to repeat because I wasn't able to empower my juniors with working systems.
+It does take effort to keep these policies implemented, and I want to be able to convince you that it is worth the effort to implement something instead of believing, "What happens naturally is enough".
+I don't want mistakes from the past to repeat because I wasn't able to empower my juniors with functional systems.
 I believe it's good to keep in mind the merits and demerits of alternate policies while implementing a particular policy.
 
 
@@ -51,7 +51,7 @@ I. [Guiding Principles](#guiding-principles)
 2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-3. [Recruitment Concepts](#recruitment-concepts)
+	3. [Recruitment Concepts](#recruitment-concepts)
      a) [History](#history)
      b) [Depth wise inclusivity](#depth-wise-inclusivity)
      c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
@@ -75,7 +75,7 @@ III. [Inside a session](#inside-a-session)
 	a) [My story](#my-story)
 	b) [Adjing obstacles](#adjing-obstacles)
 	b) [Elevating the judging experience](#elevating-the-judging-experience)
-13. [Online sessions](#online-sessions) 
+11. [Online sessions](#online-sessions) 
 
 IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
@@ -83,7 +83,7 @@ V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
 
-  ## Guiding Principles
+  # Guiding Principles
 
 <br>
 <br>
@@ -1047,7 +1047,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI1MDQxMDQ5MSwtMTI4NzE1NTMzNiwtMTgzMz
+c3RvcnkiOlstMTMwMDY3MDE4OCwtMTI4NzE1NTMzNiwtMTgzMz
 IxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUs
 LTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNj
 A0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4
