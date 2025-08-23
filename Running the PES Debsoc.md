@@ -577,14 +577,14 @@ I believe speaker scores should not be given in mocks.
 - Another argument is that people can track their progress, but speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
 
 
-### Balancing
+## Balancing
 Once you know the skill levels of people, match up teammates to make the debate 'balanced' occasionally.
 - Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
 
 
-### Keeping it fun
+## Keeping it fun
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
 Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list))
@@ -611,6 +611,22 @@ It was fun cuz of how goofy it was, and very time efficient too.
 #### Impromptu debates
 Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more people this format isn't as impactful because they don't feel the time crunch as much.
 Good way to keep you on your feet and make you better prepared for tourney time crunches.
+
+### Online Sessions
+At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
+
+While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
+- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA).
+- Without being able to see each other, conversation quickly turns awkward.
+- People talk over each other each other making everything more awkward.
+- It's easy to become depressed post your debate because you're all alone (happens to me often).
+- The impressions of people aren't that impactful.
+- Conversation between the seniors and juniors often ends after the OA/feedback. You have to consciously initiate further conversation. However offline, conversation would happen naturally on the way to the gate.
+- Nobody really leaves an impression, you can't often remember debating alongside someone if they were just a name on your screen.
+- People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
+- If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
+
+However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
 
 
   ## A few issues of sessions that persist
@@ -641,10 +657,10 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 
 # Adj Rant
 
-### Encouraging Adjing is Complicated
+## Encouraging Adjing is Complicated
 
 [Link back to the 'Time' subsection if you came from the link there](#time)
-#### My story
+### My story
 The debsoc controversy I am the most infamous for is my history with Adjudication.
 This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
@@ -739,7 +755,7 @@ judging. The advice would be to ask the good judges to chair the first few month
 
 Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish.
 
-#### Elevating the judging experience
+### Elevating the judging experience
 Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
 - I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me.
 - I wasn't a 'useless trainee' judge anymore, but a chair who people depended on.
@@ -760,21 +776,6 @@ _However, I wouldn't recommend getting the fresher to give an OA to everyone bec
 However, if you think you can interrupt their OA and catch them on every mistake or misleading piece of feedback, and prevent harm to the other fresher speakers, then go for public OAs. 
 However, interrupting is annoying, and you might make a mental note of their mistakes and tell them later, but in this case you're also quite likely to forget your mental notes._
 
-### Online Sessions
-At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
-
-While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
-- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA).
-- Without being able to see each other, conversation quickly turns awkward.
-- People talk over each other each other making everything more awkward.
-- It's easy to become depressed post your debate because you're all alone (happens to me often).
-- The impressions of people aren't that impactful.
-- Conversation between the seniors and juniors often ends after the OA/feedback. You have to consciously initiate further conversation. However offline, conversation would happen naturally on the way to the gate.
-- Nobody really leaves an impression, you can't often remember debating alongside someone if they were just a name on your screen.
-- People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
-- If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
-
-However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
 
 
 # How to resolve Debsoc Drama
@@ -1081,11 +1082,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NT
-Q5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5
-NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NT
-MzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIx
-Mjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3Nz
-MwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMw
-XX0=
+c3RvcnkiOlstMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
+EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwz
+NTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OT
+g3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgs
+NzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMj
+Y4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEz
+M119
 -->
