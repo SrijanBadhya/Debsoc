@@ -704,6 +704,8 @@ Trends get pushed in micro ways.
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
 - Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out. Here are some very relevant excerpts from page 39.
+- - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into
+judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
 > Furthermore, it should be emphasized that judging is just a part of debating and it is a great opportunity to provide feedback to help your friends and fellow debaters improve. Rather than seeing it as an act of service, it should be presented as a given, not to create narratives of judging being a “duty” and debating a “reward”.
 
 Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish.
@@ -1052,11 +1054,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5OD
-c1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OCw3
-NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNj
-g0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMz
-LDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNT
-A2MDQ3NywxMjcyOTU5ODM2LDM0ODQ3ODYxMSw1NTY3OTM0ODhd
+c3RvcnkiOlszNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NT
+csMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIw
+ODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NT
+QwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0
+LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OT
+g5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTFd
 fQ==
 -->
