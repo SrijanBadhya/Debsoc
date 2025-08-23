@@ -71,16 +71,15 @@ III. [Inside a session](#inside-a-session)
 	b) [Alley Debating](#alley-debating) 
 9. [Issues](#a-few-issues-of-sessions-that-persist)
 10. 
-IV.
-	a) Adjing
-	a)[Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
+IV. Adj Rant
+1. )[Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	a) [My story](#my-story)
 	b) [Adjing obstacles](#adjing-obstacles)
 	b) [Elevating the judging experience](#elevating-the-judging-experience)
 12. [Online sessions](#online-sessions) 
 
-IV. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
-V. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
+V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
+VI. [Keeping up Debate Spirit](#keeping-up-debate-spirit)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -658,6 +657,7 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 2. Another issue is the complications of adjing. It was initially a subsection under "Inside a Session", but my rant grew longer and longer.
 
 # Adj Rant
+[Back to Table of Contents](#table-of-contents)
 
 ## Encouraging Adjing is Complicated
 
@@ -1084,7 +1084,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA0OTg5NDM0NSwtMTgwMjA5MzI2NCwtMTU1OT
+c3RvcnkiOlstMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OT
 g0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIs
 MTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxOD
 A3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0
