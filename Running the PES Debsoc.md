@@ -83,7 +83,7 @@ IV. Adj Rant
 
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
-VI. [Keeping p Debate Spirit](#keeping-up-debate-spirit)
+VI. [Keeping Up Debate Spirit](#keeping-up-debate-spirit)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -1094,7 +1094,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODM3NzUxNzI0LDg5MDExNDQ4NiwtMTk2NDAwNz
+c3RvcnkiOlsxMDQyMjE0MzU5LDg5MDExNDQ4NiwtMTk2NDAwNz
 IwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3
 Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nz
 c1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcs
