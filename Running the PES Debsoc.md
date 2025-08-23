@@ -274,6 +274,9 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
 
+# Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
+Their justification is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't 
+
 ## The 2024 model
 ### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
@@ -1073,11 +1076,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNT
-M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
-ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-XX0=
+c3RvcnkiOlstNjkwNTM2MjE4LDE4OTEzMjQ4MDIsMTM2Nzc1NT
+IzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0
+OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNz
+Y1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQs
+MTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOT
+QzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2
+M119
 -->
