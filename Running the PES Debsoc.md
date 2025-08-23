@@ -277,6 +277,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 # Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
 Their justification is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc".
 you can quote this, and talk about how you can have inclusion freely and tourney selectively, properly.
+From what Nikhil said, "The Principle of accessibility and inclusivity weighs above future speculative optics.
 
 ## The 2024 model
 ### Round 1
@@ -1078,11 +1079,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0NzE5OTY2MywxODkxMzI0ODAyLDEzNjc3NT
-UyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2
-NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MT
-c2NTk4LDc1ODY3Njk1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0
-LDEwMDI2ODQwMDQsLTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMT
-k0MzgxMzMsMTYzMzY1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYw
-NjNdfQ==
+c3RvcnkiOlsyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1Mj
+M4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5
+ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3Nj
+U5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwx
+MDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5ND
+M4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYz
+XX0=
 -->
