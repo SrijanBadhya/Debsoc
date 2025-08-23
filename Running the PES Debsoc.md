@@ -14,7 +14,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 - As every coder knows, replacing an existing solution with a different solution, could lead to other problems popping up.
 - So every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
 - I believe that every batch will be able to improve upon existing systems.[^1] Every change should be a step forward, instead of causing old problems to resurface.
-- An ideal change would patch up existing flaws without opening up the flaws of old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
+- An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
 
 [^1]: I haven't yet figured out how exactly I'll add other people's input into this document with their name, but it'll probably be a combination of github pull requests and writing their name before their points. Probably even passing control on.
 
@@ -22,7 +22,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 
 **So who am I, and why care about what's written here?**
 ~~It feels cringe to type this~~
-I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've been a part of conducting recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
+I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've helped conduct recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
 You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll definitely reply within a week. 
 
 There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view). I felt that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
@@ -35,7 +35,7 @@ In true debate fashion, this handbook will have my claims about what to follow, 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
 - If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
 
-It does take effort to keep implementing these policies, and I want to be able to convince you that implementing something instead of nothing at all is worth the effort.
+It does take effort to keep these policies implemented, and I want to be able to convince you that it is worth the effort to implement something instead of having faith in "natural processes".
 I don't want mistakes from the past to repeat because I wasn't able to empower my juniors with working systems.
 I believe it's good to keep in mind the merits and demerits of alternate policies while implementing a particular policy.
 
@@ -1047,11 +1047,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNz
-Y1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEyNDI1NTQwMzQs
-MTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OTk5MDM0LDExOT
-QzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEyLDY5OTg5NjA2
-MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzNDg0Nzg2MTEsNTU2Nz
-kzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQwMDgsLTE4MDU0NDE5
-OTVdfQ==
+c3RvcnkiOlstMTI1MDQxMDQ5MSwtMTI4NzE1NTMzNiwtMTgzMz
+IxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUs
+LTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNj
+A0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4
+MDEyLDY5OTg5NjA2MywyMzUwNjA0NzcsMTI3Mjk1OTgzNiwzND
+g0Nzg2MTEsNTU2NzkzNDg4LDE2MTQ2NTk1MDUsLTE3ODc2OTQw
+MDhdfQ==
 -->
