@@ -505,7 +505,7 @@ The obvious solutions to this are:
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
  + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so people who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
- + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#encouraging-adjing-is-complicated)
+ + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
 Here are the motions I used in 2024-2025.
@@ -706,7 +706,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### The Adj Narrative
 
-**Be careful with all your words to not propagate a negative narrative of adjing.**
+==**Be careful with all your words to not propagate a negative narrative of adjing.**==
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
@@ -1086,7 +1086,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMzMzE3Mjc2NCwtMTMzODcwMDc4NiwtMTgwMj
+c3RvcnkiOlstMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMj
 A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
 LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NT
 cwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMz
