@@ -845,7 +845,7 @@ Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' o
 Share motion, share random fun pictures, make people feel the fomo
 
 
-  Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
+Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
@@ -1073,7 +1073,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjcwMTI5NDA2LDEzNjc3NTUyMzgsMzU5MjEyNT
+c3RvcnkiOlsxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNT
 M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
 ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
 k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
