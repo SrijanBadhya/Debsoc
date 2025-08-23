@@ -653,18 +653,19 @@ Anyway, this highlights a couple problems with adjing.
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
 - The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
-2. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
+2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes 
+3. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence speakers scroll their phones during their OA and don't take them seriously, people go to ask the chair feedback instead of them, and they feel they have no impact on the tournament because their vote doesn't matter. They don't get any numerical result from the tournament either.
 - Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
-3. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
-4. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are:
+4. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
+5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are:
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
-5. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
+6. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
 
 _One initial solution I had thought of a year ago, was to make people adj once every three or four tournaments._
 - _This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, and mathematically the ratios match when people switch roles across tournaments._
@@ -1048,7 +1049,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDIyMDgxMjQ0LC0xMjg3MTU1MzM2LC0xODMzMj
+c3RvcnkiOlstMjU3ODU1MzI1LC0xMjg3MTU1MzM2LC0xODMzMj
 E0NTQsMjA4ODE3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwt
 MTI0MjU1NDAzNCwxMDAyNjg0MDA0LC00ODc3MzA0NTIsLTE2MD
 Q5OTkwMzQsMTE5NDM4MTMzLDE2MzM2NTU2MzAsLTE1NDQzMjgw
