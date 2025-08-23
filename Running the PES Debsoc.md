@@ -485,7 +485,7 @@ If you're reading this, you would have already faced the grueling learning curve
 - + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode.
 
 
-### Time
+## Time
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 ![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
@@ -1081,11 +1081,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MD
-IsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMx
-ODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMzIxND
-U0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjUsLTEy
-NDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3NzMwNDUyLC0xNjA0OT
-k5MDM0LDExOTQzODEzMywxNjMzNjU1NjMwLC0xNTQ0MzI4MDEy
+c3RvcnkiOlstMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NT
+Q5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5
+NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NT
+MzNiwtMTgzMzIxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIx
+Mjk5NjIxMjUsLTEyNDI1NTQwMzQsMTAwMjY4NDAwNCwtNDg3Nz
+MwNDUyLC0xNjA0OTk5MDM0LDExOTQzODEzMywxNjMzNjU1NjMw
 XX0=
 -->
