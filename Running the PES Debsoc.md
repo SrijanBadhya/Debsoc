@@ -708,9 +708,10 @@ Samuel, my senior, once said this to encourage judging,
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
 The way he carefully did it was by knowing that at the time people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out.
-**I think it's very important to inform people that judges also compete, because we don't consciously inform this to new recruits, and recruits also never expect that judges compete as well. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.**
-A few issues are
-- "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy
+**I think it's very important to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits, and recruits also never expect that judges compete as well, so they're usually ignorant of this fact. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.** (if new debaters don't know that judges compete, then why would they want to register as an adj at a tournament)
+A few issues from Sam's text are
+- "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy.
+- The judge prize money isn't really obscene comp
 - 
 
 
@@ -1071,11 +1072,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU5ODQzMzk2LDEzNjc3NTUyMzgsMzU5MjEyNT
-M4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEy
-ODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Nj
-k1NywyMTI5OTYyMTI1LC0xMjQyNTU0MDM0LDEwMDI2ODQwMDQs
-LTQ4NzczMDQ1MiwtMTYwNDk5OTAzNCwxMTk0MzgxMzMsMTYzMz
-Y1NTYzMCwtMTU0NDMyODAxMiw2OTk4OTYwNjMsMjM1MDYwNDc3
-XX0=
+c3RvcnkiOlstMTk0MDI0MTQ3NiwxMzY3NzU1MjM4LDM1OTIxMj
+UzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1LC0x
+Mjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OCw3NTg2Nz
+Y5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAzNCwxMDAyNjg0MDA0
+LC00ODc3MzA0NTIsLTE2MDQ5OTkwMzQsMTE5NDM4MTMzLDE2Mz
+M2NTU2MzAsLTE1NDQzMjgwMTIsNjk5ODk2MDYzLDIzNTA2MDQ3
+N119
 -->
