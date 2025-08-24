@@ -388,7 +388,26 @@ Fake names added at the bottom.
 This incentive to debate is only short term
 
 From the stuff I forwarded to Anirudh:
+
 Don't know if you got this already but here are the recruitment tabs of last year if you want a reference https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
+
+The reason why I'm advocating for a google form linked to sheets is because it can improve on some issues like missing chair slots and a lot of missing phone numbers. And pinging people on the whatsapp group is too much of a pain and sometimes it won't work out
+
+missing chair slots impact trackability on people
+
+and having only the phone number impacts trackability because people can mess up one digit, or forget to add the phone number. I think adding email is beneficial in case the phone number link to a student fails
+
+you'll notice human errors here like duplicated entries for gov and opp, usually solved in a google form with compulsory questions for speaker 1 and 2
+
+Excel's ease of use is incredibly low cause it has random keybord shortcuts, and dragging a cell normally will copy its content to other cells
+
+https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 this is how we did round 3 last year btw
+
+https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
+
+Also we said, "If you have less than 5 debates then dm us", although in reality we picked all the people who did at least 2 sessions 😂😂
+
+End of forw
 
 
 
@@ -1104,7 +1123,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODg2MjcyNzAxLC00NzAyODU3MTAsMTY3OTE0OD
+c3RvcnkiOlsxNTM0MTkwMDkxLC00NzAyODU3MTAsMTY3OTE0OD
 UwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEz
 NDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMD
 c4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIs
