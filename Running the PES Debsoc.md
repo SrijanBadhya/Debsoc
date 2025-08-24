@@ -72,7 +72,7 @@ III. [Inside a session](#inside-a-session)
 &emsp;6. [Online sessions](#online-sessions) 
 &emsp;7. [Issues](#a-few-issues-of-sessions-that-persist)
 
-IV. Adj Rant
+IV. [Adj Rant](#adj-rant)
 1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
 	a) [My Story](#my-story)
 	b) [Adjing Obstacles](#adjing-obstacles)
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODU0MTQ2MTI1LDM2NzU2MjU4NCw3MTMzNTg0Mz
-csMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMz
-ODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
-EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwz
-NTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OT
-g3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OThd
-fQ==
+c3RvcnkiOlstMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4ND
+M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
+Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
+MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgs
+MzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4OD
+k4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4
+XX0=
 -->
