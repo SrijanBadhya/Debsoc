@@ -97,7 +97,7 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 2 parts: Debate, and Club
 
 _There have been people who say that the point of a debate club is to debate, and it's bad to chill too much_
-I believe chilling is fine in so far as assists in the direction of the purpose of the club. (there I said it, the first and last time I use that debate phrase!!)
+I believe chilling is fine, in so far as it assists in the direction of the purpose of the club. (there I said it, the first and last time I use that debate phrase!!)
 
 The single biggest purpose of a club is to ==provide value to every single member.==
 
@@ -123,7 +123,7 @@ _**Many have believed that the point of the debate club is to win tournaments an
 
 - To win tournaments, you might start prioritizing your attention to the people who already show potential and debate skills, to hone them further.
 - This could also mean that when you have limited tournament slots or resources, you give them to people already performing well.
-- A hierarchy forms and people don't feel like valued members when they're not the ones bringing in the accolades. 
+- *A hierarchy forms and people feel like worthless members when they're not the ones bringing in the accolades.* 
 - When a good debater becomes problematic, you're willing to let it slide because they're 'valuable to the soc'.
   + They may continue ruining the debate club experience for everyone else, while still bringing in tournament wins.
   + By utilitarian metrics, this reduces the number of people who enjoy debate, enjoy the club, and hence reduces the breadth and depth of the value given by the club.
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3Mj
-AxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3
-LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3Nz
-U1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1Nywx
-NjQ5ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4OD
-E3NjU5OCw3NTg2NzY5NTcsMjEyOTk2MjEyNSwtMTI0MjU1NDAz
-NF19
+c3RvcnkiOlstODQ5MjU3NTg1LDExMzQ5NjQyNCw4OTAxMTQ0OD
+YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
+LTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMz
+I0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwt
+NDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4Mz
+MyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Njk1NywyMTI5OTYyMTI1
+XX0=
 -->
