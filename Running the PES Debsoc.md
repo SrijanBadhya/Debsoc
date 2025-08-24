@@ -765,7 +765,7 @@ However, a few issues from Sam's text are
 - - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
 > Furthermore, it should be emphasized that judging is just a part of debating and it is a great opportunity to provide feedback to help your friends and fellow debaters improve. Rather than seeing it as an act of service, it should be presented as a given, not to create narratives of judging being a “duty” and debating a “reward”.
 
-Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish.
+Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish. "Presented as a given" sounds a lot like, "compulsory".
 
 ### Elevating The Judging Experience
 Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4ND
-M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
-Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
-MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgs
-MzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4OD
-k4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4
-XX0=
+c3RvcnkiOlstMjA4MzY5OTQ4NiwtMTc4Mjc0NDM4MCwzNjc1Nj
+I1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5
+NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NT
+k4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAy
+LDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMT
+gwNzU3LDE2NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1
+NF19
 -->
