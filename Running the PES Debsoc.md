@@ -632,6 +632,7 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
 
 However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
+Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
 
 
   ## A few issues of sessions that persist
@@ -793,7 +794,7 @@ However, interrupting is annoying, and you might make a mental note of their mis
 You're cooked. I'm just as clueless as you.
 
 
-# Keeping Up Debate Spirit
+# Keeping U
 [Back to Table of Contents](#table-of-contents)
 
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
@@ -1093,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MzEwMTkwNjIsMzY3NTYyNTg0LDcxMzM1ODQzNy
-wxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4
-NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMT
-I0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4LDM1
-OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5OD
-c1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OF19
-
+c3RvcnkiOlstMTQwOTE1MTI4MywzNjc1NjI1ODQsNzEzMzU4ND
+M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
+Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
+MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgs
+MzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4OD
+k4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4
+XX0=
 -->
