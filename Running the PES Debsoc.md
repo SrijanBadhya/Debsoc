@@ -136,7 +136,7 @@ _**Many have believed that the point of the debate club is to win tournaments an
 - A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and community, so be careful what extent you're doing it to.
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they don't enjoy the activity itself.** 
 
-_Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2021.)_ 
+_Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
 Some of us believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
 
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that people enjoying their chill time goes a long way in motivating them to debate more. 
@@ -153,7 +153,7 @@ Some of us believe that being more chill and having more people for fun, is wort
 So if not tournament wins, what metric _do_ you judge the club by?
 I personally would try to say don't judge the club at all. 
 
-- Metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
+- In theory, metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
 - However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak, or even see it clearly. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
 - Else you can also ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
 - _Common metrics people often take, are tournament wins, or number of active members, or number of active members in sessions, etc._
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODQ5MjU3NTg1LDExMzQ5NjQyNCw4OTAxMTQ0OD
-YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
-LTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMz
-I0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwt
-NDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4Mz
-MyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Njk1NywyMTI5OTYyMTI1
-XX0=
+c3RvcnkiOls3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Ni
+wtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwt
+MTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMj
+Q4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00
+NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNiwtMTgzMz
+IxNDU0LDIwODgxNzY1OTgsNzU4Njc2OTU3LDIxMjk5NjIxMjVd
+fQ==
 -->
