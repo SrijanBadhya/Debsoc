@@ -255,7 +255,7 @@ Taking a few points out of Nikhil's recruitment document:
 Now talking about inclusivity with respect to flexibility of slots:
 
 ### Breadth wise inclusivity
-This has somehow become one of the most controversial practices of the society.
+This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please read this entire section, so that you end up with whatever belief stands at the end.**
 
 
 - We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
@@ -1097,11 +1097,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDg4Mzg3NjUsMTY3OTE0ODUwLC0xNzgyNzQ0Mz
-gwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDEx
-NDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5Mz
-I2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4
-OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwND
-Y5LC00NDMxODA3NTcsMTY0OTg4OTg3NSwtMTI4NzE1NTMzNl19
-
+c3RvcnkiOlsxMzYwMTI2MzY4LDE2NzkxNDg1MCwtMTc4Mjc0ND
+M4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAx
+MTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOT
+MyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwx
+ODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MD
+Q2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEyODcxNTUzMzZd
+fQ==
 -->
