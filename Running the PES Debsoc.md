@@ -257,7 +257,6 @@ Now talking about inclusivity with respect to flexibility of slots:
 ### Breadth wise inclusivity
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please read this entire section, so that you end up with whatever belief stands at the end.**
 
-
 - We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 - But when you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 10% likely, when you take a sample of 100 people, you get 10 people this event happens to.
 - **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
@@ -1097,7 +1096,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzYwMTI2MzY4LDE2NzkxNDg1MCwtMTc4Mjc0ND
+c3RvcnkiOlstNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0ND
 M4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAx
 MTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOT
 MyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwx
