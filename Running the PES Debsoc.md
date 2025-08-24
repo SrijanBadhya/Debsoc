@@ -779,8 +779,8 @@ The two scenarios a junior would be judging is
 2. As a chair, a sole judge, when the senior present decides to speak instead.
 
 I think there are primarily 2 ways to replicate a portion of this feeling that I had, and it's the duty of the senior present to try.
-1. If you're the chair, make the junior feel like their thoughts are heard. 
-2. If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.
+1. **If you're the chair, make the junior feel like their thoughts are heard.** 
+2. **If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
 
 Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA4MzY5OTQ4NiwtMTc4Mjc0NDM4MCwzNjc1Nj
-I1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5
-NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NT
-k4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAy
-LDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMT
-gwNzU3LDE2NDk4ODk4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1
-NF19
+c3RvcnkiOlsxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNT
+g0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0
+MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5OD
+Q4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwx
+MzY3NzU1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MD
+c1NywxNjQ5ODg5ODc1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTRd
+fQ==
 -->
