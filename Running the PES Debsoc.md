@@ -387,6 +387,14 @@ Fake names added at the bottom.
 
 This incentive to debate is only short term
 
+From the stuff I forwarded to Anirudh:
+Don't know if you got this already but here are the recruitment tabs of last year if you want a reference https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
+
+
+
+
+
+
 
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people will either be dead, will have forgotten details, or will be able to laugh it off.
@@ -1096,11 +1104,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0ND
-M4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAx
-MTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOT
-MyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwx
-ODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MD
-Q2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEyODcxNTUzMzZd
-fQ==
+c3RvcnkiOlstODg2MjcyNzAxLC00NzAyODU3MTAsMTY3OTE0OD
+UwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEz
+NDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMD
+c4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIs
+MjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMT
+I1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OTg3NV19
+
 -->
