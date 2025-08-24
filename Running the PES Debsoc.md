@@ -4,7 +4,7 @@
 
 # This House Would...
 
-Welcome valued Debsoc core member,
+Welcome valued Debsoc core member
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
 As seniors, it's our responsibility to not make our juniors feel lost about running the club. This document is extensive, but I want to make you aware of every incident that can pop up during recruitments and debate sessions.
@@ -83,7 +83,7 @@ IV. Adj Rant
 
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
-VI. [Keeping Up Debate Spirit](#keeping-up-debate-spirit)
+VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -794,7 +794,7 @@ However, interrupting is annoying, and you might make a mental note of their mis
 You're cooked. I'm just as clueless as you.
 
 
-# Keeping U
+# Debate Culture Round the Year
 [Back to Table of Contents](#table-of-contents)
 
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQwOTE1MTI4MywzNjc1NjI1ODQsNzEzMzU4ND
-M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
-Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
-MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgs
-MzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4OD
-k4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4
-XX0=
+c3RvcnkiOlstODU0MTQ2MTI1LDM2NzU2MjU4NCw3MTMzNTg0Mz
+csMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMz
+ODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
+EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwz
+NTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OT
+g3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OThd
+fQ==
 -->
