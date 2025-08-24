@@ -693,7 +693,7 @@ Anyway, this highlights a couple problems with adjing.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
-4. At that CUPD, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
+4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
 5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are:
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjc5OTI3MTA1LDM2NzU2MjU4NCw3MTMzNTg0Mz
-csMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMz
-ODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
-EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwz
-NTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OT
-g3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OThd
-fQ==
+c3RvcnkiOlstMjA3OTM1ODIzMCwzNjc1NjI1ODQsNzEzMzU4ND
+M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
+Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
+MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgs
+MzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4OD
+k4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4
+XX0=
 -->
