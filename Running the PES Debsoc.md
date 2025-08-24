@@ -565,7 +565,7 @@ But I think you should consciously try to tell people what they got right as wel
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
 
-(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, but was too much in the zone of 'constructive criticism').
+(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, but was too much in the zone of 'constructive criticism'.)
 
 A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". 
 This solves 2 problems. 
@@ -583,8 +583,8 @@ I believe speaker scores should not be given in mocks.
 
 
 ## Balancing
-Once you know the skill levels of people, match up teammates to make the debate 'balanced' occasionally.
-- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
+Once you know the skill levels of people, you can occasionally match up teammates to make the debate 'balanced'.
+- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
 - This also gives all debaters experience in working with different kinds of people.
 
@@ -592,7 +592,7 @@ Once you know the skill levels of people, match up teammates to make the debate 
 ## Keeping it fun
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
-Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list))
+Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list)).
 - This leads to more fun, laughter, and people feeling that the soc is a place they can have a great time in.
 - Being informal and saying weird stuff makes people get more open and comfortable with each other.
 
@@ -615,7 +615,7 @@ It was fun cuz of how goofy it was, and very time efficient too.
 
 #### Impromptu debates
 Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more people this format isn't as impactful because they don't feel the time crunch as much.
-Good way to keep you on your feet and make you better prepared for tourney time crunches.
+It's a good way to keep you on your feet and make you better prepared for tourney time crunches.
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -1094,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNC
-w4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4
-MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNz
-U0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1
-OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4ODk4NzUsLTEyODcxNT
-UzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4LDc1ODY3Njk1N119
-
+c3RvcnkiOlstMjc5OTI3MTA1LDM2NzU2MjU4NCw3MTMzNTg0Mz
+csMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMz
+ODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
+EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwz
+NTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTcsMTY0OTg4OT
+g3NSwtMTI4NzE1NTMzNiwtMTgzMzIxNDU0LDIwODgxNzY1OThd
+fQ==
 -->
