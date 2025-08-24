@@ -760,9 +760,8 @@ However, a few issues from Sam's text are
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
 - If you have a strict bar for people to participate in tourneys (inactive people cannot come to tourneys), you might be tempted to lower the bar for someone who wants to adj, saying, "We really need an adj, we'll take you to Bombary with us even if you have been inactive", which further pushes that adjing is undesirable.
-- Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out. Here are some very relevant excerpts from page 39.
-- - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into
-judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
+- Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out. Here are some very relevant excerpts from page 40.
+- - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
 > Furthermore, it should be emphasized that judging is just a part of debating and it is a great opportunity to provide feedback to help your friends and fellow debaters improve. Rather than seeing it as an act of service, it should be presented as a given, not to create narratives of judging being a “duty” and debating a “reward”.
 
 Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish.
@@ -1094,11 +1093,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA3OTM1ODIzMCwzNjc1NjI1ODQsNzEzMzU4ND
-M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
-Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
-MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgs
-MzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3LDE2NDk4OD
-k4NzUsLTEyODcxNTUzMzYsLTE4MzMyMTQ1NCwyMDg4MTc2NTk4
-XX0=
+c3RvcnkiOls1MzEwMTkwNjIsMzY3NTYyNTg0LDcxMzM1ODQzNy
+wxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4
+NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMT
+I0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4LDM1
+OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5OD
+c1LC0xMjg3MTU1MzM2LC0xODMzMjE0NTQsMjA4ODE3NjU5OF19
+
 -->
