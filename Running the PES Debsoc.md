@@ -534,7 +534,7 @@ From the feedback forms and personal experience, the single biggest deterrent of
 
 Having to sit idle before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
 Multiple different delays add up, and they should be minimized.
-- Often in 2023, juniors would show up to sessions before seniors, and then ask on Whatsapp where the seniors were. This was extremely optically bad for seniors to look 'unserious'.
+- Often in 2023, juniors would show up to sessions before seniors, and then ask on Whatsapp where the seniors were. This was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
 
@@ -546,14 +546,14 @@ The obvious solutions to this are:
 + You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
- + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
+ + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
- They were curated to fit the motion criteria talked about earlier this chapter. I am cutting out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
-So all the motions here have been tested, I have witnessed the debates that ensued from these motions.
+ They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
+So all the motions here have been tested and I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
 
 
@@ -569,14 +569,14 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - Debate feels like a college class where you're one random person lost among the masses.
 - I think the most important principle to keep in mind as a senior, is to **give individual attention to every participant**. 
 - Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
-- Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and like they don't belong.
+- Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and feel like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
 - The one-on-one interaction could be about anything, doesn't have to be about feedback on their speech, but whatever they feel about everything.
-- The feeling of having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
+- Having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
 
 
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
-At that moment, it's very important to tell people, to cross over, shake hands, and chill. 
+At that moment, it's very important to tell at least people, to cross over, shake hands, and chill. 
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
 - When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
@@ -1132,11 +1132,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODI5NDU3NjI0LDI1NTA5Mjc2MSwtNDcwMjg1Nz
-EwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEz
-MzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMD
-EsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcs
-NDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NT
-UyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3XX0=
+c3RvcnkiOlstMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MDI4NT
+cxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcx
+MzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3Mj
+AxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3
+LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3Nz
+U1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1N119
 
 -->
