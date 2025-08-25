@@ -534,7 +534,7 @@ From the feedback forms and personal experience, the single biggest deterrent of
 
 Having to sit idle before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
 Multiple different delays add up, and they should be minimized.
-- In 2023 very often that juniors would show up before seniors, and this is extremely optically bad for seniors to look 'unserious'.
+- Often in 2023, juniors would show up to sessions before seniors, and then ask on Whatsapp where the seniors were. This was extremely optically bad for seniors to look 'unserious'.
 - making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
 
@@ -1132,7 +1132,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzA2MTY5NDQxLDI1NTA5Mjc2MSwtNDcwMjg1Nz
+c3RvcnkiOlsxODI5NDU3NjI0LDI1NTA5Mjc2MSwtNDcwMjg1Nz
 EwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEz
 MzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMD
 EsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcs
