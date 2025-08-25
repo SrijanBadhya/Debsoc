@@ -516,7 +516,7 @@ What I mean by this is:
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
-- **before every debate have a short speech where you say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
+- **Before every debate have a short speech where you say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - I know this might look like treating juniors like snowflakes, but debating gets sad, even I and some friends I know still get sad on the regular. Having someone show empathy to you can mean the world to you.
@@ -524,6 +524,7 @@ If you're reading this, you would have already faced the grueling learning curve
 - But I disagree, regardless of how much their wounds are bandaged by you, getting the wounds frequently makes them stronger naturally with time.
 - + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your care), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
+- Keeping it challenging but making people feel like they were able to do something significant is key.
 - **Love for debate can't really be tested from day one.**
 
 
@@ -1131,11 +1132,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzIwMzkyNjkxLDI1NTA5Mjc2MSwtNDcwMjg1Nz
-EwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEz
-MzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMD
-EsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcs
-NDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NT
-UyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3XX0=
+c3RvcnkiOlstMTU3OTE3NDcwNSwyNTUwOTI3NjEsLTQ3MDI4NT
+cxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcx
+MzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3Mj
+AxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3
+LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3Nz
+U1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1N119
 
 -->
