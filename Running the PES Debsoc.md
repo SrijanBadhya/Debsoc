@@ -259,7 +259,7 @@ This has somehow become one of the most controversial practices of the society. 
 
 
 (Srijan edit this later)
-Even 'interest' usually changes over time. Only after getting used to debate might you prioritize debate over other stuff. Sure it goes both ways, some people switch from pri
+Even 'interest' usually changes over time. Only after getting used to debate might you prioritize debate over other stuff. Sure it goes both ways, some people switch from prioritizing debate to other stuff. But the only way to capture even people who potentially grow interest to debate later, is by having a low enough bar for that first while. (Idk, I'm not sure if I should even keep this paragraph).
 
 - We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 - But when you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 10% likely, when you take a sample of 100 people, you get 10 people this event happens to.
@@ -1131,11 +1131,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3OTQ1NTgyNzksMjU1MDkyNzYxLC00NzAyODU3MT
-AsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMz
-NTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMS
-wtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0
-OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NT
-IzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTddfQ==
+c3RvcnkiOlsxNTc0NzYxNjc2LDI1NTA5Mjc2MSwtNDcwMjg1Nz
+EwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEz
+MzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMD
+EsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcs
+NDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NT
+UyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3XX0=
 
 -->
