@@ -257,6 +257,9 @@ Now talking about inclusivity with respect to flexibility of slots:
 ### Breadth wise inclusivity
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please read this entire section, so that you end up with whatever belief stands at the end.**
 
+
+Even 
+
 - We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 - But when you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 10% likely, when you take a sample of 100 people, you get 10 people this event happens to.
 - **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
@@ -518,8 +521,9 @@ If you're reading this, you would have already faced the grueling learning curve
 - I know this might look like treating juniors like snowflakes, but debating gets sad, even I and some friends I know still get sad on the regular. Having someone show empathy to you can mean the world to you.
 - + _Sure, the argument against this is that if you keep protecting them, they'll never be able to stand on their own two feet._
 - But I disagree, regardless of how much you bandage their wounds, getting the wounds frequently makes them stronger naturally with time.
-- + _The other argument is to follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your care), and you're leaving these people out if you just let them end themselves._
-- + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode.
+- + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your care), and you're leaving these people out if you just let them end themselves._
+- + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
+- **Love for debate can't really be tested from day one.**
 
 
 ## Time
@@ -1126,7 +1130,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDEzNTkyNTY1LDI1NTA5Mjc2MSwtNDcwMjg1Nz
+c3RvcnkiOlstNDY3OTk3MzU0LDI1NTA5Mjc2MSwtNDcwMjg1Nz
 EwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEz
 MzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMD
 EsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcs
