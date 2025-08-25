@@ -524,7 +524,7 @@ If you're reading this, you would have already faced the grueling learning curve
 - But I disagree, regardless of how much their wounds are bandaged by you, getting the wounds frequently makes them stronger naturally with time.
 - + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your care), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
-- Keeping it challenging but making people feel like they were able to do something significant is key.
+- Keeping it challenging but making people feel like they were able to contribute something significant is key.
 - **Love for debate can't really be tested from day one.**
 
 
@@ -536,16 +536,16 @@ Having to sit idle before a debate starts significantly impacts the quality of e
 Multiple different delays add up, and they should be minimized.
 - In 2023 very often that juniors would show up before seniors, and this is extremely optically bad for seniors to look 'unserious'.
 - making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
-- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time is taken to filter a motion cause they also needed to not give juniors motions motions which they didn't understand. 
+- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
 
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
 2. **Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
- + You can't always rely on the people who voted to arrive, and this would result in waiting unnecessarily for nobody.
-+ Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle, they're doing all they can to come up with a case.
-+ You can inform the juniors that they will be ironing, and can replace slots with people when they show up.
+ + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody.
++ Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
++ You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
- + Prep time isn't as valuable to whips anyway, whose content majorly depends on what is said during the debate, so people who come just before the debate is supposed to start, can be whips if slots are open.
+ + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
@@ -1132,11 +1132,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU3OTE3NDcwNSwyNTUwOTI3NjEsLTQ3MDI4NT
-cxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcx
-MzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3Mj
-AxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3
-LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3Nz
-U1MjM4LDM1OTIxMjUzOCw1NTk1NzA0NjksLTQ0MzE4MDc1N119
+c3RvcnkiOlsxNzA2MTY5NDQxLDI1NTA5Mjc2MSwtNDcwMjg1Nz
+EwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEz
+MzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMD
+EsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcs
+NDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NT
+UyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OSwtNDQzMTgwNzU3XX0=
 
 -->
