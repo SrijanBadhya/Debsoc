@@ -157,7 +157,7 @@ I personally would try to say don't judge the club at all.
 - However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak, or even see it clearly. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
 - Else you can also ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
 - _Common metrics people often take, are tournament wins, or number of active members, or number of active members in sessions, etc._
-- Unfortunately even the result from such a metric can be misleading. Just because you have less members this year than last year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
+- Unfortunately even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 - If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
 
@@ -515,6 +515,7 @@ What I mean by this is:
 - **before every debate have a short speech where you say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
+- I know this might look like treating juniors like snowflakes, but debating gets sad, even I and some friends I know still get sad on the regular. Having someone show empathy to you can mean the world to you.
 - Sure, the counter to this is that exposing people to the hardest side will quickly filter out the toughest people who are likely to be loyal.
 - + However, from personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode.
 
@@ -1123,11 +1124,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NT
-AsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0
-OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNz
-g2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0Miwy
-MDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4LDM1OTIxMj
-UzOCw1NTk1NzA0NjksLTQ0MzE4MDc1NywxNjQ5ODg5ODc1XX0=
+c3RvcnkiOlsyNDMwMjA5MzIsMjU1MDkyNzYxLC00NzAyODU3MT
+AsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMz
+NTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMS
+wtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0
+OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NT
+IzOCwzNTkyMTI1MzgsNTU5NTcwNDY5LC00NDMxODA3NTddfQ==
 
 -->
