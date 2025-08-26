@@ -667,7 +667,7 @@ This solves 2 problems.
 3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but a presentation issue.
 
 I believe speaker scores should not be given in mocks.
-- Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear.
+- Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear and judges may not know, "how relevant is 'very /relevant',".
 - At least with feedback you can give everyone feedback and criticize them all. With public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the eyes of an average fresher)
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
 - When they've already had a bad day, shit speaks can further mess them up. 
@@ -1188,11 +1188,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MTA5MDE2LDIwMTk3NjkzNzUsMTIwODMzMjkyOC
-wtMTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2
-MTkxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMj
-M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
-MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
-g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMV19
-
+c3RvcnkiOlszNjIyOTk2NywyMDE5NzY5Mzc1LDEyMDgzMzI5Mj
+gsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3LDEx
+NjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MD
+IzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEw
+LDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMz
+U4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDFd
+fQ==
 -->
