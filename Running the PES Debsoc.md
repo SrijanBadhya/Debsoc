@@ -966,7 +966,7 @@ Nobody thinks that debating would be more productive than studying, regardless o
 
 fear is not a great motivator to be active, 
 we'll kick you out" was dumb
-(I think the whole culture of my seniors can be t
+(I think the whole culture of my seniors can be talked about over here)
   
 
 Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
@@ -1187,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NTgzODExMjgsMTI1NTkzNjgyNywyMDE5NzY5Mz
-c1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgs
-NzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OT
-k1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2
-MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNj
-c1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODZd
-fQ==
+c3RvcnkiOlstMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3Nj
+kzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4
+OCw3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIzMiwxMz
+c5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMjU1MDky
+NzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLD
+M2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4
+Nl19
 -->
