@@ -277,8 +277,14 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
+First, let's break the recruits into 2 groups of people.
+Group 1, the people that you'd recruit by 
+
+
+
+
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
-- It's way easier for people to bitch, "this club was so unfair and I couldn't get in", than for people to bitch, "this club 
+- It's way easier for people to bitch, "this club was so unfair and I couldn't get in", than for people to bitch, "this club was so easy and they took nearly everybody in". 
 
 
 "If we had taken lesser people, we'd have had more people today". 
@@ -1159,11 +1165,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NDMwOTk2MzQsMTkyNjAyMzQyOSwtMTMxOTUzND
-Q5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3
-ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0Mj
-QsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0x
-ODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MD
-c1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4LDM1OTIxMjUzOF19
-
+c3RvcnkiOlstMTkxNjAwMzU3NCwxOTI2MDIzNDI5LC0xMzE5NT
+M0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwt
+MTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5Nj
+QyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYs
+LTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNT
+QwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4
+XX0=
 -->
