@@ -300,20 +300,11 @@ The thing is, simply taking group 2 into the club isn't going to significantly i
 Group 2 is already assumed to not take the Debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
 
 
-People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)].(https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
+People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).
 
-![enter image description here](https://i.postimg.cc/ygkCCqkG/Interestovertime1.png)
+![enter image description here](https://i.postimg.cc/50m4vb1f/Interestovertime1.png)
 
 
-[url=https://postimg.cc/bdmSR1hN][img]https://i.postimg.cc/bdmSR1hN/Interestovertime1.png[/img][/url]
-
-[url=https://postimg.cc/5j4FvnDR][img]https://i.postimg.cc/5j4FvnDR/Interestovertime2.png[/img][/url]
-
-[url=https://postimg.cc/D4wJTwqT][img]https://i.postimg.cc/D4wJTwqT/Interestovertime3.png[/img][/url]
-
-[url=https://postimg.cc/Hc2cRy8z][img]https://i.postimg.cc/Hc2cRy8z/Interestovertime4.png[/img][/url]
-
-[url=https://postimg.cc/DSXWFDb8][img]https://i.postimg.cc/DSXWFDb8/Interestovertime5-with-bonus.png[/img][/url]
 
 A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 
@@ -1206,11 +1197,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjUxNTM3OTMyLC0xMjgxMDM5MjMyLDEzNzk5NT
-M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
-LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
-YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
-OTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNT
-U5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgw
-Ml19
+c3RvcnkiOlsxNDc1NDQ2OTYsLTEyODEwMzkyMzIsMTM3OTk1Mz
+k1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwt
+NDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1Nj
+I1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5
+NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NT
+k4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAy
+XX0=
 -->
