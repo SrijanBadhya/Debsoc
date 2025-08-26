@@ -407,6 +407,7 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 
+End of the recruitment secion I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
 
 
 Talk about what wasn't implementable from Nikhil's model either. 
@@ -1187,11 +1188,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MD
-U0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQs
-LTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMz
-E5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1
-MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMz
-Q5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3
-ODZdfQ==
+c3RvcnkiOls4MTA5MDE2LDIwMTk3NjkzNzUsMTIwODMzMjkyOC
+wtMTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2
+MTkxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMj
+M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
+MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
+g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMV19
+
 -->
