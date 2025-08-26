@@ -489,7 +489,7 @@ We play around with them
 
 make sure everyone is on the same page with respect to recruitments, last year we had a few random people suddenly change the format last minute.
 
-
+The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments. 
 
 ## Recruitment Logistics
 
@@ -1192,11 +1192,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDY0MDU3MTAzLDEzNzk5NTM5NTcsMTkyNjAyMz
-QyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwx
-Njc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1OD
-QzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0x
-MzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OT
-AzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4
-XX0=
+c3RvcnkiOlstMTg4NTI3OTYyNSwxMzc5OTUzOTU3LDE5MjYwMj
+M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
+MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
+g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
+MTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OT
+kwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIz
+OF19
 -->
