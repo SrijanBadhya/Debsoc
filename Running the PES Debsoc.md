@@ -293,7 +293,8 @@ Group 2, the extra people that you'll get by putting extra effort to be extra ac
 
 The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 is the lazy people who barely made it into the club.
 
- Group 2 is already assumed to not take debsoc seriously.
+The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater, I must have been con
+Group 2 is already assumed to not take debsoc seriously, so if accommodating them makes 
 
 
 
@@ -1184,7 +1185,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgzNjk3OTE2NSwxMzc5OTUzOTU3LDE5MjYwMj
+c3RvcnkiOlstMTE4NTc2Mjk5NywxMzc5OTUzOTU3LDE5MjYwMj
 M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
 MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
 g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
