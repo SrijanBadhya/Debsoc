@@ -291,7 +291,9 @@ First, let's break the recruits into 2 groups of people.
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
 Group 2, the extra people that you'll get by putting extra effort to be extra accommodating of people. 
 
-The assumption behind the criticism
+The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 is the lazy people who barely made it into the club.
+
+ Group 2 is already assumed to not take debsoc seriously.
 
 
 
@@ -1182,7 +1184,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc2MjI3ODQ5MSwxMzc5OTUzOTU3LDE5MjYwMj
+c3RvcnkiOlstMTgzNjk3OTE2NSwxMzc5OTUzOTU3LDE5MjYwMj
 M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
 MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
 g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
