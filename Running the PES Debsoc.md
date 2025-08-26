@@ -262,15 +262,6 @@ By breadth wise inclusivity, I mean providing multiple slots and multiple days f
 Absolutely do not aim to recruit a percentage of applicants, like deciding, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions). 
 
 
-
-
-(Srijan edit this later)
-Even 'interest' usually changes over time. Only after getting used to debate might you prioritize debate over other stuff. Sure it goes both ways, some people switch from prioritizing debate to other stuff. But the only way to capture even people who potentially grow interest to debate later, is by having a low enough bar for that first while. (Idk, I'm not sure if I should even keep this paragraph).
-
-(Talk about how losing people who lose interest over time is fine, but we can't afford to lose people whose interest grows over time. )
-
-
-
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility. Round 2 also usually is similarly over 3 other days. 
 
 **How are there always people who miss out?** What are the reasons that often happen?
@@ -302,6 +293,7 @@ Group 2 is already assumed to not take the Debsoc seriously, so if accommodating
 
 People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).
 
+
 ![enter image description here](https://i.postimg.cc/Z0twStBy/Interestovertime1.png)
 
 ![enter image description here](https://i.postimg.cc/h4zgcLQS/Interestovertime2.png)
@@ -313,6 +305,7 @@ People's interest in debate can fall or rise over time, based on what they disco
 This blue box touches upon a very complicated problem, which is the challenge seeming so massive that you give up on it, unaware that the bar will be lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible", and "You just need to do 2 sessions in the whole month of round 3 to get into the club".
 ![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
 A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
+Losing people who lose interest over time is fine, but we can't afford to have lost people whose interest grows over time.
 
 It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure the last-minute worry and grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
 
@@ -1207,11 +1200,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5ODg5MjMzNywtMTI4MTAzOTIzMiwxMzc5OTUzOT
-U3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00
-NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2Mj
-U4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2
-NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OT
-g0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDJd
-fQ==
+c3RvcnkiOlsxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NT
+M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
+LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
+YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
+OTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNT
+U5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgw
+Ml19
 -->
