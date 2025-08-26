@@ -321,7 +321,7 @@ Continuing on the response to criticism:
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
-If you believe that being selective 
+A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration
 
 
 How do you carry out breadth-wise inclusivity.
@@ -1197,11 +1197,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY3NDg1NzMxOSwxMTYxOTE3MjI0LC0xMjgxMD
-M5MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5
-MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3OD
-I3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQs
-ODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xOD
-AyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1
-NDldfQ==
+c3RvcnkiOlstNDQ4NjI0OTk2LDExNjE5MTcyMjQsLTEyODEwMz
+kyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkz
+LDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mj
+c0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4
+OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MD
+IwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0
+OV19
 -->
