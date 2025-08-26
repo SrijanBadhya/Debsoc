@@ -257,6 +257,10 @@ Now talking about inclusivity with respect to flexibility of slots:
 ### Breadth wise inclusivity
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please read this entire section, so that you end up with whatever belief stands at the end.**
 
+By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Round 3 also 
+
+Absolutely do not aim to recruit a percentage of applicants, like, "T
+
 
 (Srijan edit this later)
 Even 'interest' usually changes over time. Only after getting used to debate might you prioritize debate over other stuff. Sure it goes both ways, some people switch from prioritizing debate to other stuff. But the only way to capture even people who potentially grow interest to debate later, is by having a low enough bar for that first while. (Idk, I'm not sure if I should even keep this paragraph).
@@ -1169,7 +1173,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTAwODI0MDMyLDE5MjYwMjM0MjksLTEzMTk1Mz
+c3RvcnkiOlstMjkxMzk0ODM0LDE5MjYwMjM0MjksLTEzMTk1Mz
 Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
 NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
 I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
