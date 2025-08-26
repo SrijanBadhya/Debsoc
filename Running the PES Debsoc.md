@@ -316,12 +316,11 @@ Continuing on the response to criticism:
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
-
-Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. 
-
-
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
+- Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
+
+
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 
@@ -1201,11 +1200,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NTE3MjE3NTcsMTE2MTkxNzIyNCwtMTI4MTAzOT
-IzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMs
-MjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNz
-Q0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5
-MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMj
-A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
-XX0=
+c3RvcnkiOlsxNzA2MjkxMjc3LDExNjE5MTcyMjQsLTEyODEwMz
+kyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkz
+LDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mj
+c0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4
+OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MD
+IwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0
+OV19
 -->
