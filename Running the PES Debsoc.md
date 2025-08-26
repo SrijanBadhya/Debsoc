@@ -282,9 +282,12 @@ One thing that I've heard is, "it definitely makes us look unstructured, unorgan
 
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
-- 
-- I however staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
-- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments. I don't recommend going this extreme without having the bandwidth.
+
+
+How do you carry out breadth-wise inclusivity.
+
+- I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
+- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going this extreme without having the bandwidth yourself.
 - But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
@@ -1150,11 +1153,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NTI4NzYzNzgsLTEzMTk1MzQ0OTMsMjU1MDkyNz
-YxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2
-NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Ni
-wtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwt
-MTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMj
-Q4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5XX0=
+c3RvcnkiOlsxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mj
+c2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwz
+Njc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0OD
+YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
+LTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMz
+I0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OV19
 
 -->
