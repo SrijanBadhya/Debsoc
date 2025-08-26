@@ -282,7 +282,7 @@ First, let's break the recruits into 2 groups of people.
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
 Group 2, the extra people that you'll get by putting extra effort to be extra accommodating of people. 
 
-The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 is the lazy people who barely made it into the club.
+_The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 is the lazy people who barely made it into the club._
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
 
@@ -323,9 +323,8 @@ Continuing on the response to criticism:
 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
-
 And nobody ever thinks this thought:
-"If we had taken lesser people, we'd have had more people today". 
+"If we had taken lesser people, we could have had more people today". 
 
 
 So, how do you carry out breadth-wise inclusivity?
@@ -1191,11 +1190,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOT
-IzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMs
-MjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNz
-Q0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5
-MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMj
-A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
-XX0=
+c3RvcnkiOlstMTgyNTA1MzQyMSw3NDE5MjY4MTcsMTE2MTkxNz
+IyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0Mjks
+LTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OT
+E0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0Mzcs
+MTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzOD
+cwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEy
+NDJdfQ==
 -->
