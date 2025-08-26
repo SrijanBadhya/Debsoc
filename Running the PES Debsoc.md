@@ -946,12 +946,9 @@ Especially in tourneys, ask questions about rounds, constantly acknowledge their
 
 
 
-A lot of time there are people who genuinely care about improving in debating but don't attend sessions
-
-  
-
 Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
 
+link to #my-story
 
   freeloaders need to be banned. It's awkward, but you need to stand your ground.
   
@@ -963,17 +960,18 @@ Talk about how you succeed and get soc loyalty at the point where the person, "S
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
-  
 
-Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community.
+
+Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
 
 fear is not a great motivator to be active, 
 we'll kick you out" was dumb
+(I think the whole culture of my seniors can be t
   
 
 Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
 
-  
+
 
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
 
@@ -1189,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTU1NzAyNDIzLDEyNTU5MzY4MjcsMjAxOTc2OT
-M3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5Mjg4
-LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNz
-k5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3
-NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMz
-Y3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2
-XX0=
+c3RvcnkiOls1NTgzODExMjgsMTI1NTkzNjgyNywyMDE5NzY5Mz
+c1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgs
+NzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OT
+k1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2
+MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNj
+c1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODZd
+fQ==
 -->
