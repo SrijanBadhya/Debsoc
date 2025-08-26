@@ -902,6 +902,7 @@ The counter arguments I've heard about this are
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
 
+
 one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
 
 
@@ -1186,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjczMzAwMDg3LC0xMjQyMDU5Mjg4LDc0MTkyNj
-gxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NTM5NTcs
-MTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MD
-I4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0
-LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MD
-A3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4
-Mzc3XX0=
+c3RvcnkiOlstMTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3NDE5Mj
+Y4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3
+LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00Nz
+AyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4
+NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2ND
+AwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0
+ODM3N119
 -->
