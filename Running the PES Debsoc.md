@@ -255,7 +255,7 @@ Taking a few points out of Nikhil's recruitment document:
 Now talking about inclusivity with respect to flexibility of slots:
 
 ### Breadth wise inclusivity
-This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please read this entire section, so that you end up with whatever belief stands at the end.**
+This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap, so that you end up with whatever belief stands at the end.**
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough for even people with packed lives to be able to reach the minimum bar. 
 
@@ -1190,7 +1190,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgyNTA1MzQyMSw3NDE5MjY4MTcsMTE2MTkxNz
+c3RvcnkiOlstMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNz
 IyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0Mjks
 LTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OT
 E0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0Mzcs
