@@ -307,7 +307,7 @@ This blue box touches upon a very complicated problem, which is the challenge se
 A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 Losing people who lose interest over time is fine, but we can't afford to have lost people whose interest grows over time.
 
-It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure the last-minute worry and grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
+It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
 
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
@@ -315,16 +315,13 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 Continuing on the response to criticism:
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
-- It's way easier for people to bitch, "this club was so unfair and I couldn't get in", than for people to bitch, "this club was so easy and they took nearly everybody in". 
-
-
-"If we had taken lesser people, we'd have had more people today". 
-
-
+- It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". 
 
 
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
+
+If you believe that being selective 
 
 
 How do you carry out breadth-wise inclusivity.
@@ -1200,11 +1197,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NT
-M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
-LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
-YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
-OTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNT
-U5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgw
-Ml19
+c3RvcnkiOlstMTY3NDg1NzMxOSwxMTYxOTE3MjI0LC0xMjgxMD
+M5MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5
+MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3OD
+I3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQs
+ODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xOD
+AyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1
+NDldfQ==
 -->
