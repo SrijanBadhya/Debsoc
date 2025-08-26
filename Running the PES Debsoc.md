@@ -295,12 +295,11 @@ The assumption behind the criticism is that group 1 is filled with people who ca
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the debsoc letting more people in later. I don't lose interest in debate because lazier people got in. 
 
-And if taking group 2 people causes group 2 people to 
-
-
 (I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the debsoc tells me I could have come tomorrow. This is solved by group 2 people having to put extra effort anyway, like having to dm a club head, or having to hope that they make it through the 'unofficial recruitments' (something we did in 2025 which I'll mention later)). Group 1 people still get the benefit of peace of mind of completing their task, which they earned by being there on time.
 
-Group 2 is already assumed to not take debsoc seriously, so if accommodating them makes them lazier 
+Group 2 is already assumed to not take debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
+
+
 
 
 
@@ -1191,7 +1190,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzA2MDIwNjAwLDEzNzk5NTM5NTcsMTkyNjAyMz
+c3RvcnkiOlsyMDg0MjA0MTQ1LDEzNzk5NTM5NTcsMTkyNjAyMz
 QyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwx
 Njc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1OD
 QzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0x
