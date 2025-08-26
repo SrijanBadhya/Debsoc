@@ -347,7 +347,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
 Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
-Having an inclusive round 1, round 2, and round 3, while 
+Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, gives us like 80% of the benefits that I talk about in [History](#history). And the best part is that people stop showing up to debates dur
 
 
 
@@ -1200,11 +1200,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzA2MjkxMjc3LDExNjE5MTcyMjQsLTEyODEwMz
-kyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkz
-LDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mj
-c0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4
-OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MD
-IwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0
-OV19
+c3RvcnkiOls2MTE5NzA2MzEsMTE2MTkxNzIyNCwtMTI4MTAzOT
+IzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMs
+MjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNz
+Q0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5
+MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMj
+A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
+XX0=
 -->
