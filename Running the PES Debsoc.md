@@ -43,7 +43,7 @@ I believe it's good to keep in mind the merits and demerits of alternate policie
 The claims will be in **bold**, and the reasons will be in white bullet points. But first let me talk about the guiding values which are the basis for all the claims here (what we prioritized in our decisions).
 Alternate systems conceptualized or once followed will be in _italics_. 
 
-**My whole yap isn't to say, "This is what you _should_ follow", but to just explain the frontier of my knowledge and lay out my case, hoping that you can overcome and expand the frontier and make better systems.**
+**My whole yap isn't to say, "This is what you _should_ follow", but to just explain the frontier of my knowledge and lay out my case, hoping that you can overcome limitations, expand the frontier, and make better systems.**
 
 # Table of Contents
 I. [Guiding Principles](#guiding-principles)
@@ -90,10 +90,7 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
 
-  # Guiding Principles
-
-<br>
-<br>
+# Guiding Principles
 
 ## The Point of a Debate Club
 2 parts: Debate, and Club
@@ -146,7 +143,6 @@ Some of us believe that being more chill and having more people for fun, is wort
 - I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters (but more on that later).
 
 
-<br>
 <br>
 
 
@@ -272,7 +268,7 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 It's extreme and unnecessary to initiate the text conversation yourself in the dms of everyone on the group you see. 
 
 
-##### Addressing the criticism
+#### Addressing the criticism
 _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
@@ -1189,11 +1185,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY3NjM4NDQ1NywtMTcyMjQwNTQ3NywtMTI0Mj
-A1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIz
-MiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMj
-U1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0
-MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MD
-ExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5
-MzI2NF19
+c3RvcnkiOlsxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMD
+U5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMy
+LDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNT
+UwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQz
+ODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMT
+E0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkz
+MjY0XX0=
 -->
