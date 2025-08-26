@@ -185,7 +185,7 @@ How do you handle the trade-off between being inclusive/selective?
 
 
 Pros of being selective:
-- A few PES clubs (like ECell), try to be extremely selective with their members. This generates hype over being a 'member of ECell'.
+- A few PES clubs (like ECell), try to be extremely selective with their members. This generates initial hype over being a 'member of ECell'.
 - People believe that less members means less dilution and you can focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of 100 members on a groupchat but nobody responding.
@@ -205,7 +205,7 @@ I'll come to the group discussion part later, but **the month-long recruitment w
 
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
 - People could get a feel of debate before they committed.
-- People self filtered themselves out, so by the end people who were consistent were people who were genuinely interested.
+- People self filtered themselves out, so by the end people who were still consistent were people who were genuinely interested.
 - Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them leaking info from the group later as backstabbing.
 - This was the best way to measure if someone could be an asset to the club in the future; if they would participate enthusiastically and be able to set aside time for debsoc.
@@ -308,7 +308,7 @@ It's unfair to judge people's initial interest in an activity if some of them di
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
-Continuing on the response to criticism:
+Continuing the response to criticism:
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
@@ -1186,11 +1186,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1OTU5NjQxNjQsLTEyNDIwNTkyODgsNzQxOTI2OD
-E3LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1Nywx
-OTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMj
-g1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQs
-NzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMD
-cyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgz
-NzddfQ==
+c3RvcnkiOlstMzI3NzQ2Njc5LC0xMjQyMDU5Mjg4LDc0MTkyNj
+gxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NTM5NTcs
+MTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MD
+I4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0
+LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MD
+A3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4
+Mzc3XX0=
 -->
