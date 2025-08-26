@@ -297,9 +297,11 @@ The thing is, simply taking group 2 into the club isn't going to significantly i
 
 (I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the debsoc tells me I could have come tomorrow. This is solved by group 2 people having to put extra effort anyway, like having to dm a club head, or having to hope that they make it through the 'unofficial recruitments' (something we did in 2025 which I'll mention later)). Group 1 people still get the benefit of peace of mind of completing their task, which they earned by being there on time.
 
-Group 2 is already assumed to not take debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
+Group 2 is already assumed to not take the Debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
 
 
+People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover. 
+A l
 
 
 
@@ -1190,11 +1192,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDg0MjA0MTQ1LDEzNzk5NTM5NTcsMTkyNjAyMz
-QyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwx
-Njc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1OD
-QzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0x
-MzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OT
-AzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4
-XX0=
+c3RvcnkiOlstMTA1MjM3NTYwOSwxMzc5OTUzOTU3LDE5MjYwMj
+M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
+MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
+g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
+MTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OT
+kwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIz
+OF19
 -->
