@@ -302,7 +302,7 @@ Group 2 is already assumed to not take the Debsoc seriously, so if accommodating
 
 People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)].(https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 
-![enter image description here](https://i.postimg.cc/bdmSR1hN/Interestovertime1.png)
+![enter image description here](https://i.postimg.cc/ygkCCqkG/Interestovertime1.png)
 
 
 [url=https://postimg.cc/bdmSR1hN][img]https://i.postimg.cc/bdmSR1hN/Interestovertime1.png[/img][/url]
@@ -1206,7 +1206,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTUzMzY1NjE3LC0xMjgxMDM5MjMyLDEzNzk5NT
+c3RvcnkiOlstNjUxNTM3OTMyLC0xMjgxMDM5MjMyLDEzNzk5NT
 M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
 LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
 YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
