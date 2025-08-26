@@ -259,7 +259,9 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Round 3 also 
 
-Absolutely do not aim to recruit a percentage of applicants, like, "T
+Absolutely do not aim to recruit a percentage of applicants, like, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whateve
+
+
 
 
 (Srijan edit this later)
@@ -1173,7 +1175,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjkxMzk0ODM0LDE5MjYwMjM0MjksLTEzMTk1Mz
+c3RvcnkiOlstNjEzNzE4NjQzLDE5MjYwMjM0MjksLTEzMTk1Mz
 Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
 NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
 I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
