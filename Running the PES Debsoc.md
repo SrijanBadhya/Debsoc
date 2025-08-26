@@ -310,11 +310,14 @@ People's interest in debate can fall or rise over time, based on what they disco
 
 ![enter image description here](https://i.postimg.cc/SsPZgzmd/Interestovertime4.png)
 
-This blue box touches upon a very complicated problem, which is the challenge seeming so massive that you give up on it, unaware that the bar will be lower. I don't know how to solve this without contradictory messaging of "Guys come to as many sessions as possible", and "You just need to do 2 sessions in the whole month of round 3 to get into the club".
+This blue box touches upon a very complicated problem, which is the challenge seeming so massive that you give up on it, unaware that the bar will be lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible", and "You just need to do 2 sessions in the whole month of round 3 to get into the club".
 ![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
 A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 
 It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure the last-minute worry and grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
+
+
+If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major debaters. Harsha didn't get in through round 1, and he begged the clubheads to take him in at th
 
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
@@ -1203,11 +1206,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM2NzUyNzk0OCwtMTI4MTAzOTIzMiwxMzc5OT
-UzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYx
-LC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2Nz
-U2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Niwt
-MTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMT
-U1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4
-MDJdfQ==
+c3RvcnkiOlstOTA1MTYwMjA4LC0xMjgxMDM5MjMyLDEzNzk5NT
+M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
+LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
+YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
+OTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNT
+U5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgw
+Ml19
 -->
