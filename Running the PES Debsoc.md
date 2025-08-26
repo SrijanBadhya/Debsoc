@@ -257,9 +257,9 @@ Now talking about inclusivity with respect to flexibility of slots:
 ### Breadth wise inclusivity
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please read this entire section, so that you end up with whatever belief stands at the end.**
 
-By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Round 3 also 
+By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough 
 
-Absolutely do not aim to recruit a percentage of applicants, like, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whateve
+Absolutely do not aim to recruit a percentage of applicants, like, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions). 
 
 
 
@@ -1175,7 +1175,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjEzNzE4NjQzLDE5MjYwMjM0MjksLTEzMTk1Mz
+c3RvcnkiOlsxNDA3NjkwODIyLDE5MjYwMjM0MjksLTEzMTk1Mz
 Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
 NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
 I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
