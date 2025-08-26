@@ -274,7 +274,7 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 
 
 ##### Addressing the criticism
-Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people.
+Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. Prestigious clubs aren't 
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc".
 
 
@@ -305,7 +305,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 
 
 # Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
-Their justification is, .
+
 you can quote this, and talk about how you can have inclusion freely and tourney selectively, properly.
 From what Nikhil said, "The Principle of accessibility and inclusivity weighs above future speculative optics.
 
@@ -1153,11 +1153,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mj
-c2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwz
-Njc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0OD
-YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
-LTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMz
-I0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OV19
-
+c3RvcnkiOlsxNTY3MTM3MjM5LDE5MjYwMjM0MjksLTEzMTk1Mz
+Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
+NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
+I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
+MTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1ND
+A3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1Mzhd
+fQ==
 -->
