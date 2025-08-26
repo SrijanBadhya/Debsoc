@@ -529,11 +529,11 @@ make sure case prep is balanced, and make sure it isn't one person talking over 
 
 Keeping friends together in debates. Some people don't keep them together to encourage socialization with new people. I think it's also good to keep them together to increase the fun they have in debate. However what's bad is keeping 2 friends and one stranger in a team which will alienate the stranger.
 
-  
+
 
 General comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day. Better in round 1 than round 2.
 
-  
+
   
   
 scheduling, pains of us attending more sessions than recruits themselves
@@ -1186,7 +1186,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzI3NzQ2Njc5LC0xMjQyMDU5Mjg4LDc0MTkyNj
+c3RvcnkiOlstMjczMzAwMDg3LC0xMjQyMDU5Mjg4LDc0MTkyNj
 gxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NTM5NTcs
 MTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MD
 I4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0
