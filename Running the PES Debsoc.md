@@ -267,7 +267,9 @@ Absolutely do not aim to recruit a percentage of applicants, like, "The top 90% 
 (Srijan edit this later)
 Even 'interest' usually changes over time. Only after getting used to debate might you prioritize debate over other stuff. Sure it goes both ways, some people switch from prioritizing debate to other stuff. But the only way to capture even people who potentially grow interest to debate later, is by having a low enough bar for that first while. (Idk, I'm not sure if I should even keep this paragraph).
 
-Talk about how losing people who lose interest over time is fine, but we can't afford to lose people whose interest grows over time. 
+(Talk about how losing people who lose interest over time is fine, but we can't afford to lose people whose interest grows over time. )
+
+
 
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility. Round 2 also usually is similarly over 3 other days. 
 
@@ -1177,7 +1179,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDg4MTUwODYxLDE5MjYwMjM0MjksLTEzMTk1Mz
+c3RvcnkiOlstMzI4NjczNTc2LDE5MjYwMjM0MjksLTEzMTk1Mz
 Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
 NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
 I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
