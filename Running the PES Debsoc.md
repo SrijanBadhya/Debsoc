@@ -301,7 +301,7 @@ Group 2 is already assumed to not take the Debsoc seriously, so if accommodating
 
 
 People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover. 
-A lot of people in group one will drop out due to falling interest. However, if you hadn't been extra accommodating, you'd never have gotten members 
+A lot of people in group 1 will drop out due to falling interest. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have risen over time because debate is more fun than they thought. 
 
 
 
@@ -375,7 +375,7 @@ I'll just quote from Nikhil's document here.
  - + "Is there something you think the opposite speaker missed that you predicted they would say?"
  
 
-I think these changes by Nikhil were absolutely amazing, made the recruitment process so much more fun and engaging for both the moderators and recruits.
+I think these changes by Nikhil were absolutely amazing, they made the recruitment process so much more fun and engaging for both the moderators and recruits.
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
 
 ### Round 2
@@ -1192,11 +1192,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg4NTI3OTYyNSwxMzc5OTUzOTU3LDE5MjYwMj
-M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
-MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
-g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
-MTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OT
-kwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIz
-OF19
+c3RvcnkiOlstNjk1MzY1OSwxMzc5OTUzOTU3LDE5MjYwMjM0Mj
+ksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3
+OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0Mz
+csMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMz
+ODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
+EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOF19
+
 -->
