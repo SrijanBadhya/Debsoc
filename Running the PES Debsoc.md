@@ -294,7 +294,8 @@ Group 2, the extra people that you'll get by putting extra effort to be extra ac
 The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 is the lazy people who barely made it into the club.
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, 
-(I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the debsoc tells me I could have come tomorrow. )
+(I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the debsoc tells me I could have come tomorrow. This is solved by group 2 people having to put extra effort anyway, like having to dm a club head, or having to hope that they make it through the 'unofficial recruitments' (something we did in 2025 which I'll mention later)). Group 1 people still get the benefit of peace of 
+
 Group 2 is already assumed to not take debsoc seriously, so if accommodating them makes 
 
 
@@ -1186,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNDU0MTA0NzYsMTM3OTk1Mzk1NywxOTI2MDIzND
-I5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2
-NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4ND
-M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
-Mzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MD
-MxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzhd
-fQ==
+c3RvcnkiOlsyMDc4Mzg3NDM1LDEzNzk5NTM5NTcsMTkyNjAyMz
+QyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwx
+Njc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1OD
+QzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0x
+MzM4NzAwNzg2LC0xODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OT
+AzMTI0MiwyMDU0MDc1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4
+XX0=
 -->
