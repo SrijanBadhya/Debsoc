@@ -277,7 +277,7 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
-- Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive feelings about. When 
+- Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive feelings about. Being less inclusive because you care about prestige hampers your 
 
 
 "If we had taken lesser people, we'd have had more people today". 
@@ -1158,7 +1158,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUzMzUyOTA1OCwxOTI2MDIzNDI5LC0xMzE5NT
+c3RvcnkiOlstMTc1OTkzODcyOSwxOTI2MDIzNDI5LC0xMzE5NT
 M0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwt
 MTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5Nj
 QyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYs
