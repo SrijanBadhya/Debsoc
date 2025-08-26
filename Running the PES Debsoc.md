@@ -277,13 +277,14 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 - Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people.
 - I however staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments. I don't recommend going this extreme without having the bandwidth.
-- But if you have 4 people left to do t
+- But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
 - I believe that everyone the debsoc can possibly reach, should be reached.
 - + Even if these people don't appear serious enough, or end up dropping out soon, every recruit provides value in a debate for the time they are in the club, for the initial debates they participate in.
-- One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and proceed to accommodate people who needed it after that. 
+- One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and still proceed to accommodate people who needed it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads".
+- You can choose the stance on this tran
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
@@ -1139,11 +1140,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1OTAyMDgyNTQsLTEzMTk1MzQ0OTMsMjU1MDkyNz
-YxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2
-NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Ni
-wtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwt
-MTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMj
-Q4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5XX0=
-
+c3RvcnkiOlstMTI5Nzc5MjUxOSwtMTMxOTUzNDQ5MywyNTUwOT
+I3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAs
+MzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0ND
+g2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0
+LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MT
+MyNDgwMiwxMzY3NzU1MjM4LDM1OTIxMjUzOCw1NTk1NzA0Njld
+fQ==
 -->
