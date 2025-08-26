@@ -306,9 +306,12 @@ People's interest in debate can fall or rise over time, based on what they disco
 
 ![enter image description here](https://i.postimg.cc/h4zgcLQS/Interestovertime2.png)
 
+![enter image description here](https://i.postimg.cc/QCWfwxt3/Interestovertime3.png)
 
+![enter image description here](https://i.postimg.cc/SsPZgzmd/Interestovertime4.png)
 
-
+This blue box touches upon a very complicated problem. 
+![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
 A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 
 It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure the last-minute worry and grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
@@ -1200,7 +1203,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzUyMTMxMTI4LC0xMjgxMDM5MjMyLDEzNzk5NT
+c3RvcnkiOlsxOTczNjgzNjU1LC0xMjgxMDM5MjMyLDEzNzk5NT
 M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
 LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
 YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
