@@ -304,7 +304,7 @@ Group 2 is already assumed to not take debsoc seriously, so if accommodating the
 
 
 
-- You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it yet. 
+- You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "this club was so unfair and I couldn't get in", than for people to bitch, "this club was so easy and they took nearly everybody in". 
 
@@ -1191,7 +1191,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MTgxMTg2NzAsMTM3OTk1Mzk1NywxOTI2MDIzND
+c3RvcnkiOlsxNTMzMDQ4NDUsMTM3OTk1Mzk1NywxOTI2MDIzND
 I5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2
 NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4ND
 M3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEz
