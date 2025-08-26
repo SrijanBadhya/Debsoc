@@ -263,8 +263,9 @@ Even 'interest' usually changes over time. Only after getting used to debate mig
 
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 
-**How are there always people who miss out?**
+**How are there always people who miss out?** What are the reasons that often happen?
 - When you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 9% likely, when you take a sample of 100 people, you get 9 people this event likely happens to.
+- This could be due to being sick, having some extracurricular class some day, having a 
 - **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
 
@@ -1140,7 +1141,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjg3NzcwOTYxLC0xMzE5NTM0NDkzLDI1NTA5Mj
+c3RvcnkiOlsxOTQyMTg4NDIzLC0xMzE5NTM0NDkzLDI1NTA5Mj
 c2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwz
 Njc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0OD
 YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
