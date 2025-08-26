@@ -277,7 +277,8 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
-- Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive feelings about. Being less inclusive because you care about prestige hampers your 3 main goals: growth, community, and value to peop
+- Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
+- It's way easier for people to bitch, "this club was so unfair and I couldn't get in", than for people to bitch, "this club 
 
 
 "If we had taken lesser people, we'd have had more people today". 
@@ -1158,11 +1159,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTE1OTY2MTM0LDE5MjYwMjM0MjksLTEzMTk1Mz
-Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
-NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
-I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
-MTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1ND
-A3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1Mzhd
-fQ==
+c3RvcnkiOls2NDMwOTk2MzQsMTkyNjAyMzQyOSwtMTMxOTUzND
+Q5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3
+ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0Mj
+QsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0x
+ODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MD
+c1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4LDM1OTIxMjUzOF19
+
 -->
