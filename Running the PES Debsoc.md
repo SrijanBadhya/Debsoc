@@ -225,7 +225,7 @@ A few issues with the month long recruitment:
 
 This level of selectivity captured the most benefits, and I believe that aiming to be more selective gives diminishing marginal benefits and leads to more harms.
 
-Which takes us to, **why we should extremely push for inclusivity**:
+Which takes us to, **why we should push hard for inclusivity**:
 
 When you see 240ish people on the recruitments group, you might be intimidated by how to run such a massive club (the way we were). However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3.
 And even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
@@ -234,7 +234,7 @@ And even among those who get recruited, 80% of people stop coming to sessions by
 ### Depth wise inclusivity
 So the reasons for being inclusive regardless of 'skill' are:
 
-- The point is not to filter based on skill, but to take everyone who is interested, and help them pursue this interest. 
+- The point of the club is not to filter based on skill, but to take everyone who is interested, and help them pursue this interest. 
 - - The focus is not on who the people are now, they're freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
@@ -1186,7 +1186,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NDQyMDI1NDYsLTEyNDIwNTkyODgsNzQxOTI2OD
+c3RvcnkiOls1OTU5NjQxNjQsLTEyNDIwNTkyODgsNzQxOTI2OD
 E3LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1Nywx
 OTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMj
 g1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQs
