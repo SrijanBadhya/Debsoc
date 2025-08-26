@@ -347,17 +347,8 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
 Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
-Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, gives us like 80% of the benefits that I talk about in [History](#history). And the best part is that people stop showing up to debates dur
+Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, gives us like 80% of the benefits that I talk about in [History](#history). And the best part is that people stop showing up to debates during the month of round 3, that means they've lost interest and have filtered themselves out. And hence you don't need to add people to a group they don't want to be in.
 
-
-
-# Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
-
-you can quote this, and talk about how you can have inclusion freely and tourney selectively, properly.
-From what Nikhil said, "The Principle of accessibility and inclusivity weighs above future speculative optics.
-
-
-people talk about selective being good because, "people will feel good when they struggled and made it to the soc and others didn't". This is bullshit. A bunch of people are bound to dip out on their own anyway.
 
 ## The 2024 model
 ### Round 1
@@ -1200,7 +1191,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MTE5NzA2MzEsMTE2MTkxNzIyNCwtMTI4MTAzOT
+c3RvcnkiOls3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOT
 IzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMs
 MjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNz
 Q0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5
