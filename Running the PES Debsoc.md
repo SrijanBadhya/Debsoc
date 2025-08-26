@@ -291,7 +291,7 @@ First, let's break the recruits into 2 groups of people.
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
 Group 2, the extra people that you'll get by putting extra effort to be extra accommodating of people. 
 
-
+The assumption behind the criticism
 
 
 
@@ -1182,11 +1182,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1Mz
-Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
-NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
-I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
-MTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1ND
-A3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1Mzhd
-fQ==
+c3RvcnkiOlstMTc2MjI3ODQ5MSwxMzc5OTUzOTU3LDE5MjYwMj
+M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
+MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
+g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
+MTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OT
+kwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIz
+OF19
 -->
