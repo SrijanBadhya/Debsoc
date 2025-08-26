@@ -300,8 +300,8 @@ The thing is, simply taking group 2 into the club isn't going to significantly i
 Group 2 is already assumed to not take the Debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
 
 
-People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover. 
-A lot of people in group 1 will drop out due to falling interest. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have risen over time because debate is more fun than they thought. 
+People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover. [(From the feedback form)]
+A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 
 
 
@@ -1192,11 +1192,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjk1MzY1OSwxMzc5OTUzOTU3LDE5MjYwMjM0Mj
-ksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3
-OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0Mz
-csMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMz
-ODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMz
-EyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOF19
-
+c3RvcnkiOlstMTM5Mjc3ODEwMywxMzc5OTUzOTU3LDE5MjYwMj
+M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
+MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
+g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
+MTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OT
+kwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIz
+OF19
 -->
