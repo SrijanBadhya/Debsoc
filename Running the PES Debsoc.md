@@ -316,6 +316,9 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
 Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
+Having an inclusive round 1, round 2, and round 3, while 
+
+
 
 # Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
 
@@ -1166,11 +1169,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQwMjk2Mzc4MiwxOTI2MDIzNDI5LC0xMzE5NT
-M0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwt
-MTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5Nj
-QyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYs
-LTE4MDIwOTMyNjQsLTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNT
-QwNzU0OSwxODkxMzI0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4
-XX0=
+c3RvcnkiOlsxOTAwODI0MDMyLDE5MjYwMjM0MjksLTEzMTk1Mz
+Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
+NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
+I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
+MTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1ND
+A3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1Mzhd
+fQ==
 -->
