@@ -304,6 +304,8 @@ People's interest in debate can fall or rise over time, based on what they disco
 
 ![enter image description here](https://i.postimg.cc/Z0twStBy/Interestovertime1.png)
 
+![enter image description here](https://i.postimg.cc/h4zgcLQS/Interestovertime2.png)
+
 
 
 
@@ -1198,7 +1200,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzk4Njg5MjA0LC0xMjgxMDM5MjMyLDEzNzk5NT
+c3RvcnkiOlstNzUyMTMxMTI4LC0xMjgxMDM5MjMyLDEzNzk5NT
 M5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEs
 LTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NT
 YyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0NDg2LC0x
