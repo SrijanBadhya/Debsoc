@@ -301,6 +301,9 @@ Their justification is, "it definitely makes us look unstructured, unorganised, 
 you can quote this, and talk about how you can have inclusion freely and tourney selectively, properly.
 From what Nikhil said, "The Principle of accessibility and inclusivity weighs above future speculative optics.
 
+
+people talk about selective being good because, "people will feel good when they struggled and made it to the soc and others didn't". This is bullshit. A bunch of people are bound to dip out on their own anyway.
+
 ## The 2024 model
 ### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
@@ -379,7 +382,6 @@ Major benefit of self filtration and rounds is that 60% of the people drop out i
 
 juniors are unaware that they even have the right to judge, so make sure you give them the option to, always.
 
-people talk about selective being good because, "people will feel good when they struggled and made it to the soc and others didn't". This is bullshit. A bunch of people are bound to dip out on their own anyway.
 
 
 
@@ -444,7 +446,7 @@ make sure everyone is on the same page with respect to recruitments, last year w
 
 ## Recruitment Logistics
 
-Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out, so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
+Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
 Talk about how system, data filling errors are so common, regardless of how careful you think you are
 
@@ -1143,7 +1145,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDU3OTA2NDI1LC0xMzE5NTM0NDkzLDI1NTA5Mj
+c3RvcnkiOlstNDg0NTAzNzUzLC0xMzE5NTM0NDkzLDI1NTA5Mj
 c2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwz
 Njc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0OD
 YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
