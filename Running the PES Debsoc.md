@@ -334,8 +334,7 @@ So, how do you carry out breadth-wise inclusivity?
 - But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
-- I believe that everyone the debsoc can possibly reach, should be reached.
-- + Even if these people don't appear serious enough, or end up dropping out soon, every recruit provides value in a debate for the time they are in the club, for the initial debates they participate in.
+- I believe that everyone the debsoc can possibly reach, should be reached. But if you don't have the capacity to do so, then your capacity is a fine place to draw the line.
 - One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and still proceed to accommodate people who needed it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads".
 - You can choose the stance on transparency that fits you the best.
@@ -1200,7 +1199,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAyOTc5NjI0OSwxMTYxOTE3MjI0LC0xMjgxMD
+c3RvcnkiOlstMTUzMjY1OTcyOSwxMTYxOTE3MjI0LC0xMjgxMD
 M5MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5
 MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3OD
 I3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQs
