@@ -284,7 +284,7 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 - + Even if these people don't appear serious enough, or end up dropping out soon, every recruit provides value in a debate for the time they are in the club, for the initial debates they participate in.
 - One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and still proceed to accommodate people who needed it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads".
-- You can choose the stance on this tran
+- You can choose the stance on transparency that fits you the best.
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
@@ -1140,11 +1140,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI5Nzc5MjUxOSwtMTMxOTUzNDQ5MywyNTUwOT
-I3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAs
-MzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMTE0ND
-g2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkzMjY0
-LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1NDksMTg5MT
-MyNDgwMiwxMzY3NzU1MjM4LDM1OTIxMjUzOCw1NTk1NzA0Njld
-fQ==
+c3RvcnkiOlstMjg3NzcwOTYxLC0xMzE5NTM0NDkzLDI1NTA5Mj
+c2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwz
+Njc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0OD
+YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
+LTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMz
+I0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OV19
+
 -->
