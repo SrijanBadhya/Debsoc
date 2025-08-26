@@ -169,7 +169,9 @@ I personally would try to say don't judge the club at all.
   
 This is the single most important activity of a club.
 
-This is the single place (besides arguably PESDT) where systems matter the most, because you have an enormous scaled up load to handle.
+This is the single place (besides arguably PESDT) where systems matter the most, because 
+1. You have an enormous scaled up load of people and documentation to handle.
+2. This is the first impression of the juniors of the soc, and shapes whether they want to continue or not.
 
 ### History
 First, a brief view on how recruitments were done in the past:
@@ -272,7 +274,7 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
-First, let's break the recruits into 2 groups of people.
+First, let's break the recruits into 2 groups of people:
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
 Group 2, the extra people that you'll get by putting extra effort to be extra accommodating of people. 
 
@@ -1185,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMD
-U5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMy
-LDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNT
-UwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQz
-ODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQsODkwMT
-E0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xODAyMDkz
-MjY0XX0=
+c3RvcnkiOlstMTc5NDU2NzY5LDEyMDgzMzI5MjgsLTE3MjI0MD
+U0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQs
+LTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMz
+E5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1
+MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMz
+Q5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3
+ODZdfQ==
 -->
