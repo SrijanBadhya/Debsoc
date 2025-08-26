@@ -234,15 +234,13 @@ And even among those who get recruited, 80% of people stop coming to sessions by
 ### Depth wise inclusivity
 So the reasons for being inclusive regardless of 'skill' are:
 
-- If you're going to be left with 10% of X, try to maximize X.
-- The debsoc aims to provide value to people, and the more people you provide value to, the more you're doing for the club.
 - The point is not to filter based on skill, but to take everyone who is interested, and help them pursue this interest. 
 - - The focus is not on who the people are now, they're freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
 - - A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
 
-So there isn't much clear benefit of having a harsh filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
+So there isn't much clear benefit of having a tight filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
 **Accidentally leaving an interested person out is usually more expensive than accidentally taking an uninterested person in.**
 
 Taking a few points out of Nikhil's recruitment document:
@@ -251,8 +249,6 @@ Taking a few points out of Nikhil's recruitment document:
 - + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
 - + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
 
-
-Now talking about inclusivity with respect to flexibility of slots:
 
 ### Breadth wise inclusivity
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap, so that you end up with whatever belief stands at the end.**
@@ -1190,11 +1186,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNz
-IyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0Mjks
-LTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OT
-E0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0Mzcs
-MTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzOD
-cwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEy
-NDJdfQ==
+c3RvcnkiOls5NDQyMDI1NDYsLTEyNDIwNTkyODgsNzQxOTI2OD
+E3LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1Nywx
+OTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMj
+g1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1NjI1ODQs
+NzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5NjQwMD
+cyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NTk4NDgz
+NzddfQ==
 -->
