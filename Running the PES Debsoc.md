@@ -317,7 +317,7 @@ A lot of people in group 1 will drop out due to **falling interest**. However, i
 It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure the last-minute worry and grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
 
 
-If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contribut debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. 
+If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc.
 
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
@@ -1206,7 +1206,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk2MDk0NjQxOCwtMTI4MTAzOTIzMiwxMzc5OT
+c3RvcnkiOlstMjEzMTE1OTM2OSwtMTI4MTAzOTIzMiwxMzc5OT
 UzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYx
 LC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2Nz
 U2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Niwt
