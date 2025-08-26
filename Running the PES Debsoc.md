@@ -303,7 +303,15 @@ Group 2 is already assumed to not take the Debsoc seriously, so if accommodating
 People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)].(https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 
 
+[url=https://postimg.cc/bdmSR1hN][img]https://i.postimg.cc/bdmSR1hN/Interestovertime1.png[/img][/url]
 
+[url=https://postimg.cc/5j4FvnDR][img]https://i.postimg.cc/5j4FvnDR/Interestovertime2.png[/img][/url]
+
+[url=https://postimg.cc/D4wJTwqT][img]https://i.postimg.cc/D4wJTwqT/Interestovertime3.png[/img][/url]
+
+[url=https://postimg.cc/Hc2cRy8z][img]https://i.postimg.cc/Hc2cRy8z/Interestovertime4.png[/img][/url]
+
+[url=https://postimg.cc/DSXWFDb8][img]https://i.postimg.cc/DSXWFDb8/Interestovertime5-with-bonus.png[/img][/url]
 
 A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 
@@ -1196,11 +1204,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMj
-M0MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAs
-MTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNT
-g0MzcsMTEzNDk2NDI0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwt
-MTMzODcwMDc4NiwtMTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OT
-kwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIz
-OF19
+c3RvcnkiOls4NTUzNDczODEsLTEyODEwMzkyMzIsMTM3OTk1Mz
+k1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwt
+NDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwzNjc1Nj
+I1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0ODYsLTE5
+NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQsLTE1NT
+k4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMzI0ODAy
+XX0=
 -->
