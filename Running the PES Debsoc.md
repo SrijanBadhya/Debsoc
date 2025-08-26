@@ -263,16 +263,21 @@ Even 'interest' usually changes over time. Only after getting used to debate mig
 
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility.
 
-**How are there always people who miss
-- But when you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 10% likely, when you take a sample of 100 people, you get 10 people this event happens to.
+**How are there always people who miss out?**
+- When you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 9% likely, when you take a sample of 100 people, you get 9 people this event likely happens to.
 - **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
+
+
+
+
 - + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way.
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 - Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people.
 - I however staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments. I don't recommend going this extreme without having the bandwidth.
+- But if you have 4 people left to do t
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
 - I believe that everyone the debsoc can possibly reach, should be reached.
@@ -1134,7 +1139,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4ODE0NTQ4NjYsLTEzMTk1MzQ0OTMsMjU1MDkyNz
+c3RvcnkiOls1OTAyMDgyNTQsLTEzMTk1MzQ0OTMsMjU1MDkyNz
 YxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2
 NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Ni
 wtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwt
