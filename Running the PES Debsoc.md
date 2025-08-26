@@ -315,7 +315,9 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 Continuing on the response to criticism:
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
-- It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". 
+- It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
+
+Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. 
 
 
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
@@ -1199,11 +1201,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUzMjY1OTcyOSwxMTYxOTE3MjI0LC0xMjgxMD
-M5MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5
-MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3OD
-I3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0MjQs
-ODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0xOD
-AyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MDc1
-NDldfQ==
+c3RvcnkiOls4NTE3MjE3NTcsMTE2MTkxNzIyNCwtMTI4MTAzOT
+IzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMs
+MjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNz
+Q0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5
+MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMj
+A5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5
+XX0=
 -->
