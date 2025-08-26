@@ -259,7 +259,7 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough for even people with packed lives to be able to reach the minimum bar. 
 
-Absolutely do not aim to recruit a percentage of applicants, like, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions). 
+Absolutely do not aim to recruit a percentage of applicants, like deciding, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions). 
 
 
 
@@ -288,7 +288,7 @@ _Criticism of 'being too inclusive' goes along the lines of recruits becoming la
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
 First, let's break the recruits into 2 groups of people.
-Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and then 
+Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to 
 
 
 
@@ -1179,11 +1179,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzI4NjczNTc2LDE5MjYwMjM0MjksLTEzMTk1Mz
-Q0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0x
-NzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2ND
-I0LDg5MDExNDQ4NiwtMTk2NDAwNzIwMSwtMTMzODcwMDc4Niwt
-MTgwMjA5MzI2NCwtMTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1ND
-A3NTQ5LDE4OTEzMjQ4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1Mzhd
-fQ==
+c3RvcnkiOls3NjYzNDE0NjgsMTkyNjAyMzQyOSwtMTMxOTUzND
+Q5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3
+ODI3NDQzODAsMzY3NTYyNTg0LDcxMzM1ODQzNywxMTM0OTY0Mj
+QsODkwMTE0NDg2LC0xOTY0MDA3MjAxLC0xMzM4NzAwNzg2LC0x
+ODAyMDkzMjY0LC0xNTU5ODQ4Mzc3LDQ5OTAzMTI0MiwyMDU0MD
+c1NDksMTg5MTMyNDgwMiwxMzY3NzU1MjM4LDM1OTIxMjUzOF19
+
 -->
