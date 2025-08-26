@@ -278,7 +278,7 @@ _Criticism of 'being too inclusive' goes along the lines of recruits becoming la
 One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 
 First, let's break the recruits into 2 groups of people.
-Group 1, the people that you'd recruit by 
+Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and then 
 
 
 
@@ -315,6 +315,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - You did your part, you provided value to them, and your effort contributed towards the vision of the Debsoc.
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
+Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
 
 # Srijan people like katyayni think that not being strict will give a bad image. But the real literal harm is people not being included, and the inhuman demand to show up during isa and stuff. Somehow address this.
 
@@ -1165,7 +1166,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkxNjAwMzU3NCwxOTI2MDIzNDI5LC0xMzE5NT
+c3RvcnkiOlstMTQwMjk2Mzc4MiwxOTI2MDIzNDI5LC0xMzE5NT
 M0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwt
 MTc4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5Nj
 QyNCw4OTAxMTQ0ODYsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYs
