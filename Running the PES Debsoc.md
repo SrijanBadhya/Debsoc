@@ -265,14 +265,11 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 
 **How are there always people who miss out?** What are the reasons that often happen?
 - When you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 9% likely, when you take a sample of 100 people, you get 9 people this event likely happens to.
-- This could be due to being sick, having some extracurricular class some day, having a 
+- This could be due to being sick, having some extracurricular class some day, having a high priority assignment one day, anything. Even if these same unlikely, likelihood scales up with people. 
 - **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
-
-
-
-
-- + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way.
+- + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way. 
+- + If you do send out a message asking for all the absentees to dm you, then you can use this as indication of interest. It
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 - Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people.
@@ -1141,11 +1138,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQyMTg4NDIzLC0xMzE5NTM0NDkzLDI1NTA5Mj
-c2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0NDM4MCwz
-Njc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQyNCw4OTAxMTQ0OD
-YsLTE5NjQwMDcyMDEsLTEzMzg3MDA3ODYsLTE4MDIwOTMyNjQs
-LTE1NTk4NDgzNzcsNDk5MDMxMjQyLDIwNTQwNzU0OSwxODkxMz
-I0ODAyLDEzNjc3NTUyMzgsMzU5MjEyNTM4LDU1OTU3MDQ2OV19
+c3RvcnkiOlszNDc2NzYxOTMsLTEzMTk1MzQ0OTMsMjU1MDkyNz
+YxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2
+NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4Ni
+wtMTk2NDAwNzIwMSwtMTMzODcwMDc4NiwtMTgwMjA5MzI2NCwt
+MTU1OTg0ODM3Nyw0OTkwMzEyNDIsMjA1NDA3NTQ5LDE4OTEzMj
+Q4MDIsMTM2Nzc1NTIzOCwzNTkyMTI1MzgsNTU5NTcwNDY5XX0=
 
 -->
