@@ -916,8 +916,10 @@ When numbers of attendees dropped, we were called to serious meetings where we w
 
 At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked if they remember to do it".
 
-Anyway this stance intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club?
-
+Anyway, this 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
+There are a few possible answers actually
+1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
+2. They want to be in a club for the sake of it, because it's cool.
 
 Share motion, share random fun pictures, make people feel the fomo
 
@@ -1213,11 +1215,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMT
-E3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywy
-MDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyND
-IwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyODEwMzky
-MzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLD
-I1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0
-NDM4MF19
+c3RvcnkiOls1NDg2NjMyMjUsMTY3ODkwNjM0OCwtOTIyNDE2OT
+c3LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEy
+NTU5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyND
+A1NDc3LC0xMjQyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0
+LC0xMjgxMDM5MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMT
+MxOTUzNDQ5MywyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4
+NTBdfQ==
 -->
