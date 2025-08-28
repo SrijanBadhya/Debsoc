@@ -908,8 +908,9 @@ The counter arguments I've heard about this are
 
 ## Push to come to sessions
 
-The question the debsoc will forever grapple with, "How do we get people to come to sessions?"
+The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
 
+The stance my seniors adopted in 2022 was one involving fear. 
 
 Share motion, share random fun pictures, make people feel the fomo
 
@@ -925,6 +926,7 @@ Akshath Saxena, seniors need to have and show passion for it to flow to juniors
 
 Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
 
+tying it to tourname
 
 
 ## Informal recruitments
@@ -1204,11 +1206,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA2Mjg5NjQ2NywtOTIyNDE2OTc3LDE3MDYzMz
-ExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4Mjcs
-MjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMj
-QyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5
-MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5My
-wyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3
-NDQzODBdfQ==
+c3RvcnkiOls4Mzc0NTUzMzIsLTkyMjQxNjk3NywxNzA2MzMxMT
+c4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIw
+MTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0Mj
+A1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIz
+MiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMj
+U1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0
+MzgwXX0=
 -->
