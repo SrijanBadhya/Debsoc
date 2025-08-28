@@ -919,7 +919,7 @@ At the time I was apathetic about late night online sessions, and I adopted the 
 Anyway, this 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
 There are a few possible answers actually
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
-2. They want to be in a club for the sake of it, because it's cool. 
+2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
 
@@ -1217,11 +1217,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg2NDA2ODIwNiwxNjc4OTA2MzQ4LC05MjI0MT
-Y5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUs
-MTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3Mj
-I0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcy
-MjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC
-0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2Nzkx
-NDg1MF19
+c3RvcnkiOlstNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNj
+k3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwx
+MjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMj
+QwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNzIy
+NCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLT
+EzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0
+ODUwXX0=
 -->
