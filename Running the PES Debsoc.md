@@ -906,6 +906,26 @@ The counter arguments I've heard about this are
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
 
+## Push to come to sessions
+
+The question the debsoc will forever grapple with, "How do we get people to come to sessions?"
+
+
+Share motion, share random fun pictures, make people feel the fomo
+
+Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
+
+fear is not a great motivator to be active, 
+we'll kick you out" was dumb
+(I think the whole culture of my seniors can be talked about over here)
+  
+  
+Akshath Saxena, seniors need to have and show passion for it to flow to juniors
+
+
+Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
+
+
 
 ## Informal recruitments
 
@@ -964,22 +984,7 @@ Talk about how you succeed and get soc loyalty at the point where the person, "S
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 
-## Push to come to sessions
 
-
-Share motion, share random fun pictures, make people feel the fomo
-
-Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
-
-fear is not a great motivator to be active, 
-we'll kick you out" was dumb
-(I think the whole culture of my seniors can be talked about over here)
-  
-  
-Akshath Saxena, seniors need to have and show passion for it to flow to juniors
-
-
-Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
 
 
 
@@ -1199,11 +1204,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3Nj
-E0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwx
-MjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5Mjg4LDc0MT
-kyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NTM5
-NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLT
-Q3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYy
-NTg0XX0=
+c3RvcnkiOlstMTA2Mjg5NjQ2NywtOTIyNDE2OTc3LDE3MDYzMz
+ExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4Mjcs
+MjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMj
+QyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5
+MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5My
+wyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3
+NDQzODBdfQ==
 -->
