@@ -315,7 +315,7 @@ Continuing the response to criticism:
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 - Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
-
+- However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. If you're bei
 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
@@ -1218,11 +1218,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2Mz
-Q4LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEz
-MjA2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMz
-I5MjgsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3
-LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOT
-I2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1
-NzEwXX0=
+c3RvcnkiOlstMzIzNDA4MzEsMzI0NTA2MTY0LC03MTA5NjcwMz
+QsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEy
+NDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OT
+M3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5Mjg4
+LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNz
+k5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3
+NjFdfQ==
 -->
