@@ -907,7 +907,7 @@ The counter arguments I've heard about this are
 
 
 
-
+## Informal recruitments
 
 
 Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
@@ -922,8 +922,6 @@ Hook people into debate (like first years who are newly second years, who want t
 Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
 
-
-Akshath Saxena, seniors need to have and show passion for it to flow to juniors
 
 
 
@@ -977,8 +975,13 @@ fear is not a great motivator to be active,
 we'll kick you out" was dumb
 (I think the whole culture of my seniors can be talked about over here)
   
+  
+Akshath Saxena, seniors need to have and show passion for it to flow to juniors
+
 
 Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
+
+
 
 
 
@@ -1196,11 +1199,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OT
-k0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwt
-MTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MT
-kxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0
-MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMT
-Y3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0
-MzddfQ==
+c3RvcnkiOlstOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3Nj
+E0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwx
+MjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5Mjg4LDc0MT
+kyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5MjMyLDEzNzk5NTM5
+NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5MywyNTUwOTI3NjEsLT
+Q3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3NDQzODAsMzY3NTYy
+NTg0XX0=
 -->
