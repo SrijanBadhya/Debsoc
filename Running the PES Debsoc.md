@@ -911,7 +911,9 @@ The counter arguments I've heard about this are
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
 
 The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (Actually fill a google form because Whatsapp didn't have the poll feature at the time), and DM one of the heads with a very valid reason if they were missing out on that session. 
-When numbers dropped, we were called to serious 
+When numbers dropped, we were called to serious meetings where we were yelled at. The constant threat was that if we weren't attending enough sessions, we'd be kicked out of the club. 
+Once our d
+At the time I was apathetic about late night online sessions, and 
 
 Share motion, share random fun pictures, make people feel the fomo
 
@@ -1207,11 +1209,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMwMDk0MzIyMSwtOTIyNDE2OTc3LDE3MDYzMz
-ExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4Mjcs
-MjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMj
-QyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5
-MjMyLDEzNzk5NTM5NTcsMTkyNjAyMzQyOSwtMTMxOTUzNDQ5My
-wyNTUwOTI3NjEsLTQ3MDI4NTcxMCwxNjc5MTQ4NTAsLTE3ODI3
-NDQzODBdfQ==
+c3RvcnkiOlsxNDE2MjQ5NjU0LC05MjI0MTY5NzcsMTcwNjMzMT
+E3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywy
+MDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyND
+IwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyODEwMzky
+MzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLD
+I1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0
+NDM4MF19
 -->
