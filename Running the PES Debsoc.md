@@ -727,6 +727,8 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
 Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
 
+The closest I've been to quitting debate was after an online debate. I quit the call
+
 
   ## A few issues of sessions that persist
 
@@ -904,7 +906,7 @@ The counter arguments I've heard about this are
 
 
 
-one on one time is extremely extremely important to make people feel like they exist, and that their presence is valued
+
 
 
 Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
@@ -1187,11 +1189,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3Nj
-kzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4
-OCw3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIzMiwxMz
-c5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMjU1MDky
-NzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0MzgwLD
-M2NzU2MjU4NCw3MTMzNTg0MzcsMTEzNDk2NDI0LDg5MDExNDQ4
-Nl19
+c3RvcnkiOlstMzgxNjQ5OTQsLTEzMjA2Njk5NDUsMTI1NTkzNj
+gyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0Nzcs
+LTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyOD
+EwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0
+NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMT
+c4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQy
+NF19
 -->
