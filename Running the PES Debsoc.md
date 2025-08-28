@@ -914,7 +914,9 @@ The stance my seniors adopted in 2022 was one involving fear. Everyone was suppo
 One time our debate knowledge was tested. And we got shit on for not knowing the full form of THP even after a year in the club. 
 When numbers of attendees dropped, we were called to serious meetings where we were yelled at. The constant threat was that if we weren't attending enough sessions, we'd be kicked out of the club. 
 
-At the time I was apathetic about late night online sessions, and I adopted the stance of, "oh if they want to kick me out so badly, I'm fine getting kicked if they remember to do it".
+At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked if they remember to do it".
+
+Anyway this stance intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club?
 
 
 Share motion, share random fun pictures, make people feel the fomo
@@ -1211,11 +1213,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NTA2NTU4ODcsLTkyMjQxNjk3NywxNzA2MzMxMT
-c4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIw
-MTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0Mj
-A1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIz
-MiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMj
-U1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0
-MzgwXX0=
+c3RvcnkiOlsxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMT
+E3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywy
+MDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyND
+IwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyODEwMzky
+MzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLD
+I1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0
+NDM4MF19
 -->
