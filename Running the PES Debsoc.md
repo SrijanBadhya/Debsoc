@@ -315,7 +315,8 @@ Continuing the response to criticism:
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 - Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
-- However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. If you're The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
+- However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and 
+- The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
@@ -1218,7 +1219,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkyODQ2OTg3LDMyNDUwNjE2NCwtNzEwOTY3MD
+c3RvcnkiOlstNjkzOTg1Njg0LDMyNDUwNjE2NCwtNzEwOTY3MD
 M0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIx
 MjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3Nj
 kzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4
