@@ -911,9 +911,10 @@ The counter arguments I've heard about this are
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
 
 The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (Actually fill a google form because Whatsapp didn't have the poll feature at the time), and DM one of the heads with a very valid reason if they were missing out on that session. 
-When numbers dropped, we were called to serious meetings where we were yelled at. The constant threat was that if we weren't attending enough sessions, we'd be kicked out of the club. 
-Once our d
-At the time I was apathetic about late night online sessions, and 
+One time our debate knowledge was tested. And we got shit on for not knowing the full form of THP even after a year in the club. 
+When numbers of attendees dropped, we were called to serious meetings where we were yelled at. The constant threat was that if we weren't attending enough sessions, we'd be kicked out of the club. 
+
+At the time I was apathetic about late night online sessions, and I adopted the stance of, "oh if they want to kick me
 
 Share motion, share random fun pictures, make people feel the fomo
 
@@ -1209,11 +1210,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDE2MjQ5NjU0LC05MjI0MTY5NzcsMTcwNjMzMT
-E3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywy
-MDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyND
-IwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyODEwMzky
-MzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0NDkzLD
-I1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMTc4Mjc0
-NDM4MF19
+c3RvcnkiOlstNjIzMTM3NzAsLTkyMjQxNjk3NywxNzA2MzMxMT
+c4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIw
+MTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0Mj
+A1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIz
+MiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLTEzMTk1MzQ0OTMsMj
+U1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0ODUwLC0xNzgyNzQ0
+MzgwXX0=
 -->
