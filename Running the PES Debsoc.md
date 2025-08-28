@@ -937,12 +937,13 @@ A good way to make people feel valued is to remember them by their name and call
 
 Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
- glorification of people who break
+
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
 
 
+## Tourneys
 
 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
@@ -955,8 +956,9 @@ link to #my-story
 
   freeloaders need to be banned. It's awkward, but you need to stand your ground.
   
+ glorification of people who break
 
-Share motion, share random fun pictures, make people feel the fomo
+
 
 
 Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
@@ -964,6 +966,10 @@ Talk about how you succeed and get soc loyalty at the point where the person, "S
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 
+## Push to come to sessions
+
+
+Share motion, share random fun pictures, make people feel the fomo
 
 Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
 
@@ -1190,11 +1196,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNj
-gyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0Nzcs
-LTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyOD
-EwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0
-NDkzLDI1NTA5Mjc2MSwtNDcwMjg1NzEwLDE2NzkxNDg1MCwtMT
-c4Mjc0NDM4MCwzNjc1NjI1ODQsNzEzMzU4NDM3LDExMzQ5NjQy
-NF19
+c3RvcnkiOlsxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OT
+k0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwt
+MTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MT
+kxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0
+MjksLTEzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMT
+Y3OTE0ODUwLC0xNzgyNzQ0MzgwLDM2NzU2MjU4NCw3MTMzNTg0
+MzddfQ==
 -->
