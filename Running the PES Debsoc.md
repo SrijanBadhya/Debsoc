@@ -318,7 +318,8 @@ Continuing the response to criticism:
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
 - + It doesn't cause serious harm on the soc to take more people in. 
-- + However, with a tournament, reimbursed slots are limitThe argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
+- + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in 
+- + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
@@ -1221,7 +1222,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTkxOTYzMjIxLDMyNDUwNjE2NCwtNzEwOTY3MD
+c3RvcnkiOlstODQzMDQ2MzE4LDMyNDUwNjE2NCwtNzEwOTY3MD
 M0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIx
 MjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3Nj
 kzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4
