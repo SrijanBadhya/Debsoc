@@ -318,7 +318,7 @@ Continuing the response to criticism:
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
 - + It doesn't cause serious harm on the soc to take more people in. 
-- + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in 
+- + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
 
 
@@ -979,9 +979,10 @@ don't alienate mun people because a lot of people try out both clubs. take the h
 
 
 
-## Tourneys
+## Tournaments
 
-
+  freeloaders need to be banned. It's awkward, but you need to stand your ground.
+  
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
@@ -990,7 +991,7 @@ Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' o
 
 link to #my-story
 
-  freeloaders need to be banned. It's awkward, but you need to stand your ground.
+
   
  glorification of people who break
 
@@ -1222,7 +1223,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODQzMDQ2MzE4LDMyNDUwNjE2NCwtNzEwOTY3MD
+c3RvcnkiOlsxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MD
 M0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIx
 MjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3Nj
 kzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4
