@@ -923,6 +923,7 @@ There are a few possible answers actually
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
 
+
 Share motion, share random fun pictures, make people feel the fomo
 
 Nobody thinks that debating would be more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
@@ -1217,11 +1218,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNj
-k3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwx
-MjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMj
-QwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MTkxNzIy
-NCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0MjksLT
-EzMTk1MzQ0OTMsMjU1MDkyNzYxLC00NzAyODU3MTAsMTY3OTE0
-ODUwXX0=
+c3RvcnkiOlszMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2Mz
+Q4LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEz
+MjA2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMz
+I5MjgsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3
+LDExNjE5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOT
+I2MDIzNDI5LC0xMzE5NTM0NDkzLDI1NTA5Mjc2MSwtNDcwMjg1
+NzEwXX0=
 -->
