@@ -727,7 +727,8 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
 Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
 
-The closest I've been to quitting debate was after an online debate. I quit the call
+The closest I've been to quitting debate was after an online debate. I quit the call entirely. 
+It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
 
   ## A few issues of sessions that persist
@@ -1189,7 +1190,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzgxNjQ5OTQsLTEzMjA2Njk5NDUsMTI1NTkzNj
+c3RvcnkiOlsyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNj
 gyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0Nzcs
 LTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNjE5MTcyMjQsLTEyOD
 EwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIzNDI5LC0xMzE5NTM0
