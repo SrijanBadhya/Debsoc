@@ -138,7 +138,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 _Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
 Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
 
-- A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that people enjoying their chill time goes a long way in motivating them to debate more. 
+- A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that having enjoyable chill time goes a long way in getting people to stay, and also motivates them to debate more. 
 - So this isn't as mutually exclusive as it seems, I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
 - I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters ([but more on that later](#push-to-come-to-sessions)).
 
@@ -1223,11 +1223,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMz
-UxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2
-Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4Nz
-YxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUs
-MTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3ND
-E5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUz
-OTU3XX0=
+c3RvcnkiOlstMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2OD
+g5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03
+MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMz
+ExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4Mjcs
+MjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMj
+QyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5
+MjMyXX0=
 -->
