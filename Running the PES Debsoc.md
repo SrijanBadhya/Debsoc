@@ -132,7 +132,7 @@ _**Many have believed that the point of the debate club is to win tournaments an
 **Most of the benefits are accessible even when you don't solely care about tournament wins. You can still achieve joy, growth, and community without grinding solely for tournament wins.**
 
 - In the 2020-2023 timeframe, the PES management still freely provided reimbursement for tourneys, regardless of the lack of breaks we had in quite a few tourneys. **PES seems to fund us to support activity in the club, more than 'bringing PES name and fame', which they enjoy as a side effect, not the main purpose.**
-- A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and the community, so be careful what extent you're doing it to.
+- A bit of extra seriousness might lead to better 'results', but this can significantly take away from the joy and the community, so be careful what extent you're doing it to.
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they don't enjoy the activity itself.** 
 
 _Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
@@ -1223,7 +1223,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MjI4OTUyMjcsLTMwMTUwMzUxMCwxMTA5MTc2MT
+c3RvcnkiOls5MTQ4MzcyNjAsLTMwMTUwMzUxMCwxMTA5MTc2MT
 ExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTky
 MjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OT
 k0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwt
