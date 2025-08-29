@@ -914,6 +914,7 @@ The counter arguments I've heard about this are
 
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
 
+Being strict works in getting people to work at school because you're forced to come anyway. Being strict in the debsoc and causing bad vibes just pushes people to avoid it all.
 The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (Actually fill a google form because Whatsapp didn't have the poll feature at the time), and DM one of the heads with a very valid reason if they were missing out on that session. 
 One time our debate knowledge was tested. And we got shit on for not knowing the full form of THP even after a year in the club. 
 When numbers of attendees dropped, we were called to serious meetings where we were yelled at. The constant threat was that if we weren't attending enough sessions, we'd be kicked out of the club. 
@@ -1223,11 +1224,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2OD
-g5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03
-MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMz
-ExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4Mjcs
-MjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMj
-QyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3MjI0LC0xMjgxMDM5
-MjMyXX0=
+c3RvcnkiOlstMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMz
+UwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEs
+MzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyND
+E2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1
+LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNz
+IyNDA1NDc3LC0xMjQyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3
+MjI0XX0=
 -->
