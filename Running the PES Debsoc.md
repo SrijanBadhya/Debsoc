@@ -148,7 +148,7 @@ Some of us (including me) believe that being more chill and having more people f
 
 
 ### Metrics
-So if not tournament wins, what metric _do_ you judge the club by?
+So if not tournament wins, what metric _can_ you judge the club by?
 I personally would try to say don't judge the club at all. 
 
 - In theory, metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
@@ -1224,11 +1224,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMz
-UwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEs
-MzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyND
-E2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1
-LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNz
-IyNDA1NDc3LC0xMjQyMDU5Mjg4LDc0MTkyNjgxNywxMTYxOTE3
-MjI0XX0=
+c3RvcnkiOlstMTg0ODkxMTA4OSwtMTI5MDAxNDEwNCwtMjQ0Mz
+A2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEw
+LDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3OD
+kwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0
+LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMj
+A4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5Mjg4LDc0MTky
+NjgxN119
 -->
