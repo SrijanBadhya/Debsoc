@@ -153,8 +153,8 @@ I personally say don't judge the club at all.
 
 - In theory, metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
 - However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak. You usually can't even clearly pinpoint the cause of a change in the state of the soc that you see. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
-- Else you can also ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
-- _Common metrics people often take, are tournament wins, or number of active members, or number of active members in sessions, etc._
+- Sure you can ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
+- _Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
 - Unfortunately even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 - If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
@@ -1224,11 +1224,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUxOTk4NDkxNywtMTI5MDAxNDEwNCwtMjQ0Mz
-A2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEw
-LDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3OD
-kwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0
-LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMj
-A4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5Mjg4LDc0MTky
-NjgxN119
+c3RvcnkiOlsxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMD
+Y5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAs
+MTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OT
+A2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQs
+LTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMD
+gzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2
+ODE3XX0=
 -->
