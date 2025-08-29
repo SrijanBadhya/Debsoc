@@ -474,7 +474,7 @@ End of forwards to Anirudh
 
 
 
-
+(talk about wrapping up recruitments fast to push tournaments early. Tournaments are good because they provide direction and something to work for. They also make debate feel very real).
 
 
 
@@ -1223,11 +1223,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3Nj
-ExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05
-MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Nj
-k5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5Mjgs
-LTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNj
-E5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIz
-NDI5XX0=
+c3RvcnkiOlsxNzMyMTk0NDE1LDE3NDE3Njg4OTgsLTMwMTUwMz
+UxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2
+Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4Nz
+YxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUs
+MTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3ND
+E5MjY4MTcsMTE2MTkxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUz
+OTU3XX0=
 -->
