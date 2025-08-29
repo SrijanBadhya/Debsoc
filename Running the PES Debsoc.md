@@ -140,7 +140,7 @@ Some of us believe that being more chill and having more people for fun, is wort
 
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that people enjoying their chill time goes a long way in motivating them to debate more. 
 - So this isn't as mutually exclusive as it seems, I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
-- I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters (but more on that later]).
+- I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters ([but more on that later]()).
 
 
 <br>
@@ -1223,11 +1223,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjY0NzAwMTY0LC0zMDE1MDM1MTAsMTEwOTE3Nj
-ExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05
-MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Nj
-k5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5Mjgs
-LTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2ODE3LDExNj
-E5MTcyMjQsLTEyODEwMzkyMzIsMTM3OTk1Mzk1NywxOTI2MDIz
-NDI5XX0=
+c3RvcnkiOlstNzkyMzM3ODQsLTMwMTUwMzUxMCwxMTA5MTc2MT
+ExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTky
+MjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OT
+k0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwt
+MTcyMjQwNTQ3NywtMTI0MjA1OTI4OCw3NDE5MjY4MTcsMTE2MT
+kxNzIyNCwtMTI4MTAzOTIzMiwxMzc5OTUzOTU3LDE5MjYwMjM0
+MjldfQ==
 -->
