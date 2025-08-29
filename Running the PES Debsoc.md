@@ -113,7 +113,7 @@ The needs are heavily disagreed upon, and the methods even more so.
 
 
 
-_**Many have believed that the point of the debate club is to win tournaments and get accolades.**_
+_**Some have believed that the point of the debate club is to win tournaments and get accolades.**_
 
 - _This does initially make sense since our tournament results are what our PES management sees._
 - _And the debsoc cares about getting funded by PES because that's how we get to go to more fun tournaments._
@@ -136,7 +136,7 @@ _**Many have believed that the point of the debate club is to win tournaments an
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they don't enjoy the activity itself.** 
 
 _Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
-Some of us believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
+Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
 
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that people enjoying their chill time goes a long way in motivating them to debate more. 
 - So this isn't as mutually exclusive as it seems, I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
@@ -1223,7 +1223,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzMyMTk0NDE1LDE3NDE3Njg4OTgsLTMwMTUwMz
+c3RvcnkiOlsxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMz
 UxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2
 Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4Nz
 YxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUs
