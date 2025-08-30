@@ -1031,7 +1031,8 @@ Speaking of which,
 
 ### The damn PES timetable
 There are different types of differences in the timetables. 
-One is the weekl
+One is the daily timing which is different for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority gets too late for session prep time, or too early (they just leave for home). This causes many of the minority to quit debating. 
+And the worst part is that the only way to solve this is to have enough seniors from t
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
 
 
@@ -1246,7 +1247,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzI0NDE4NTU4LC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlstMTY2MjIyMTUxLC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
