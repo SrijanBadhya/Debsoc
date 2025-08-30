@@ -658,7 +658,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group.
 also advertising other group events stance
 
 
-If you reached here, I
+If you reached here, I admire your effort and commitment to the debsoc, to read my ginormous Yap.
+
 
 ## Motion list
 [Back to Table of Contents](#table-of-contents)
@@ -867,11 +868,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTM0ODc4MzA1LC0xNjkzMjY1ODgyLC00MTk1OT
-E3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3
-LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMD
-kxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0
-OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMz
-IwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMy
-OTI4XX0=
+c3RvcnkiOlstODcwODk2NTYsLTE2OTMyNjU4ODIsLTQxOTU5MT
+cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
+MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
+E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
+LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMj
+A2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5
+MjhdfQ==
 -->
