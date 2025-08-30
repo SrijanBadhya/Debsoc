@@ -1007,7 +1007,7 @@ a lot of people who stay in debsoc are friendless otherwise, so the community an
 ## Miscellaneous
 ### Teaching debate
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
-However when asked to pick a random motion to demonstrate a concept, this is the first motion that co
+However when asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session).
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
@@ -1022,7 +1022,8 @@ The counter arguments I've heard about this are
 
 
 
-I support not playing pranks in the initial days cuz it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc".
+I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during the recruitment days. You don't want recruits to associate a feeling of anxiety with the debsoc.
+However 
 
 
 Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
@@ -1241,11 +1242,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzM0NzU0Mjg5LC00MTk1OTE3MDksMTc2NTczNz
-U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
-MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
-A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
-LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
-U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
-NDc3XX0=
+c3RvcnkiOls4NzE2MzY5MTIsLTQxOTU5MTcwOSwxNzY1NzM3NT
+YxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwx
+NzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MD
+YxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5Nzcs
+MTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NT
+kzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0
+NzddfQ==
 -->
