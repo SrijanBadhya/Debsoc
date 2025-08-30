@@ -943,9 +943,9 @@ One thing that Akshat Saxena once told me was that to ignite passion in the juni
 Inertia is huge, don't let people go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, the only real power you can wield over people to incentivize them to act the way you want them to. (well you can withhold Debsoc merchandise too I suppose). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
-The issue is that this makes debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, but still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
+The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, but still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
 
-(We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The debsoc didn't owe you money because you weren't really a contributing member to the soc, you didn't assist in its activity through sessions.)
+(We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The Debsoc didn't owe you money because you weren't really a contributing member to the soc, you didn't assist in its activity through sessions.)
 
 ## Informal recruitments
 
@@ -1030,12 +1030,13 @@ Speaking of which,
 
 
 ### The damn PES timetable
+
 There are different types of differences in the timetables. 
 1. The daily timing which is different for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority gets too late for session prep time, or too early (they just leave for home). This causes many of the minority to quit debating. 
 And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. 
 Allowing people to join sessions late does mitigate this but it's really hard to pull this off efficiently, and I don't know how to go about it. You can't always make the latecomers adj. (Refer the section where I spoke about [making latecomers adj](#common-pitfalls))
 2. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
-3. The alternate week ISA timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severly underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
+3. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
 
 
 
@@ -1251,7 +1252,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk0MjI5OTUyLC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxNzQzNzU5MTk5LC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
