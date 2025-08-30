@@ -931,11 +931,13 @@ When numbers of attendees dropped, we were called to serious meetings where we w
 At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked if they remember to do it".
 
 Anyway, this 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
-There are a few possible answers actually
+By the way, there are a few possible answers to this question actually
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
+
+It's hard to really solve these problems, the best you can do is things like Cubbon sessions, and also keep the value of sessions high.
 
 
 Share motion, share random fun pictures, make people feel the fomo
@@ -1233,11 +1235,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMT
-QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
-LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
-Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
-LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMT
-k3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1
-OTI4OF19
+c3RvcnkiOlstMTk5MjEwMDcwMywtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
+U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
+NTQ3N119
 -->
