@@ -977,6 +977,9 @@ Put extra effort to talk to everyone so that they don't feel like they're part o
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
+alk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
+
+a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 
 ## Tournaments
@@ -998,13 +1001,10 @@ link to #my-story
 
 
 
-Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
-
-a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
-
 
 
 ## Miscellaneous
+
 ### Teaching debate
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
 However when asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session).
@@ -1035,12 +1035,11 @@ There are different types of differences in the timetables.
 And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. 
 Allowing people to join sessions late does mitigate this but it's really hard to pull this off efficiently, and I don't know how to go about it. You can't always make the latecomers adj. (Refer the section where I spoke about [making latecomers adj](#common-pitfalls))
 2. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
-3. The alternate week ISA timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severly underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't dream about getting a better opportunity later because that is way unlikel
-
-talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
+3. The alternate week ISA timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severly underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
 
 
 
+### Whatsapp
 Talk about whatsapp group chats and why you need an admins only sessions group
 
 
@@ -1251,11 +1250,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjUxMzEzOTE1LC00MTk1OTE3MDksMTc2NTczNz
-U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
-MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
-A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
-LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
-U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
-NDc3XX0=
+c3RvcnkiOlstMTY2NDcxODc3OSwtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
+U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
+NTQ3N119
 -->
