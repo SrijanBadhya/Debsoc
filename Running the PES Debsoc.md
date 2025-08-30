@@ -328,9 +328,9 @@ And nobody ever thinks this thought:
 "If we had taken lesser people, we could have had more people today". 
 
 Continuing the response to criticism: (point [3.](#addressing-the-criticism))(scarcity is proportional to value)
-- There are already 2 conflicting ideas. 
+- There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, deoes
 - There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to come to recruitments/a matter session, and people somewhere in the middle. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor which deters them from showing up to the matter session. 
-- If there's a tradeoff
+- If there's a tradeoff to be made then sure, re-evaluate your technique. If there's an actual harm of efficiency, or preventing some other event, 
 
 
 So, how do you carry out breadth-wise inclusivity?
@@ -1231,11 +1231,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTAxMjA4ODA4LDE3NjU3Mzc1NjEsLTEyOTAwMT
-QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
-LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
-Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
-LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMT
-k3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1
-OTI4OF19
+c3RvcnkiOlstMTg3NTQ3ODU0MiwxNzY1NzM3NTYxLC0xMjkwMD
+E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
+LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
+k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
+OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
+E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
+NTkyODhdfQ==
 -->
