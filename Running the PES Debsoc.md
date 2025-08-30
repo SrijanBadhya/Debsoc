@@ -910,18 +910,6 @@ You're cooked. I'm just as clueless as you.
 [Back to Table of Contents](#table-of-contents)
 
 
-For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
-- Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
-- So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
-- Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
-
-The counter arguments I've heard about this are
-- It's short and sweet, that's why it comes to mind easily.
-- It's more enticing and an "oooooo" topic.
-- It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
-- It's a cool demonstration of a flip, saying that banning it makes it worse. 
-- "If the first motion I encounter in the soc is something dry like parents and education I might leave"
-
 
 ## Push to come to sessions
 
@@ -1016,10 +1004,28 @@ a lot of people who stay in debsoc are friendless otherwise, so the community an
 
 
 
+## Miscellaneous
+### Teaching debate
+For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
+However when asked to pick a random motion to demonstrate a concept, this is the first motion that co
+- Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
+- So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
+- Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
+
+The counter arguments I've heard about this are
+- It's short and sweet, that's why it comes to mind easily.
+- It's more enticing and an "oooooo" topic.
+- It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
+- It's a cool demonstration of a flip, saying that banning it makes it worse. 
+- "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
 
 
 
+I support not playing pranks in the initial days cuz it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc".
+
+
+Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
 
@@ -1235,7 +1241,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTc0OTA0MTgyLC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxNzM0NzU0Mjg5LC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
