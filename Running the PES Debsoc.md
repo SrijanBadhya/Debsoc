@@ -563,7 +563,8 @@ Every year there are people initially anxious about speaking in front of strange
 
 
 Why causes the need of informal recruitments?
-Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, 
+Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared semester (the portion that's shared between seniors and juniors). 
+A lot of people might not have heard of the debsoc at the start of recruitments, or even if they have, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how
 
 What are the benefits of informal recruitments?
 
@@ -875,11 +876,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI5NTczMzY0NywtMTY5MzI2NTg4MiwtNDE5NT
-kxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkw
-NywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMT
-A5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYz
-NDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMT
-MyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMz
-MjkyOF19
+c3RvcnkiOls0NDkwOTIxNDAsLTE2OTMyNjU4ODIsLTQxOTU5MT
+cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
+MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
+E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
+LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMj
+A2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5
+MjhdfQ==
 -->
