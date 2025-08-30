@@ -584,7 +584,7 @@ How do we usually carry out informal recruitments?
 - People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, have started off spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance.
 - I usually set the bar of attendance as like 5 sessions, and once they pass through that, they get into Shenanigans.
 
-Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
+
 
 
 
@@ -886,7 +886,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODIzOTc3NjMzLC0xNjkzMjY1ODgyLC00MTk1OT
+c3RvcnkiOlstMjIzNTY3MDgzLC0xNjkzMjY1ODgyLC00MTk1OT
 E3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3
 LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMD
 kxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0
