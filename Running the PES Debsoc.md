@@ -328,7 +328,8 @@ A major problem of the soc is lack of members who actively debate 3 months after
 And nobody ever thinks this thought:
 "If we had taken lesser people, we could have had more people today". 
 
-Continuing the response to criticism: (point [3.](#addressing-the-criticism))(sca
+Continuing the response to criticism: (point [3.](#addressing-the-criticism))(scarcity is proportional to value)
+There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to 
 
 So, how do you carry out breadth-wise inclusivity?
 
@@ -1227,7 +1228,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjY1NzA0NjIzLDE3NjU3Mzc1NjEsLTEyOTAwMT
+c3RvcnkiOlsxNzU5ODc4MTc4LDE3NjU3Mzc1NjEsLTEyOTAwMT
 QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
 LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
 Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
