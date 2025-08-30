@@ -930,7 +930,7 @@ When numbers of attendees dropped, we were called to serious meetings where we w
 
 At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked if they remember to do it".
 
-Anyway, this 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
+Fear isn't a great motivator especially when the consequence is a blessin. This 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
 By the way, there are a few possible answers to this question actually
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
@@ -944,16 +944,11 @@ It's hard to really solve these problems, the best you can do is things like Cub
 - The only reason college students do anything besides studies, is when something feels fun, or if it's what people picturized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the way that people hang out with their friends regardless of their academic commitments.
 
 The activity of the debsoc should be kept fresh in the minds of even the people who don't come to debate. Just seeing a poll everyday doesn't give even me a feel of the club being lively, and debating.
-Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. It really makes people feel the fear of missing out, the feel that there's something bustling 
+Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. It really makes people feel the fear of missing out, the feel that there's something thriving which other people are enjoying, which they are not a part of.
 
 
 
 
-Share motion, share random fun pictures, make people feel the fomo
-
-fear is not a great motivator to be active, 
-we'll kick you out" was dumb
-(I think the whole culture of my seniors can be talked about over here)
   
   
 Akshath Saxena, seniors need to have and show passion for it to flow to juniors
@@ -1242,7 +1237,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTI2ODM4MDkyLC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxNzQ2MjA2NDAyLC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
