@@ -943,8 +943,8 @@ It's hard to really solve these problems, the best you can do is things like Cub
 - Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
 - The only reason college students do anything besides studies, is when something feels fun, or if it's what people picturized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the way that people hang out with their friends regardless of their academic commitments.
 
-The activity of the d
-One great way to keep the debsoc in people's minds is to sha
+The activity of the debsoc should be kept fresh in the minds of even the people who don't come to debate. Just seeing a poll everyday doesn't give even me a feel of the club being lively, and debating.
+Share the motion on the WhatsApp group (not the Sessions group because that pre
 
 
 
@@ -1242,7 +1242,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTEzMjcxMTI5LC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxODg5OTY4NjI2LC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
