@@ -344,7 +344,7 @@ So, how do you carry out breadth-wise inclusivity?
 - One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and still proceed to accommodate people who needed it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads".
 - You can choose the stance on transparency that fits you the best.
-- Ensure that this doesn't cause a delay in recruitments. That can be done if
+- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because round 1 isn't over is dumb, the bulk of round 1s should be finished in a maximum of 3 days. That f you conduct extra round 1s for the few odd people while round 2 goes on. 
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
@@ -1231,7 +1231,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE4NDcwOTQ2MCwxNzY1NzM3NTYxLC0xMjkwMD
+c3RvcnkiOlstMjA4MDE3NjU3MCwxNzY1NzM3NTYxLC0xMjkwMD
 E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
 LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
 k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
