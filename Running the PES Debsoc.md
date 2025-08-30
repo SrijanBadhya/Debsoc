@@ -563,7 +563,7 @@ Every year there are people initially anxious about speaking in front of strange
 
 
 Why causes the need of informal recruitments?
-Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments
+Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, 
 
 What are the benefits of informal recruitments?
 
@@ -875,7 +875,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMwNzQxNjU4OCwtMTY5MzI2NTg4MiwtNDE5NT
+c3RvcnkiOlstMTI5NTczMzY0NywtMTY5MzI2NTg4MiwtNDE5NT
 kxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkw
 NywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMT
 A5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYz
