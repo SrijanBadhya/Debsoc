@@ -321,8 +321,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 - + It doesn't cause serious harm on the soc to take more people in. 
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
-
-- The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
+The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 And nobody ever thinks this thought:
@@ -331,6 +330,7 @@ And nobody ever thinks this thought:
 Continuing the response to criticism: (point [3.](#addressing-the-criticism))(scarcity is proportional to value)
 - There are already 2 conflicting ideas. 
 - There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to come to recruitments/a matter session, and people somewhere in the middle. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor which deters them from showing up to the matter session. 
+- If there's a tradeoff
 
 
 So, how do you carry out breadth-wise inclusivity?
@@ -517,7 +517,7 @@ Absolutely never input directly into excel, very easy to mess up, when you start
 Your organizing team will have flawed incapable actors, who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
 
   
-  definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that this adj will be able to ge
+ srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
 Why no win loss announcing in round 2
 
@@ -1231,7 +1231,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjA4MjY1NDk0LDE3NjU3Mzc1NjEsLTEyOTAwMT
+c3RvcnkiOlsyMTAxMjA4ODA4LDE3NjU3Mzc1NjEsLTEyOTAwMT
 QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
 LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
 Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
