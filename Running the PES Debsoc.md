@@ -344,7 +344,7 @@ So, how do you carry out breadth-wise inclusivity?
 - One issue is that extending recruitments like this can cause transparency issues, when you try to pressure people to come saying, "Last day guys!", and still proceed to accommodate people who needed it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads".
 - You can choose the stance on transparency that fits you the best.
-- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because round 1 isn't over is dumb, the bulk of round 1s should be finished in a maximum of 3 days. That f you conduct extra round 1s for the few odd people while round 2 goes on. 
+- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because round 1 isn't over is dumb, the bulk of round 1s should be finished in a maximum of 3 days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
@@ -517,7 +517,7 @@ Absolutely never input directly into excel, very easy to mess up, when you start
 Your organizing team will have flawed incapable actors, who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
 
   
-  
+  definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that this adj will be able to ge
 
 Why no win loss announcing in round 2
 
@@ -1231,11 +1231,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA4MDE3NjU3MCwxNzY1NzM3NTYxLC0xMjkwMD
-E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
-LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
-k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
-OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
-E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
-NTkyODhdfQ==
+c3RvcnkiOlsxMjA4MjY1NDk0LDE3NjU3Mzc1NjEsLTEyOTAwMT
+QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
+LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
+Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
+LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMT
+k3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1
+OTI4OF19
 -->
