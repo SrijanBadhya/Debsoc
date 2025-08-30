@@ -577,7 +577,9 @@ What are the benefits of informal recruitments?
 
 
 How do we usually carry out informal recruitments?
-- (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it 
+- (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it should be way easier than this for someone to opt in. Most people don't even think this is possible because the natural assumption of an ignorant first year is that people only get recruited during recruitments, so even if they want to reach out, they don't because they don't see the point of the attempt. 
+- Please announce to everyone that their friends can get recruited into the soc. 
+- This doesn't require a whole dedic
 
 Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
 
@@ -881,7 +883,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY4MzM2MjI5NSwtMTY5MzI2NTg4MiwtNDE5NT
+c3RvcnkiOlstMTAwMzQ2NjE0NiwtMTY5MzI2NTg4MiwtNDE5NT
 kxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkw
 NywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMT
 A5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYz
