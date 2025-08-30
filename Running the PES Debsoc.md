@@ -171,7 +171,7 @@ This is the single most important activity of a club.
 
 This is the single place (besides arguably PESDT) where systems matter the most, because 
 1. You have an enormous scaled up load of people and documentation to handle.
-2. This is the first impression of the juniors of the soc, and shapes whether they want to continue or not, and a process that isn't smooth can be damaging.
+2. This is the first impression of the juniors of the soc and shapes whether they want to continue or not. A process that isn't smooth can be damaging.
 
 ### History
 First, a brief view on how recruitments were done in the past:
@@ -1234,11 +1234,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTE0MDY3OTA4LC00MTk1OTE3MDksMTc2NTczNz
-U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
-MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
-A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
-LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
-U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
-NDc3XX0=
+c3RvcnkiOlstMTE2MjQwMDQwNywtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
+U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
+NTQ3N119
 -->
