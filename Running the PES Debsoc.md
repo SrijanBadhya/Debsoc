@@ -271,8 +271,9 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 
 
 #### Addressing the criticism
-_Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
-One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
+1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
+2. One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
+3. Scarcity leads to an increase in value.
 
 First, let's break the recruits into 2 groups of people:
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
@@ -1224,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMD
-Y5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAs
-MTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OT
-A2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQs
-LTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMD
-gzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIwNTkyODgsNzQxOTI2
-ODE3XX0=
+c3RvcnkiOlstMjY3MDA2ODUyLDE3NjU3Mzc1NjEsLTEyOTAwMT
+QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
+LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
+Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
+LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMT
+k3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1
+OTI4OF19
 -->
