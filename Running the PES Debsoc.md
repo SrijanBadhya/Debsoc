@@ -329,9 +329,9 @@ And nobody ever thinks this thought:
 
 Continuing the response to criticism (point [3.](#addressing-the-criticism))(scarcity is proportional to value): 
 - There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it, and that's why you're doing it for them. 
-- The initial poll of availability allows people to vote multiple options. Why would someone lie on a poll like this? If someone is available only on Friday, then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the de
-- There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to come to recruitments/a matter session, and people somewhere in the middle. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor which deters them from showing up to the matter session. 
-- If there's a tradeoff to be made then sure, re-evaluate your technique. If there's an actual harm of efficiency, or preventing some other event, 
+- The initial poll of availability allows people to vote multiple options. Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment at all.
+- There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to come to recruitments/a matter session, and people somewhere in the middle. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor  (the tipping point) which deters them from showing up to the matter session. 
+- If there's a tradeoff to be made then sure, re-evaluate your technique. If there's an actual harm of efficiency, or preventing some other event, or consuming your time,  
 
 
 So, how do you carry out breadth-wise inclusivity?
@@ -1232,7 +1232,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODE2MDkzOTg3LDE3NjU3Mzc1NjEsLTEyOTAwMT
+c3RvcnkiOlstMTg0MjA1NDIxLDE3NjU3Mzc1NjEsLTEyOTAwMT
 QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
 LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
 Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
