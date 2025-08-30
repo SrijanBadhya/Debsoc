@@ -567,11 +567,13 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 What causes the need of informal recruitments?
 
 - A lot of people might not have heard of the debsoc at the start of recruitments, or even if they have, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
-- Most such people get interested in the deb
-- If these people are made to wait until the next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem.)
+- Most such people get interested in the debsoc because their friend sings praises of the debsoc.
+- If these people are made to wait until the next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem). Or because by the next sem, their friend drops out and they aren't invested enough into debating to care to continue.
 - 
 
 What are the benefits of informal recruitments?
+- It lessens the load on 
+
 
 
 Heavily encourage spectators, a lot of people find it easier to opt in. 
@@ -881,11 +883,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ5OTU0NTM4MSwtMTY5MzI2NTg4MiwtNDE5NT
-kxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkw
-NywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMT
-A5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYz
-NDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMT
-MyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMz
-MjkyOF19
+c3RvcnkiOls4MTMwNDEzMjUsLTE2OTMyNjU4ODIsLTQxOTU5MT
+cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
+MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
+E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
+LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMj
+A2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5
+MjhdfQ==
 -->
