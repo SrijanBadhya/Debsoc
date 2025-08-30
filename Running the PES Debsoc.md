@@ -309,7 +309,7 @@ It's unfair to judge people's initial interest in an activity if some of them di
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
-Continuing the response to criticism:
+Continuing the response to criticism: (especially [2.](#addressing-the-crticism))
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
@@ -321,6 +321,7 @@ Continuing the response to criticism:
 - + It doesn't cause serious harm on the soc to take more people in. 
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
+
 - The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
@@ -1225,11 +1226,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NzA3NDgzNzMsMTc2NTczNzU2MSwtMTI5MDAxND
-EwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwt
-MzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5Nj
-cwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgs
-MjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOT
-c2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5
-Mjg4XX0=
+c3RvcnkiOlstMTM5OTg4Mzg0MCwxNzY1NzM3NTYxLC0xMjkwMD
+E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
+LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
+k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
+OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
+E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
+NTkyODhdfQ==
 -->
