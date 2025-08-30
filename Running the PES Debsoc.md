@@ -573,14 +573,11 @@ What causes the need of informal recruitments?
 What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
 - **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** You get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
-- If people debate
+- If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you. 
 
-
-
-Heavily encourage spectators, a lot of people find it easier to opt in. 
 
 How do we usually carry out informal recruitments?
-
+- (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it 
 
 Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
 
@@ -884,11 +881,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDU1MTA2MTE4LC0xNjkzMjY1ODgyLC00MTk1OT
-E3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3
-LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMD
-kxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0
-OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMz
-IwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMy
-OTI4XX0=
+c3RvcnkiOlstMTY4MzM2MjI5NSwtMTY5MzI2NTg4MiwtNDE5NT
+kxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkw
+NywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMT
+A5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYz
+NDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMT
+MyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMz
+MjkyOF19
 -->
