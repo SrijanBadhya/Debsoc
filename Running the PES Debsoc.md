@@ -1040,7 +1040,7 @@ Allowing people to join sessions late does mitigate this but it's really hard to
 
 
 ### Whatsapp
-Talk about whatsapp group chats and why you need an admins only sessions group
+Talk about whatsapp group chats and why you need an admins only sessions group.
 
 
 ## Motion list
@@ -1250,11 +1250,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2NDcxODc3OSwtNDE5NTkxNzA5LDE3NjU3Mz
-c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
-LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
-UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
-NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
-U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
-NTQ3N119
+c3RvcnkiOls2ODM5Nzk2MjUsLTQxOTU5MTcwOSwxNzY1NzM3NT
+YxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwx
+NzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MD
+YxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5Nzcs
+MTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NT
+kzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0
+NzddfQ==
 -->
