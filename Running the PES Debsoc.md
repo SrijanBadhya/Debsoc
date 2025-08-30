@@ -563,8 +563,10 @@ Every year there are people initially anxious about speaking in front of strange
 
 
 Why causes the need of informal recruitments?
-Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared semester (the portion that's shared between seniors and juniors). 
-A lot of people might not have heard of the debsoc at the start of recruitments, or even if they have, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how
+
+- Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared odd semester semester (the portion that's shared between seniors and the first sem of juniors). 
+- A lot of people might not have heard of the debsoc at the start of recruitments, or even if they have, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
+If these people are made to wait until the next year, it might be too late to hook them into debating (because 
 
 What are the benefits of informal recruitments?
 
@@ -876,7 +878,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDkwOTIxNDAsLTE2OTMyNjU4ODIsLTQxOTU5MT
+c3RvcnkiOlsxNDIzNDMyMDYsLTE2OTMyNjU4ODIsLTQxOTU5MT
 cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
 MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
 E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
