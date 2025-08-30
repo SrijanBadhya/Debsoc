@@ -309,7 +309,7 @@ It's unfair to judge people's initial interest in an activity if some of them di
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
-Continuing the response to criticism: (especially [2.](#addressing-the-crticism))
+Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
@@ -328,6 +328,7 @@ A major problem of the soc is lack of members who actively debate 3 months after
 And nobody ever thinks this thought:
 "If we had taken lesser people, we could have had more people today". 
 
+Continuing the response to criticism: (point [3.](#addressing-the-criticism))(sca
 
 So, how do you carry out breadth-wise inclusivity?
 
@@ -1226,11 +1227,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM5OTg4Mzg0MCwxNzY1NzM3NTYxLC0xMjkwMD
-E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
-LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
-k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
-OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
-E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
-NTkyODhdfQ==
+c3RvcnkiOlsxMjY1NzA0NjIzLDE3NjU3Mzc1NjEsLTEyOTAwMT
+QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
+LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
+Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
+LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMT
+k3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1
+OTI4OF19
 -->
