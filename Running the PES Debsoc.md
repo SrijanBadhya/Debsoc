@@ -950,7 +950,7 @@ One thing that Akshat Saxena once told me was that to ignite passion in the juni
 
 Inertia is huge, don't let them go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
-If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, the only real power you can wield over people to incentivize them to act the way you desire. (
+If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, the only real power you can wield over people to incentivize them to act the way you desire. (well you can withhold Debsoc merchandise too I suppose). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long
 
 ## Informal recruitments
 
@@ -1232,11 +1232,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTEyMDE2MDk1LC00MTk1OTE3MDksMTc2NTczNz
-U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
-MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
-A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
-LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
-U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
-NDc3XX0=
+c3RvcnkiOls2MTM1ODA4NiwtNDE5NTkxNzA5LDE3NjU3Mzc1Nj
+EsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3
+NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNj
+E2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3Nywx
+NzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OT
+M2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3
+N119
 -->
