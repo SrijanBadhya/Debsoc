@@ -562,8 +562,15 @@ Spectating should be counted as interest even for regular recruitments, because 
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of them having to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to debate or not.
 
 
+Why causes the need of informal recruitments?
+Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments
+
+What are the benefits of informal recruitments?
+
 
 Heavily encourage spectators, a lot of people find it easier to opt in. 
+
+How do we usually carry out informal recruitments?
 
 
 Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
@@ -868,11 +875,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MzM5NTMwOTQsLTE2OTMyNjU4ODIsLTQxOTU5MT
-cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
-MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
-E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
-LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMj
-A2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5
-MjhdfQ==
+c3RvcnkiOlstMTMwNzQxNjU4OCwtMTY5MzI2NTg4MiwtNDE5NT
+kxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkw
+NywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMT
+A5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYz
+NDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMT
+MyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMz
+MjkyOF19
 -->
