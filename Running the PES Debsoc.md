@@ -250,7 +250,7 @@ Taking a few points out of Nikhil's recruitment document:
 - + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
 
 
-### Breadth wise inclusivity
+### ==Breadth wise inclusivity==
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap, so that you end up with whatever belief stands at the end.**
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough for even people with packed lives to be able to reach the minimum bar. 
@@ -270,10 +270,10 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 It's extreme and unnecessary to initiate the text conversation yourself in the dms of everyone on the group you see. 
 
 
-#### Addressing the criticism
-1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious.
-2. One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
-3. Scarcity leads to an increase in value.
+#### ==Addressing the criticism==
+1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
+2. _One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
+3. _Scarcity leads to an increase in value._
 
 First, let's break the recruits into 2 groups of people:
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
@@ -321,7 +321,7 @@ Continuing the response to criticism:
 - + It doesn't cause serious harm on the soc to take more people in. 
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
-
+- The criticism 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 And nobody ever thinks this thought:
@@ -1225,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjY3MDA2ODUyLDE3NjU3Mzc1NjEsLTEyOTAwMT
-QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
-LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
-Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
-LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3LDIwMT
-k3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3NywtMTI0MjA1
-OTI4OF19
+c3RvcnkiOlstMTU2MTgyMDM2OSwxNzY1NzM3NTYxLC0xMjkwMD
+E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
+LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
+k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
+OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
+E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
+NTkyODhdfQ==
 -->
