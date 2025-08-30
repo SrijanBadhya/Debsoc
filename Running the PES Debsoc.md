@@ -304,7 +304,8 @@ People's interest in debate can fall or rise over time, based on what they disco
 
 This blue box touches upon a very complicated problem, which is the challenge seeming so massive that you give up on it, unaware that the bar will be lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible", and "You just need to do 2 sessions in the whole month of round 3 to get into the club".
 ![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
-A lot of people in group 1 will drop out due to **falling interest**. However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
+A lot of people in group 1 will drop out due to **falling interest**. 
+However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 Losing people who lose interest over time is fine, but we can't afford to have lost people whose interest grows over time.
 
 It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
@@ -1261,11 +1262,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjkyNzc5NjQwLC00MTk1OTE3MDksMTc2NTczNz
-U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
-MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
-A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
-LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
-U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
-NDc3XX0=
+c3RvcnkiOlstMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
+U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
+NTQ3N119
 -->
