@@ -1052,6 +1052,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group.
 also advertising other group events stance
 
 
+If you reached here, I
+
 ## Motion list
 [Back to Table of Contents](#table-of-contents)
 #### Motions used in round 1 & 2
@@ -1259,7 +1261,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMDk4OTU0OTksLTQxOTU5MTcwOSwxNzY1NzM3NT
+c3RvcnkiOls5ODU2NzcyNjgsLTQxOTU5MTcwOSwxNzY1NzM3NT
 YxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwx
 NzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MD
 YxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5Nzcs
