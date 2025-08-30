@@ -563,7 +563,7 @@ Every year there are people initially anxious about speaking in front of strange
 
 
 
-Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people. Let them know that informal recruitments are an option.
+Heavily encourage spectators, a lot of people find it easier to opt in. 
 
 
 Also give a few reasons on why we should allow lateral entry people, like reduces the load, helps us get more members for sessions temporarily at least. 
@@ -658,8 +658,8 @@ Talk about whatsapp group chats and why you need an admins only sessions group.
 also advertising other group events stance
 
 
-If you reached here, I admire your effort and commitment to the debsoc, to read my ginormous Yap.
-
+If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap.
+Thank you for giving me a voice.
 
 ## Motion list
 [Back to Table of Contents](#table-of-contents)
@@ -868,7 +868,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODcwODk2NTYsLTE2OTMyNjU4ODIsLTQxOTU5MT
+c3RvcnkiOls3MzM5NTMwOTQsLTE2OTMyNjU4ODIsLTQxOTU5MT
 cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
 MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
 E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
