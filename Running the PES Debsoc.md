@@ -75,10 +75,10 @@ III. [Inside a session](#inside-a-session)
 &emsp;7. [Issues](#a-few-issues-of-sessions-that-persist)
 
 IV. [Adj Rant](#adj-rant)
-1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
-	a) [My Story](#my-story)
-	b) [Adjing Obstacles](#adjing-obstacles)
-2. [The Adj Narrative](#the-adj-narrative)
+&emsp;1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
+	&emsp;a) [My Story](#my-story)
+	&emsp;b) [Adjing Obstacles](#adjing-obstacles)
+&emsp;2. [The Adj Narrative](#the-adj-narrative)
 	a) [Characterization](#characterization)
 	b) [Common Pitfalls](#common-pitfalls)
 	c) [Elevating The Judging Experience](#elevating-the-judging-experience)
@@ -86,6 +86,9 @@ IV. [Adj Rant](#adj-rant)
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
+	1. Push to Come to Sessions
+	2. Informal Recruitments
+	3. Tournaments
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -1234,11 +1237,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE2MjQwMDQwNywtNDE5NTkxNzA5LDE3NjU3Mz
-c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
-LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
-UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
-NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
-U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
-NTQ3N119
+c3RvcnkiOlstMzQ3MTk3MjY1LC00MTk1OTE3MDksMTc2NTczNz
+U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
+MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
+A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
+LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
+U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
+NDc3XX0=
 -->
