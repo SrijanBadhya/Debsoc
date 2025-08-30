@@ -1020,16 +1020,18 @@ The counter arguments I've heard about this are
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
 
-
-
+### Pranks
 I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during the recruitment days. You don't want recruits to associate a feeling of anxiety with the debsoc.
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, or convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 
+### Relatability
 Speaking of which,
 **It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should actively try to tell them how we relate to the hardships they're going through now.**
 
-Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
+### The damn PES timetable
+There are different types of differences in the timetables. 
+One is the weekl
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
 
 
@@ -1244,7 +1246,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzk2MDQzNjc3LC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxNzI0NDE4NTU4LC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
