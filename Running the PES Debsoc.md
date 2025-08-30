@@ -329,7 +329,9 @@ And nobody ever thinks this thought:
 "If we had taken lesser people, we could have had more people today". 
 
 Continuing the response to criticism: (point [3.](#addressing-the-criticism))(scarcity is proportional to value)
-There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to come to recruitments/a matter session, and people somewhere in the middle. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE b
+- There are already 2 conflicting ideas. 
+- There are 3 groups of people, people who really want to come to recruitments/a matter session, people who really don't want to come to recruitments/a matter session, and people somewhere in the middle. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor which deters them from showing up to the matter session. 
+
 
 So, how do you carry out breadth-wise inclusivity?
 
@@ -1228,11 +1230,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MjQ4ODM3NDcsMTc2NTczNzU2MSwtMTI5MDAxND
-EwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwt
-MzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5Nj
-cwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgs
-MjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOT
-c2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5
-Mjg4XX0=
+c3RvcnkiOlstMjA1MTg3Mzc4MiwxNzY1NzM3NTYxLC0xMjkwMD
+E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
+LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
+k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
+OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
+E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
+NTkyODhdfQ==
 -->
