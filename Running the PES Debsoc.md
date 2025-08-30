@@ -564,54 +564,29 @@ Every year there are people initially anxious about speaking in front of strange
 Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared odd semester semester (the portion that's shared between seniors and the first sem of juniors). 
 
 
-What causes the need of informal recruitments?
+#### What causes the need of informal recruitments?
 
 - A lot of people might not have heard of the debsoc at the start of recruitments, or even if they have, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
 - Most such people get interested in the debsoc because their friend sings praises of the debsoc.
 - If these people are made to wait until the official recruitments next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem). Or because by the next sem, their friend drops out and they aren't invested enough into debating to care to continue.
 
-What are the benefits of informal recruitments?
+#### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
 - **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** You get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
 - If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you. 
 - Even if they're temporary and you think they'll leave soon (because they didn't care enough to come to the actual recruitments), their help in keeping the society alive is valuable to keep the flow of the other members going.
 
 
-How do we usually carry out informal recruitments?
+#### How do we usually carry out informal recruitments?
 - (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it should be way easier than this for someone to opt in. Most people don't even think this is possible because the natural assumption of an ignorant first year is that people only get recruited during recruitments, so even if they want to reach out, they don't because they don't see the point of the attempt. 
 - Please announce to everyone that their friends can get recruited into the soc. 
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We still need to make sure people feel like they earned their way into the club.
-- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, have started off spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance.
+- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, have started off spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
 - I usually set the bar of attendance as like 5 sessions, and once they pass through that, they get into Shenanigans.
 
 
 
-
-
-
-
-
-
-
-
-we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
-
-
-
-A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
-
-
-
-Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
-
-
-
-don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
-
-alk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
-
-a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 
 ## Tournaments
@@ -631,6 +606,25 @@ link to #my-story
  glorification of people who break
 
 
+## Community
+
+we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
+
+
+
+A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
+
+
+
+Put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
+
+
+
+don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
+
+alk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
+
+a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 
 
@@ -887,11 +881,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQyMzQ4NDY2LC0xNjkzMjY1ODgyLC00MTk1OT
-E3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3
-LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMD
-kxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0
-OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMz
-IwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMy
-OTI4XX0=
+c3RvcnkiOlsyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MT
+cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
+MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
+E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
+LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMj
+A2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5
+MjhdfQ==
 -->
