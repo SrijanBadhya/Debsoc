@@ -946,7 +946,7 @@ It's hard to really solve these problems, the best you can do is things like Cub
 The activity of the debsoc should be kept fresh in the minds of even the people who don't come to debate. Just seeing a poll everyday doesn't give even me a feel of the club being lively, and debating.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. It really makes people feel the fear of missing out, the feel that there's something thriving which other people are enjoying, which they are not a part of.
 
-One thing that Akshat Saxena once told me was that to ignite passion in the juniors, the seniors must also show their passion and how m
+One thing that Akshat Saxena once told me was that to ignite passion in the juniors, the seniors must also show their passion and how much they have the obsession to debate. This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate 
 
 
 Inertia is huge, don't let them go too long without debating. Try to have some scene in vacations, and try to start debating the moment a new academic semester starts
@@ -1232,11 +1232,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY4Mjk0MzkxMiwtNDE5NTkxNzA5LDE3NjU3Mz
-c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
-LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
-UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
-NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
-U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
-NTQ3N119
+c3RvcnkiOlszMjk0NDE3NTcsLTQxOTU5MTcwOSwxNzY1NzM3NT
+YxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwx
+NzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MD
+YxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5Nzcs
+MTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NT
+kzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0
+NzddfQ==
 -->
