@@ -47,8 +47,8 @@ Alternate systems conceptualized or once followed will be in _italics_.
 
 # Table of Contents
 I. [Guiding Principles](#guiding-principles)
-1. [The Point of a Debate Club](#the-point-of-a-debate-club)
-2. [Metrics](#metrics)
+&emsp;1. [The Point of a Debate Club](#the-point-of-a-debate-club)
+&emsp;2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
 
@@ -76,19 +76,19 @@ III. [Inside a session](#inside-a-session)
 
 IV. [Adj Rant](#adj-rant)
 &emsp;1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
-	&emsp;a) [My Story](#my-story)
-	&emsp;b) [Adjing Obstacles](#adjing-obstacles)
+	&emsp;&emsp;a) [My Story](#my-story)
+	&emsp;&emsp;b) [Adjing Obstacles](#adjing-obstacles)
 &emsp;2. [The Adj Narrative](#the-adj-narrative)
-	a) [Characterization](#characterization)
-	b) [Common Pitfalls](#common-pitfalls)
-	c) [Elevating The Judging Experience](#elevating-the-judging-experience)
+	&emsp;&emsp;a) [Characterization](#characterization)
+	&emsp;&emsp;b) [Common Pitfalls](#common-pitfalls)
+	&emsp;&emsp;c) [Elevating The Judging Experience](#elevating-the-judging-experience)
 
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
-	1. Push to Come to Sessions
-	2. Informal Recruitments
-	3. Tournaments
+	&emsp;1. [Push To Come To Sessions](#push-to-come-to-sessions)
+	&emsp;2. [Informal Recruitments](informal-recruitments)
+	&emsp;3. [Tournaments](
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -1237,7 +1237,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzQ3MTk3MjY1LC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsyMDk0OTg1MDE5LC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
