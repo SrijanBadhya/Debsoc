@@ -949,6 +949,7 @@ The issue is that this makes Debsoc sessions look like a chore, but at least peo
 
 ## Informal recruitments
 
+Spectating should be counted as interest even for regular recruitments. During recruitments, a lot of recruits show up with their friends. Encourage the friends to stay. People have fun engaging in an activity like debating, alongside or against their friends. Friends often egg each other on to come to D
 
 Heavily encourage spectators, a lot of people find it easier to opt in, both already recruits and future people
 
@@ -1252,11 +1253,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzQzNzU5MTk5LC00MTk1OTE3MDksMTc2NTczNz
-U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
-MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
-A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
-LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
-U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
-NDc3XX0=
+c3RvcnkiOlstMTM3NTk1NzQ5NCwtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
+U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
+NTQ3N119
 -->
