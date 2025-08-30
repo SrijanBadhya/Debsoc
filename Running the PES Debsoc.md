@@ -572,7 +572,8 @@ What causes the need of informal recruitments?
 
 What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
-- **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the 
+- **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** You get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
+- If people debate
 
 
 
@@ -883,7 +884,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDI0ODc0Njg4LC0xNjkzMjY1ODgyLC00MTk1OT
+c3RvcnkiOlsxNDU1MTA2MTE4LC0xNjkzMjY1ODgyLC00MTk1OT
 E3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3
 LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMD
 kxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0
