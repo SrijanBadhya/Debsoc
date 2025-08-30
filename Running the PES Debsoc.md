@@ -1033,7 +1033,7 @@ Speaking of which,
 There are different types of differences in the timetables. 
 1. The daily timing which is different for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority gets too late for session prep time, or too early (they just leave for home). This causes many of the minority to quit debating. 
 And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. 
-Allowing people to join sessions late does mitigate this but it's really hard to pull this off efficiently, and I don't know how to go about it. (Re
+Allowing people to join sessions late does mitigate this but it's really hard to pull this off efficiently, and I don't know how to go about it. (Refer my [](#common-pitfalls))
 2. The weekly timing which gives different people different sets of half days. 
 
 talk about how the windows of opportunity to do big things like cubbon sessions or group gatherings are limited because of how students have alternating ISAs, so avoid putting off opportunities hoping for better opportunities in the future.
@@ -1250,11 +1250,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1Njc5ODMxOCwtNDE5NTkxNzA5LDE3NjU3Mzc1Nj
-EsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3
-NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNj
-E2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3Nywx
-NzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OT
-M2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQwNTQ3
-N119
+c3RvcnkiOlstMTk1Njk3OTM4MywtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
+U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
+NTQ3N119
 -->
