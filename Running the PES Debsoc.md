@@ -1026,7 +1026,7 @@ I support not playing pranks in the initial days because it erodes trust in the 
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, or convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 
 Speaking of which,
-**It's great to talk about how you went through the same struggles, having a love hate rel
+**It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should actively try to tell them how we relate to the hardships they're going through now.**
 
 Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
@@ -1244,11 +1244,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIyODQ5MjYyMSwtNDE5NTkxNzA5LDE3NjU3Mz
-c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
-LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
-UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
-NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMj
-U1OTM2ODI3LDIwMTk3NjkzNzUsMTIwODMzMjkyOCwtMTcyMjQw
-NTQ3N119
+c3RvcnkiOlsxMzk2MDQzNjc3LC00MTk1OTE3MDksMTc2NTczNz
+U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
+MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
+A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
+LDE3MDYzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNT
+U5MzY4MjcsMjAxOTc2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1
+NDc3XX0=
 -->
