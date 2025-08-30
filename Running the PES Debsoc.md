@@ -954,7 +954,7 @@ One thing that Akshat Saxena once told me was that to ignite passion in the juni
 Inertia is huge, don't let them go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, the only real power you can wield over people to incentivize them to act the way you want them to. (well you can withhold Debsoc merchandise too I suppose). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
-The issue is that this makes debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic q
+The issue is that this makes debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, but still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every s
 
 (We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The debsoc didn't owe you money because you weren't really a contributing member to the soc, you didn't assist in its activity through sessions.)
 
@@ -1238,7 +1238,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzMxNDcxMDM1LC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxNDA0MjczOTkzLC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
