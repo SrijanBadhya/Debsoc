@@ -939,9 +939,9 @@ By the way, there are a few possible answers to this question actually
 
 It's hard to really solve these problems, the best you can do is things like Cubbon sessions, and also keep the value of sessions high.
 
-A lot of people, in their head, will feel guilty about coming to debate, because they should be studying instead, they could have been studying instead. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people actually end up passing the time anyway on their short days, the fantasy of this is enough to deter people from 
-
-Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
+- A lot of people, in their head, will feel guilty about coming to debate, because 'they should be studying instead', 'they could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people actually end up passing the time anyway on their short days, the fantasy of this is enough to deter people from walking to a debate session. 
+- Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
+- The only reason college students do anything besides studies, is when something feels fun, or if it's what people picturize themselve
 
 
 
@@ -1239,7 +1239,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjMyNjI3MzcxLC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlsxNzY1MTY5ODUxLC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
