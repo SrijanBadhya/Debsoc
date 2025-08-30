@@ -909,6 +909,7 @@ You're cooked. I'm just as clueless as you.
 # Debate Culture Round the Year
 [Back to Table of Contents](#table-of-contents)
 
+
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
@@ -951,10 +952,10 @@ Share the motion on the WhatsApp group (not the Sessions group because that prev
 
 One thing that Akshat Saxena once told me was that to ignite passion in the juniors, the seniors must also show their passion and how much they have the obsession to debate. This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually", and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long term debate goal.
 
-Inertia is huge, don't let them go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
+Inertia is huge, don't let people go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, the only real power you can wield over people to incentivize them to act the way you want them to. (well you can withhold Debsoc merchandise too I suppose). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
-The issue is that this makes debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, but still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every s
+The issue is that this makes debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, but still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
 
 (We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The debsoc didn't owe you money because you weren't really a contributing member to the soc, you didn't assist in its activity through sessions.)
 
@@ -969,10 +970,6 @@ Hook people into debate (like first years who are newly second years, who want t
 
 
 
-  I support not playing pranks in the initial days cuz it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc".
-
-
-Good to talk about how you went through the same struggles, and used to fumble glorification, narrative, and THR motions in your first year too
 
 
 
@@ -1238,7 +1235,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDA0MjczOTkzLC00MTk1OTE3MDksMTc2NTczNz
+c3RvcnkiOlstOTc0OTA0MTgyLC00MTk1OTE3MDksMTc2NTczNz
 U2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAs
 MTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NT
 A2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3
