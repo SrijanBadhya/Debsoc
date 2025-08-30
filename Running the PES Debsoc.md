@@ -321,7 +321,7 @@ Continuing the response to criticism:
 - + It doesn't cause serious harm on the soc to take more people in. 
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
-- The criticism 
+- The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 And nobody ever thinks this thought:
@@ -1225,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU2MTgyMDM2OSwxNzY1NzM3NTYxLC0xMjkwMD
-E0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4
-LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMD
-k2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNjMzMTE3
-OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgyNywyMD
-E5NzY5Mzc1LDEyMDgzMzI5MjgsLTE3MjI0MDU0NzcsLTEyNDIw
-NTkyODhdfQ==
+c3RvcnkiOls3NzA3NDgzNzMsMTc2NTczNzU2MSwtMTI5MDAxND
+EwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwt
+MzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5Nj
+cwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgs
+MjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOT
+c2OTM3NSwxMjA4MzMyOTI4LC0xNzIyNDA1NDc3LC0xMjQyMDU5
+Mjg4XX0=
 -->
