@@ -1049,7 +1049,7 @@ Allowing people to join sessions late does mitigate this but it's really hard to
 
 ### Whatsapp
 Talk about whatsapp group chats and why you need an admins only sessions group.
-also advertising stance
+also advertising other group events stance
 
 
 ## Motion list
@@ -1259,7 +1259,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MTUyNDI1NTUsLTQxOTU5MTcwOSwxNzY1NzM3NT
+c3RvcnkiOlszMDk4OTU0OTksLTQxOTU5MTcwOSwxNzY1NzM3NT
 YxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwx
 NzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MD
 YxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5Nzcs
