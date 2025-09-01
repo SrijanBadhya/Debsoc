@@ -603,7 +603,11 @@ I don't have experience communicating between students and the management, so I 
 
 But basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
 
-If you're using tournaments to incentivize people to come to sessions, even if it's a difficult job you 
+If you're using tournaments to incentivize people to come to sessions, even if it's a difficult job you need to stick to the stance you take.
+It's really difficult to stand your ground because it's an awkward job.
+It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament.
+
+If it's an official rule you will publicize, make s
 
 
 
@@ -897,7 +901,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDc0NDQ1MDUwLC0zMDY5MTM2OCwyMTM5NjU0ND
+c3RvcnkiOlsxMjc0NTI4MTg0LC0zMDY5MTM2OCwyMTM5NjU0ND
 csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
 MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
 Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
