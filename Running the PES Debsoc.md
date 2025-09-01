@@ -594,7 +594,10 @@ The major differences between tournaments and mocks are stakes, dedicated days f
 
 Aaaaaand the money.
 
-For quite a few years, the debsoc has tried to prevent 
+For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
+By freeloaders I mean people who don't participate in the debsoc much, but want to join reimbursements.
+
+It's easier for the debsoc to send less people to a tournament because 
 
 
 
@@ -888,11 +891,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTk3MDY3Mjg2LC0zMDY5MTM2OCwyMTM5NjU0ND
-csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
-MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
-Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
-LTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNj
-MzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgy
-N119
+c3RvcnkiOls3MzQ3MjE5MTIsLTMwNjkxMzY4LDIxMzk2NTQ0Ny
+wtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEy
+OTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Nj
+g4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwt
+NzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2Mz
+MxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0NSwxMjU1OTM2ODI3
+XX0=
 -->
