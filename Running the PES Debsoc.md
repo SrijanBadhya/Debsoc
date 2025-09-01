@@ -582,7 +582,7 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 - Please announce to everyone that their friends can get recruited into the soc. 
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We still need to make sure people feel like they earned their way into the club.
-- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, have started off spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
+- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
 - I usually set the bar of attendance as like 5 sessions, and once they pass through that, they get into Shenanigans.
 
 
@@ -881,11 +881,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MT
-cwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcs
-MTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOT
-E3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4
-LC05MjI0MTY5NzcsMTcwNjMzMTE3OCwyMTI0ODc2MTQsLTEzMj
-A2Njk5NDUsMTI1NTkzNjgyNywyMDE5NzY5Mzc1LDEyMDgzMzI5
-MjhdfQ==
+c3RvcnkiOlstMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1OD
+gyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwt
+MjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNT
+AzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQs
+MTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyND
+g3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3
+NV19
 -->
