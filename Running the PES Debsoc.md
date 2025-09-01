@@ -607,7 +607,8 @@ If you're using tournaments to incentivize people to come to sessions, even if i
 It's really difficult to stand your ground because it's an awkward job.
 It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament.
 
-If it's an official rule you will publicize, make s
+If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
+What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments but wasn't active enough for this one? What if someone interacts on the group and helps the community, b 
 
 
 
@@ -901,7 +902,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjc0NTI4MTg0LC0zMDY5MTM2OCwyMTM5NjU0ND
+c3RvcnkiOlstMTA3Mjc2NjA1LC0zMDY5MTM2OCwyMTM5NjU0ND
 csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
 MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
 Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
