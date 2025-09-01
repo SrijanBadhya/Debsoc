@@ -608,11 +608,10 @@ It's really difficult to stand your ground because it's an awkward job.
 It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament.
 
 If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
-What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments but wasn't active enough for this one? What if someone interacts on the group and helps the community, b 
+What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments but wasn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
 
 
 
-  freeloaders need to be banned. It's awkward, but you need to stand your ground.
   
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
@@ -902,11 +901,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA3Mjc2NjA1LC0zMDY5MTM2OCwyMTM5NjU0ND
-csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
-MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
-Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
-LTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNj
-MzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgy
-N119
+c3RvcnkiOlstMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1ND
+Q3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwt
+MTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MT
+c2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0
+LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MD
+YzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4
+MjddfQ==
 -->
