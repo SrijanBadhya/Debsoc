@@ -590,6 +590,9 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 
 
 ## Tournaments
+The major differences between tournaments and mocks are 
+
+
 
   freeloaders need to be banned. It's awkward, but you need to stand your ground.
   
@@ -881,11 +884,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1OD
-gyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwt
-MjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNT
-AzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQs
-MTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyND
-g3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4MjcsMjAxOTc2OTM3
-NV19
+c3RvcnkiOlstMzA1NzE5NTQ0LC0zMDY5MTM2OCwyMTM5NjU0ND
+csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
+MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
+Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
+LTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5NzcsMTcwNj
+MzMTE3OCwyMTI0ODc2MTQsLTEzMjA2Njk5NDUsMTI1NTkzNjgy
+N119
 -->
