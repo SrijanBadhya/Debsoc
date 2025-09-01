@@ -590,7 +590,11 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 
 
 ## Tournaments
-The major differences between tournaments and mocks are 
+The major differences between tournaments and mocks are stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends). 
+
+Aaaaaand the money.
+
+For quite a few years, the debsoc has tried to prevent 
 
 
 
@@ -884,7 +888,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzA1NzE5NTQ0LC0zMDY5MTM2OCwyMTM5NjU0ND
+c3RvcnkiOlstNTk3MDY3Mjg2LC0zMDY5MTM2OCwyMTM5NjU0ND
 csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
 MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
 Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
