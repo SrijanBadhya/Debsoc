@@ -598,10 +598,10 @@ For quite a few years, the debsoc has tried to prevent freeloaders, but sometime
 By freeloaders I mean people who don't participate in the debsoc much, but want to join reimbursements.
 
 When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
-Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). 
+Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). Sometimes they reject tournaments if you've gone to other tournaments recently.
 I don't have experience communicating between students and the management, so I can't really tell how to work with the management.
 
-
+But basically, tournament reimbursement slots are kind of limited. Every 
 
 
 
@@ -895,7 +895,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc4MTI0MzEsLTMwNjkxMzY4LDIxMzk2NTQ0Ny
+c3RvcnkiOlstNTgwNzc1OTksLTMwNjkxMzY4LDIxMzk2NTQ0Ny
 wtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEy
 OTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Nj
 g4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwt
