@@ -611,15 +611,15 @@ If it's an official rule you will publicize, make sure you know the answers to a
 What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments but wasn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
 
 
+Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
 
+link to #my-story
   
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
 
-Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
 
-link to #my-story
 
 
   
@@ -901,11 +901,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1ND
-Q3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwt
-MTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MT
-c2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0
-LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MD
-YzMzExNzgsMjEyNDg3NjE0LC0xMzIwNjY5OTQ1LDEyNTU5MzY4
-MjddfQ==
+c3RvcnkiOls0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMz
+Y4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3
+NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5Mz
+M1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTEx
+LDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMj
+QxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0
+NV19
 -->
