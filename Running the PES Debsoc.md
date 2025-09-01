@@ -603,7 +603,7 @@ I don't have experience communicating between students and the management, so I 
 
 But basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
 
-If you're using tournaments to incentivize people to come to sessions
+If you're using tournaments to incentivize people to come to sessions, even if it's a difficult job you 
 
 
 
@@ -897,7 +897,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTQ3ODkzNDkzLC0zMDY5MTM2OCwyMTM5NjU0ND
+c3RvcnkiOlsxNDc0NDQ1MDUwLC0zMDY5MTM2OCwyMTM5NjU0ND
 csLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0x
 MjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNz
 Y4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQs
