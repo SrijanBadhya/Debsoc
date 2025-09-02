@@ -704,7 +704,7 @@ Allowing people to join sessions late does mitigate this, but this is really har
 Talk about whatsapp group chats and why you need an admins only sessions group.
 
 PES clubs often tell juniors to market events on every group they are a part of.
-The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. For the year after that, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
+The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty  when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
 
@@ -918,11 +918,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NTYzMDY0MjgsMTc5NzQxNTU2NiwtMTgxODcxMz
-g4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwt
-MTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMj
-Y1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEw
-NCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMz
-AxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5Njcw
-MzRdfQ==
+c3RvcnkiOlstODAzMTI3MzEzLDE3OTc0MTU1NjYsLTE4MTg3MT
+M4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUs
+LTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5Mz
+I2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQx
+MDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLT
+MwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3
+MDM0XX0=
 -->
