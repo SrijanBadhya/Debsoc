@@ -594,8 +594,11 @@ The major differences between tournaments and mocks are stakes, dedicated days f
 
 Aaaaaand the money.
 
-For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
+### Freeloaders
+
 By freeloaders I mean people who don't participate in the debsoc much, but want to join reimbursements.
+For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
+
 
 When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). Sometimes they reject tournaments if you've gone to other tournaments recently.
@@ -609,6 +612,7 @@ It's awkward to tell friends, to tell people you know, that they don't meet the 
 
 If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
 What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments but wasn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
+
 
 
 Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
@@ -901,11 +905,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMz
-Y4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3
-NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5Mz
-M1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTEx
-LDMyNDUwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMj
-QxNjk3NywxNzA2MzMxMTc4LDIxMjQ4NzYxNCwtMTMyMDY2OTk0
-NV19
+c3RvcnkiOlsxMzQzNTIxMzc4LDQ3NzY5MjYxNSwtMTMyMTIxMj
+M2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00
+MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0Mz
+A2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEw
+LDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3OD
+kwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0
+XX0=
 -->
