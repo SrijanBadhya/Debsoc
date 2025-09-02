@@ -710,8 +710,8 @@ The Announcements channel was for important announcements major documents like t
 
 Share the motion on the non Sessions group so that people can randomly discuss the motion replying to it (because it takes effort for people to switch groups to talk about a motion, but it's easier to reply to a message above). The only people who would be able to reply to it on Sessions, are seniors with texting permissions, which leads to spam.
 
-Even all queries and answers to queries about the session should be on Shenanigans to minimize spam in Sessions in my opinion. People have different tipping points when it comes to muting, and we don't want people to mute the Sessions group (even if they are on the fence about even engaging). 
-Spam by seniors is a real i
+In my opinion, even all queries and answers to queries about the session should be on Shenanigans to minimize spam in Sessions. People have different tipping points when it comes to muting, and we don't want people to mute the Sessions group (even if they are on the fence about even engaging). 
+Spam by seniors happens often due to accidents, and as long as you realize, cut it out, and redirect it to shenanigans quickly, you won't be reaching anyone's muting tipping points.
 
 
 PES clubs often tell juniors to market events on every group they are a part of.
@@ -719,7 +719,7 @@ The default stance assumed by juniors is that you can send anything you want (es
 I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty  when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
 
-If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap.
+If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap. 
 Thank you for giving me a voice.
 
 ## Motion list
@@ -929,7 +929,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTY0NTE4NTgxLC0xNzkyMDkwMjU0LDIxMTA2Mz
+c3RvcnkiOlsxMzI4MDc5ODg2LC0xNzkyMDkwMjU0LDIxMTA2Mz
 AyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4
 NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMz
 A2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3
