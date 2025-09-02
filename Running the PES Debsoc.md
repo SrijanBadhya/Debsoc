@@ -264,6 +264,8 @@ At that moment, it's very important to tell at least people, to cross over, shak
 
 ##  Feedback
 
+[Back to Table of Contents](#table-of-contents)
+
 Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
 I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
 
@@ -300,6 +302,9 @@ I believe speaker scores should not be given in mocks.
 
 
 ## Balancing
+
+[Back to Table of Contents](#table-of-contents)
+
 Once you know the skill levels of people, you can occasionally match up teammates to make the debate 'balanced'.
 - Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
 - So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
@@ -307,6 +312,8 @@ Once you know the skill levels of people, you can occasionally match up teammate
 
 
 ## Keeping it fun
+
+[Back to Table of Contents](#table-of-contents)
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
 Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list)).
@@ -355,7 +362,7 @@ The closest I've been to quitting debate was after an online debate. I quit the 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
 
-  ## A few issues of sessions that persist
+## A few issues of sessions that persist
 
 a) Dividing the workload:
 
@@ -430,6 +437,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 
 ## The Adj Narrative
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Characterization
 
@@ -557,6 +566,8 @@ The issue is that this makes Debsoc sessions look like a chore, but at least peo
 
 ## Informal recruitments
 
+[Back to Table of Contents](#table-of-contents)
+
 During recruitments, a lot of recruits show up with their friends. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing(if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends often egg each other on to come to Debsoc too.
 A major reason people find it difficult to come to sessions after classes is if they'd rather spend that time with their friend, and bringing the friend along solves that issue.
 
@@ -592,6 +603,9 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 
 
 ## Tournaments
+
+[Back to Table of Contents](#table-of-contents)
+
 The major differences between tournaments and mocks are stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends). 
 
 Aaaaaand the money.
@@ -931,7 +945,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQ5MzA4MzI2LC0xNzkyMDkwMjU0LDIxMTA2Mz
+c3RvcnkiOlstMjg0MTQ0OTE4LC0xNzkyMDkwMjU0LDIxMTA2Mz
 AyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4
 NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMz
 A2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3
