@@ -11,7 +11,7 @@ As seniors, it's our responsibility to not make our juniors feel lost about runn
 
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
-- As every coder knows, replacing an existing solution with a different solution, could lead to other problems popping up.
+- As every coder knows, replacing an existing solution with a different solution can lead to other problems popping up.
 - So every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
 - I believe that every batch will be able to improve upon existing systems.[^1] Every change should be a step forward, instead of causing old problems to resurface.
 - An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
@@ -25,7 +25,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've helped conduct recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
 You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll definitely reply within a week. 
 
-There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view). I felt that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
+There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view). I thought that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
 
 <br>
 <br>
@@ -59,7 +59,7 @@ II. [Recruitments](#recruitments)
      &emsp;&emsp;d) [The 2024 Model](#the-2024-model)
 	     &emsp; &emsp;&emsp;i) [Round 1](#round-1)
 	     &emsp; &emsp;&emsp;ii) [Round 2](#round-2)
-     &emsp;&emsp;e) Something
+     &emsp;&emsp;e) Something later
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
@@ -555,11 +555,11 @@ The issue is that this makes Debsoc sessions look like a chore, but at least peo
 
 ## Informal recruitments
 
-During recruitments, a lot of recruits show up with their friends. Encourage the friends to stay. People have fun engaging in an activity like debating, alongside or against their friends. Friends often egg each other on to come to Debsoc too.
+During recruitments, a lot of recruits show up with their friends. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing(if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends often egg each other on to come to Debsoc too.
 A major reason people find it difficult to come to sessions after classes is if they'd rather spend that time with their friend, and bringing the friend along solves that issue.
 
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
-Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of them having to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to debate or not.
+Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to debate or not.
 
 Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared odd semester semester (the portion that's shared between seniors and the first sem of juniors). 
 
@@ -572,18 +572,18 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 
 #### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
-- **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** You get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
+- **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire). You get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
 - If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you. 
 - Even if they're temporary and you think they'll leave soon (because they didn't care enough to come to the actual recruitments), their help in keeping the society alive is valuable to keep the flow of the other members going.
 
 
 #### How do we usually carry out informal recruitments?
 - (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it should be way easier than this for someone to opt in. Most people don't even think this is possible because the natural assumption of an ignorant first year is that people only get recruited during recruitments, so even if they want to reach out, they don't because they don't see the point of the attempt. 
-- Please announce to everyone that their friends can get recruited into the soc. 
+- Please announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We still need to make sure people feel like they earned their way into the club.
-- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
 - I usually set the bar of attendance as like 5 sessions, and once they pass through that, they get into Shenanigans.
+- - People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
 
 
 
@@ -908,11 +908,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5Mj
-YxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0x
-NjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MD
-AxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5
-OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MT
-A5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzEx
-NzhdfQ==
+c3RvcnkiOls2MzAzNzQ3NzAsLTE2OTYzMTg5ODUsMTA1NDAxOD
+E2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIx
+Mzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mz
+c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
+LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
+UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
+N119
 -->
