@@ -703,6 +703,7 @@ Allowing people to join sessions late does mitigate this, but this is really har
 ### Whatsapp
 Talk about whatsapp group chats and why you need an admins only sessions group.
 also advertising other group events stance
+The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the debsoc group was for formal messages only. For the year after that, everything was allowed, except for marketing posts 
 
 
 If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap.
@@ -915,7 +916,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzYyNTc5MjM1LDE3OTc0MTU1NjYsLTE4MTg3MT
+c3RvcnkiOlsxNzcyNDMyNTk5LDE3OTc0MTU1NjYsLTE4MTg3MT
 M4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUs
 LTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5Mz
 I2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQx
