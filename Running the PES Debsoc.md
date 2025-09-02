@@ -628,18 +628,16 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 - - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
 
-### Tou
+### Tournament Spirits
   
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
 
-
-
-
-  
  glorification of people who break
 
+
+cafe down the alley (talk about Mukhtalif)
 
 ## Community
 
@@ -916,11 +914,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTA5NTE0MDk4LC0xNjk2MzE4OTg1LDEwNTQwMT
-gxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwy
-MTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1Nz
-M3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3
-MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMj
-Q1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5
-NzddfQ==
+c3RvcnkiOlstMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MD
+E4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgs
+MjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NT
+czNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUw
+NzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMz
+I0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2
+OTc3XX0=
 -->
