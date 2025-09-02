@@ -705,7 +705,8 @@ Allowing people to text whatever they want, and making them feel comfortable, is
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
 The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
 Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
-The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. The group had given the permission to text for admins only, an
+The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. The group had given the permission to text for admins only, and the admins were all the seniors who had expressed interest in conducting sessions. 
+The Announcements channel was for important
 
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it)
 
@@ -925,7 +926,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MTA2NTM4ODcsMjExMDYzMDI2MCwxNzk3NDE1NT
+c3RvcnkiOls5NDYyNjY2MTQsMjExMDYzMDI2MCwxNzk3NDE1NT
 Y2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjks
 NDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5Nj
 U0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYx
