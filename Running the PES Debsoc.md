@@ -618,12 +618,9 @@ What if someone was active earlier but is inactive now? What if there's a tourna
 The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't click on the google form link and register by themselves (a common honest mistake otherwise). 
 
 For their first tourney, most freshers won't know each other, and so you might be left with 4 people with no teammate preference. In this case it makes sense to assign teams yourself. In future tournaments people will have friends they want to do tourneys with, and will sign up as pairs/trios. 
-What we sometimes do is send a poll with a speaker option, adjudicator option, and a no option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to 
+What we sometimes do is send a poll with a speaker option, adjudicator option, and a no option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
 
 
-Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
-
-link to #my-story
   
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
@@ -911,7 +908,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU2ODI1ODU3MywxMDU0MDE4MTY5LDQ3NzY5Mj
+c3RvcnkiOlstMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5Mj
 YxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0x
 NjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MD
 AxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5
