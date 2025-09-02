@@ -206,6 +206,8 @@ If you're reading this, you would have already faced the grueling learning curve
 
 
 ## Time
+[Back to Table of Contents](#table-of-contents)
+
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 ![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
@@ -929,7 +931,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzI4MDc5ODg2LC0xNzkyMDkwMjU0LDIxMTA2Mz
+c3RvcnkiOlsxOTQ5MzA4MzI2LC0xNzkyMDkwMjU0LDIxMTA2Mz
 AyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4
 NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMz
 A2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3
