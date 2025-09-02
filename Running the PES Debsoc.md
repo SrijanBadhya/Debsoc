@@ -364,6 +364,8 @@ It means the world to people if you dm them and check up on them and how they fe
 
 ## A few issues of sessions that persist
 
+[Back to Table of Contents](#table-of-contents)
+
 a) Dividing the workload:
 
 Every year we try hard to encourage people to come, and people do 'commit' in theory. 
@@ -951,7 +953,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkyNjU4OTU1OCwtMTc5MjA5MDI1NCwyMTEwNj
+c3RvcnkiOlstMTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNj
 MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
 ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
 MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
