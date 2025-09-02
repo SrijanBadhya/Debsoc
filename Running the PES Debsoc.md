@@ -615,7 +615,9 @@ What if someone was active earlier but is inactive now? What if there's a tourna
 
 ### Tournament Registration
 
-The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't register themselves
+The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't click on the google form link and register by themselves (a common honest mistake otherwise). 
+
+
 
 
 Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
@@ -908,11 +910,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4OTE2Nzg0NzIsMTA1NDAxODE2OSw0Nzc2OTI2MT
-UsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5
-MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMT
-QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
-LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
-Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
-XX0=
+c3RvcnkiOlstMTA2NTU1Njc4NSwxMDU0MDE4MTY5LDQ3NzY5Mj
+YxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0x
+NjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MD
+AxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5
+OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MT
+A5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzEx
+NzhdfQ==
 -->
