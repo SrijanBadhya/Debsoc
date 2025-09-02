@@ -705,7 +705,9 @@ Allowing people to text whatever they want, and making them feel comfortable, is
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
 The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
 Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
+The polls for every session were posted on this group, 
 
+Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it)
 
 
 PES clubs often tell juniors to market events on every group they are a part of.
@@ -923,11 +925,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MT
-M4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUs
-LTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5Mz
-I2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQx
-MDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLT
-MwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3
-MDM0XX0=
+c3RvcnkiOlstNDU4ODYxNywyMTEwNjMwMjYwLDE3OTc0MTU1Nj
+YsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0
+Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NT
+Q0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEs
+LTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3ND
+E3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2
+NF19
 -->
