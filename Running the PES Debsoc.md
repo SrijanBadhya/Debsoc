@@ -615,7 +615,9 @@ What if someone was active earlier but is inactive now? What if there's a tourna
 
 ### Tournament Registration
 
-The moment you forward a tournament advertisement post, 
+The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't register themselves
+
+
 Tourney reg, assign teams yourself, ask participants to reg, not as 'speakers' or 'judges', and later assign yourself based on what you see
 
 link to #my-story
@@ -906,11 +908,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMj
-M2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00
-MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0Mz
-A2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEw
-LDExMDkxNzYxMTEsMzI0NTA2MTY0LC03MTA5NjcwMzQsMTY3OD
-kwNjM0OCwtOTIyNDE2OTc3LDE3MDYzMzExNzgsMjEyNDg3NjE0
+c3RvcnkiOls4OTE2Nzg0NzIsMTA1NDAxODE2OSw0Nzc2OTI2MT
+UsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5
+MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMT
+QxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgs
+LTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOT
+Y3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3NywxNzA2MzMxMTc4
 XX0=
 -->
