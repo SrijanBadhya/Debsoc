@@ -643,7 +643,7 @@ cafe down the alley (talk about Mukhtalif)
 
 we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
 
-Cubbon
+Cubbon Park
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
@@ -655,7 +655,7 @@ Put extra effort to talk to everyone so that they don't feel like they're part o
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
-alk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
+Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
@@ -918,11 +918,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk1MzQ2MjQ0OSwxNzk3NDE1NTY2LC0xODE4Nz
-EzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1
-LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OT
-MyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0xMjkwMDE0
-MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4LC
-0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMDk2
-NzAzNF19
+c3RvcnkiOlsyMDExNTI4NDc5LDE3OTc0MTU1NjYsLTE4MTg3MT
+M4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUs
+LTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5Mz
+I2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQx
+MDQsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLT
+MwMTUwMzUxMCwxMTA5MTc2MTExLDMyNDUwNjE2NCwtNzEwOTY3
+MDM0XX0=
 -->
