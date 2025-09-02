@@ -361,7 +361,7 @@ Every year we try hard to encourage people to come, and people do 'commit' in th
 But it always looks like people lack the push to actually show up.
 We have had seniors take up voluntary adjing slots using an excel sheet before, but people would often forget, or not feel obligated enough to write their name themselves.
 
-I don't know if this is due to the bystander effect caused by thalready conducting the session. 
+I don't know if this is due to the bystander effect caused by there always being someone already conducting the session. 
 But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to refresh.
 - When I spoke to Akshat Saxena, I realized that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
@@ -377,7 +377,7 @@ You can make the extra person adj a handful of times, but make sure they don't f
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
-b) Another issue is the complications of adjing. It was initially a subsection under "Inside a Session", but my rant grew longer and longer.
+b) Another issue is the complications of adjing. This was initially a subsection under "Inside a Session", but my rant grew longer and longer.
 
 # Adj Rant
 [Back to Table of Contents](#table-of-contents)
@@ -488,7 +488,7 @@ Although this is idealistic and nice in principle, it's hard to really implement
 ### Elevating The Judging Experience
 Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
 - I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me.
-- I wasn't a 'useless trainee' judge anymore, but a chair who people depended on.
+- I wasn't a 'useless trainee' judge anymore, but now a chair who people depended on.
 - I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit, the man.
 
 How do we get inexperienced juniors to enjoy judging though? Since they are not fully qualified to give feedback.
@@ -908,7 +908,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY3OTEyNDU1OCwtMTY5NjMxODk4NSwxMDU0MD
+c3RvcnkiOlstMTUwMzA5Nzc0NSwtMTY5NjMxODk4NSwxMDU0MD
 E4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgs
 MjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NT
 czNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUw
