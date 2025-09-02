@@ -582,8 +582,8 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 - Please announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We still need to make sure people feel like they earned their way into the club.
-- I usually set the bar of attendance as like 5 sessions, and once they pass through that, they get into Shenanigans.
-- - People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
+- I usually set the bar of attendance to be like 5 sessions, and once they reach that, they get into Shenanigans.
+- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
 
 
 
@@ -596,7 +596,7 @@ Aaaaaand the money.
 
 ### Freeloaders
 
-By freeloaders I mean people who don't participate in the debsoc much, but want to join reimbursements.
+By freeloaders I mean people who don't participate in the debsoc much, yet want to join reimbursements.
 For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
 
 
@@ -611,7 +611,7 @@ It's really difficult to stand your ground because it's an awkward job.
 It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament.
 
 If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
-What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments but wasn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
+What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments yet isn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
 
 ### Tournament Registration
 
@@ -679,7 +679,7 @@ Light fun might also ruin the experience of a few people. But if you can get peo
 
 ### Relatability
 Speaking of which,
-**It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should actively try to tell them how we relate to the hardships they're going through now.**
+**It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
 ### The damn PES timetable
@@ -908,11 +908,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MzAzNzQ3NzAsLTE2OTYzMTg5ODUsMTA1NDAxOD
-E2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIx
-Mzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mz
-c1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNywxMTI5MzM1MDcw
-LDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5MTc2MTExLDMyND
-UwNjE2NCwtNzEwOTY3MDM0LDE2Nzg5MDYzNDgsLTkyMjQxNjk3
-N119
+c3RvcnkiOlstMjYwMDc4MDQ4LC0xNjk2MzE4OTg1LDEwNTQwMT
+gxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwy
+MTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1Nz
+M3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3
+MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMj
+Q1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5
+NzddfQ==
 -->
