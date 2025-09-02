@@ -705,10 +705,12 @@ Allowing people to text whatever they want, and making them feel comfortable, is
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
 The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
 Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
-The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. The group had given the permission to text for admins only, and the admins were all the seniors who had expressed interest in conducting sessions. 
+The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. The group had given the permission to text for admins only, and the admins were all the seniors who had expressed interest in conducting sessions. The polls needed to be shared a day in advance s
 The Announcements channel was for important announcements major documents like the manual. The messages here needed to be minimized so that people could search up quickly. 
 
-Share the motion on the non Sessions group so that people can randomly discuss the motion replying to it (because it takes effort for people to switch groups to talk about a motion, but 
+Share the motion on the non Sessions group so that people can randomly discuss the motion replying to it (because it takes effort for people to switch groups to talk about a motion, but it's easier to reply to a message above). The only people who would be able to reply to it on Sessions, are seniors with texting permissions, which leads to spam.
+
+
 
 
 PES clubs often tell juniors to market events on every group they are a part of.
@@ -926,7 +928,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MjUwMzk1MzUsLTE3OTIwOTAyNTQsMjExMDYzMD
+c3RvcnkiOls2MjQ0MDExMzgsLTE3OTIwOTAyNTQsMjExMDYzMD
 I2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1
 LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMD
 Y5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcw
