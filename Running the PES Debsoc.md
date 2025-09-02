@@ -703,7 +703,10 @@ Allowing people to join sessions late does mitigate this, but this is really har
 ### Whatsapp
 Allowing people to text whatever they want, and making them feel comfortable, is ideal for them to bond together, get connected to the community, and encourage more future engagement with the club. (Equity rules can still apply, that's up to the equity community, I will not speak about it). 
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
-Our solution to appease both the yappers and the muters, was to create a new group for sessions (and utilize the Announcements channel on the Community).
+The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
+Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
+
+
 
 PES clubs often tell juniors to market events on every group they are a part of.
 The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
@@ -920,7 +923,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTY0NzM0Nzc0LDE3OTc0MTU1NjYsLTE4MTg3MT
+c3RvcnkiOlsyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MT
 M4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUs
 LTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5Mz
 I2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQx
