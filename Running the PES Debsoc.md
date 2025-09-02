@@ -199,9 +199,9 @@ If you're reading this, you would have already faced the grueling learning curve
 - I know this might look like treating juniors like snowflakes, but debating gets sad, even I and some friends still get sad on the regular. Having someone show empathy to you can mean the world to you.
 - + _Sure, the argument against this is that if you keep protecting them, they'll never be able to stand on their own two feet._
 - But I disagree, regardless of how much their wounds are bandaged by you, recurring wounds make them stronger naturally with time.
-- + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your care), and you're leaving these people out if you just let them end themselves._
+- + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
-- Keeping it challenging but making people feel like they were able to contribute something significant is key.
+- Keeping it challenging yet making people feel like they were able to contribute something significant is key.
 - **Love for debate can't really be tested from day one.**
 
 
@@ -248,7 +248,7 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and feel like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
-- The one-on-one interaction could be about anything, doesn't have to be about feedback on their speech, but whatever they feel about everything.
+- The one-on-one interaction could be about anything, doesn't have to be about feedback on their speech, just whatever they feel about everything.
 - Having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
 
 
@@ -267,7 +267,7 @@ I personally write down my feedback while the speeches are going on. The moment 
 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
 - Their feedback is far more likely to be valid.
-- Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech".
+- Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech, still not sure though".
 - Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". So they may never realize their mistake.
 
 **The impulsive way to give feedback is telling people how they messed up and what they can improve on.
@@ -280,13 +280,13 @@ But I think you should consciously try to tell people what they got right as wel
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
 
-(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, but was too much in the zone of 'constructive criticism'.)
+(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, I was just too much in the zone of 'constructive criticism'.)
 
 A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". 
 This solves 2 problems. 
 1. If you gave regular feedback, it might feel wrong to them (like they disagree with you, but they won't push you more on it)
 2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
-3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but a presentation issue.
+3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but actually a presentation issue.
 
 I believe speaker scores should not be given in mocks.
 - Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear and judges may not know, "how relevant is 'frequently relevant',".
@@ -361,7 +361,7 @@ Every year we try hard to encourage people to come, and people do 'commit' in th
 But it always looks like people lack the push to actually show up.
 We have had seniors take up voluntary adjing slots using an excel sheet before, but people would often forget, or not feel obligated enough to write their name themselves.
 
-I don't know if this is due to bystander effect because there seems to be someone already conducting the session. 
+I don't know if this is due to the bystander effect caused by thalready conducting the session. 
 But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to refresh.
 - When I spoke to Akshat Saxena, I realized that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
@@ -908,11 +908,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDA1Mzk0ODk1LC0xNjk2MzE4OTg1LDEwNTQwMT
-gxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwy
-MTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1Nz
-M3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3
-MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMj
-Q1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5
-NzddfQ==
+c3RvcnkiOlstMTY3OTEyNDU1OCwtMTY5NjMxODk4NSwxMDU0MD
+E4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgs
+MjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NT
+czNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUw
+NzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMz
+I0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2
+OTc3XX0=
 -->
