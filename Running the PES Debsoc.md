@@ -329,7 +329,7 @@ It was fun cuz of how goofy it was, and very time efficient too.
 
 
 #### Impromptu debates
-Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more people this format isn't as impactful because they don't feel the time crunch as much.
+Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more participants, this format isn't as impactful because they don't feel the time crunch as much.
 It's a good way to keep you on your feet and make you better prepared for tourney time crunches.
 
 ### Online Sessions
@@ -364,7 +364,7 @@ We have had seniors take up voluntary adjing slots using an excel sheet before, 
 I don't know if this is due to the bystander effect caused by there always being someone already conducting the session. 
 But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to refresh.
-- When I spoke to Akshat Saxena, I realized that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
+- My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
 - Having too many seniors is always better than having too less seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
 
@@ -918,7 +918,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDExNTI4NDc5LDE3OTc0MTU1NjYsLTE4MTg3MT
+c3RvcnkiOlstMzM0MDU2OTM3LDE3OTc0MTU1NjYsLTE4MTg3MT
 M4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUs
 LTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5Mz
 I2NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQx
