@@ -703,8 +703,8 @@ Allowing people to join sessions late does mitigate this, but this is really har
 ### Whatsapp
 Talk about whatsapp group chats and why you need an admins only sessions group.
 also advertising other group events stance
-The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. For the year after that, everything was allowed, except for marketing posts from other clubs. This was rather odd. (The source of this was the Debsoc getting pissed by MUN marketing, but we couldn't announce that we were banning mun posts, so we said we're banning all posts). 
-I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty  when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone wou
+The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. For the year after that, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we're banning all posts). 
+I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty  when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then 
 
 
 If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap.
@@ -917,7 +917,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg5MTk1Nzk2MCwxNzk3NDE1NTY2LC0xODE4Nz
+c3RvcnkiOlstMTEzNDU4MjYxOSwxNzk3NDE1NTY2LC0xODE4Nz
 EzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1
 LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OT
 MyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0xMjkwMDE0
