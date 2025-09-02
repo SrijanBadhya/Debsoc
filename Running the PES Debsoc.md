@@ -643,7 +643,7 @@ cafe down the alley (talk about Mukhtalif)
 
 we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
 
-
+Cubbon
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
@@ -914,11 +914,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MD
-E4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgs
-MjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NT
-czNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUw
-NzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMz
-I0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2
-OTc3XX0=
+c3RvcnkiOlsxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2Mz
+E4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYz
+LC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOT
+U5MTcwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5
+MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMT
+EwOTE3NjExMSwzMjQ1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2
+MzQ4XX0=
 -->
