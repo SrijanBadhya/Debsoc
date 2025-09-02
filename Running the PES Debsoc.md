@@ -621,7 +621,8 @@ For their first tourney, most freshers won't know each other, and so you might b
 What we sometimes do is send a poll with a speaker option, adjudicator option, and a no option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
 
 Early reg is ideal but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
-Since reimbursement gets confirmed very late (fo, we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement". 
+Since reimbursement gets confirmed very late (often after the tournament), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement". 
+MAKE SURE you collect money from everybody before paying the sum total to the tournament organizing committee. Otherwise, someone might drop out due to unforseen reasons after you've already paid their share, and there's no way to really get your money back from them. If someone drops out 
 
   
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
@@ -910,7 +911,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzY0MDQwMzkxLC0xNjk2MzE4OTg1LDEwNTQwMT
+c3RvcnkiOlsxMDg0MzEzMTUyLC0xNjk2MzE4OTg1LDEwNTQwMT
 gxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwy
 MTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1Nz
 M3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3
