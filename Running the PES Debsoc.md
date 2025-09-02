@@ -708,7 +708,7 @@ Our solution to appease both the yappers and the muters, was to create a new gro
 The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. The group had given the permission to text for admins only, and the admins were all the seniors who had expressed interest in conducting sessions. 
 The Announcements channel was for important announcements major documents like the manual. The messages here needed to be minimized so that people could search up quickly. 
 
-Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it)
+Share the motion on the WhatsApp group 
 
 
 PES clubs often tell juniors to market events on every group they are a part of.
@@ -926,7 +926,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ5ODk0MDYwNSwtMTc5MjA5MDI1NCwyMTEwNj
+c3RvcnkiOlstMjA4MDQ1NDQ3MCwtMTc5MjA5MDI1NCwyMTEwNj
 MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
 ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
 MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
