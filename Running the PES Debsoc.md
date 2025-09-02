@@ -549,7 +549,7 @@ One thing that Akshat Saxena once told me was that to ignite passion in the juni
 Inertia is huge, don't let people go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, the only real power you can wield over people to incentivize them to act the way you want them to. (well you can withhold Debsoc merchandise too I suppose). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
-The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, but still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
+The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
 
 (We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The Debsoc didn't owe you money because you weren't really a contributing member to the soc, you didn't assist in its activity through sessions.)
 
@@ -604,7 +604,7 @@ When the debsoc tries to send a lot of people to a tournament and asks for reimb
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). Sometimes they reject tournaments if you've gone to other tournaments recently.
 I don't have experience communicating between students and the management, so I can't really tell how to work with the management.
 
-But basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
+Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
 
 If you're using tournaments to incentivize people to come to sessions, even if it's a difficult job you need to stick to the stance you take.
 It's really difficult to stand your ground because it's an awkward job.
@@ -908,7 +908,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUwMzA5Nzc0NSwtMTY5NjMxODk4NSwxMDU0MD
+c3RvcnkiOlstMTk2MTIxNDY3OSwtMTY5NjMxODk4NSwxMDU0MD
 E4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgs
 MjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NT
 czNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUw
