@@ -620,6 +620,8 @@ The first time you forward a tournament advertisement post to freshers, make sur
 For their first tourney, most freshers won't know each other, and so you might be left with 4 people with no teammate preference. In this case it makes sense to assign teams yourself. In future tournaments people will have friends they want to do tourneys with, and will sign up as pairs/trios. 
 What we sometimes do is send a poll with a speaker option, adjudicator option, and a no option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
 
+Early reg is ideal but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
+Since reimbursement gets confirmed very late (fo, we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement". 
 
   
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
@@ -908,11 +910,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk2MTIxNDY3OSwtMTY5NjMxODk4NSwxMDU0MD
-E4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgs
-MjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NT
-czNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUw
-NzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkxNzYxMTEsMz
-I0NTA2MTY0LC03MTA5NjcwMzQsMTY3ODkwNjM0OCwtOTIyNDE2
-OTc3XX0=
+c3RvcnkiOlsxNzY0MDQwMzkxLC0xNjk2MzE4OTg1LDEwNTQwMT
+gxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwy
+MTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1Nz
+M3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMzNTA3
+MCwxNzQxNzY4ODk4LC0zMDE1MDM1MTAsMTEwOTE3NjExMSwzMj
+Q1MDYxNjQsLTcxMDk2NzAzNCwxNjc4OTA2MzQ4LC05MjI0MTY5
+NzddfQ==
 -->
