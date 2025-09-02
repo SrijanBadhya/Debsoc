@@ -657,6 +657,8 @@ cafe down the alley (talk about Mukhtalif)
 
 ## Community
 
+[Back to Table of Contents](#table-of-contents)
+
 we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
 
 Cubbon Park
@@ -679,6 +681,8 @@ a lot of people who stay in debsoc are friendless otherwise, so the community an
 
 
 ## Miscellaneous
+
+[Back to Table of Contents](#table-of-contents)
 
 ### Teaching debate
 For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
@@ -739,7 +743,9 @@ If you reached here, I admire your effort and commitment to the Debsoc, to read 
 Thank you for giving me a voice.
 
 ## Motion list
+
 [Back to Table of Contents](#table-of-contents)
+
 #### Motions used in round 1 & 2
 1.  This house, as Aditya, would give Shreya the elixir.
 
@@ -945,11 +951,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjg0MTQ0OTE4LC0xNzkyMDkwMjU0LDIxMTA2Mz
-AyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4
-NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMz
-A2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3
-MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNCwtMjQ0MzA2OTA3LD
-ExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAxNTAzNTEwLDExMDkx
-NzYxMTFdfQ==
+c3RvcnkiOlstMTkyNjU4OTU1OCwtMTc5MjA5MDI1NCwyMTEwNj
+MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
+ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
+MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
+NzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNy
+wxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5
+MTc2MTExXX0=
 -->
