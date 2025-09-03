@@ -650,10 +650,11 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 ### Tournament Spirits
 
 Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
-- They might leave some task unfinished at home unaware that they can continue the task 
 - They might reach home later than they told their parents to expect them.
 - They might miss out on eating food at all if you don't tell them the strategic time to eat food.
-- There are a lot of possible logistic issues like all members of a team filling feedback, trainees being confused about filling the ballot, 
+- There are a lot of possible logistic issues like all members of a team filling feedback, trainees being confused about filling the ballot, a bunch of other tabbycat issues like navigating on your private url, etc
+- They might expect the tournament to provide food so they won't have made their own food plans like lunch boxes.
+- 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
@@ -959,11 +960,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAxODI5MzI4NiwtMTc5MTE5ODQxMiwtMTc5Mj
-A5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4
-ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLT
-EzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2
-NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMD
-QsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMw
-MTUwMzUxMF19
+c3RvcnkiOlsxOTA1NzU0MTk3LC0xNzkxMTk4NDEyLC0xNzkyMD
+kwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4
+OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMT
+MyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1
+ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNC
+wtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAx
+NTAzNTEwXX0=
 -->
