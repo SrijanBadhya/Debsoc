@@ -679,7 +679,7 @@ Congratulating your friends who broke is a great display of contingent spirit. I
 
 The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
 
-A few people including me believe glorifying the speaker score is useless and does more harm than good. Like I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality fluctuate
+A few people including me believe glorifying the speaker score is useless and does more harm than good. Like I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality fluctuate to the point where they're unreliable. The main insight people derive from a speaker score is who was the superior teammate and who was the inferior teammate. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but the speaker score feels especially harsh because 
 
 
 cafe down the alley (talk about Mukhtalif)
@@ -980,11 +980,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzM5MTY4NDIsLTEzMDY4MTg3NzEsLTE0MjE3ND
-g4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0x
-NzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5Nz
-QxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4
-MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMj
-EzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTcz
-NzU2MV19
+c3RvcnkiOlstMTE3MTU0ODUzLC0xMzA2ODE4NzcxLC0xNDIxNz
+Q4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2Mywt
+MTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OT
+c0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAx
+ODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LD
+IxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3
+Mzc1NjFdfQ==
 -->
