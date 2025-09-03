@@ -647,7 +647,7 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 - - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
 
-### Tournament Spirits
+### Tournament Briefing
 Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
 
 Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
@@ -663,6 +663,8 @@ Every novice initially assumes that they'll only face novices in the tournament,
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
 
+
+### Tournament spirits
 Due to different rooms having different end times, it's hard to execute this, but do try to get everyone to congregate at a designated spot after every round to chill together. Without a contingent it's easy for people to feel lost and lonely.
 I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
@@ -670,8 +672,8 @@ In groups that form naturally, a few juniors are often left out of the conversat
 
 If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
 
-Breaks
-
+#### Breaks
+Breaks are where 
 
  glorification of people who break
 
@@ -974,11 +976,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTQwMDI3Njg2LC0yNjgyOTExMzIsMTExMjkzMz
-UxOCw1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwy
-MTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OT
-YzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIz
-NjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtND
-E5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMw
-NjkwN119
+c3RvcnkiOlstMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5Mz
+M1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQs
+MjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNj
+k2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEy
+MzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLT
+QxOTU5MTcwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQz
+MDY5MDddfQ==
 -->
