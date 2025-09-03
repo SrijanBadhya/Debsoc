@@ -714,7 +714,9 @@ The places you can debate in GJB library are the small brainstorming rooms, but 
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
 
-What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because there are people you'll disturb, or it's locked. There are 3 sections 
+What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
+These are fairly empty on Saturday and Sunday.
+Hoo 
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -1017,11 +1019,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzA0MTMzODUyLC0zMzE3MzMwNzUsLTE5MDkzOD
-A0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYz
-Miw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLT
-I2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4
-NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2Ni
-wtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3
-NzY5MjYxNV19
+c3RvcnkiOlstMTEwMzE4NDk3NSwtMzMxNzMzMDc1LC0xOTA5Mz
+gwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2
+MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMzLC
+0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5MTE5
+ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1Nj
+YsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0
+Nzc2OTI2MTVdfQ==
 -->
