@@ -660,7 +660,7 @@ One briefing session before their first tournament, talking about the logistics,
 The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. And they won't have really comprehended that this is a national level tournament with people years elder to them.
 Every novice initially assumes that they'll only face novices in the tournament, and get a huge shock. 
 
-Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. I believed that it was better to make them prepared for this possibility instead of being blindly optimi
+Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like they dissappointed you, and 
 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
@@ -967,7 +967,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjc3ODY2MTA0LC0xNzkxMTk4NDEyLC0xNzkyMD
+c3RvcnkiOlstNzU0MTEzMTkzLC0xNzkxMTk4NDEyLC0xNzkyMD
 kwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4
 OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMT
 MyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1
