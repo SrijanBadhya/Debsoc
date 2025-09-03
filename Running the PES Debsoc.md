@@ -709,7 +709,7 @@ The most memorable online tournament for me has been SBS in early 2024. We all m
 A few notes about online tournaments:
 PES wifi sometimes randomly blocks discord and randomly unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
 
-The major spots at PES with accessible wifi are the GJB library, the GJB cafeteria, and the 13th floor at PES. 
+The major spots at PES with accessible wifi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
 The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
@@ -719,6 +719,7 @@ These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POW
 
 How to access this place:
 Security guards might tell you that it's closed when you enter B block. Reply to this saying that you're not going inside, you'll just be outdoors. 
+If they say that it's restricted, tell them that the Debate Club is doing an online competition here, just like they have been doing for the last 2 years.  
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -1021,11 +1022,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTE3NTAxMjkzLC0zMzE3MzMwNzUsLTE5MDkzOD
-A0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYz
-Miw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLT
-I2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4
-NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2Ni
-wtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3
-NzY5MjYxNV19
+c3RvcnkiOlstMTM2ODA5NDA2MSwtMzMxNzMzMDc1LC0xOTA5Mz
+gwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2
+MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMzLC
+0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5MTE5
+ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1Nj
+YsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0
+Nzc2OTI2MTVdfQ==
 -->
