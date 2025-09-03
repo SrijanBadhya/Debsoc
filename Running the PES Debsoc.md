@@ -93,7 +93,7 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;&emsp;a) [Freeloaders](#freeloaders)
 	&emsp;&emsp;b) [Registration](#tournament-registration)
 	&emsp;&emsp;c) [Briefing](#tournament-briefing)
-	&emsp;&emsp;d )[Spirits](#tournament-spirits)
+	&emsp;&emsp;d) [Spirits](#tournament-spirits)
 	&emsp;&emsp;e) [Online Tournaments](#online-tournaments)
 	&emsp;4. [Community](#community)
 	&emsp;5. [Miscellaneous](#miscellaneous)
@@ -794,7 +794,7 @@ I think this is rather dumb, especially since the Debsoc desires to do marketing
 > If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span to read my ginormous Yap.  
 > Thank you for giving me a voice.
 
-## Motion list
+## Motion List
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -1003,11 +1003,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMTYyOD
-A0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0ODgz
-MywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OT
-ExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1
-NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNj
-ksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5
-NjU0NDddfQ==
+c3RvcnkiOlstMTE0NDgzODMsLTExMDk1MjUyNjUsMTA1OTYyND
+g4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4MTg3NzEs
+LTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MT
+I1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAy
+NjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4NS
+wxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2
+OTEzNjhdfQ==
 -->
