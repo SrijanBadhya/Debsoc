@@ -677,7 +677,9 @@ Breaks are where emotional turbulence is at a high since it's the culmination of
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
-The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. A few p
+The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill, and it sucks to have worked hard but still be graded terribly.
+
+A few people including me believe glorifying the speaker score is useless and does more harm than good. 
 
 
 cafe down the alley (talk about Mukhtalif)
@@ -978,11 +980,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE5ODc5NTYwLC0xMzA2ODE4NzcxLC0xNDIxNz
-Q4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2Mywt
-MTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OT
-c0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAx
-ODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LD
-IxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3
-Mzc1NjFdfQ==
+c3RvcnkiOlstMTk3OTIzOTY2MCwtMTMwNjgxODc3MSwtMTQyMT
+c0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMs
+LTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNz
+k3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQw
+MTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OC
+wyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1
+NzM3NTYxXX0=
 -->
