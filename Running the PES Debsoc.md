@@ -744,11 +744,11 @@ The counter arguments I've heard about this are
 
 
 ### Pranks
-I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during recruitment time. You don't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more i
-Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, or convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
+I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during recruitment time. You don't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than you'd think.
+Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 
 ### Relatability
-Speaking of which,
+Speaking of lore,
 **It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
@@ -781,6 +781,7 @@ Spam by seniors happens often due to accidents, and as long as you realize, cut 
 PES clubs often tell juniors to market events on every group they are a part of.
 The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
+
 
 
 If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap. 
@@ -995,7 +996,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjk1Mzk2NjI1LC0xMTYyODA0NjMyLDU1NjExNT
+c3RvcnkiOlsxMDU5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNT
 cxNSwtMTMwNjgxODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMy
 LDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OT
 IwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEz
