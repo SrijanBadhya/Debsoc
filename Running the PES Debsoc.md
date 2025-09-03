@@ -662,7 +662,7 @@ Every novice initially assumes that they'll only face novices in the tournament,
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self esteem from the start if their mentor has no hope in them.
 
-I've talked [before](
+I've talked [before]() about how judges feel extremely lonely at tournaments. 
 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
@@ -969,11 +969,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MD
-I1NCwyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODks
-LTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMj
-EyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4
-MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLT
-I0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUw
-MzUxMF19
+c3RvcnkiOlstNjA2NDg4NjYwLDU1MTI1NzYzLC0xNzkxMTk4ND
+EyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2Niwt
+MTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3Nz
+Y5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3
+LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMT
+I5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2
+ODg5OF19
 -->
