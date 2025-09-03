@@ -665,7 +665,7 @@ Tournaments are very draining physically, mentally, and emotionally. Juniors usu
 Due to different rooms having different end times, it's hard to execute this, but do try to get everyone to congregate at a designated spot after every round to chill together. Without a contingent it's easy for people to feel lost and lonely.
 I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
-In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have 
+In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
 
 
 
@@ -970,7 +970,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NzUwNTA0MzksNTUxMjU3NjMsLTE3OTExOTg0MT
+c3RvcnkiOls1OTQwOTIwMDMsNTUxMjU3NjMsLTE3OTExOTg0MT
 IsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1NTY2LC0x
 ODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3Nj
 kyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcs
