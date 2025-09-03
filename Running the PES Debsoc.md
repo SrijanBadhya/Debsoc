@@ -703,7 +703,7 @@ cafe down the alley (talk about Mukhtalif)
 
 [Back to Table of Contents](#table-of-contents)
 
-we used to make everyone vote on the poll, even if it was a no. But it might be bad for optics to have many nos.
+
 
 Cubbon Park
 
@@ -995,11 +995,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4MT
-g3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4
-LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMT
-A2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMx
-ODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2My
-wtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1
-OTE3MDldfQ==
+c3RvcnkiOlstMjEyNDgzMDYxMywtMTE2MjgwNDYzMiw1NTYxMT
+U3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEz
+MiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNz
+kyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcx
+Mzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNS
+wtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkz
+MjY1ODgyXX0=
 -->
