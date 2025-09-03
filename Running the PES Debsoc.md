@@ -675,9 +675,9 @@ If the disappointment of participants builds up after every round, they may neve
 #### Breaks
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into happy people and sad people. 
 
-Congratulating your friends who broke is a great display of contingent spirit. 
+Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
- glorification of people who break
+The people who haven't 
 
 
 cafe down the alley (talk about Mukhtalif)
@@ -978,11 +978,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg4OTg5MTI2MywtMTMwNjgxODc3MSwtMTQyMT
-c0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMs
-LTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNz
-k3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQw
-MTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OC
-wyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1
-NzM3NTYxXX0=
+c3RvcnkiOlsxNzU0OTgwMTExLC0xMzA2ODE4NzcxLC0xNDIxNz
+Q4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2Mywt
+MTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OT
+c0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAx
+ODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LD
+IxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkxNzA5LDE3NjU3
+Mzc1NjFdfQ==
 -->
