@@ -703,7 +703,10 @@ The target audience for online tournaments is people in it solely for the debate
 Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
 I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
 So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
-The most memorable online tournament for me is SBS in early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
+The most memorable online tournament for me has been SBS in early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
+
+A few notes about online tournaments:
+PES wifi sometimes randomly blocks discord and randomly unblocks discord, sometimes 
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -1006,7 +1009,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIxODAzMDgyLC0zMzE3MzMwNzUsLTE5MDkzOD
+c3RvcnkiOlsyMTQ0NzM0MjI1LC0zMzE3MzMwNzUsLTE5MDkzOD
 A0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYz
 Miw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLT
 I2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4
