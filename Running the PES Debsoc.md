@@ -701,7 +701,8 @@ For so long I had felt jealous of people being congratulated, but when I and my 
 The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
 
 Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
-
+I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
+So if you end up sending them to an online tournament before an offline one, try to make it as offline-ey
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -1004,11 +1005,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUxNDQyNjY5NiwtMzMxNzMzMDc1LC0xOTA5Mz
-gwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2
-MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMzLC
-0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5MTE5
-ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1Nj
-YsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0
-Nzc2OTI2MTVdfQ==
+c3RvcnkiOlsxNjAzMDA2NTQyLC0zMzE3MzMwNzUsLTE5MDkzOD
+A0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYz
+Miw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLT
+I2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4
+NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2Ni
+wtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3
+NzY5MjYxNV19
 -->
