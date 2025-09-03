@@ -667,7 +667,7 @@ I've talked [before](#adjing-obstacles) about how judges feel extremely lonely a
 
 In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
 
-If the disappo
+If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
 
  glorification of people who break
 
@@ -970,7 +970,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA1ODk2NDU0OSw1NTEyNTc2MywtMTc5MTE5OD
+c3RvcnkiOlstMTQwNjExNDk1MCw1NTEyNTc2MywtMTc5MTE5OD
 QxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1NjYs
 LTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nz
 c2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0
