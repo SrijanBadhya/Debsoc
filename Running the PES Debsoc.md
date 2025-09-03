@@ -718,8 +718,13 @@ What I find to be the best place is the 13th floor of B block (heavy bias tbh). 
 These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
 
 How to access this place:
+(Obviously follow the following instructions in Kannada)
+
 Security guards might tell you that it's closed when you enter B block. Reply to this saying that you're not going inside, you'll just be outdoors. 
 If they say that it's restricted, tell them that the Debate Club is doing an online competition here, just like they have been doing for the last 2 years.  
+If all else fails, say that you know a security guard named Shankar. If Shankar is there, tell him that you're the kids of Srijan. 😂😂
+
+However they'll usually let you in without asking any questions. Just don't make sure a boy and a g
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -1022,11 +1027,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM2ODA5NDA2MSwtMzMxNzMzMDc1LC0xOTA5Mz
-gwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2
-MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMzLC
-0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5MTE5
-ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1Nj
-YsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0
-Nzc2OTI2MTVdfQ==
+c3RvcnkiOlstODAzMDI1MzY2LC0zMzE3MzMwNzUsLTE5MDkzOD
+A0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYz
+Miw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLT
+I2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4
+NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2Ni
+wtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3
+NzY5MjYxNV19
 -->
