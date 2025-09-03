@@ -677,9 +677,9 @@ Breaks are where emotional turbulence is at a high since it's the culmination of
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
-The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill, and it sucks to have worked hard but still be graded terribly.
+The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
 
-A few people including me believe glorifying the speaker score is useless and does more harm than good. 
+A few people including me believe glorifying the speaker score is useless and does more harm than good. Like I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality fluctuate
 
 
 cafe down the alley (talk about Mukhtalif)
@@ -980,11 +980,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk3OTIzOTY2MCwtMTMwNjgxODc3MSwtMTQyMT
-c0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMs
-LTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNz
-k3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQw
-MTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OC
-wyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1
-NzM3NTYxXX0=
+c3RvcnkiOlsxNzM5MTY4NDIsLTEzMDY4MTg3NzEsLTE0MjE3ND
+g4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0x
+NzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5Nz
+QxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4
+MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMj
+EzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTcz
+NzU2MV19
 -->
