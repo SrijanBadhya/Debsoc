@@ -732,7 +732,7 @@ You're allowed to order food to PES, collect it at the main gate, bring it up to
 
 #### Cafe Down The Alley
 
-This used to be our regular post session chilling spot back in 2023, but the last times I'v
+This used to be our regular post session hangout spot back in 2023, 
 Online tournaments 
 
 
@@ -1036,11 +1036,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTIxNDE0MTY1LDMxODM3NTcwNywtNzExMTAyNT
-cxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUs
-MTA1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMD
-Y4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMz
-NTE4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LD
-IxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5
-NjMxODk4NV19
+c3RvcnkiOlstMTgwNTI0MjY2NSwzMTgzNzU3MDcsLTcxMTEwMj
+U3MSwtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1
+LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0xMz
+A2ODE4NzcxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkz
+MzUxOCw1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NC
+wyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2
+OTYzMTg5ODVdfQ==
 -->
