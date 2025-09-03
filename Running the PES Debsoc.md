@@ -608,7 +608,8 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 
 [Back to Table of Contents](#table-of-contents)
 
-The major differences between tournaments and mocks are stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends). 
+The major differences between tournaments and mocks are:
+stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends)
 
 Aaaaaand the money.
 
@@ -647,7 +648,8 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
 
 ### Tournament Spirits
-  
+
+Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
@@ -953,11 +955,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNj
-MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
-ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
-MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
-NzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMDQsLTI0NDMwNjkwNy
-wxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMwMTUwMzUxMCwxMTA5
-MTc2MTExXX0=
+c3RvcnkiOlsxOTc1NDMyMDIxLC0xNzkxMTk4NDEyLC0xNzkyMD
+kwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4
+OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMT
+MyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1
+ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMTI5MDAxNDEwNC
+wtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2ODg5OCwtMzAx
+NTAzNTEwXX0=
 -->
