@@ -99,8 +99,9 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;5. [Miscellaneous](#miscellaneous)
 	&emsp;&emsp;a) [Teaching Debate](#teaching-debate)
 	&emsp;&emsp;b) [Pranks](#pranks)
-	&emsp;&emsp;c) [The PES Timetable](#the-damn-pes-timetable)
-	&emsp;&emsp;d) [WhatsApp](#whatsapp)
+	&emsp;&emsp;c) [Relatability](#relatability)
+	&emsp;&emsp;d) [The PES Timetable](#the-damn-pes-timetable)
+	&emsp;&emsp;e) [WhatsApp](#whatsapp)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -1003,11 +1004,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE0NDgzODMsLTExMDk1MjUyNjUsMTA1OTYyND
-g4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4MTg3NzEs
-LTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MT
-I1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAy
-NjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4NS
-wxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2
-OTEzNjhdfQ==
+c3RvcnkiOlstMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5Nj
+I0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3
+MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNT
+UxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYz
+MDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OT
+g1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0z
+MDY5MTM2OF19
 -->
