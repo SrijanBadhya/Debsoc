@@ -4,7 +4,7 @@
 
 # This House Would...
 
-Welcome valued Debsoc core member
+Welcome, valued Debsoc core member
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
 As seniors, it's our responsibility to not make our juniors feel lost about running the club. This document is extensive, but I want to make you aware of every incident that can pop up during recruitments and debate sessions.
@@ -891,7 +891,7 @@ Infoslide: Gentle parenting content has been trending on social media recently. 
 
 For the purpose of this debate, Momijection refers to an advanced biotechnology that safely and immediately removes sexual desires and erogenous zones. The effect is permanent and irreversible. (untested but too fun to delete)
 
-38. Without knowing anything else about the conditions of one's birth, This house would choose to be born aromantic and assexual
+38. Without knowing anything else about the conditions of one's birth, This house would choose to be born aromantic and asexual
 
 The term "aromantic", colloquially shortened to "aro", refers to a person who experiences no romantic desire or attraction
 
@@ -908,7 +908,7 @@ You are a retired professional boxer, renowned for an illustrious career and reg
 
 42. This house supports microretirement
 
-Microretiremenfers to taking a chunk or multiple chunks of time off work to experience life and travel while you're young, rather than waiting until actual retirement age in your 50s or 60s. It's similar to a sabbatical, and has also been dubbed an 'adult gap year'. 
+Microretirement refers to taking a chunk or multiple chunks of time off work to experience life and travel while you're young, rather than waiting until actual retirement age in your 50s or 60s. It's similar to a sabbatical, and has also been dubbed an 'adult gap year'. 
 
 
 
@@ -1004,11 +1004,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5Nj
-I0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3
-MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNT
-UxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYz
-MDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OT
-g1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0z
-MDY5MTM2OF19
+c3RvcnkiOlsxMzkxOTgwODE1LC0xOTA5MzgwNDc1LC0xMTA5NT
+I1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1
+LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMT
+ExMjkzMzUxOCw1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5
+MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4OD
+ksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEz
+MjEyMTIzNjNdfQ==
 -->
