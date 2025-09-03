@@ -684,7 +684,7 @@ Glorifying one person's speaker score for being the best speaker is kinda an ins
 Pragmatically, the good that you can claim comes out of this is that, "the speaker feels honored for the work they've done", and, "people get inspired to be like them". But usually the speaker feels happy enough with whatever other result they have already achieved. If you really want to do this, you can do this in private to them. Other people are also 'inspired enough' usually to debate, glorifying someone else is unlikely to result in extra effort from them, and can actually result in them feeling even worse about themselves. Sure, juniors aren't snowflakes, but there's no real point in hurting their self-esteem which is already bruised from the tournament. It's normal for humans to feel sad when it comes to something they care about.
 For so long I had felt jealous of people being congratulated, but when I and my teammate were on the receiving side, we didn't really find the glorification to be that special, it didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
 
-
+### Online Tournaments
 cafe down the alley (talk about Mukhtalif)
 
 ## Community
@@ -983,11 +983,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3ND
-g4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0x
-NzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5Nz
-QxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4
-MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMj
-EzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTcz
-NzU2MV19
+c3RvcnkiOlsyMDE5MTc2MzYxLDU1NjExNTcxNSwtMTMwNjgxOD
+c3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgs
+NTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMD
+YzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4
+OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC
+0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5
+MTcwOV19
 -->
