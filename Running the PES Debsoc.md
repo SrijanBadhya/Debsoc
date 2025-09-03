@@ -698,6 +698,7 @@ Pragmatically, the good that you can claim comes out of this is that, "the speak
 For so long I had felt jealous of people being congratulated, but when I and my teammate were on the receiving side, we didn't really find the glorification to be that special, it didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
 
 ### Online Tournaments
+
 The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
 
 Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
@@ -709,11 +710,11 @@ A few notes about online tournaments:
 PES wifi sometimes randomly blocks discord and randomly unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
 
 The major spots at PES with accessible wifi are the GJB library, the GJB cafeteria, and the 13th floor at PES. 
-The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover this place isn't open on Sundays.
+The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
 
-
+What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because 
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -1016,7 +1017,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTA0MTk5MjgzLC0zMzE3MzMwNzUsLTE5MDkzOD
+c3RvcnkiOlstMTIzMzIyMzQ3LC0zMzE3MzMwNzUsLTE5MDkzOD
 A0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYz
 Miw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLT
 I2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4
