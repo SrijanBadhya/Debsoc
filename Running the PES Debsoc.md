@@ -744,7 +744,7 @@ The counter arguments I've heard about this are
 
 
 ### Pranks
-I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during the recruitment days. You don't want recruits to associate a feeling of anxiety with the debsoc.
+I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during recruitment time. You don't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more i
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, or convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 
 ### Relatability
@@ -995,11 +995,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjEyNDgzMDYxMywtMTE2MjgwNDYzMiw1NTYxMT
-U3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEz
-MiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNz
-kyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcx
-Mzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNS
-wtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkz
-MjY1ODgyXX0=
+c3RvcnkiOlsxMjk1Mzk2NjI1LC0xMTYyODA0NjMyLDU1NjExNT
+cxNSwtMTMwNjgxODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMy
+LDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OT
+IwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEz
+ODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC
+0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMy
+NjU4ODJdfQ==
 -->
