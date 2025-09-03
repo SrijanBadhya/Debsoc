@@ -735,13 +735,15 @@ You're allowed to order food to PES, collect it at the main gate, bring it up to
 This used to be our regular post session hangout spot back in 2023, 
 but the last time I went here was after the online tournament Mukhtalif.
 
-Online tournaments can be severely lacking in fun, and it was hard for me to engage people in conversation post their debates, because I was busy preparing and giving my OAs. 
-I reached out to shenanigans 5.0, and they gave me the idea of chilling at Cafe Down The Alley.
+Online tournaments can be severely lacking in fun, and it was hard for me to engage people in conversation post their debates, because I was busy preparing and giving my OAs. People were sad and everyone wanted to quit before round 5.
+I reached out to shenanigans 5.0, and they gave me the idea of chilling at Cafe Down The Alley. (We still proceeded to quit round 5 lol)
 
 This was a great idea because it had food and great games. 
 Some people played Chess, sometimes people played Uno (I'll hate Debsoc Uno till my dying day because everyone debates over the rules), and we played Jenga, the greatest group game there (because it's so fun for everyone to experience people shaking the tower of blocks). 
 
-The food is on the pricier side and they unfortunately seem to no longer have a discount for PES s
+The food is on the pricier side and they unfortunately seem to no longer have a discount for PES students.
+
+I like how it's still able to simulate the fun chill vibe of acco at offline tournaments.
 
 ## Community
 
@@ -1042,11 +1044,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDU2MjgzNzU3LDMxODM3NTcwNywtNzExMTAyNT
-cxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUs
-MTA1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMD
-Y4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMz
-NTE4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LD
-IxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5
-NjMxODk4NV19
+c3RvcnkiOlstMjExMjcyMTY1NCwzMTgzNzU3MDcsLTcxMTEwMj
+U3MSwtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1
+LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0xMz
+A2ODE4NzcxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkz
+MzUxOCw1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NC
+wyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2
+OTYzMTg5ODVdfQ==
 -->
