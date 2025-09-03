@@ -136,7 +136,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 
 **However, some of us believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
 
-- To win tournaments, you might start prioritizing your attention to the people who already show potential and debate skills, to hone them further.
+- To win tournaments, you might start prioritizing your attention towards the people who already show potential and debate skills, to hone them further.
 - This could also mean that when you have limited tournament slots or resources, you give them to people already performing well.
 - **A hierarchy forms and people feel like worthless members when they're not the ones bringing in the accolades.** 
 - When a good debater becomes problematic, you're willing to let it slide because they're 'valuable to the soc'.
@@ -390,7 +390,7 @@ But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, but this can tire them out. Taking over their judging shifts and letting them speak gives them time to refresh.
 - My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to speed track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
-- Having too many seniors is always better than having too less seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
+- Having too many seniors is always better than having too few seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
 
 
  
@@ -1004,7 +1004,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzkxOTgwODE1LC0xOTA5MzgwNDc1LC0xMTA5NT
+c3RvcnkiOlsxNTk4MTA3MDY5LC0xOTA5MzgwNDc1LC0xMTA5NT
 I1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1
 LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMT
 ExMjkzMzUxOCw1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5
