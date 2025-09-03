@@ -89,6 +89,9 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;1. [Push To Come To Sessions](#push-to-come-to-sessions)
 	&emsp;2. [Informal Recruitments](#informal-recruitments)
 	&emsp;3. [Tournaments](#tournaments)
+	&emsp;&emsp;a)[Registration](#tournament-re
+	&emsp;&emsp;b)[Briefing]
+	&emsp;&emsp;c)[Spirits]
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -664,7 +667,7 @@ Every novice initially assumes that they'll only face novices in the tournament,
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
 
 
-### Tournament spirits
+### Tournament Spirits
 Due to different rooms having different end times, it's hard to execute this, but do try to get everyone to congregate at a designated spot after every round to chill together. Without a contingent it's easy for people to feel lost and lonely.
 I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
@@ -687,7 +690,8 @@ For so long I had felt jealous of people being congratulated, but when I and my 
 ### Online Tournaments
 The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
 
-Initially though, online tournaments are popular with juniors who want to do a tour
+Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
+
 
 cafe down the alley (talk about Mukhtalif)
 
@@ -987,11 +991,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MzcxMDY0MTMsNTU2MTE1NzE1LC0xMzA2ODE4Nz
-cxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1
-NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNj
-MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
-ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
-MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
-NzA5XX0=
+c3RvcnkiOlstNDU4NzI4NTk5LDU1NjExNTcxNSwtMTMwNjgxOD
+c3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgs
+NTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMD
+YzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4
+OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC
+0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5
+MTcwOV19
 -->
