@@ -649,7 +649,10 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 
 ### Tournament Spirits
 
-Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate 
+Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
+- They might reach home later than they told their parents to expect them.
+- They might miss out on eating food at all if you don't tell them the strategic time to eat food.
+- There are a lot of possible logistic issues like all members of a team f
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
@@ -955,7 +958,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTc1NDMyMDIxLC0xNzkxMTk4NDEyLC0xNzkyMD
+c3RvcnkiOlsxNTUxODQ4NDQwLC0xNzkxMTk4NDEyLC0xNzkyMD
 kwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4
 OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMT
 MyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1
