@@ -654,7 +654,12 @@ Debate tournaments have a stark difference between expectations and reality for 
 - They might miss out on eating food at all if you don't tell them the strategic time to eat food.
 - There are a lot of possible logistic issues like all members of a team filling feedback, trainees being confused about filling the ballot, a bunch of other tabbycat issues like navigating on your private url, etc
 - They might expect the tournament to provide food so they won't have made their own food plans like lunch boxes.
-- 
+
+One briefing session before their first tournament, talking about the logistics, equity, and anything else, can go a long way.
+
+The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. 
+
+
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
@@ -960,7 +965,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTA1NzU0MTk3LC0xNzkxMTk4NDEyLC0xNzkyMD
+c3RvcnkiOlsxMDMzMTI1NjUyLC0xNzkxMTk4NDEyLC0xNzkyMD
 kwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4
 OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMT
 MyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1
