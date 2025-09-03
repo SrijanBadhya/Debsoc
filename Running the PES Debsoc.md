@@ -96,6 +96,10 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;&emsp;d )[Spirits](#tournament-spirits)
 	&emsp;&emsp;e) [Online Tournaments](#online-tournaments)
 	&emsp;4. [Community](#community)
+	&emsp;5. [Miscellaneous](#miscellaneous)
+	&emsp;&emsp;a) [Teaching Debate](#teaching-debate)
+	&emsp;&emsp;b) [Pranks](#pranks)
+	&emsp;&emsp;c) [The PES Timetable](#the-damn-pe-timetable)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -996,11 +1000,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDU5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNT
-cxNSwtMTMwNjgxODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMy
-LDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OT
-IwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEz
-ODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC
-0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMy
-NjU4ODJdfQ==
+c3RvcnkiOls1MDE2MzM2OTIsMTA1OTYyNDg4MywtMTE2MjgwND
+YzMiw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMs
+LTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMT
+k4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2
+NiwtMTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LD
+Q3NzY5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1
+NDQ3XX0=
 -->
