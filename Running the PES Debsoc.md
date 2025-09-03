@@ -677,7 +677,7 @@ Breaks are where emotional turbulence is at a high since it's the culmination of
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
-The people who haven't 
+The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. A few p
 
 
 cafe down the alley (talk about Mukhtalif)
@@ -978,7 +978,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzU0OTgwMTExLC0xMzA2ODE4NzcxLC0xNDIxNz
+c3RvcnkiOlstMTE5ODc5NTYwLC0xMzA2ODE4NzcxLC0xNDIxNz
 Q4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2Mywt
 MTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OT
 c0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAx
