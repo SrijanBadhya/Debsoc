@@ -791,7 +791,8 @@ I think this is rather dumb, especially since the Debsoc desires to do marketing
 <br>
 <br>
 
-> If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and attention span to read my ginormous Yap.  Thank you for giving me a voice.
+> If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span to read my ginormous Yap.  
+> Thank you for giving me a voice.
 
 ## Motion list
 
@@ -1002,11 +1003,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDMzOTg2MTk2LDEwNTk2MjQ4ODMsLTExNjI4MD
-Q2MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4ODMz
-LC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5MT
-E5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1
-NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OS
-w0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2
-NTQ0N119
+c3RvcnkiOlstMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMTYyOD
+A0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0ODgz
+MywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OT
+ExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1
+NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNj
+ksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5
+NjU0NDddfQ==
 -->
