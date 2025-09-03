@@ -673,7 +673,9 @@ In groups that form naturally, a few juniors are often left out of the conversat
 If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
 
 #### Breaks
-Breaks are where 
+Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into happy people and sad people. 
+
+
 
  glorification of people who break
 
@@ -976,11 +978,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5Mz
-M1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQs
-MjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNj
-k2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEy
-MzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLT
-QxOTU5MTcwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQz
-MDY5MDddfQ==
+c3RvcnkiOlstMTMwNjgxODc3MSwtMTQyMTc0ODgzMywtMjY4Mj
+kxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIs
+LTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xOD
+E4NzEzODg5LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3Njky
+NjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLT
+E2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0xMjkw
+MDE0MTA0XX0=
 -->
