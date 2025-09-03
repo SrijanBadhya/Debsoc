@@ -730,7 +730,10 @@ However they'll usually let you in without asking any questions. Just don't make
 You're allowed to order food to PES, collect it at the main gate, bring it up to 13th floor and eat there. 
 
 
+#### Cafe Down The Alley
 
+This used to be our regular post session chilling spot back in 2023, but the last times I'v
+Online tournaments 
 
 
 
@@ -1033,7 +1036,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDYxMzM5NDAxLDMxODM3NTcwNywtNzExMTAyNT
+c3RvcnkiOlsxOTIxNDE0MTY1LDMxODM3NTcwNywtNzExMTAyNT
 cxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUs
 MTA1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMD
 Y4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMz
