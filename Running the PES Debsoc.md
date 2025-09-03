@@ -89,9 +89,12 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;1. [Push To Come To Sessions](#push-to-come-to-sessions)
 	&emsp;2. [Informal Recruitments](#informal-recruitments)
 	&emsp;3. [Tournaments](#tournaments)
-	&emsp;&emsp;a)[Registration](#tournament-re
-	&emsp;&emsp;b)[Briefing]
-	&emsp;&emsp;c)[Spirits]
+	&emsp;&emsp;a)[Freeloaders](#freeloaders)
+	&emsp;&emsp;b)[Registration](#tournament-registration)
+	&emsp;&emsp;c)[Briefing](#tournament-briefing)
+	&emsp;&emsp;d)[Spirits](#tournament-spirits)
+	&emsp;&emsp;e)[
+	&emsp;4. [Community](#community)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -991,11 +994,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDU4NzI4NTk5LDU1NjExNTcxNSwtMTMwNjgxOD
-c3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgs
-NTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMD
-YzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4
-OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC
-0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5
-MTcwOV19
+c3RvcnkiOls0Mzk4MzQ4NTQsNTU2MTE1NzE1LC0xMzA2ODE4Nz
+cxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1
+NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNj
+MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
+ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
+MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
+NzA5XX0=
 -->
