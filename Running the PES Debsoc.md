@@ -648,6 +648,7 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
 
 ### Tournament Spirits
+Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
 
 Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
 - They might reach home later than they told their parents to expect them.
@@ -970,11 +971,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4ND
-EyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2Niwt
-MTgxODcxMzg4OSwtMTY5NjMxODk4NSwxMDU0MDE4MTY5LDQ3Nz
-Y5MjYxNSwtMTMyMTIxMjM2MywtMzA2OTEzNjgsMjEzOTY1NDQ3
-LC0xNjkzMjY1ODgyLC00MTk1OTE3MDksMTc2NTczNzU2MSwtMT
-I5MDAxNDEwNCwtMjQ0MzA2OTA3LDExMjkzMzUwNzAsMTc0MTc2
-ODg5OF19
+c3RvcnkiOlstMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3Nj
+MsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwx
+Nzk3NDE1NTY2LC0xODE4NzEzODg5LC0xNjk2MzE4OTg1LDEwNT
+QwMTgxNjksNDc3NjkyNjE1LC0xMzIxMjEyMzYzLC0zMDY5MTM2
+OCwyMTM5NjU0NDcsLTE2OTMyNjU4ODIsLTQxOTU5MTcwOSwxNz
+Y1NzM3NTYxLC0xMjkwMDE0MTA0LC0yNDQzMDY5MDcsMTEyOTMz
+NTA3MF19
 -->
