@@ -650,10 +650,10 @@ MAKE SURE you collect money from everybody before paying the sum total to the to
 ### Tournament Spirits
 
 Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
+- They might leave some task unfinished at home unaware that they can continue the task 
 - They might reach home later than they told their parents to expect them.
 - They might miss out on eating food at all if you don't tell them the strategic time to eat food.
 - There are a lot of possible logistic issues like all members of a team filling feedback, trainees being confused about filling the ballot, 
-- 
 Especially in tourneys, ask questions about rounds, constantly acknowledge their existence, judging feels really lonely otherwise
 
 
@@ -959,11 +959,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTQ0Mzg5MTUsLTE3OTExOTg0MTIsLTE3OTIwOT
-AyNTQsMjExMDYzMDI2MCwxNzk3NDE1NTY2LC0xODE4NzEzODg5
-LC0xNjk2MzE4OTg1LDEwNTQwMTgxNjksNDc3NjkyNjE1LC0xMz
-IxMjEyMzYzLC0zMDY5MTM2OCwyMTM5NjU0NDcsLTE2OTMyNjU4
-ODIsLTQxOTU5MTcwOSwxNzY1NzM3NTYxLC0xMjkwMDE0MTA0LC
-0yNDQzMDY5MDcsMTEyOTMzNTA3MCwxNzQxNzY4ODk4LC0zMDE1
-MDM1MTBdfQ==
+c3RvcnkiOlstMTAxODI5MzI4NiwtMTc5MTE5ODQxMiwtMTc5Mj
+A5MDI1NCwyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4
+ODksLTE2OTYzMTg5ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLT
+EzMjEyMTIzNjMsLTMwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2
+NTg4MiwtNDE5NTkxNzA5LDE3NjU3Mzc1NjEsLTEyOTAwMTQxMD
+QsLTI0NDMwNjkwNywxMTI5MzM1MDcwLDE3NDE3Njg4OTgsLTMw
+MTUwMzUxMF19
 -->
