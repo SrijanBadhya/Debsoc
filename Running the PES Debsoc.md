@@ -99,7 +99,8 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;5. [Miscellaneous](#miscellaneous)
 	&emsp;&emsp;a) [Teaching Debate](#teaching-debate)
 	&emsp;&emsp;b) [Pranks](#pranks)
-	&emsp;&emsp;c) [The PES Timetable](#the-damn-pe-timetable)
+	&emsp;&emsp;c) [The PES Timetable](#the-damn-pes-timetable)
+	&emsp;&emsp;d) [WhatsApp](#whatsapp)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -768,7 +769,7 @@ Allowing people to join sessions late does mitigate this, but this is really har
 
 
 
-### Whatsapp
+### WhatsApp
 Allowing people to text whatever they want, and making them feel comfortable, is ideal for them to bond together, get connected to the community, and encourage more future engagement with the club. (Equity rules can still apply, that's up to the equity community, I will not speak about it). 
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
 The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
@@ -786,10 +787,12 @@ PES clubs often tell juniors to market events on every group they are a part of.
 The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
+<br>
+<br>
+<br>
 
-
-If you reached here, I admire your effort and commitment to the Debsoc, to read my ginormous Yap. 
-Thank you for giving me a voice.
+> If you reached all the way here, I admire your effort and commitment to the
+> Debsoc, to read my ginormous Yap.  Thank you for giving me a voice.
 
 ## Motion list
 
@@ -1000,7 +1003,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MDE2MzM2OTIsMTA1OTYyNDg4MywtMTE2MjgwND
+c3RvcnkiOls4MjIwNjAxMDEsMTA1OTYyNDg4MywtMTE2MjgwND
 YzMiw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMs
 LTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMT
 k4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2
