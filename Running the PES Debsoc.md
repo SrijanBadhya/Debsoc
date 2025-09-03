@@ -192,7 +192,7 @@ I personally say don't judge the club at all.
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are going to feel sad at the end of a session. Sadness cannot be avoided, only minimized.
 
-Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with it for what it is, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate).
+Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with the real thing, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, to push them towards the love point is crucial. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate).
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality.
 
 What I mean by this is:
@@ -1036,11 +1036,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgwNTI0MjY2NSwzMTgzNzU3MDcsLTcxMTEwMj
-U3MSwtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1
-LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0xMz
-A2ODE4NzcxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkz
-MzUxOCw1NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NC
-wyMTEwNjMwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2
-OTYzMTg5ODVdfQ==
+c3RvcnkiOlstMjkyMDI5ODIzLDMxODM3NTcwNywtNzExMTAyNT
+cxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUs
+MTA1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMD
+Y4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMz
+NTE4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LD
+IxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5
+NjMxODk4NV19
 -->
