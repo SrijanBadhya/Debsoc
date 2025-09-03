@@ -85,15 +85,16 @@ IV. [Adj Rant](#adj-rant)
 
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
+
 VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;1. [Push To Come To Sessions](#push-to-come-to-sessions)
 	&emsp;2. [Informal Recruitments](#informal-recruitments)
 	&emsp;3. [Tournaments](#tournaments)
-	&emsp;&emsp;a)[Freeloaders](#freeloaders)
-	&emsp;&emsp;b)[Registration](#tournament-registration)
-	&emsp;&emsp;c)[Briefing](#tournament-briefing)
-	&emsp;&emsp;d)[Spirits](#tournament-spirits)
-	&emsp;&emsp;e)[
+	&emsp;&emsp;a) [Freeloaders](#freeloaders)
+	&emsp;&emsp;b) [Registration](#tournament-registration)
+	&emsp;&emsp;c) [Briefing](#tournament-briefing)
+	&emsp;&emsp;d )[Spirits](#tournament-spirits)
+	&emsp;&emsp;e) [Online Tournaments](#online-tournaments)
 	&emsp;4. [Community](#community)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
@@ -994,11 +995,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0Mzk4MzQ4NTQsNTU2MTE1NzE1LC0xMzA2ODE4Nz
-cxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1
-NTEyNTc2MywtMTc5MTE5ODQxMiwtMTc5MjA5MDI1NCwyMTEwNj
-MwMjYwLDE3OTc0MTU1NjYsLTE4MTg3MTM4ODksLTE2OTYzMTg5
-ODUsMTA1NDAxODE2OSw0Nzc2OTI2MTUsLTEzMjEyMTIzNjMsLT
-MwNjkxMzY4LDIxMzk2NTQ0NywtMTY5MzI2NTg4MiwtNDE5NTkx
-NzA5XX0=
+c3RvcnkiOlstMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4MT
+g3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4
+LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMT
+A2MzAyNjAsMTc5NzQxNTU2NiwtMTgxODcxMzg4OSwtMTY5NjMx
+ODk4NSwxMDU0MDE4MTY5LDQ3NzY5MjYxNSwtMTMyMTIxMjM2My
+wtMzA2OTEzNjgsMjEzOTY1NDQ3LC0xNjkzMjY1ODgyLC00MTk1
+OTE3MDldfQ==
 -->
