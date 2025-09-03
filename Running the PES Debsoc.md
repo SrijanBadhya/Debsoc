@@ -743,7 +743,7 @@ Some people played Chess, sometimes people played Uno (I'll hate Debsoc Uno till
 
 The food is on the pricier side and they unfortunately seem to no longer have a discount for PES students.
 
-I like how it's still able to simulate the fun chill vibe of acco at offline tournaments.
+I like how it's still able to simulate the fun chill vibe of acco at offline tournaments. It also has the novelty that makes it feel like we're going out instead of staying at PES.
 
 ## Community
 
@@ -1044,7 +1044,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjExMjcyMTY1NCwzMTgzNzU3MDcsLTcxMTEwMj
+c3RvcnkiOlstMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEwMj
 U3MSwtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1
 LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0xMz
 A2ODE4NzcxLC0xNDIxNzQ4ODMzLC0yNjgyOTExMzIsMTExMjkz
