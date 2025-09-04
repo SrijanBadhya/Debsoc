@@ -749,7 +749,8 @@ I like how it's still able to simulate the fun chill vibe of acco at offline tou
 
 [Back to Table of Contents](#table-of-contents)
 
-Write about inbreeding 
+Write about inbreeding somewhere in some other section. Novice crossmocks don't add that much value. Also talk about recordings on Youtue and how these can add as much value as high level crossmocks.
+Maybe talk about doing speeches and then seeing how the people in the recording did it. 
 
 Cubbon Park
 
@@ -1044,7 +1045,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzE4MDgwMDk2LC0xODc4NTAxMjUzLDMxODM3NT
+c3RvcnkiOlstMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMxODM3NT
 cwNywtNzExMTAyNTcxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUs
 LTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYzMiw1NT
 YxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5
