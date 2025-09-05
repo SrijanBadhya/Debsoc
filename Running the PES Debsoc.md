@@ -764,7 +764,9 @@ Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
 Cubbon vibes are unattainable on regular days at PES. 
 Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people were split between Saturday and Sunday, we did both, but that was too exhausting.
 
-Every Cubbon, there has been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we 
+Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
+
+
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
@@ -1057,7 +1059,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk1MDMwMDIyMSwtMTAwOTE4MTM5MCwtMTczOT
+c3RvcnkiOlstMTU0MTY4MDYzNywtMTAwOTE4MTM5MCwtMTczOT
 I4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcx
 LC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMT
 A1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4
