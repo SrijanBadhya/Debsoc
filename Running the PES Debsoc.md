@@ -765,6 +765,9 @@ Cubbon vibes are unattainable on regular days at PES.
 Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people were split between Saturday and Sunday, we did both, but that was too exhausting.
 
 Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
+We've played kabaddi, dog and the bone, mafia, and card games.
+
+The most difficult part of cubbon has been the arrival. For people's first cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume 
 
 
 
@@ -1059,11 +1062,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU0MTY4MDYzNywtMTAwOTE4MTM5MCwtMTczOT
-I4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcx
-LC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMT
-A1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4
-MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNT
-E4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIx
-MTA2MzAyNjBdfQ==
+c3RvcnkiOlstNDE4NDAxNzI0LC0xMDA5MTgxMzkwLC0xNzM5Mj
+gzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEs
+LTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMD
+U5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgx
+ODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MT
+gsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjEx
+MDYzMDI2MF19
 -->
