@@ -783,7 +783,7 @@ Put extra effort to talk to everyone so that they don't feel like they're part o
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
-Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater"
+Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
@@ -1061,11 +1061,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU2MDI4NDE1MCwtMjAyMjcyMDg2MSwxOTUzND
-Q5NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzODQsLTE4Nzg1MDEy
-NTMsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMzMTczMzA3NSwtMT
-kwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMTYy
-ODA0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0OD
-gzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3
-OTExOTg0MTJdfQ==
+c3RvcnkiOlsyOTYwNzYzMjQsLTE1NjAyODQxNTAsLTIwMjI3Mj
+A4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4Mzg0
+LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcxLC0zMz
+E3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMTA1OTYy
+NDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4MTg3Nz
+EsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1
+MTI1NzYzXX0=
 -->
