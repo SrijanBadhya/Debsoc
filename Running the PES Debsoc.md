@@ -771,7 +771,7 @@ We've played kabaddi, dog and the bone, mafia, and card games.
 The most difficult part of cubbon has been the arrival. For people's first cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up). 
 
 
-
+### Beyond The Debates
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
@@ -787,7 +787,7 @@ Talk about how you succeed and get soc loyalty at the point where the person, "S
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
-
+**It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
 ## Miscellaneous
@@ -813,9 +813,6 @@ The counter arguments I've heard about this are
 I support not playing pranks in the initial days because it erodes trust in the clubheads. Especially not pranks like, "you won't get in to debsoc" during recruitment time. You don't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than you'd think.
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 
-### Relatability
-Speaking of lore,
-**It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
 ### The damn PES timetable
@@ -1064,11 +1061,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDU4MTM2MDgxLC0yMDIyNzIwODYxLDE5NTM0ND
-k0NzIsLTEwMDkxODEzOTAsLTE3MzkyODM4NCwtMTg3ODUwMTI1
-MywzMTgzNzU3MDcsLTcxMTEwMjU3MSwtMzMxNzMzMDc1LC0xOT
-A5MzgwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4
-MDQ2MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4OD
-MzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5
-MTE5ODQxMl19
+c3RvcnkiOlstMTYzMjE4NzQ0NiwtMjAyMjcyMDg2MSwxOTUzND
+Q5NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzODQsLTE4Nzg1MDEy
+NTMsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMzMTczMzA3NSwtMT
+kwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMTYy
+ODA0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0OD
+gzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3
+OTExOTg0MTJdfQ==
 -->
