@@ -775,6 +775,7 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 
 ### Beyond The Debates
 
+
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
 
@@ -1063,11 +1064,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NT
-E5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUw
-LC0yMDIyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLT
-E3MzkyODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEw
-MjU3MSwtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1Mj
-Y1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0x
-MzA2ODE4NzcxXX0=
+c3RvcnkiOlstMTEwNzcwNTE5NywtMjEyOTA2MjUyNywtMTY4Mz
+cyMjU4NiwtNTU0NTE5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0
+LC0xNTYwMjg0MTUwLC0yMDIyNzIwODYxLDE5NTM0NDk0NzIsLT
+EwMDkxODEzOTAsLTE3MzkyODM4NCwtMTg3ODUwMTI1MywzMTgz
+NzU3MDcsLTcxMTEwMjU3MSwtMzMxNzMzMDc1LC0xOTA5MzgwND
+c1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIs
+NTU2MTE1NzE1XX0=
 -->
