@@ -763,7 +763,7 @@ Maybe talk about doing speeches and then seeing how the people in the recording 
 Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
 Cubbon vibes are unattainable on regular days at PES. 
 Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people were split between Saturday and Sunday, we did both, but that was too exhausting.
-As I've mentioned before, the opportunities to hold cubbon sessions are rare due to 
+As I've mentioned later, the opportunities for Cubbon Park sessions are rare and you should grab them if you want them. Vacation time may seem ideal but you're bound to miss out on hostelites who go home. 
 
 Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
 We've played kabaddi, dog and the bone, mafia, and card games.
@@ -1063,7 +1063,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA1NjUwMDkwMywtMTAwOTE4MTM5MCwtMTczOT
+c3RvcnkiOlstMjA2MTc2MDExNCwtMTAwOTE4MTM5MCwtMTczOT
 I4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcx
 LC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMT
 A1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4
