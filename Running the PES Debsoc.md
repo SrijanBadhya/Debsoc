@@ -767,7 +767,7 @@ Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people 
 Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
 We've played kabaddi, dog and the bone, mafia, and card games.
 
-The most difficult part of cubbon has been the arrival. For people's first cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume 
+The most difficult part of cubbon has been the arrival. For people's first cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start debate/activity, and how long you're ready to 
 
 
 
@@ -1062,7 +1062,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE4NDAxNzI0LC0xMDA5MTgxMzkwLC0xNzM5Mj
+c3RvcnkiOlsyMDMyNDAzNTA4LC0xMDA5MTgxMzkwLC0xNzM5Mj
 gzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEs
 LTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMD
 U5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgx
