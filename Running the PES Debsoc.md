@@ -354,6 +354,9 @@ It was fun cuz of how goofy it was, and very time efficient too.
 Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more participants, this format isn't as impactful because they don't feel the time crunch as much.
 It's a good way to keep you on your feet and make you better prepared for tourney time crunches.
 
+#### Pop debates
+The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do be
+
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
 
@@ -1045,11 +1048,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMxODM3NT
-cwNywtNzExMTAyNTcxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUs
-LTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMTE2MjgwNDYzMiw1NT
-YxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5
-MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC
-0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5NzQxNTU2NiwtMTgx
-ODcxMzg4OV19
+c3RvcnkiOlstNzI5NjE4NjE4LC0xNzM5MjgzODQsLTE4Nzg1MD
+EyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMzMTczMzA3NSwt
+MTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMT
+YyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0
+ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MTgsNTUxMjU3NjMsLT
+E3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjExMDYzMDI2MCwxNzk3
+NDE1NTY2XX0=
 -->
