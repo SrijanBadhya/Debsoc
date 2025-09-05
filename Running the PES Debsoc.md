@@ -759,6 +759,8 @@ I like how it's still able to simulate the fun chill vibe of acco at offline tou
 Write about inbreeding somewhere in some other section. Novice crossmocks don't add that much value. Also talk about recordings on Youtue and how these can add as much value as high level crossmocks.
 Maybe talk about doing speeches and then seeing how the people in the recording did it. 
 
+Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
+Cubbon vibesa
 Cubbon Park
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
@@ -1052,11 +1054,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwOTE4MTM5MCwtMTczOTI4Mzg0LC0xODc4NT
-AxMjUzLDMxODM3NTcwNywtNzExMTAyNTcxLC0zMzE3MzMwNzUs
-LTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4MywtMT
-E2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4MTg3NzEsLTE0MjE3
-NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNTE4LDU1MTI1NzYzLC
-0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIxMTA2MzAyNjAsMTc5
-NzQxNTU2Nl19
+c3RvcnkiOlstMTExNzMxNjc3LC0xMDA5MTgxMzkwLC0xNzM5Mj
+gzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEs
+LTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMD
+U5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgx
+ODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MT
+gsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjEx
+MDYzMDI2MF19
 -->
