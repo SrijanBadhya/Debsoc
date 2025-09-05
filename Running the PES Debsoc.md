@@ -761,9 +761,9 @@ Maybe talk about doing speeches and then seeing how the people in the recording 
 
 ### Cubbon Park
 Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
-Cubbon vibes are unattainable on regular days at PES. 
+Cubbon vibes are unattainable on regular days at PES. Cubbon sessions also have way more turnout because Bang
 Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people were split between Saturday and Sunday, we did both, but that was too exhausting.
-As I've mentioned later, the opportunities for Cubbon Park sessions are rare and you should grab them if you want them. Vacation time may seem ideal but you're bound to miss out on hostelites who go home. 
+As I've mentioned later, the opportunities for Cubbon Park sessions are rare and you should grab them if you want them. Vacation time may seem ideal but you're bound to miss out on hostelites who go home. Holding them a few times a year keeps them accessible to everyone.
 
 Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
 We've played kabaddi, dog and the bone, mafia, and card games.
@@ -1063,11 +1063,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA2MTc2MDExNCwtMTAwOTE4MTM5MCwtMTczOT
-I4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcx
-LC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMT
-A1OTYyNDg4MywtMTE2MjgwNDYzMiw1NTYxMTU3MTUsLTEzMDY4
-MTg3NzEsLTE0MjE3NDg4MzMsLTI2ODI5MTEzMiwxMTEyOTMzNT
-E4LDU1MTI1NzYzLC0xNzkxMTk4NDEyLC0xNzkyMDkwMjU0LDIx
-MTA2MzAyNjBdfQ==
+c3RvcnkiOlsxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5Mj
+gzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEs
+LTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMD
+U5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgx
+ODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMTMyLDExMTI5MzM1MT
+gsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3OTIwOTAyNTQsMjEx
+MDYzMDI2MF19
 -->
