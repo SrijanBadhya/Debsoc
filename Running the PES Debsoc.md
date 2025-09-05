@@ -772,6 +772,7 @@ The most difficult part of cubbon has been the arrival. For people's first cubbo
 
 
 
+
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
 
@@ -1063,11 +1064,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAyMjcyMDg2MSwxOTUzNDQ5NDcyLC0xMDA5MT
-gxMzkwLC0xNzM5MjgzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3
-LC03MTExMDI1NzEsLTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMT
-EwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjEx
-NTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0ODgzMywtMjY4MjkxMT
-MyLDExMTI5MzM1MTgsNTUxMjU3NjMsLTE3OTExOTg0MTIsLTE3
-OTIwOTAyNTRdfQ==
+c3RvcnkiOlsyMDU4MTM2MDgxLC0yMDIyNzIwODYxLDE5NTM0ND
+k0NzIsLTEwMDkxODEzOTAsLTE3MzkyODM4NCwtMTg3ODUwMTI1
+MywzMTgzNzU3MDcsLTcxMTEwMjU3MSwtMzMxNzMzMDc1LC0xOT
+A5MzgwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4ODMsLTExNjI4
+MDQ2MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0xNDIxNzQ4OD
+MzLC0yNjgyOTExMzIsMTExMjkzMzUxOCw1NTEyNTc2MywtMTc5
+MTE5ODQxMl19
 -->
