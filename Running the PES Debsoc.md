@@ -775,7 +775,7 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 
 ### Beyond The Debates
 
-Circles form in an average debate session quite often. These circles can be both physical with body 
+Circles form in an average debate session quite often. These circles can be both physical with body posture, and metaphysical with one new or 
 It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
@@ -1066,11 +1066,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzkwNjE3MDAwLC0xMTA3NzA1MTk3LC0yMTI5MD
-YyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQsMTgzMDQ3OTgz
-NiwyOTYwNzYzMjQsLTE1NjAyODQxNTAsLTIwMjI3MjA4NjEsMT
-k1MzQ0OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4Mzg0LC0xODc4
-NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcxLC0zMzE3MzMwNz
-UsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMTA1OTYyNDg4Mywt
-MTE2MjgwNDYzMl19
+c3RvcnkiOls5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNj
+I1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2
+LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcyMDg2MSwxOT
+UzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzODQsLTE4Nzg1
+MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMzMTczMzA3NS
+wtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0x
+MTYyODA0NjMyXX0=
 -->
