@@ -357,7 +357,9 @@ It's a good way to keep you on your feet and make you better prepared for tourne
 #### Pop debates
 The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do because you can ask it to give you, "Naruto debate motions", and it actually cooks fun motions. 
 The issue with this is that not all of the debaters would have watched Naruto, so they don't share in the fun. 
-Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each others likes and dislikes, 
+Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone.
+
+This variety of debate activities keeps it fresh and fun.
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -1050,7 +1052,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTMyNTYxMjcwLC0xNzM5MjgzODQsLTE4Nzg1MD
+c3RvcnkiOlstNjIxNjg0MTY4LC0xNzM5MjgzODQsLTE4Nzg1MD
 EyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMzMTczMzA3NSwt
 MTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMDU5NjI0ODgzLC0xMT
 YyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgxODc3MSwtMTQyMTc0
