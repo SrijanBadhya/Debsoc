@@ -762,7 +762,7 @@ Maybe talk about doing speeches and then seeing how the people in the recording 
 ### Cubbon Park
 Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
 Cubbon vibes are unattainable on regular days at PES. 
-Cubbon Park
+Cubbon Park is usually scheduled for a Saturday or Sunday. One time we did both to reach pe
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
 
@@ -1055,7 +1055,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzg1NDMyMDk5LC0xMDA5MTgxMzkwLC0xNzM5Mj
+c3RvcnkiOlsxMTA1NDkwMTY5LC0xMDA5MTgxMzkwLC0xNzM5Mj
 gzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEs
 LTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwxMD
 U5NjI0ODgzLC0xMTYyODA0NjMyLDU1NjExNTcxNSwtMTMwNjgx
