@@ -789,7 +789,7 @@ Talk about how you succeed and get soc loyalty at the point where the person, "S
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
-**It's great to talk about how you went through the same struggles, having a love hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
+**It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
 ## Miscellaneous
@@ -1063,11 +1063,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY4MzcyMjU4NiwtNTU0NTE5OTU0LDE4MzA0Nz
-k4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMDIyNzIwODYx
-LDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLTE3MzkyODM4NCwtMT
-g3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEwMjU3MSwtMzMxNzMz
-MDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1LDEwNTk2MjQ4OD
-MsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0xMzA2ODE4NzcxLC0x
-NDIxNzQ4ODMzXX0=
+c3RvcnkiOlstMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NT
+E5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUw
+LC0yMDIyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLT
+E3MzkyODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEw
+MjU3MSwtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1Mj
+Y1LDEwNTk2MjQ4ODMsLTExNjI4MDQ2MzIsNTU2MTE1NzE1LC0x
+MzA2ODE4NzcxXX0=
 -->
