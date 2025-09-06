@@ -852,7 +852,11 @@ Spam by seniors happens often due to accidents, and as long as you realize, cut 
 
 PES clubs often tell juniors to market events on every group they are a part of.
 The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
-I think this is rather dumb, especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
+
+I think this is rather dumb, 
+- especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. 
+- We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing 
+- If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
 <br>
 <br>
@@ -1070,11 +1074,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NT
-kyLC0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2
-LC01NTQ1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1Nj
-AyODQxNTAsLTIwMjI3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4
-MTM5MCwtMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNy
-wtNzExMTAyNTcxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTEx
-MDk1MjUyNjVdfQ==
+c3RvcnkiOlstMTE1NDA4MjkyNiwtNjE4MDI3NjQ4LC0xNjY0Nj
+UyODIsOTczNjc2NTkyLC0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3
+LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQsMTgzMDQ3OTgzNiwyOT
+YwNzYzMjQsLTE1NjAyODQxNTAsLTIwMjI3MjA4NjEsMTk1MzQ0
+OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4Mzg0LC0xODc4NTAxMj
+UzLDMxODM3NTcwNywtNzExMTAyNTcxLC0zMzE3MzMwNzUsLTE5
+MDkzODA0NzVdfQ==
 -->
