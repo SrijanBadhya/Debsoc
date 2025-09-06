@@ -217,7 +217,8 @@ If you're reading this, you would have already faced the grueling learning curve
 - Keeping it challenging yet making people feel like they were able to contribute something significant is key.
 - Even the easiest motions are challenging to recruits due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
 
-
+![image](https://i.ibb.co/tPCYNSgR/sadaboutdebate1.png)
+![image](https://i.ibb.co/dw3rpnpr/sadaboutdebate2.png)
 - **Love for debate can't really be tested from day one.**
 
 
@@ -1097,11 +1098,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMj
-kyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzksLTEy
-NjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgwMj
-c2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcs
-LTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxOD
-MwNDc5ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcy
-MDg2MV19
+c3RvcnkiOls3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2Mz
+YsMTMxOTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMy
+Nzc0NDc5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Nj
+g3OSwtNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC0x
+MTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NT
+Q1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQx
+NTBdfQ==
 -->
