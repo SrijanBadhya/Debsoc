@@ -181,7 +181,7 @@ I personally say don't judge the club at all.
 # Recruitments
 [Back to Table of Contents](#table-of-contents)
 
-remember to add this picture in recruitments later Srijan
+remember to add these pictures in recruitments later Srijan
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
   
@@ -1104,7 +1104,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIzMDcxMDkyMywxOTE2Njg5NDk3LDgwNzU4Mj
+c3RvcnkiOlstMTgyOTQzMDQwMSwxOTE2Njg5NDk3LDgwNzU4Mj
 I2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMx
 OTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0ND
 c5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OSwt
