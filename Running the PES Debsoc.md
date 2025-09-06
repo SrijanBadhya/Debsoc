@@ -775,25 +775,16 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 
 ### Beyond The Debates
 
-Circles form in hangouts quite often. These circles can be both physical with body posture, and metaphysical, with one new or rare fresher. People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who know each other like this.
+Circles get formed in hangouts quite often. These circles can be both physical with body posture, and metaphysical, with one new or rare fresher. People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who know each other like this.
 It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
 A good way to make people feel valued is to remember them by their name, call them by their name, make some reference to a thing they had said on a previous day, etc. It makes them feel less like they're invisible and more like they had some impact on the people of debsoc.
 
 
-
-
-
-
-
-
-
-
-
 **It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
-
+By the end
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
@@ -1084,11 +1075,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwNTEyMDk4LDE0NDg2NzY4NzksLTYxODAyNz
-Y0OCwtMTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNTE5Nywt
-MjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0LDE4Mz
-A0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMDIyNzIw
-ODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLTE3MzkyODM4NC
-wtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEwMjU3MSwtMzMx
-NzMzMDc1XX0=
+c3RvcnkiOlsxMzc0MzIxMzM0LC0xMDA1MTIwOTgsMTQ0ODY3Nj
+g3OSwtNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC0x
+MTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NT
+Q1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQx
+NTAsLTIwMjI3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MC
+wtMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzEx
+MTAyNTcxXX0=
 -->
