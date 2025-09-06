@@ -867,7 +867,7 @@ Allowing people to join sessions late does mitigate this, but this is really har
 
 
 ### WhatsApp
-Allowing people to text whatever they want, and making them feel comfortable, is ideal for them to bond together, get connected to the community, and encourage more future engagement with the club. (Equity rules can still apply, that's up to the equity community, I will not speak about it). 
+Allowing them to text whatever they want, and making them feel comfortable, is a great way to facilitate juniors to bond together, get connected to the community, and engage more with the club. (Equity rules can still apply, that's up to the equity community, I will not speak about it). 
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
 The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
 Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
@@ -1119,7 +1119,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTI4ODM5NzA5LC0xODQyMDU1NTc4LDIwOTU2OT
+c3RvcnkiOlsxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OT
 UzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEs
 LTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MTg1NCwxOTE2Njg5ND
 k3LDgwNzU4MjI2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMx
