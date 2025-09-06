@@ -784,7 +784,9 @@ A good way to make people feel valued is to remember them by their name, call th
 **It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
-By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. Some of these people are people who have shifted from their regular friends group, to having debsoc as their primary friends group, in various ways. (PES changes sections, or friends don't consistently meet, but Debsoc sessions consistently happen and you constantly me
+By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
+- Some of these people are people who have shifted from their regular friends group, to having debsoc as their primary friends group, in various ways. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen and you constantly meet these people.) 
+- Some of these people are people who were unable to form many friends at college to begin with. Either they didn't actively talk to people, or they didn't have people who actively talked to them, or they didn't have much to 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
@@ -1075,7 +1077,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NjI5ODYyMTcsLTEwMDUxMjA5OCwxNDQ4Njc2OD
+c3RvcnkiOlsxOTY4MjMxMjYsLTEwMDUxMjA5OCwxNDQ4Njc2OD
 c5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTEx
 MDc3MDUxOTcsLTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1ND
 UxOTk1NCwxODMwNDc5ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1
