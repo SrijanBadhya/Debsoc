@@ -254,7 +254,7 @@ I had prioritized parenting, education, and romance motions, but the [feedback f
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 But you can consider occasionally catering to these people (I should have).
 
-
+![image](https://i.ibb.co/z1sLVdt/Screenshot-2025-09-06-162422.png)
 
 
 Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
@@ -1094,7 +1094,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5Mjg1NTEwNjQsMTMxOTc1MzI5MiwtMTk1OTkzMD
+c3RvcnkiOls5ODMxMzg2MzYsMTMxOTc1MzI5MiwtMTk1OTkzMD
 E3LDgyMzQ2NDY2MywtMzMyNzc0NDc5LC0xMjY0MjIzOTcyLC0x
 MDA1MTIwOTgsMTQ0ODY3Njg3OSwtNjE4MDI3NjQ4LC0xNjY0Nj
 UyODIsOTczNjc2NTkyLC0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3
