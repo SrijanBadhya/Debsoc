@@ -565,8 +565,9 @@ Fear isn't a great motivator especially when the consequence is the direction th
 By the way, there are a few possible answers to this question actually
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
-3. They have issues on weekdays but not weekends.
-4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
+
+4. They have issues on weekdays but not weekends.
+5. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
 
 It's hard to really solve these problems, the best you can do is things like Cubbon Park sessions, and also keep the value of sessions high.
 
@@ -1093,11 +1094,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzE5NzUzMjkyLC0xOTU5OTMwMTcsODIzNDY0Nj
-YzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzIsLTEwMDUxMjA5OCwx
-NDQ4Njc2ODc5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Miw5NzM2Nz
-Y1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1MjcsLTE2ODM3MjI1
-ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2LDI5NjA3NjMyNCwtMT
-U2MDI4NDE1MCwtMjAyMjcyMDg2MSwxOTUzNDQ5NDcyLC0xMDA5
-MTgxMzkwXX0=
+c3RvcnkiOlstNDc3OTQ4MDA2LDEzMTk3NTMyOTIsLTE5NTk5Mz
+AxNyw4MjM0NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIyMzk3Miwt
+MTAwNTEyMDk4LDE0NDg2NzY4NzksLTYxODAyNzY0OCwtMTY2ND
+Y1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNTE5NywtMjEyOTA2MjUy
+NywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0LDE4MzA0Nzk4MzYsMj
+k2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMDIyNzIwODYxLDE5NTM0
+NDk0NzJdfQ==
 -->
