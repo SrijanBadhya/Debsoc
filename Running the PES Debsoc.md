@@ -784,7 +784,7 @@ A good way to make people feel valued is to remember them by their name, call th
 **It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
 
-By the end
+By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
 Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
@@ -1075,11 +1075,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzc0MzIxMzM0LC0xMDA1MTIwOTgsMTQ0ODY3Nj
-g3OSwtNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC0x
-MTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NT
-Q1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQx
-NTAsLTIwMjI3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MC
-wtMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzEx
-MTAyNTcxXX0=
+c3RvcnkiOlstMTQyODE0OTI2MywtMTAwNTEyMDk4LDE0NDg2Nz
+Y4NzksLTYxODAyNzY0OCwtMTY2NDY1MjgyLDk3MzY3NjU5Miwt
+MTEwNzcwNTE5NywtMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNT
+U0NTE5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0
+MTUwLC0yMDIyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOT
+AsLTE3MzkyODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcx
+MTEwMjU3MV19
 -->
