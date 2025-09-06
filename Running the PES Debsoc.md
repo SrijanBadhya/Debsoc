@@ -778,7 +778,9 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 Circles form in hangouts quite often. These circles can be both physical with body posture, and metaphysical, with one new or rare fresher. People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who know each other like this.
 It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
-A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
+A good way to make people feel valued is to remember them by their name, call them by their name, make some reference to a thing they had said on a previous day, etc. It makes them feel less like they're invisible and more like they had some impact on the people of debsoc.
+
+
 
 
 
@@ -1066,11 +1068,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3OTg2Njc0NDQsOTczNjc2NTkyLC0xMTA3NzA1MT
-k3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQs
-MTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQxNTAsLTIwMj
-I3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4
-Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcxLC
-0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMTA1
-OTYyNDg4M119
+c3RvcnkiOlstMTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNT
+E5NywtMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0
+LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMD
+IyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLTE3Mzky
+ODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEwMjU3MS
+wtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1LDEw
+NTk2MjQ4ODNdfQ==
 -->
