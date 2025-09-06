@@ -308,7 +308,7 @@ Ideally the judges who conduct sessions are ones who've read and understood the 
 - Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". So they may never realize their mistake.
 
 The impulsive way to give feedback is telling people how they messed up and what they can improve on.
-But I think **consciously trying to tell people what they got right** as well is incredibly impactful for a few reasons.
+But I think **consciously trying to tell people what they got right** as well is incredibly impactful for a few reasons:
 
 - Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something good which they should keep going. 
 - If juniors just change their approach constantly, they won't really know what to keep.
@@ -1119,10 +1119,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNjE2Njc4MjYsMjA5NTY5NTMzMywxMjI5NjYyMD
-kwLDExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcx
-MzA3Mjk0NCw3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LD
-c4NTUxNzg0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUz
-MjkyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzksLT
-EyNjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5XX0=
+c3RvcnkiOlstMTg0MjA1NTU3OCwyMDk1Njk1MzMzLDEyMjk2Nj
+IwOTAsMTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03NjEyOTQ4NTEs
+NzEzMDcyOTQ0LDc3NjE4NTQsMTkxNjY4OTQ5Nyw4MDc1ODIyNj
+gsNzg1NTE3ODQwLC05NjkzNDc1MDEsOTgzMTM4NjM2LDEzMTk3
+NTMyOTIsLTE5NTk5MzAxNyw4MjM0NjQ2NjMsLTMzMjc3NDQ3OS
+wtMTI2NDIyMzk3MiwtMTAwNTEyMDk4LDE0NDg2NzY4NzldfQ==
+
 -->
