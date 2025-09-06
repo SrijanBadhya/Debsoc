@@ -832,7 +832,7 @@ And the worst part is that the only way to solve this is to have enough seniors 
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to go about it. You can't always make the latecomers adj. (Refer the section where I spoke about [making latecomers adj](#common-pitfalls))
 2. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
 3. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
-~~At least thank god you're not living in 2022-23 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
+~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
 
 
@@ -855,7 +855,7 @@ The default stance assumed by juniors is that you can send anything you want (es
 
 I think this is rather dumb, 
 - especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. 
-- We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing 
+- We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing won't convince them, and we shouldn't show our fragile egos by saying, "Don't join, MUN is trash".
 - If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
 <br>
@@ -1074,11 +1074,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE1NDA4MjkyNiwtNjE4MDI3NjQ4LC0xNjY0Nj
-UyODIsOTczNjc2NTkyLC0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3
-LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQsMTgzMDQ3OTgzNiwyOT
-YwNzYzMjQsLTE1NjAyODQxNTAsLTIwMjI3MjA4NjEsMTk1MzQ0
-OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4Mzg0LC0xODc4NTAxMj
-UzLDMxODM3NTcwNywtNzExMTAyNTcxLC0zMzE3MzMwNzUsLTE5
-MDkzODA0NzVdfQ==
+c3RvcnkiOlstNDEwMTQ4MDQ4LC02MTgwMjc2NDgsLTE2NjQ2NT
+I4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1Mjcs
+LTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2LDI5Nj
+A3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcyMDg2MSwxOTUzNDQ5
+NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzODQsLTE4Nzg1MDEyNT
+MsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMzMTczMzA3NSwtMTkw
+OTM4MDQ3NV19
 -->
