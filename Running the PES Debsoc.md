@@ -792,8 +792,8 @@ By the end of a year, the most rigorous debaters are the ones for whom debate fr
 - Some of these people are the ones who have shifted from their regular friends group, to having debsoc as their primary friends group, in various ways. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen and you constantly meet these people.) 
 - Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, or they didn't have people who actively talked to them, or they didn't have much to talk about.
 - - At debsoc, these people have seniors who actively talk to them. They actively get used to speaking (at least for 7 minutes a day), and there is already content to discuss during post-debate relaxation.
-- Community and friendship really do mean a lot to these people, and that's a beautiful thing debsoc has been providing to people for years.
-- This sense of community and friendship means the world to many members, and it's a beautiful tradition the club has upheld for years.
+- This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
+
 ---
 
 ## Miscellaneous
@@ -1086,7 +1086,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA2ODY3NjIxLC0zMzI3NzQ0NzksLTEyNjQyMj
+c3RvcnkiOlstMzc2ODk1OTU0LC0zMzI3NzQ0NzksLTEyNjQyMj
 M5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgs
 LTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMj
 kwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5
