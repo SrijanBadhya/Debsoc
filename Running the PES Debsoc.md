@@ -861,8 +861,9 @@ I think this was rather dumb,
 
 ####  More on our approach to MUN as a whole
 
-It's unw
-don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
+It's unwise to alienate MUN people because quite a few people try out both clubs.
+
+take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 <br>
 <br>
 <br>
@@ -1079,7 +1080,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTEwNzE0MjAzLC02MTgwMjc2NDgsLTE2NjQ2NT
+c3RvcnkiOlsxNDQ4Njc2ODc5LC02MTgwMjc2NDgsLTE2NjQ2NT
 I4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1Mjcs
 LTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2LDI5Nj
 A3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcyMDg2MSwxOTUzNDQ5
