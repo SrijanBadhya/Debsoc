@@ -863,6 +863,9 @@ I think this was rather dumb,
 
 It's unwise to alienate MUN people because quite a few people try out both clubs.
 ![image](https://i.ibb.co/rfNNY5sw/debsocmunsoc.png)
+
+Like mentioned before, any sort of insults at MUN are unlikely to convince anyone who's more interested in MUN. 
+The harm though, is that people who never even cared about MUN, still see the debsoc spewing hate, and think worse of the club. I'd lose respect for a debsoc member who nee
 take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 <br>
 <br>
@@ -1080,11 +1083,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODg3Mzg1MTc5LDE0NDg2NzY4NzksLTYxODAyNz
-Y0OCwtMTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNTE5Nywt
-MjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0LDE4Mz
-A0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMDIyNzIw
-ODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLTE3MzkyODM4NC
-wtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEwMjU3MSwtMzMx
-NzMzMDc1XX0=
+c3RvcnkiOlstMTE0OTU3ODY5OSwxNDQ4Njc2ODc5LC02MTgwMj
+c2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcs
+LTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxOD
+MwNDc5ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcy
+MDg2MSwxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzOD
+QsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1NzEsLTMz
+MTczMzA3NV19
 -->
