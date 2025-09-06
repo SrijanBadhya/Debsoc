@@ -775,7 +775,7 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 
 ### Beyond The Debates
 
-Circles form in hangouts quite often. These circles can be both physical with body posture, and metaphysical with one new or 
+Circles form in hangouts quite often. These circles can be both physical with body posture, and metaphysical, with one new or rare fresher. People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who know each other like this.
 It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
 A good way to make people feel valued is to remember them by their name and call them by their name, make some reference to a thing they had said on a previous day, etc etc
@@ -1066,11 +1066,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkwNTQ0NDc4Miw5NzM2NzY1OTIsLTExMDc3MD
-UxOTcsLTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1
-NCwxODMwNDc5ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMj
-AyMjcyMDg2MSwxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5
-MjgzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTExMDI1Nz
-EsLTMzMTczMzA3NSwtMTkwOTM4MDQ3NSwtMTEwOTUyNTI2NSwx
-MDU5NjI0ODgzXX0=
+c3RvcnkiOls3OTg2Njc0NDQsOTczNjc2NTkyLC0xMTA3NzA1MT
+k3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQs
+MTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQxNTAsLTIwMj
+I3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4
+Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNywtNzExMTAyNTcxLC
+0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTExMDk1MjUyNjUsMTA1
+OTYyNDg4M119
 -->
