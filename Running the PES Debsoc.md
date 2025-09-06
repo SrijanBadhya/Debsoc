@@ -184,7 +184,11 @@ I personally say don't judge the club at all.
 remember to add these pictures in recruitments later Srijan
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
-  
+  ![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
+
+![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
+
+
 
 # Inside a session
 [Back to Table of Contents](#table-of-contents)
@@ -1104,11 +1108,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgyOTQzMDQwMSwxOTE2Njg5NDk3LDgwNzU4Mj
-I2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMx
-OTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0ND
-c5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OSwt
-NjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC0xMTA3Nz
-A1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5
-NTRdfQ==
+c3RvcnkiOls3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LD
+c4NTUxNzg0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUz
+MjkyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzksLT
+EyNjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgw
+Mjc2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOT
+csLTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NF19
+
 -->
