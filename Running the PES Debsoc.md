@@ -254,6 +254,8 @@ The obvious solutions to this are:
 + You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
  ![enter image description here](https://i.ibb.co/vxmXxr6y/Screenshot-2025-09-06-164214.png)
+ (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and cut the idle time of the 3 people who have already shown up). 
+ 
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
@@ -1116,10 +1118,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nz
-g3NywxMzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LDc3
-NjE4NTQsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3ODQwLC
-05NjkzNDc1MDEsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLTE5NTk5
-MzAxNyw4MjM0NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIyMzk3Mi
-wtMTAwNTEyMDk4LDE0NDg2NzY4NzksLTYxODAyNzY0OF19
+c3RvcnkiOls1NzI0NzE1MzYsMjA5NTY5NTMzMywxMjI5NjYyMD
+kwLDExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcx
+MzA3Mjk0NCw3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LD
+c4NTUxNzg0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUz
+MjkyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzksLT
+EyNjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5XX0=
 -->
