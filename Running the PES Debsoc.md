@@ -386,7 +386,7 @@ Even if they don't practice body language and the feeling of speaking to a physi
 
 ![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
 
-The closest I've been to quitting debate was after an online debate. I quit the call entirely. 
+The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
 
@@ -1103,7 +1103,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjc3OTcwNjQzLDgwNzU4MjI2OCw3ODU1MTc4ND
+c3RvcnkiOlsyMTA2NDYzMDU3LDgwNzU4MjI2OCw3ODU1MTc4ND
 AsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1MzI5MiwtMTk1
 OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0NDc5LC0xMjY0MjIzOT
 cyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OSwtNjE4MDI3NjQ4LC0x
