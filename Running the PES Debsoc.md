@@ -693,8 +693,10 @@ In groups that form naturally, a few juniors are often left out of the conversat
 
 If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
 
-Also I find conditional extra hyped stakes to be in bad taste. "If you don't break, you're kicked from the soc", even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fres
+Also I find conditional extra hyped stakes to be in bad taste. "If you don't break, you're kicked from the soc", even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying they're sorry for disappointing me (It appears I wasn't successful in telling them enough that results don't matter to me)).
+
 We've had traditions like, "the tab topper at this tournament will be given brownies", but I don't know how far that really motivates people's performance, and how it impacts their emotions post the tournament when they achieve it or don't.
+_Sidenote, these people haven't even received their brownies sometimes lmao
 #### Breaks
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into happy people and sad people. 
 
@@ -1088,11 +1090,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1ODMwNTkwNzYsLTMzMjc3NDQ3OSwtMTI2NDIyMz
-k3MiwtMTAwNTEyMDk4LDE0NDg2NzY4NzksLTYxODAyNzY0OCwt
-MTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNTE5NywtMjEyOT
-A2MjUyNywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0LDE4MzA0Nzk4
-MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMDIyNzIwODYxLD
-E5NTM0NDk0NzIsLTEwMDkxODEzOTAsLTE3MzkyODM4NCwtMTg3
-ODUwMTI1M119
+c3RvcnkiOlstNTk5NDQ4MDI1LC0zMzI3NzQ0NzksLTEyNjQyMj
+M5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgs
+LTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMj
+kwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5
+ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcyMDg2MS
+wxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzODQsLTE4
+Nzg1MDEyNTNdfQ==
 -->
