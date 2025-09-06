@@ -426,7 +426,7 @@ You can make the extra person adj a handful of times, but make sure they don't f
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
-b) Another issue is the complications of adjing. This was initially a subsection under "Inside a Session", but my rant grew longer and longer.
+b) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer so I made it a chapter of its own.
 
 # Adj Rant
 [Back to Table of Contents](#table-of-contents)
@@ -1113,11 +1113,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYxODU0LD
-E5MTY2ODk0OTcsODA3NTgyMjY4LDc4NTUxNzg0MCwtOTY5MzQ3
-NTAxLDk4MzEzODYzNiwxMzE5NzUzMjkyLC0xOTU5OTMwMTcsOD
-IzNDY0NjYzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzIsLTEwMDUx
-MjA5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Mi
-w5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1MjddfQ==
-
+c3RvcnkiOlsxMzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOT
+Q0LDc3NjE4NTQsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3
+ODQwLC05NjkzNDc1MDEsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLT
+E5NTk5MzAxNyw4MjM0NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIy
+Mzk3MiwtMTAwNTEyMDk4LDE0NDg2NzY4NzksLTYxODAyNzY0OC
+wtMTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNTE5N119
 -->
