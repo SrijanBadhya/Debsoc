@@ -863,6 +863,7 @@ I think this was rather dumb,
 
 It's unwise to alienate MUN people because quite a few people try out both clubs.
 ![image](https://i.ibb.co/rfNNY5sw/debsocmunsoc.png)
+Across the year, a few people do switch from debsoc to munsoc, and munsoc to debsoc. This happens naturally, and you don't have much power to prevent this by directly targeting MUN, because any effort with th
 
 It's more dignified to just take the high road. Like mentioned before, any sort of insults at MUN are unlikely to convince anyone who's interested in MUN. 
 There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, still see the debsoc spewing hate, and think worse of the club. I'd lose respect for a debsoc member who needs to hate on MUN to make debate look valuable.
@@ -1084,7 +1085,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDQ2MjIyNTQ0LDE0NDg2NzY4NzksLTYxODAyNz
+c3RvcnkiOlstNDEwNTMxODk3LDE0NDg2NzY4NzksLTYxODAyNz
 Y0OCwtMTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNTE5Nywt
 MjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0LDE4Mz
 A0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMDIyNzIw
