@@ -796,10 +796,6 @@ By the end of a year, the most rigorous debaters are the ones for whom debate fr
 
 ---
 
-
-Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
-
-
 ## Miscellaneous
 
 [Back to Table of Contents](#table-of-contents)
@@ -871,6 +867,11 @@ There's no real benefit, but harm still does arise of this action. Even people w
 
 ---
 
+
+Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
+
+
+---
 I hope everything so far has been able to empower you with ideas and vision to tackle challenges that will arise.
 
 > If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span to read my ginormous Yap.  
@@ -1085,11 +1086,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI2NDIyMzk3MiwtMTAwNTEyMDk4LDE0NDg2Nz
-Y4NzksLTYxODAyNzY0OCwtMTY2NDY1MjgyLDk3MzY3NjU5Miwt
-MTEwNzcwNTE5NywtMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNT
-U0NTE5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0
-MTUwLC0yMDIyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOT
-AsLTE3MzkyODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcx
-MTEwMjU3MV19
+c3RvcnkiOlstMzMyNzc0NDc5LC0xMjY0MjIzOTcyLC0xMDA1MT
+IwOTgsMTQ0ODY3Njg3OSwtNjE4MDI3NjQ4LC0xNjY0NjUyODIs
+OTczNjc2NTkyLC0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNj
+gzNzIyNTg2LC01NTQ1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYz
+MjQsLTE1NjAyODQxNTAsLTIwMjI3MjA4NjEsMTk1MzQ0OTQ3Mi
+wtMTAwOTE4MTM5MCwtMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMx
+ODM3NTcwN119
 -->
