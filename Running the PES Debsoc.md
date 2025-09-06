@@ -693,6 +693,7 @@ In groups that form naturally, a few juniors are often left out of the conversat
 
 If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
 
+Also I find conditional extra hyped stakes to 
 #### Breaks
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into happy people and sad people. 
 
@@ -784,7 +785,7 @@ A good way to make people feel valued is to remember them by their name, call th
 
 ---
 
-**It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
+**It's great to talk about how you went through the same struggles,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.
 
 ---
 
@@ -1086,7 +1087,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzc2ODk1OTU0LC0zMzI3NzQ0NzksLTEyNjQyMj
+c3RvcnkiOlstODQ0NTQxNTY3LC0zMzI3NzQ0NzksLTEyNjQyMj
 M5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgs
 LTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMj
 kwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5
