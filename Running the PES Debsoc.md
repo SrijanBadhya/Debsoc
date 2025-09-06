@@ -696,7 +696,7 @@ If the disappointment of participants builds up after every round, they may neve
 Also I find conditional extra hyped stakes to be in bad taste. "If you don't break, you're kicked from the soc", even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying they're sorry for disappointing me (It appears I wasn't successful in telling them enough that results don't matter to me)).
 
 We've had traditions like, "the tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, and how it impacts their emotions post the tournament when they achieve it or don't.
-Sure, 
+Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
 
 [^2]: These people haven't even received their brownies sometimes lmao
 
@@ -1093,11 +1093,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjk2MTA5MjYsODIzNDY0NjYzLC0zMzI3NzQ0Nz
-ksLTEyNjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02
-MTgwMjc2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MD
-UxOTcsLTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1
-NCwxODMwNDc5ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMj
-AyMjcyMDg2MSwxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5
-MjgzODRdfQ==
+c3RvcnkiOlstMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0ND
+c5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OSwt
+NjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC0xMTA3Nz
+A1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5
+NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQxNTAsLT
+IwMjI3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MCwtMTcz
+OTI4Mzg0XX0=
 -->
