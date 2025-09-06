@@ -838,6 +838,7 @@ Light fun might also ruin the experience of a few people. But if you can get peo
 
 There are different types of differences in the timetables. 
 1. The daily timing which is different for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority gets too late for session prep time, or too early (they just leave for home). This causes many of the minority to quit debating. 
+![enter image description here](https://i.ibb.co/Fqdq4S84/Screenshot-2025-09-06-164009.png)
 And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. 
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to go about it. You can't always make the latecomers adj. (Refer the section where I spoke about [making latecomers adj](#common-pitfalls))
 2. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
@@ -1099,11 +1100,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjYxMDUyMDAyLDc4NTUxNzg0MCwtOTY5MzQ3NT
-AxLDk4MzEzODYzNiwxMzE5NzUzMjkyLC0xOTU5OTMwMTcsODIz
-NDY0NjYzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzIsLTEwMDUxMj
-A5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Miw5
-NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1MjcsLTE2OD
-M3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2LDI5NjA3NjMy
-NF19
+c3RvcnkiOls4MDc1ODIyNjgsNzg1NTE3ODQwLC05NjkzNDc1MD
+EsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLTE5NTk5MzAxNyw4MjM0
+NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIyMzk3MiwtMTAwNTEyMD
+k4LDE0NDg2NzY4NzksLTYxODAyNzY0OCwtMTY2NDY1MjgyLDk3
+MzY3NjU5MiwtMTEwNzcwNTE5NywtMjEyOTA2MjUyNywtMTY4Mz
+cyMjU4NiwtNTU0NTE5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0
+XX0=
 -->
