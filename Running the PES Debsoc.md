@@ -215,7 +215,9 @@ If you're reading this, you would have already faced the grueling learning curve
 - + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
 - Keeping it challenging yet making people feel like they were able to contribute something significant is key.
-- Even the easiest motio
+- Even the easiest motions are challenging to recruits due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
+
+
 - **Love for debate can't really be tested from day one.**
 
 
@@ -1095,7 +1097,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTMwMjU2OTA0LDk4MzEzODYzNiwxMzE5NzUzMj
+c3RvcnkiOlstOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMj
 kyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzksLTEy
 NjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgwMj
 c2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcs
