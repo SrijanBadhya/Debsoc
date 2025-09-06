@@ -778,17 +778,23 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 Circles get formed in hangouts quite often. These circles can be both physical with body posture, and metaphysical, with one new or rare fresher. People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who know each other like this.
 It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'.
 
+---
+
 A good way to make people feel valued is to remember them by their name, call them by their name, make some reference to a thing they had said on a previous day, etc. It makes them feel less like they're invisible and more like they had some impact on the people of debsoc.
 
+---
 
 **It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
+---
 
 By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
 - Some of these people are the ones who have shifted from their regular friends group, to having debsoc as their primary friends group, in various ways. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen and you constantly meet these people.) 
 - Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, or they didn't have people who actively talked to them, or they didn't have much to talk about.
 - - At debsoc, these people have seniors who actively talk to them. They actively get used to speaking (at least for 7 minutes a day), and there is already content to discuss during post-debate relaxation.
 - Community and friendship really does mean a lot to these people, and that's a beautiful thing debsoc has been providing to people for years.
+
+---
 
 
 Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
@@ -1079,11 +1085,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NjM0NzU4NzgsLTEwMDUxMjA5OCwxNDQ4Njc2OD
-c5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTEx
-MDc3MDUxOTcsLTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1ND
-UxOTk1NCwxODMwNDc5ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1
-MCwtMjAyMjcyMDg2MSwxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC
-0xNzM5MjgzODQsLTE4Nzg1MDEyNTMsMzE4Mzc1NzA3LC03MTEx
-MDI1NzFdfQ==
+c3RvcnkiOlstMTAzNjIwNDQ3MCwtMTAwNTEyMDk4LDE0NDg2Nz
+Y4NzksLTYxODAyNzY0OCwtMTY2NDY1MjgyLDk3MzY3NjU5Miwt
+MTEwNzcwNTE5NywtMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNT
+U0NTE5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0
+MTUwLC0yMDIyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOT
+AsLTE3MzkyODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcx
+MTEwMjU3MV19
 -->
