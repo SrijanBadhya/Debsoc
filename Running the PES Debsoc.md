@@ -16,7 +16,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 - I believe that every batch will be able to improve upon existing systems.[^1] Every change should be a step forward, instead of causing old problems to resurface.
 - An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
 
-[^1]: I haven't yet figured out how exactly I'll add other people's input into this document with their name, but it'll probably be a combination of github pull requests and writing their name before their points. Probably even passing control on.
+[^1]: As of now this will probably be through people making comments on the Dropbox link of this document. I'm unsure how I'll fit their comment onto the Blogger document and github pull requests and writing their name before their points. Probably even passing control on.
 
 <br>
 
@@ -1116,10 +1116,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTM0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5ND
-g1MSw3MTMwNzI5NDQsNzc2MTg1NCwxOTE2Njg5NDk3LDgwNzU4
-MjI2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMT
-MxOTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0
-NDc5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OS
-wtNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyXX0=
+c3RvcnkiOlstNzg3NjcyMzU1LDExMzQxOTc4NzcsMTM5Mzk0MD
+k1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYxODU0LDE5MTY2
+ODk0OTcsODA3NTgyMjY4LDc4NTUxNzg0MCwtOTY5MzQ3NTAxLD
+k4MzEzODYzNiwxMzE5NzUzMjkyLC0xOTU5OTMwMTcsODIzNDY0
+NjYzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzIsLTEwMDUxMjA5OC
+wxNDQ4Njc2ODc5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Ml19
 -->
