@@ -790,11 +790,13 @@ A good way to make people feel valued is to remember them by their name, call th
 
 don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 
-Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
+**It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
+
+
 
 a lot of people who stay in debsoc are friendless otherwise, so the community and friendship really does mean a lot to them
 
-**It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
+Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
 
 
 ## Miscellaneous
@@ -1068,11 +1070,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2NDY1MjgyLDk3MzY3NjU5MiwtMTEwNzcwNT
-E5NywtMjEyOTA2MjUyNywtMTY4MzcyMjU4NiwtNTU0NTE5OTU0
-LDE4MzA0Nzk4MzYsMjk2MDc2MzI0LC0xNTYwMjg0MTUwLC0yMD
-IyNzIwODYxLDE5NTM0NDk0NzIsLTEwMDkxODEzOTAsLTE3Mzky
-ODM4NCwtMTg3ODUwMTI1MywzMTgzNzU3MDcsLTcxMTEwMjU3MS
-wtMzMxNzMzMDc1LC0xOTA5MzgwNDc1LC0xMTA5NTI1MjY1LDEw
-NTk2MjQ4ODNdfQ==
+c3RvcnkiOlstNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NT
+kyLC0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2
+LC01NTQ1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1Nj
+AyODQxNTAsLTIwMjI3MjA4NjEsMTk1MzQ0OTQ3MiwtMTAwOTE4
+MTM5MCwtMTczOTI4Mzg0LC0xODc4NTAxMjUzLDMxODM3NTcwNy
+wtNzExMTAyNTcxLC0zMzE3MzMwNzUsLTE5MDkzODA0NzUsLTEx
+MDk1MjUyNjVdfQ==
 -->
