@@ -241,6 +241,7 @@ The obvious solutions to this are:
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
+ ![enter image description here](https://i.ibb.co/vxmXxr6y/Screenshot-2025-09-06-164214.png)
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
@@ -382,6 +383,8 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 
 However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
 Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
+
+![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
 
 The closest I've been to quitting debate was after an online debate. I quit the call entirely. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
@@ -1100,11 +1103,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MDc1ODIyNjgsNzg1NTE3ODQwLC05NjkzNDc1MD
-EsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLTE5NTk5MzAxNyw4MjM0
-NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIyMzk3MiwtMTAwNTEyMD
-k4LDE0NDg2NzY4NzksLTYxODAyNzY0OCwtMTY2NDY1MjgyLDk3
-MzY3NjU5MiwtMTEwNzcwNTE5NywtMjEyOTA2MjUyNywtMTY4Mz
-cyMjU4NiwtNTU0NTE5OTU0LDE4MzA0Nzk4MzYsMjk2MDc2MzI0
-XX0=
+c3RvcnkiOlstNjc3OTcwNjQzLDgwNzU4MjI2OCw3ODU1MTc4ND
+AsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1MzI5MiwtMTk1
+OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0NDc5LC0xMjY0MjIzOT
+cyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OSwtNjE4MDI3NjQ4LC0x
+NjY0NjUyODIsOTczNjc2NTkyLC0xMTA3NzA1MTk3LC0yMTI5MD
+YyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQsMTgzMDQ3OTgz
+Nl19
 -->
