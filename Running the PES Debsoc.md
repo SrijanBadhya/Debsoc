@@ -788,7 +788,7 @@ A good way to make people feel valued is to remember them by their name, call th
 
 
 
-don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
+
 
 **It's great to talk about how you went through the same struggles, had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.**
 
@@ -851,13 +851,18 @@ Spam by seniors happens often due to accidents, and as long as you realize, cut 
 
 
 PES clubs often tell juniors to market events on every group they are a part of.
-The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
+The default stance assumed by juniors is that you can send anything you want (especially once the group transitions into random spam). Pre-2023, the Debsoc group was for formal messages only. In 2024, everything was allowed, except for marketing posts from other clubs. This was rather odd, because what makes us find some spam okay but other spam as spam? 
+(The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 
-I think this is rather dumb, 
+I think this was rather dumb, 
 - especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. 
 - We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing won't convince them, and we shouldn't show our fragile egos by saying, "Don't join, MUN is trash".
 - If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
+####  More on our approach to MUN as a whole
+
+It's unw
+don't alienate mun people because a lot of people try out both clubs. take the high road, don't turn off people by spewing mun hate. Even if I didn't like mun, I'd lose respect for a debsoc member who needed to hate on mun to make debate look valuable.
 <br>
 <br>
 <br>
@@ -1074,7 +1079,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDEwMTQ4MDQ4LC02MTgwMjc2NDgsLTE2NjQ2NT
+c3RvcnkiOlsxNTEwNzE0MjAzLC02MTgwMjc2NDgsLTE2NjQ2NT
 I4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1Mjcs
 LTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2LDI5Nj
 A3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcyMDg2MSwxOTUzNDQ5
