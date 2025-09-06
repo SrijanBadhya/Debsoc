@@ -251,7 +251,7 @@ Here are the motions I used in 2024-2025.
  They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
 So all the motions here have been tested and I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
-
+&emsp; &emspp4. 
 
 I had prioritized parenting, education, and romance motions, but the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059) shows that people soon got bored of these motions and wanted different ones too.
 ![From the Google Form](https://i.ibb.co/fd1q7Tyk/motionpref.png)
@@ -1098,11 +1098,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2Mz
-YsMTMxOTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMy
-Nzc0NDc5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Nj
-g3OSwtNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC0x
-MTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2LC01NT
-Q1MTk5NTQsMTgzMDQ3OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQx
-NTBdfQ==
+c3RvcnkiOlsxMDc4NDY4MDk3LDc4NTUxNzg0MCwtOTY5MzQ3NT
+AxLDk4MzEzODYzNiwxMzE5NzUzMjkyLC0xOTU5OTMwMTcsODIz
+NDY0NjYzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzIsLTEwMDUxMj
+A5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgsLTE2NjQ2NTI4Miw5
+NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMjkwNjI1MjcsLTE2OD
+M3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5ODM2LDI5NjA3NjMy
+NF19
 -->
