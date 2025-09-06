@@ -188,6 +188,10 @@ remember to add these pictures in recruitments later Srijan
 
 ![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
 
+![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
+
+Add the following image to the, "even if temporary, provided value" thing
+![enter image description here](https://i.ibb.co/fVWxM8td/Screenshot-2025-09-06-165913.png)
 
 
 # Inside a session
@@ -1108,11 +1112,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LD
-c4NTUxNzg0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUz
-MjkyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzksLT
-EyNjQyMjM5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgw
-Mjc2NDgsLTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOT
-csLTIxMjkwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NF19
+c3RvcnkiOls3MTMwNzI5NDQsNzc2MTg1NCwxOTE2Njg5NDk3LD
+gwNzU4MjI2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2
+MzYsMTMxOTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMz
+MyNzc0NDc5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3
+Njg3OSwtNjE4MDI3NjQ4LC0xNjY0NjUyODIsOTczNjc2NTkyLC
+0xMTA3NzA1MTk3LC0yMTI5MDYyNTI3LC0xNjgzNzIyNTg2XX0=
 
 -->
