@@ -693,7 +693,8 @@ In groups that form naturally, a few juniors are often left out of the conversat
 
 If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
 
-Also I find conditional extra hyped stakes to 
+Also I find conditional extra hyped stakes to be in bad taste. "If you don't break, I won't give you back my 
+We've had traditions like, "the top scorer at this tournament will receive brownies", but I don't know how far that really motivates people's performance, and how it impacts
 #### Breaks
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into happy people and sad people. 
 
@@ -1087,11 +1088,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODQ0NTQxNTY3LC0zMzI3NzQ0NzksLTEyNjQyMj
-M5NzIsLTEwMDUxMjA5OCwxNDQ4Njc2ODc5LC02MTgwMjc2NDgs
-LTE2NjQ2NTI4Miw5NzM2NzY1OTIsLTExMDc3MDUxOTcsLTIxMj
-kwNjI1MjcsLTE2ODM3MjI1ODYsLTU1NDUxOTk1NCwxODMwNDc5
-ODM2LDI5NjA3NjMyNCwtMTU2MDI4NDE1MCwtMjAyMjcyMDg2MS
-wxOTUzNDQ5NDcyLC0xMDA5MTgxMzkwLC0xNzM5MjgzODQsLTE4
-Nzg1MDEyNTNdfQ==
+c3RvcnkiOlstMjEzMTE2ODc2MiwtMzMyNzc0NDc5LC0xMjY0Mj
+IzOTcyLC0xMDA1MTIwOTgsMTQ0ODY3Njg3OSwtNjE4MDI3NjQ4
+LC0xNjY0NjUyODIsOTczNjc2NTkyLC0xMTA3NzA1MTk3LC0yMT
+I5MDYyNTI3LC0xNjgzNzIyNTg2LC01NTQ1MTk5NTQsMTgzMDQ3
+OTgzNiwyOTYwNzYzMjQsLTE1NjAyODQxNTAsLTIwMjI3MjA4Nj
+EsMTk1MzQ0OTQ3MiwtMTAwOTE4MTM5MCwtMTczOTI4Mzg0LC0x
+ODc4NTAxMjUzXX0=
 -->
