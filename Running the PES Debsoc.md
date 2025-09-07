@@ -465,7 +465,11 @@ Anyway, this highlights a couple problems with adjing.
 2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with carrying the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#the-adj-narrative)).
 3. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
-- They're likely to spend the whole tournament as a trainee, and hence speakers scroll their phones during their OA and don't take them seriously, people go to ask the chair feedback instead of them, and they feel they have no impact on the tournament because their vote doesn't matter. They don't get any numerical result from the tournament either.
+- They're likely to spend the whole tournament as a trainee, and hence
+- - speakers scroll their phones during their OA and don't take them seriously, 
+- - people go to ask the chair feedback instead of them, and 
+- - they feel they have no impact on the tournament because their vote doesn't matter. 
+- - They don't get any numerical result from the tournament either.
 - Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
@@ -1137,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODU5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMzMxMT
-Y1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1MzUyLC0x
-ODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4MCwtMTAxNz
-Q4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwODIy
-MjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLD
-ExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3
-Mjk0NF19
+c3RvcnkiOls0MDM1MzE5NDgsLTg1OTY0MTk4OCwyMTA2Nzc4Mj
+EsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2
+NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MTYyMD
+A3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0
+NiwxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMT
+IyOTY2MjA5MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5
+NDg1MV19
 -->
