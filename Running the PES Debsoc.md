@@ -607,7 +607,7 @@ Share the motion on the WhatsApp group (not the Sessions group because that prev
 
 One thing that Akshat Saxena once told me was, to ignite passion in the juniors, the seniors must also show their passion and how debate obsessed they are. This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually", and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long term debate goal.
 
-Inertia is huge, don't let people go too long without debating. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
+Inertia is huge, and letting people go long without debating has its consequences. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
 The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
@@ -1137,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MTYyMD
-A3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0
-NiwxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMT
-IyOTY2MjA5MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5
-NDg1MSw3MTMwNzI5NDQsNzc2MTg1NCwxOTE2Njg5NDk3LDgwNz
-U4MjI2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzZd
-fQ==
+c3RvcnkiOlstNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNz
+YxODAsLTQxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMy
+LC0xNjQxOTk2NDQ2LDE1MTkwODIyMjgsLTE4NDIwNTU1NzgsMj
+A5NTY5NTMzMywxMjI5NjYyMDkwLDExMzQxOTc4NzcsMTM5Mzk0
+MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYxODU0LDE5MT
+Y2ODk0OTcsODA3NTgyMjY4LDc4NTUxNzg0MCwtOTY5MzQ3NTAx
+XX0=
 -->
