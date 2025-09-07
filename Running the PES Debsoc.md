@@ -904,6 +904,27 @@ There's no real benefit, but harm still does arise of this action. Even people w
 ## The Fabled Unicorn
 
 
+The ultimate stage the final form of a junior, isn't when they pass a certain skill level. It's an identity shift.
+ 
+
+**It's when they see themselves as a debater.**
+
+They believe, "Debsoc is my club". They know, "Debating is what I _do_". Their friends think that, "Debating is all they do".
+
+Seeing debate as central to their identity, means that they will forever exhibit soc loyalty. They've reached the point of no return. They will come to sessions because that is what they were meant to do. They were born to pursue this activity.
+
+When you see signs of this in a junior, you know you've done it. It's the greatest success. Regardless of their skill level, if they've reached this perspective, you've truly transformed their life.
+
+It's not easy or quick. For 2 years I didn’t feel like a true debater. In my head, my seniors were the ones who were debaters.
+
+But to my surprise, I see signs of this in a few first years. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. It's lovely.
+ 
+
+When something is a part of your identity, you don't feel like you're making an effort to change yourself, because you already have this as your natural state.
+
+  
+
+Everything the soc does, is in hopes of leading juniors up to this stage. And it feels truly wonderful when it manifests, when you spot this beautiful unicorn.
 
 
 ---
@@ -1121,11 +1142,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA2MTM1NzE4LDE1MTkwODIyMjgsLTE4NDIwNT
-U1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLDExMzQxOTc4Nzcs
-MTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYxOD
-U0LDE5MTY2ODk0OTcsODA3NTgyMjY4LDc4NTUxNzg0MCwtOTY5
-MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMjkyLC0xOTU5OTMwMT
-csODIzNDY0NjYzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzJdfQ==
-
+c3RvcnkiOls3MjgwODc4NTIsMTUxOTA4MjIyOCwtMTg0MjA1NT
+U3OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nzg3Nywx
+MzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4NT
+QsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3ODQwLC05Njkz
+NDc1MDEsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLTE5NTk5MzAxNy
+w4MjM0NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIyMzk3Ml19
 -->
