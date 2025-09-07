@@ -102,6 +102,7 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;&emsp;c) [Relatability](#relatability)
 	&emsp;&emsp;d) [The PES Timetable](#the-damn-pes-timetable)
 	&emsp;&emsp;e) [WhatsApp](#whatsapp)
+	&emsp;6. [The Fabled Unicorn](#the-fabled-unicorn)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -903,11 +904,9 @@ There's no real benefit, but harm still does arise of this action. Even people w
 
 
 The ultimate stage the final form of a junior, isn't when they pass a certain skill level. It's an identity shift.
- 
-
 **It's when they see themselves as a debater.**
 
-They believe, "Debsoc is my club". They know, "Debating is what I _do_". Their friends think that, "Debating is all they do".
+They believe, "Debsoc is my club". They know, "Debating is what I _do_". Their friends think, "Debating is all they do".
 
 Seeing debate as central to their identity, means that they will forever exhibit soc loyalty. They've reached the point of no return. They will come to sessions because that is what they were meant to do. They were born to pursue this activity.
 
@@ -1137,11 +1136,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwOD
-IyMjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkw
-LDExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMz
-A3Mjk0NCw3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LDc4
-NTUxNzg0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMj
-kyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzldfQ==
+c3RvcnkiOlstNDQyNTkwNzMxLDE2NzIzNDI1MzIsLTE2NDE5OT
+Y0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1Njk1MzMz
+LDEyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03Nj
+EyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4NTQsMTkxNjY4OTQ5Nyw4
+MDc1ODIyNjgsNzg1NTE3ODQwLC05NjkzNDc1MDEsOTgzMTM4Nj
+M2LDEzMTk3NTMyOTIsLTE5NTk5MzAxNyw4MjM0NjQ2NjNdfQ==
 
 -->
