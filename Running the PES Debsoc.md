@@ -282,7 +282,7 @@ But you can consider occasionally catering to these people (I should have).
 
 Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
 - Debate feels like a college class where you're one random person lost among the masses.
-- I think the most important principle to keep in mind as a senior, is to **give individual attention to every participant**. 
+- If I had to pick the one principle I found the most important, it would be to keep in mind as a senior, it would be to **give individual attention to every participant**. 
 - Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and feel like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
@@ -1138,11 +1138,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODEyOTcyNDI0LC00MTYyMDA3ODAsLTEwMTc0OD
-AxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0NiwxNTE5MDgyMjI4
-LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMT
-M0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5
-NDQsNzc2MTg1NCwxOTE2Njg5NDk3LDgwNzU4MjI2OCw3ODU1MT
-c4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1MzI5Ml19
+c3RvcnkiOls3MTIwMDg4ODAsLTQxNjIwMDc4MCwtMTAxNzQ4MD
+E3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwODIyMjgs
+LTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLDExMz
+QxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0
+NCw3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LDc4NTUxNz
+g0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMjkyXX0=
 
 -->
