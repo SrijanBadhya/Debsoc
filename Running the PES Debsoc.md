@@ -605,9 +605,9 @@ It's hard to really solve these problems, the best you can do is things like Cub
 The activity of the debsoc should be kept fresh in the minds of even the people who don't come to debate. Just seeing a poll everyday doesn't give even me a feel of the club being lively, and debating.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. It really makes people feel the fear of missing out, the feel that there's something thriving which other people are enjoying, which they are not a part of.
 
-One thing that Akshat Saxena once told me was, to ignite passion in the juniors, the seniors must also show their passion and how debate obsessed they are. This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually", and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long term debate goal.
+One thing that Akshat Saxena once told me was, to ignite passion in the juniors, the seniors must also show their passion and how debate obsessed they are. This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually", and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
 
-Inertia is huge, and letting people go long without debating has its consequences. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
+Inertia is huge and letting people go long without debating can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
 The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
@@ -1137,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNz
-YxODAsLTQxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMy
-LC0xNjQxOTk2NDQ2LDE1MTkwODIyMjgsLTE4NDIwNTU1NzgsMj
-A5NTY5NTMzMywxMjI5NjYyMDkwLDExMzQxOTc4NzcsMTM5Mzk0
-MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYxODU0LDE5MT
-Y2ODk0OTcsODA3NTgyMjY4LDc4NTUxNzg0MCwtOTY5MzQ3NTAx
+c3RvcnkiOlsxMDEyMDkzNDc1LC02NjY1MTUzNTIsLTE4NTIzOD
+Q3MjUsLTk2MzM3NjE4MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcy
+LDE2NzIzNDI1MzIsLTE2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMT
+g0MjA1NTU3OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5
+Nzg3NywxMzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LD
+c3NjE4NTQsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3ODQw
 XX0=
 -->
