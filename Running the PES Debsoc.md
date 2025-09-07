@@ -918,11 +918,8 @@ When you see signs of this in a junior, you know you've done it. It's the greate
 It's not easy or quick. For 2 years I didn’t feel like a true debater. In my head, my seniors were the ones who were debaters.
 
 But to my surprise, I see signs of this in a few first years. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. It's lovely.
- 
 
 When something is a part of your identity, you don't feel like you're making an effort to change yourself, because you already have this as your natural state.
-
-  
 
 Everything the soc does, is in hopes of leading juniors up to this stage. And it feels truly wonderful when it manifests, when you spot this beautiful unicorn.
 
@@ -1142,10 +1139,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MjgwODc4NTIsMTUxOTA4MjIyOCwtMTg0MjA1NT
-U3OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nzg3Nywx
-MzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4NT
-QsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3ODQwLC05Njkz
-NDc1MDEsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLTE5NTk5MzAxNy
-w4MjM0NjQ2NjMsLTMzMjc3NDQ3OSwtMTI2NDIyMzk3Ml19
+c3RvcnkiOlstMTY0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMD
+U1NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3
+LDEzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MT
+g1NCwxOTE2Njg5NDk3LDgwNzU4MjI2OCw3ODU1MTc4NDAsLTk2
+OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1MzI5MiwtMTk1OTkzMD
+E3LDgyMzQ2NDY2MywtMzMyNzc0NDc5LC0xMjY0MjIzOTcyXX0=
+
 -->
