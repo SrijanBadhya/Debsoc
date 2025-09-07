@@ -704,7 +704,7 @@ Debate tournaments have a stark difference between expectations and reality for 
 One briefing session before their first tournament, talking about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
 
 The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. And they won't have really comprehended that this is a national level tournament with people years elder to them.
-Every novice initially assumes that they'll only face novices in the tournament, and get a huge shock. 
+Every novice initially assumes that they'll only face novices in the tournament, and get a rude awakening. 
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it's happened in APs). I think the egos of juniors are in need of a warning of this tragedy.
 I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
@@ -1137,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1OD
-c2LDEwMTIwOTM0NzUsLTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwt
-OTYzMzc2MTgwLC00MTYyMDA3ODAsLTEwMTc0ODAxNzIsMTY3Mj
-M0MjUzMiwtMTY0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMDU1
-NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3LD
-EzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MTg1
-NF19
+c3RvcnkiOlstMzYyNDk1MDkxLDIxMDY3NzgyMSwxNzUyMzMxMT
+Y1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1MzUyLC0x
+ODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4MCwtMTAxNz
+Q4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwODIy
+MjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLD
+ExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3
+Mjk0NF19
 -->
