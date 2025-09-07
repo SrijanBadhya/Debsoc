@@ -13,7 +13,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 
 - As every coder knows, replacing an existing solution with a different solution can lead to other problems popping up.
 - So every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
-- I believe that every batch will be able to improve upon existing systems.[^1] Every change should be a step forward, instead of causing old problems to resurface.
+- I believe that every batch will be able to improve upon existing systems.[^1] The ideal is for every change to be a step forward, instead of causing old problems to resurface.
 - An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
 
 [^1]: As of now this will probably be through people making comments on the Dropbox link of this document. I'm unsure how I'll fit their comment onto the Blogger document and credit their name next to their paragraph. I may even shift to github pull requests and possibly eventually pass control on.
@@ -353,7 +353,7 @@ Once you know the skill levels of people, you can occasionally match up teammate
 [Back to Table of Contents](#table-of-contents)
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
-Sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list)).
+Don't be afraid to sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list)).
 - This leads to more fun, laughter, and people feeling that the soc is a place they can have a great time in.
 - Being informal and saying weird stuff makes people get more open and comfortable with each other.
 
@@ -1138,11 +1138,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzND
-I1MzIsLTE2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3
-OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMz
-kzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4NTQs
-MTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3ODQwLC05NjkzND
-c1MDEsOTgzMTM4NjM2LDEzMTk3NTMyOTIsLTE5NTk5MzAxN119
+c3RvcnkiOlsxODEyOTcyNDI0LC00MTYyMDA3ODAsLTEwMTc0OD
+AxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0NiwxNTE5MDgyMjI4
+LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMT
+M0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5
+NDQsNzc2MTg1NCwxOTE2Njg5NDk3LDgwNzU4MjI2OCw3ODU1MT
+c4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1MzI5Ml19
 
 -->
