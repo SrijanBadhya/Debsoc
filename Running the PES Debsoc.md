@@ -730,7 +730,7 @@ Sure, it does feel necessary to reward the ones who put effort, and the common w
 [^2]: These people haven't even received their brownies sometimes lmao
 
 #### Breaks
-Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into happy people and sad people. 
+Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
@@ -1141,7 +1141,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk4NDEzMzAzLC04NTk2NDE5ODgsMjEwNjc3OD
+c3RvcnkiOlstMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3OD
 IxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1LC02
 NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtNDE2Mj
 AwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5OTY0
