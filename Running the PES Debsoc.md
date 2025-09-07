@@ -308,7 +308,7 @@ I personally write down my feedback while the speeches are going on. The moment 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
 - Their feedback is far more likely to be valid.
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech, still not sure though".
-- Wrong feedback can set debaters back quite a bit because they approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". So they may never realize their mistake.
+- Wrong feedback can set debaters back quite a bit and it's hard for them to erealize that this is wrong later though. Usually they will approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". 
 
 The impulsive way to give feedback is telling people how they messed up and what they can improve on.
 But I think **consciously trying to tell people what they got right** as well is incredibly impactful for a few reasons:
@@ -1137,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU5MzM3ODI3OSwxNzUyMzMxMTY1LC0yMDIzND
-U4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1
-LC05NjMzNzYxODAsLTQxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNj
-cyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwODIyMjgsLTE4NDIw
-NTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLDExMzQxOTc4Nz
-csMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYx
-ODU0XX0=
+c3RvcnkiOlsxMzI3MzIwODQsMTc1MjMzMTE2NSwtMjAyMzQ1OD
+c2LDEwMTIwOTM0NzUsLTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwt
+OTYzMzc2MTgwLC00MTYyMDA3ODAsLTEwMTc0ODAxNzIsMTY3Mj
+M0MjUzMiwtMTY0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMDU1
+NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3LD
+EzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MTg1
+NF19
 -->
