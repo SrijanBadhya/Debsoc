@@ -644,6 +644,7 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 - We still need to make sure people feel like they earned their way into the club.
 - I usually set the bar of attendance to be like 5 sessions, and once they reach that, they get into Shenanigans.
 - People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
+- A few people who undergo informal recruitments are the people who barely missed out in round 3, who still expressed desire to join when I reached out to them. I keep the bar a little lower for them. I'm glad to see many of them are
 
 
 
@@ -1139,11 +1140,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMD
-U1NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3
-LDEzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MT
-g1NCwxOTE2Njg5NDk3LDgwNzU4MjI2OCw3ODU1MTc4NDAsLTk2
-OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1MzI5MiwtMTk1OTkzMD
-E3LDgyMzQ2NDY2MywtMzMyNzc0NDc5LC0xMjY0MjIzOTcyXX0=
-
+c3RvcnkiOls3MzM4OTkwMjQsLTE2NDE5OTY0NDYsMTUxOTA4Mj
+IyOCwtMTg0MjA1NTU3OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAs
+MTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMD
+cyOTQ0LDc3NjE4NTQsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1
+NTE3ODQwLC05NjkzNDc1MDEsOTgzMTM4NjM2LDEzMTk3NTMyOT
+IsLTE5NTk5MzAxNyw4MjM0NjQ2NjMsLTMzMjc3NDQ3OV19
 -->
