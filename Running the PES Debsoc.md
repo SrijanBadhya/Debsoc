@@ -901,7 +901,9 @@ There's no real benefit, but harm still does arise of this action. Even people w
 ---
 
 
-Talk about how you succeed and get soc loyalty at the point where the person, "Sees themself as a debater".
+## The Fabled Unicorn
+
+
 
 
 ---
@@ -1119,11 +1121,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OT
-UzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEs
-LTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MTg1NCwxOTE2Njg5ND
-k3LDgwNzU4MjI2OCw3ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMx
-Mzg2MzYsMTMxOTc1MzI5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2My
-wtMzMyNzc0NDc5LC0xMjY0MjIzOTcyLC0xMDA1MTIwOThdfQ==
+c3RvcnkiOlstMTA2MTM1NzE4LDE1MTkwODIyMjgsLTE4NDIwNT
+U1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLDExMzQxOTc4Nzcs
+MTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0NCw3NzYxOD
+U0LDE5MTY2ODk0OTcsODA3NTgyMjY4LDc4NTUxNzg0MCwtOTY5
+MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMjkyLC0xOTU5OTMwMT
+csODIzNDY0NjYzLC0zMzI3NzQ0NzksLTEyNjQyMjM5NzJdfQ==
 
 -->
