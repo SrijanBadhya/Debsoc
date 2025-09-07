@@ -727,7 +727,7 @@ Also I find conditional extra hyped stakes to be in bad taste. "If you don't bre
 We've had traditions like, "the tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament when they achieve it and when they don't.
 Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
 
-[^2]: These people haven't even received their brownies sometimes lmao
+[^2]: These people sometimes didn't even received their brownies lmao
 
 #### Breaks
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
@@ -1141,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3OD
-IxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1LC02
-NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtNDE2Mj
-AwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5OTY0
-NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1Njk1MzMzLD
-EyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03NjEy
-OTQ4NTFdfQ==
+c3RvcnkiOlstMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2ND
+E5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3Niwx
+MDEyMDkzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2Mz
+M3NjE4MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1
+MzIsLTE2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OC
+wyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkz
+OTQwOTUxXX0=
 -->
