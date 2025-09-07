@@ -399,7 +399,7 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
 - If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
 
-However since you can access a few people who are online-only, it's recommended to do at least one online session a week for these people who don't wish to come offline. Preferably a Friday or Saturday.
+However since you can access a few people who are online-only, I'd recommend doing at least one online session a week for these people who don't wish to come offline. Preferably a Friday evening or Saturday evening. The debsoc gravitates to the 9 pm timing. Even when we tried to schedule them earl
 Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
 
 ![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
@@ -1137,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MzQ1Nzg1MzgsMTc1MjMzMTE2NSwtMjAyMzQ1OD
-c2LDEwMTIwOTM0NzUsLTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwt
-OTYzMzc2MTgwLC00MTYyMDA3ODAsLTEwMTc0ODAxNzIsMTY3Mj
-M0MjUzMiwtMTY0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMDU1
-NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMTM0MTk3ODc3LD
-EzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MTMwNzI5NDQsNzc2MTg1
-NF19
+c3RvcnkiOlsxMzA4NDY2NzQwLDE3NTIzMzExNjUsLTIwMjM0NT
+g3NiwxMDEyMDkzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUs
+LTk2MzM3NjE4MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcyLDE2Nz
+IzNDI1MzIsLTE2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMTg0MjA1
+NTU3OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nzg3Ny
+wxMzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4
+NTRdfQ==
 -->
