@@ -914,7 +914,7 @@ When you see signs of this in a junior, you know you've done it. It's the greate
 
 It's not easy or quick. For 2 years I didn’t feel like a true debater. In my head, my seniors were the ones who were debaters.
 
-But to my surprise, I see signs of this in a few first years. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. It's lovely.
+But to my surprise, I see signs of this in a few first years. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about how they see themselves debating in the future. It's lovely.
 
 When something is a part of your identity, you don't feel like you're making an effort to change yourself, because you already have this as your natural state.
 
@@ -1136,7 +1136,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDQyNTkwNzMxLDE2NzIzNDI1MzIsLTE2NDE5OT
+c3RvcnkiOlsxMzQwNTU2NTY0LDE2NzIzNDI1MzIsLTE2NDE5OT
 Y0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1Njk1MzMz
 LDEyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03Nj
 EyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4NTQsMTkxNjY4OTQ5Nyw4
