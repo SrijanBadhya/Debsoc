@@ -475,7 +475,7 @@ Anyway, this highlights a couple problems with adjing.
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
 4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
-5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept, but the main issues are:
+5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
 6. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
@@ -1141,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAzMzgwNTYwNiwtODU5NjQxOTg4LDIxMDY3Nz
-gyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwt
-NjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNj
-IwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2
-NDQ2LDE1MTkwODIyMjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMy
-wxMjI5NjYyMDkwLDExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYx
-Mjk0ODUxXX0=
+c3RvcnkiOlsyMDk4NDEzMzAzLC04NTk2NDE5ODgsMjEwNjc3OD
+IxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1LC02
+NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtNDE2Mj
+AwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5OTY0
+NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1Njk1MzMzLD
+EyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03NjEy
+OTQ4NTFdfQ==
 -->
