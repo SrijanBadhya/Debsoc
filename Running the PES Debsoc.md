@@ -642,7 +642,7 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 
 #### How do we usually carry out informal recruitments?
 - (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it should be way easier than this for someone to opt in. Most people don't even think this is possible because the natural assumption of an ignorant first year is that people only get recruited during recruitments, so even if they want to reach out, they don't because they don't see the point of the attempt. 
-- Please announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
+- Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We still need to make sure people feel like they earned their way into the club.
 - I usually set the bar of attendance to be like 5 sessions, and once they reach that, they get into Shenanigans.
@@ -1137,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDEyMDkzNDc1LC02NjY1MTUzNTIsLTE4NTIzOD
-Q3MjUsLTk2MzM3NjE4MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcy
-LDE2NzIzNDI1MzIsLTE2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMT
-g0MjA1NTU3OCwyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5
-Nzg3NywxMzkzOTQwOTUxLC03NjEyOTQ4NTEsNzEzMDcyOTQ0LD
-c3NjE4NTQsMTkxNjY4OTQ5Nyw4MDc1ODIyNjgsNzg1NTE3ODQw
-XX0=
+c3RvcnkiOlstMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUxNT
+M1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MTYyMDA3ODAs
+LTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0NiwxNT
+E5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2
+MjA5MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5NDg1MS
+w3MTMwNzI5NDQsNzc2MTg1NCwxOTE2Njg5NDk3LDgwNzU4MjI2
+OF19
 -->
