@@ -647,9 +647,6 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 - A few people who undergo informal recruitments are the people who barely missed out in round 3, who still expressed desire to join when I reached out to them. I keep the bar a little lower for them. I'm glad to see many of them are still debating today, 6 months later, and did NALSAR, like Shubhangi, Akshay Gudur, and Akshith.
 
 
-
-
-
 ## Tournaments
 
 [Back to Table of Contents](#table-of-contents)
@@ -1140,11 +1137,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0OTU5ODcyNiwtMTY0MTk5NjQ0NiwxNTE5MD
-gyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5
-MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5NDg1MSw3MT
-MwNzI5NDQsNzc2MTg1NCwxOTE2Njg5NDk3LDgwNzU4MjI2OCw3
-ODU1MTc4NDAsLTk2OTM0NzUwMSw5ODMxMzg2MzYsMTMxOTc1Mz
-I5MiwtMTk1OTkzMDE3LDgyMzQ2NDY2MywtMzMyNzc0NDc5XX0=
+c3RvcnkiOlsxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwOD
+IyMjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkw
+LDExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMz
+A3Mjk0NCw3NzYxODU0LDE5MTY2ODk0OTcsODA3NTgyMjY4LDc4
+NTUxNzg0MCwtOTY5MzQ3NTAxLDk4MzEzODYzNiwxMzE5NzUzMj
+kyLC0xOTU5OTMwMTcsODIzNDY0NjYzLC0zMzI3NzQ0NzldfQ==
 
 -->
