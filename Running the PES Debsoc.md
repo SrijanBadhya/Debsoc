@@ -924,7 +924,7 @@ Everything the soc does, is in hopes of leading juniors up to this stage. And it
 ---
 I hope everything so far has been able to empower you with ideas and vision to tackle challenges that will arise.
 
-> If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span to read my ginormous Yap.  
+> If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span you possess to read my ginormous Yap.  
 > Thank you for giving me a voice.
 
 ## Motion List
@@ -1136,7 +1136,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzQwNTU2NTY0LDE2NzIzNDI1MzIsLTE2NDE5OT
+c3RvcnkiOlsxMjk3NzQzMTgzLDE2NzIzNDI1MzIsLTE2NDE5OT
 Y0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1Njk1MzMz
 LDEyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkzOTQwOTUxLC03Nj
 EyOTQ4NTEsNzEzMDcyOTQ0LDc3NjE4NTQsMTkxNjY4OTQ5Nyw4
