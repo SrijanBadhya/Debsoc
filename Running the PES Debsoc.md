@@ -448,7 +448,7 @@ The debsoc controversy I am the most infamous for is my history with Adjudicatio
 This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". 
 As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
-The 4 of us continued to avoid discussion about which 3 would form a team and which one would adj.
+The 4 of us continued to remain silent about which 3 would form a team and which one would adj.
 In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. 
 Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel.
 I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming am I right). 
@@ -1141,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MDM1MzE5NDgsLTg1OTY0MTk4OCwyMTA2Nzc4Mj
-EsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2
-NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MTYyMD
-A3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0
-NiwxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMT
-IyOTY2MjA5MCwxMTM0MTk3ODc3LDEzOTM5NDA5NTEsLTc2MTI5
-NDg1MV19
+c3RvcnkiOlstMjAzMzgwNTYwNiwtODU5NjQxOTg4LDIxMDY3Nz
+gyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwt
+NjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNj
+IwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2
+NDQ2LDE1MTkwODIyMjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMy
+wxMjI5NjYyMDkwLDExMzQxOTc4NzcsMTM5Mzk0MDk1MSwtNzYx
+Mjk0ODUxXX0=
 -->
