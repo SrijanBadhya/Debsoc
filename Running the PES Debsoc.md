@@ -282,7 +282,7 @@ But you can consider occasionally catering to these people (I should have).
 
 Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
 - Debate feels like a college class where you're one random person lost among the masses.
-- If I had to pick the one principle I found the most important, it would be to keep in mind as a senior, it would be to **give individual attention to every participant**. 
+- If I had to pick the one principle I found the most important to keep in mind, it would be to **give individual attention to every participant**. 
 - Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and feel like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
@@ -344,8 +344,8 @@ I believe speaker scores should not be given in mocks.
 
 Once you know the skill levels of people, you can occasionally match up teammates to make the debate 'balanced'.
 - Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to be motivated to come to sessions. Even if they feel trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if you're not able to uplift those who work hard, then it's a skill issue of the Debsoc).
-- So stealthily teaming them up with debaters you think are good, keeps the debates close and exciting too.
-- This also gives all debaters experience in working with different kinds of people.
+- I found that stealthily teaming them up with debaters I thought were good, kept the debates close and exciting too.
+- This also gave all debaters experience in working with different kinds of people.
 
 
 ## Keeping it fun
@@ -1138,7 +1138,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MTIwMDg4ODAsLTQxNjIwMDc4MCwtMTAxNzQ4MD
+c3RvcnkiOlstNTM0NDA4ODUsLTQxNjIwMDc4MCwtMTAxNzQ4MD
 E3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwODIyMjgs
 LTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLDExMz
 QxOTc4NzcsMTM5Mzk0MDk1MSwtNzYxMjk0ODUxLDcxMzA3Mjk0
