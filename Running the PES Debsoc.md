@@ -390,7 +390,7 @@ Such fun motion days are best for when chatter in the Debsoc has progressed to t
 This variety of debate activities keeps debate fresh and fun.
 
 #### Game Night
-If you've successfully gotten everyone on
+If you've successfully gotten everyone onto the PES discord (which is a
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -1187,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDA0MjU5NjksLTQ4MjU3NzY2NCwxNzAwNjM4MT
-gyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0x
-MDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nz
-c4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUs
-LTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MT
-YyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5
-NjQ0Nl19
+c3RvcnkiOlstMTMzNDg2NDA2NywtNDgyNTc3NjY0LDE3MDA2Mz
+gxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUs
+LTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMD
+Y3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3
+NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLT
+QxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQx
+OTk2NDQ2XX0=
 -->
