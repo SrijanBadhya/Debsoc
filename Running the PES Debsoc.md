@@ -414,9 +414,11 @@ However, many issues of regular mocks are exacerbated in cross mocks, and hence 
 2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality (because only new judges are the ones willing to judge a random cross mock) and give you the, 'mind-blowing diverse genius new perspective ' feedback which you're looking for. (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc).
 3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool. Everyone is isolated and could be veering off what real debate is, and there's no one to correct them.
 - I think this is slightly exaggerated, because
-- - as long as people have access to the WUDC BP manual, you'll be mostly right enough. 
+- - as long as people have access to the WUDC BP manual, you'll be mostly accurate enough. 
 - - Even if you debate the same people over and over, it's rare for this to be the cause of improvement plateauing. There's so much you can improve even with the same people, like how well you characterize, mechanize, analyze, impact. Other people's debating _styles_ have less impact on your own skill improvement imo.
 - - By the time you reach anything close to a plateau of debating the same people, new juniors will have appeared.
+- - Even if you're clueless and just debate over and over, there is still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
+4. Tournaments _do_ provide a lot of the benefits which crossmocks try to provide but fail to.
 
 ## A few issues of sessions that persist
 
@@ -1151,11 +1153,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDgxMTY5OTk3LC01MTEwNjY1NjgsMTYxMTUwND
-MzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgs
-MjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMD
-kzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4
-MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLT
-E2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1
-Njk1MzMzXX0=
+c3RvcnkiOlsyMDI4NTk3MTIsLTUxMTA2NjU2OCwxNjExNTA0Mz
+M1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwy
+MTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOT
+M0NzUsLTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgw
+LC00MTYyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMT
+Y0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2
+OTUzMzNdfQ==
 -->
