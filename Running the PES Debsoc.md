@@ -392,7 +392,7 @@ This variety of debate activities keeps debate fresh and fun.
 #### Game Night
 In early 2024, my batch of clubheads started online game night. 
 
-If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of 
+If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played.
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -1189,11 +1189,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTgxOTU2ODYxLC00ODI1Nzc2NjQsMTcwMDYzOD
-E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
-MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
-c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
-LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtND
-E2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5
-OTY0NDZdfQ==
+c3RvcnkiOls5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4MT
+gyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0x
+MDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nz
+c4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUs
+LTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MT
+YyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5
+NjQ0Nl19
 -->
