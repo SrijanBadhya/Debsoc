@@ -979,7 +979,7 @@ Everything the soc does, is in hopes of leading juniors up to this stage. And it
 I hope everything so far has been able to empower you with ideas and vision to tackle challenges that will arise.
 
 Carrying out any of this is easier said than done. Every bit of it takes incredible effort, and not all effort even translates into success. 
-
+Regardless of what happens, I know you will do your part for the soc and carry it to see another beautiful day.
 
 
 > If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span you possess to read my ginormous Yap.  
@@ -1194,11 +1194,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzMwMzMyNDY2LDEzMTY4MjQyNDcsLTExNjI1Mj
-M3OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4Miwt
-OTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMTA5Mz
-A1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3ODIx
-LDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1LC02Nj
-Y1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtNDE2MjAw
-NzgwXX0=
+c3RvcnkiOlstMTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNT
+IzNzk1LDkxMDE5MDg0NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIs
+LTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOT
+MwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3Nzgy
+MSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNj
+Y2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIw
+MDc4MF19
 -->
