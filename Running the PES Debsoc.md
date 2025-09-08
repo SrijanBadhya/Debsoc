@@ -72,7 +72,8 @@ III. [Inside a session](#inside-a-session)
 &emsp;&emsp;a) [Turncoat](#turncoat)
 &emsp;&emsp;b) [Alley Debating](#alley-debating) 
 &emsp;6. [Online sessions](#online-sessions) 
-&emsp;7. [Issues](#a-few-issues-of-sessions-that-persist)
+&emsp;7. [Cross Mocks]
+&emsp;. [Issues](#a-few-issues-of-sessions-that-persist)
 
 IV. [Adj Rant](#adj-rant)
 &emsp;1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
@@ -445,8 +446,7 @@ For the offline session at PES, an NLS friend of mine dragged her friend to PES 
 
 The other 4-5 times I tried to hold sessions with NLS, I got a lackluster response on the polls.
 
-I think cross mocks are cool when they're successful. Making them successful is quite tedious, and you shouldn
-
+In summary, I think cross mocks are cool when they're successful. Making them successful is quite tedious. I don't think it's really a cause for concern if you're doing too few cross mocks, because there are plenty of other ways to access their benefits. And even if you inbreed, it can't be _that_ bad. (Okay I'll stop using that word)
 
 ## A few issues of sessions that persist
 
@@ -1181,11 +1181,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ1NjcwNjE1MCwtNDgyNTc3NjY0LDE3MDA2Mz
-gxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUs
-LTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMD
-Y3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3
-NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLT
-QxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQx
-OTk2NDQ2XX0=
+c3RvcnkiOlsxMzk3NDQ2MzgyLC00ODI1Nzc2NjQsMTcwMDYzOD
+E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
+MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
+c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
+LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtND
+E2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5
+OTY0NDZdfQ==
 -->
