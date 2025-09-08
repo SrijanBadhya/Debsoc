@@ -246,7 +246,7 @@ If you're reading this, you would have already faced the grueling learning curve
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 ![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
-Having to sit idle before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
+Having to **sit idle** before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
 Multiple different delays add up, and they should be minimized.
 - Often in 2023, juniors would show up to sessions before seniors, and then ask on Whatsapp where the seniors were. This was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
@@ -1195,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2OD
-EzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUs
-LTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMT
-A2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5
-NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMj
-AyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUxNTM1MiwtMTg1MjM4
-NDcyNV19
+c3RvcnkiOlsxMzQxODU5NzExLC00MTcwMzYwMzMsMTQzNDg5OD
+U5MiwtMTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1
+LDkxMDE5MDg0NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzND
+Y4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0
+MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwxNz
+UyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1
+MzUyXX0=
 -->
