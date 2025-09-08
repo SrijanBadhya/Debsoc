@@ -7,7 +7,7 @@
 Welcome, valued Debsoc core member.
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
-As seniors, it's our responsibility to not make our juniors feel lost about running the club. This document is extensive, but I want to make you aware of every incident that can pop up during recruitments and debate sessions.
+As seniors, it's our responsibility to not make you, our juniors, feel lost about running the club. This document is extensive because I want to make you aware of every incident that can pop up during recruitments and debate sessions.
 
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
@@ -30,7 +30,7 @@ There already exists a globally famous document, [How to Start a Debate Society]
 <br>
 <br>
 
-This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session (I'm sorry Hadar), ==so this will be the format of the content:==
+This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session on closing (I'm sorry Hadar), ==so this will be the format of the content:==
 In true debate fashion, this book will have my claims about what I think a good action to follow is, and what to keep in mind for decisions. 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
 - If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
@@ -1141,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyND
-c5NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwt
-MjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUxNTM1MiwtMTg1Mj
-M4NDcyNSwtOTYzMzc2MTgwLC00MTYyMDA3ODAsLTEwMTc0ODAx
-NzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0NiwxNTE5MDgyMjI4LC
-0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2MjA5MCwxMTM0
-MTk3ODc3XX0=
+c3RvcnkiOlstNDIyNTMxMSwxNjExNTA0MzM1LC0xMDkzMDU1ND
+EyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1
+MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUxNT
+M1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MTYyMDA3ODAs
+LTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0NiwxNT
+E5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2
+MjA5MF19
 -->
