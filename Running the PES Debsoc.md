@@ -898,7 +898,7 @@ The counter arguments I've heard about this are
 - It's a cool demonstration of a flip, saying that banning it makes it worse. 
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
-which are fair, 
+which are fair, so decide what you feel.
 
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "you won't get in to debsoc" during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
@@ -1190,7 +1190,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUxMDg0NDMwOCw5MTAxOTA4NDUsLTQ4MjU3Nz
+c3RvcnkiOlstMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3Nz
 Y2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwx
 NjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OT
 Y0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2
