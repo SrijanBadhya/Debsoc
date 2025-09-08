@@ -409,7 +409,8 @@ It means the world to people if you dm them and check up on them and how they fe
 
 #### Crossmocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay money for it. 
-Crossmocks are
+However, many issues in regular mocks are exacerbated in crossmocks, and hence you often may not be able to tap into their benefits.
+1. 
 
 ## A few issues of sessions that persist
 
@@ -1144,7 +1145,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTAzMTI3MzYxLDE2MTE1MDQzMzUsLTEwOTMwNT
+c3RvcnkiOlstNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNT
 U0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwx
 NzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NT
 E1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4
