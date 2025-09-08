@@ -294,7 +294,7 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 
 
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
-At that moment, it's very important to tell at least people, to cross over, shake hands, and chill. 
+**At that moment, it can be crucial to tell at least people, to cross over, shake hands, and chill.** 
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
 - When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
@@ -1195,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYyNjU4NDAxOCwtNDE3MDM2MDMzLDE0MzQ4OT
-g1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5
-NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05Mz
-Q2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1
-NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMT
-c1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUx
-NTM1Ml19
+c3RvcnkiOls4MDYyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNj
+AzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcs
+LTExNjI1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMD
+YzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMz
+NSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMj
+EwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkz
+NDc1XX0=
 -->
