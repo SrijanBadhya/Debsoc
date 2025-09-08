@@ -30,7 +30,7 @@ There already exists a globally famous document, [How to Start a Debate Society]
 <br>
 <br>
 
-==This document is long and I don't want you to give up halfway, so this will be the format of the content:==
+This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session (I'm sorry Hadar), ==so this will be the format of the content:==
 In true debate fashion, this handbook will have my claims about what to follow, and what to keep in mind for decisions. 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
 - If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
@@ -1141,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2ND
-E5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3Niwx
-MDEyMDkzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2Mz
-M3NjE4MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1
-MzIsLTE2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OC
-wyMDk1Njk1MzMzLDEyMjk2NjIwOTAsMTEzNDE5Nzg3NywxMzkz
-OTQwOTUxXX0=
+c3RvcnkiOlszNjYyNjc5MjksLTEwOTMwNTU0MTIsLTE0NzI0Nz
+k1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMzMxMTY1LC0y
+MDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1MzUyLC0xODUyMz
+g0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4MCwtMTAxNzQ4MDE3
+MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkwODIyMjgsLT
+E4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5NjYyMDkwLDExMzQx
+OTc4NzddfQ==
 -->
