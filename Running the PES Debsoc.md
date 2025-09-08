@@ -7,14 +7,14 @@
 Welcome, valued Debsoc core member.
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions repeatable.
-As seniors, it's our responsibility to not make you, our juniors, feel lost about running the club. This document is extensive because I want to make you aware of every incident that can pop up during recruitments and debate sessions.
+As seniors, it's our responsibility to make you, our juniors, not feel lost about running the club. This document is extensive because I want to make you aware of every incident that can pop up during recruitments and debate sessions.
 
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
 - As every coder knows, replacing an existing solution with a different solution can lead to other problems popping up.
-- So every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
+- So, every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
 - I believe that every batch will be able to improve upon existing systems.[^1] The ideal is for every change to be a step forward, instead of causing old problems to resurface.
-- An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However sometimes trade-offs must be made, and I trust you in weighing which flaws are worth handling.
+- An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However, trade-offs must be made sometimes, and I trust you to weigh which flaws are worth handling.
 
 [^1]: As of now this will probably be through people making comments on the Dropbox link of this document. I'm unsure how I'll fit their comment onto the Blogger document and credit their name next to their paragraph. I may even shift to github pull requests and possibly eventually pass control on.
 
@@ -1141,11 +1141,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDIyNTMxMSwxNjExNTA0MzM1LC0xMDkzMDU1ND
-EyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1
-MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUxNT
-M1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MTYyMDA3ODAs
-LTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5NjQ0NiwxNT
-E5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2OTUzMzMsMTIyOTY2
-MjA5MF19
+c3RvcnkiOlstMTQyNTI5ODU3LDE2MTE1MDQzMzUsLTEwOTMwNT
+U0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwx
+NzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NT
+E1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4
+MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LD
+E1MTkwODIyMjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5
+NjYyMDkwXX0=
 -->
