@@ -71,6 +71,8 @@ III. [Inside a session](#inside-a-session)
 &emsp;5. [Keeping It Fun](#keeping-it-fun)
 &emsp;&emsp;a) [Turncoat](#turncoat)
 &emsp;&emsp;b) [Alley Debating](#alley-debating) 
+&emsp;&emsp;c) [Impromptu Debates](#impromptu-debates)
+&emsp;&emsp;d)[Pop Debates](#pop-debates)
 &emsp;6. [Online sessions](#online-sessions) 
 &emsp;7. [Cross Mocks](#cross-mocks)
 &emsp;8. [Issues](#a-few-issues-of-sessions-that-persist)
@@ -381,7 +383,7 @@ It's a good way to keep you on your feet and make you better prepared for tourne
 
 #### Pop debates
 The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do because you can ask it to give you, "Naruto debate motions", and it actually cooks fun motions. 
-The issue with this is that not all of the debaters would have watched Naruto, so they don't share in the fun. 
+The issue with this is that not all of the debaters would have watched Naruto, so these people don't share in the fun. 
 Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone.
 
 This variety of debate activities keeps debate fresh and fun.
@@ -1181,7 +1183,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzYwMjA5NzYyLC00ODI1Nzc2NjQsMTcwMDYzOD
+c3RvcnkiOlsxNTUzNDI2MzkzLC00ODI1Nzc2NjQsMTcwMDYzOD
 E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
 MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
 c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
