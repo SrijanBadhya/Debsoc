@@ -384,9 +384,13 @@ It's a good way to keep you on your feet and make you better prepared for tourne
 #### Pop debates
 The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do because you can ask it to give you, "Naruto debate motions", and it actually cooks fun motions. 
 The issue with this is that not all of the debaters would have watched Naruto, so these people don't share in the fun. 
-Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone.
+
+Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone. Chatgpt is actually pretty good at generating motions for a niche interest which doesn't have motions made on it already (that's what we did for Maroon 5).
 
 This variety of debate activities keeps debate fresh and fun.
+
+#### Game Night
+If you've successfully gotten everyone on
 
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
@@ -1183,11 +1187,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTUzNDI2MzkzLC00ODI1Nzc2NjQsMTcwMDYzOD
-E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
-MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
-c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
-LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtND
-E2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5
-OTY0NDZdfQ==
+c3RvcnkiOlsyMDA0MjU5NjksLTQ4MjU3NzY2NCwxNzAwNjM4MT
+gyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0x
+MDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nz
+c4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUs
+LTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MT
+YyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5
+NjQ0Nl19
 -->
