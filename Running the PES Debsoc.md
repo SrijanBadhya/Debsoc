@@ -985,6 +985,7 @@ Carrying out any of this is easier said than done. Every bit of it takes Hercule
 > If you reached all the way here, I admire your effort and commitment to the Debsoc. The determination and the attention span you possess to read my ginormous Yap.  
 > Thank you for giving me a voice.
 
+# Appendix I
 ## Motion List
 
 [Back to Table of Contents](#table-of-contents)
@@ -1194,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMTY4Mj
-QyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQs
-MTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMT
-UwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5
-ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMD
-EyMDkzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3
-NjE4MF19
+c3RvcnkiOlstNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2OD
+EzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUs
+LTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMT
+A2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5
+NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMj
+AyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUxNTM1MiwtMTg1MjM4
+NDcyNV19
 -->
