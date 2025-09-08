@@ -885,8 +885,8 @@ By the end of a year, the most rigorous debaters are the ones for whom debate fr
 [Back to Table of Contents](#table-of-contents)
 
 ### Teaching debate
-For the love of god, there are better motions than THW legalize weed to use as an example when teaching debate. 
-However when asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session).
+For the love of God, there are better motions than THW legalize weed to use as an example when teaching debate. 
+However, when asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
@@ -898,6 +898,7 @@ The counter arguments I've heard about this are
 - It's a cool demonstration of a flip, saying that banning it makes it worse. 
 - "If the first motion I encounter in the soc is something dry like parents and education I might leave"
 
+which are fair, 
 
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "you won't get in to debsoc" during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
@@ -1189,7 +1190,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYxNDc0NjI4Miw5MTAxOTA4NDUsLTQ4MjU3Nz
+c3RvcnkiOlstMTUxMDg0NDMwOCw5MTAxOTA4NDUsLTQ4MjU3Nz
 Y2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwx
 NjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OT
 Y0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2
