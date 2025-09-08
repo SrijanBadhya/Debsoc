@@ -278,7 +278,7 @@ Feel free to reuse these motions or compile new ones.
 I had prioritized parenting, education, and romance motions, but the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059) shows that people soon got bored of these motions and wanted different ones too.
 ![From the Google Form](https://i.ibb.co/fd1q7Tyk/motionpref.png)
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
-But you can consider occasionally catering to these people (I should have).
+You can consider occasionally catering to these people (I should have).
 
 ![image](https://i.ibb.co/z1sLVdt/Screenshot-2025-09-06-162422.png)
 
@@ -1195,7 +1195,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjE0MDM1NjUyOSwtNDE3MDM2MDMzLDE0MzQ4OT
+c3RvcnkiOlstMTYyNjU4NDAxOCwtNDE3MDM2MDMzLDE0MzQ4OT
 g1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5
 NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05Mz
 Q2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1
