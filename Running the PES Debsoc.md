@@ -425,7 +425,10 @@ Here are some of my thoughts about the challenges, pros and cons of them.
 
 Cross mocks are great at improving inter soc ties. A lot of societies do have the incentive, are very interested to do cross mocks with PES, but often lack the capacity.
 I was the head of the NLS x PES cross mock initiative. 
-A lot of issues of sessions
+A lot of issues of sessions are exacerbated in cross mocks.
+1. If you thought syncing time between B. Tech students and non B.Tech students was challenging, try syncing with A WHOLE OTHER UNIVERSITY.
+2. If you thought getting people to come to sessions was challenging, try getting people WHO DON'T EVEN KNOW YOU to vote and come.
+3
 
 ## A few issues of sessions that persist
 
@@ -1160,7 +1163,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTYxNzc4NzE4LC01MTEwNjY1NjgsMTYxMTUwND
+c3RvcnkiOlsxMzkwMDc2NjI2LC01MTEwNjY1NjgsMTYxMTUwND
 MzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgs
 MjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMD
 kzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4
