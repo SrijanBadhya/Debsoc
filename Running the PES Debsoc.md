@@ -247,9 +247,9 @@ From the feedback forms and personal experience, the single biggest deterrent of
 ![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
 Having to **sit idle** before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
-Multiple different delays add up, and they should be minimized.
-- Often in 2023, juniors would show up to sessions before seniors, and then ask on Whatsapp where the seniors were. This was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
-- making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
+Multiple delays in each process add up to juniors starting late and going home late.
+- Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp where the seniors were. It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
+- Making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
 
 The obvious solutions to this are:
@@ -1195,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzQxODU5NzExLC00MTcwMzYwMzMsMTQzNDg5OD
-U5MiwtMTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1
-LDkxMDE5MDg0NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzND
-Y4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0
-MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwxNz
-UyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1
-MzUyXX0=
+c3RvcnkiOlsxOTQ1MzE4NjAsLTQxNzAzNjAzMywxNDM0ODk4NT
+kyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUs
+OTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Nj
+g1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQx
+MiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NT
+IzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1LC02NjY1MTUz
+NTJdfQ==
 -->
