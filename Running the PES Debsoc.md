@@ -441,11 +441,11 @@ Clearly such people couldn't be dragged all the way to PES if a mock happened th
 The second offline mock at NLS was when three friends called me since they wanted to practice for a tournament, and I brought two people from PES along.
 These offline sessions had fun vibes because we did get the tourney excitement of being at a new campus, and facing new people.
 
-For the offline session at PES, 
-
+For the offline session at PES, an NLS friend of mine dragged her friend to PES and we did a half BP. I was disappointed with the PES turnout because I had thought the debate being local would drive more people.
 
 The other 4-5 times I tried to hold sessions with NLS, I got a lackluster response on the polls.
 
+I think cross mocks are cool when they're successful. Making them successful is quite tedious, and you shouldn
 
 
 ## A few issues of sessions that persist
@@ -1181,11 +1181,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDYwMjI4NTc0LC00ODI1Nzc2NjQsMTcwMDYzOD
-E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
-MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
-c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
-LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtND
-E2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5
-OTY0NDZdfQ==
+c3RvcnkiOlstMTQ1NjcwNjE1MCwtNDgyNTc3NjY0LDE3MDA2Mz
+gxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUs
+LTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMD
+Y3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3
+NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLT
+QxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQx
+OTk2NDQ2XX0=
 -->
