@@ -407,10 +407,11 @@ Even if they don't practice body language and the feeling of speaking to a physi
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
-#### Crossmocks
+#### Cross Mocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay money for it. 
-However, many issues in regular mocks are exacerbated in crossmocks, and hence you often may not be able to tap into their benefits.
-1. 
+However, many issues of regular mocks are exacerbated in cross mocks, and hence you often may not be able to tap into their benefits.
+1. Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living.
+2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality 
 
 ## A few issues of sessions that persist
 
@@ -1145,11 +1146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNT
-U0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwx
-NzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NT
-E1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4
-MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LD
-E1MTkwODIyMjgsLTE4NDIwNTU1NzgsMjA5NTY5NTMzMywxMjI5
-NjYyMDkwXX0=
+c3RvcnkiOlstMTcxNzg5NzQyNywtNTExMDY2NTY4LDE2MTE1MD
+QzMzUsLTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4
+LDIxMDY3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMj
+A5MzQ3NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYx
+ODAsLTQxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC
+0xNjQxOTk2NDQ2LDE1MTkwODIyMjgsLTE4NDIwNTU1NzgsMjA5
+NTY5NTMzM119
 -->
