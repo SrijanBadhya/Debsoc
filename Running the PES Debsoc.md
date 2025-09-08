@@ -419,6 +419,8 @@ However, many issues of regular mocks are exacerbated in cross mocks, and hence 
 - - By the time you reach anything close to a plateau of debating the same people, new juniors will have appeared.
 - - Even if you're clueless and just debate over and over, there is still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
 4. Tournaments _do_ provide a lot of the benefits which crossmocks try to provide but fail to.
+5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so adjing a high quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how good people do it. 
+- - This can still be gained by watching WUDC videos online, but to be fair ther
 
 ## A few issues of sessions that persist
 
@@ -1153,11 +1155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDI4NTk3MTIsLTUxMTA2NjU2OCwxNjExNTA0Mz
-M1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwy
-MTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOT
-M0NzUsLTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgw
-LC00MTYyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMT
-Y0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2
-OTUzMzNdfQ==
+c3RvcnkiOlsxNzc0NjUwNjk5LC01MTEwNjY1NjgsMTYxMTUwND
+MzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgs
+MjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMD
+kzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4
+MCwtNDE2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLT
+E2NDE5OTY0NDYsMTUxOTA4MjIyOCwtMTg0MjA1NTU3OCwyMDk1
+Njk1MzMzXX0=
 -->
