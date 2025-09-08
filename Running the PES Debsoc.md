@@ -429,10 +429,13 @@ I was the head of the NLS x PES cross mock initiative, and I saw that lot of iss
 1. If you thought syncing schedules between B. Tech students and non B.Tech students was challenging, try syncing with A WHOLE OTHER UNIVERSITY.
 2. If you thought getting people to come to sessions was challenging, try getting people WHO DON'T EVEN KNOW YOU to vote and come.
 3. If you thought the walk to the basement deters people, think about travel to a whole other campus.
+4. Of course, cycling adjes and taking turns is another challenge.
 
 Sure, online sessions mitigate these issues to quite some extent, but they pretty much convert the university specific cross mock into a regular cross mock.
 
-With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one offline cross mock at PES.
+With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one offline cross mock at PES (I adjed all of them).
+
+The first offline mock had a few interested NLS students and a few PES students. NLS people spend all day in the library, so to get enoug
 
 
 
@@ -1169,11 +1172,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzNDY4NT
-gyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIs
-LTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMz
-MxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3NSwtNjY2NTE1MzUy
-LC0xODUyMzg0NzI1LC05NjMzNzYxODAsLTQxNjIwMDc4MCwtMT
-AxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQxOTk2NDQ2LDE1MTkw
-ODIyMjhdfQ==
+c3RvcnkiOlstMTIxNzk2MjQ1NCwtNDgyNTc3NjY0LDE3MDA2Mz
+gxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUs
+LTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMD
+Y3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3
+NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLT
+QxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQx
+OTk2NDQ2XX0=
 -->
