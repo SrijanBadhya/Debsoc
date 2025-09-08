@@ -412,7 +412,8 @@ Everyone goes on about how game-changing cross mocks are, and how they give you 
 However, many issues of regular mocks are exacerbated in cross mocks, and hence you often may not be able to tap into their benefits.
 1. Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living.
 2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality (because only new judges are the ones willing to judge a random cross mock) and give you the, 'mind-blowing diverse genius new perspective ' feedback which you're looking for.
-3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool, and hence in iso
+3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool. Everyone is isolated and could be veering off what real debate is, and there's no one to correct them.
+- I think this is slightly exaggerated, because as long as people have access to the WUDC BP manual, you'll be mostly right enough. 
 
 ## A few issues of sessions that persist
 
@@ -1147,11 +1148,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyOTcyNTM4MzEsLTUxMTA2NjU2OCwxNjExNTA0Mz
-M1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwy
-MTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOT
-M0NzUsLTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgw
-LC00MTYyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMT
-Y0MTk5NjQ0NiwxNTE5MDgyMjI4LC0xODQyMDU1NTc4LDIwOTU2
-OTUzMzNdfQ==
+c3RvcnkiOlstMTM3OTEwNTcxOSwtNTExMDY2NTY4LDE2MTE1MD
+QzMzUsLTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4
+LDIxMDY3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMj
+A5MzQ3NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYx
+ODAsLTQxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC
+0xNjQxOTk2NDQ2LDE1MTkwODIyMjgsLTE4NDIwNTU1NzgsMjA5
+NTY5NTMzM119
 -->
