@@ -438,7 +438,10 @@ With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one
 The first offline mock had a few interested NLS students and a few PES students. NLS people spend all day in the library, so to get enough debaters, my NLS friends had to beg their debsoc friends and drag them from the study zone of the library to the zone where we were debating.
 Clearly such people couldn't be dragged all the way to PES if a mock happened there.
 
+The second offline mock at NLS was when three friends called me since they wanted to practice for a tournament, and I brought two people from PES along.
+These offline sessions had fun vibes because we did get the tourney excitement of being at a new campus, and facing new people.
 
+For the offline session at PES, 
 
 
 The other 4-5 times I tried to hold sessions with NLS, I got a lackluster response on the polls.
@@ -1178,11 +1181,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUyNDU4MjMyOSwtNDgyNTc3NjY0LDE3MDA2Mz
-gxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUs
-LTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMD
-Y3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3
-NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLT
-QxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQx
-OTk2NDQ2XX0=
+c3RvcnkiOlsyMDYwMjI4NTc0LC00ODI1Nzc2NjQsMTcwMDYzOD
+E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
+MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
+c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
+LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4MCwtND
+E2MjAwNzgwLC0xMDE3NDgwMTcyLDE2NzIzNDI1MzIsLTE2NDE5
+OTY0NDZdfQ==
 -->
