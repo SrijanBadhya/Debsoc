@@ -435,7 +435,11 @@ Sure, online sessions mitigate these issues to quite some extent, but they prett
 
 With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one offline cross mock at PES (I adjed all of them).
 
-The first offline mock had a few interested NLS students and a few PES students. NLS people spend all day in the library, so to get enoug
+The first offline mock had a few interested NLS students and a few PES students. NLS people spend all day in the library, so to get enough debaters, my NLS friends had to beg their debsoc friends and drag them from the study zone of the library to the zone where we were debating.
+
+
+
+The other 4-5 times I've tried to hold sessions with NLS, I got a lackluster response.
 
 
 
@@ -1172,11 +1176,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIxNzk2MjQ1NCwtNDgyNTc3NjY0LDE3MDA2Mz
-gxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MTE1MDQzMzUs
-LTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQxOTg4LDIxMD
-Y3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4NzYsMTAxMjA5MzQ3
-NSwtNjY2NTE1MzUyLC0xODUyMzg0NzI1LC05NjMzNzYxODAsLT
-QxNjIwMDc4MCwtMTAxNzQ4MDE3MiwxNjcyMzQyNTMyLC0xNjQx
-OTk2NDQ2XX0=
+c3RvcnkiOls2NjU3NTMzMzYsLTQ4MjU3NzY2NCwxNzAwNjM4MT
+gyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0x
+MDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nz
+c4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUs
+LTY2NjUxNTM1MiwtMTg1MjM4NDcyNSwtOTYzMzc2MTgwLC00MT
+YyMDA3ODAsLTEwMTc0ODAxNzIsMTY3MjM0MjUzMiwtMTY0MTk5
+NjQ0Nl19
 -->
