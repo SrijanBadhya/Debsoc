@@ -427,11 +427,13 @@ Cross mocks are great at improving inter soc ties. A lot of societies do have th
 I was the head of the NLS x PES cross mock initiative. 
 A lot of issues of sessions are exacerbated in cross mocks.
 
-6. If you thought syncing time between B. Tech students and non B.Tech students was challenging, try syncing with A WHOLE OTHER UNIVERSITY.
-7. If you thought getting people to come to sessions was challenging, try getting people WHO DON'T EVEN KNOW YOU to vote and come.
-8. If you thought the walk to the basement deters people, think about travel to a whole other campus.
+1. If you thought syncing schedules between B. Tech students and non B.Tech students was challenging, try syncing with A WHOLE OTHER UNIVERSITY.
+2. If you thought getting people to come to sessions was challenging, try getting people WHO DON'T EVEN KNOW YOU to vote and come.
+3. If you thought the walk to the basement deters people, think about travel to a whole other campus.
 
-With NLS, I've held one online cross mock
+With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one offline cross mock at PES.
+
+
 
 ## A few issues of sessions that persist
 
@@ -1166,7 +1168,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTg0NTcyMzgyLC01MTEwNjY1NjgsMTYxMTUwND
+c3RvcnkiOlstOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwND
 MzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgs
 MjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMD
 kzNDc1LC02NjY1MTUzNTIsLTE4NTIzODQ3MjUsLTk2MzM3NjE4
