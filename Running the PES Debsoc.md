@@ -72,8 +72,8 @@ III. [Inside a session](#inside-a-session)
 &emsp;&emsp;a) [Turncoat](#turncoat)
 &emsp;&emsp;b) [Alley Debating](#alley-debating) 
 &emsp;6. [Online sessions](#online-sessions) 
-&emsp;7. [Cross Mocks]
-&emsp;. [Issues](#a-few-issues-of-sessions-that-persist)
+&emsp;7. [Cross Mocks](#cross-mocks)
+&emsp;8. [Issues](#a-few-issues-of-sessions-that-persist)
 
 IV. [Adj Rant](#adj-rant)
 &emsp;1. [Encouraging Adjing is Complicated](#encouraging-adjing-is-complicated)
@@ -408,10 +408,10 @@ Even if they don't practice body language and the feeling of speaking to a physi
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
-#### Cross Mocks
+### Cross Mocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay money for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
-1. Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living.
+1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but there are doubts about their consistency in activity.
 2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality (because only new judges are the ones willing to judge a random cross mock) and give you the, 'mind-blowing diverse genius new perspective ' feedback which you're looking for. (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc).
 3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool. Everyone is isolated and could be veering off what real debate is, and there's no one to correct them.
 - I think this is slightly exaggerated, because
@@ -430,7 +430,7 @@ I was the head of the NLS x PES cross mock initiative, and I saw that lot of iss
 1. If you thought syncing schedules between B. Tech students and non B.Tech students was challenging, try syncing with A WHOLE OTHER UNIVERSITY.
 2. If you thought getting people to come to sessions was challenging, try getting people WHO DON'T EVEN KNOW YOU to vote and come.
 3. If you thought the walk to the basement deters people, think about travel to a whole other campus.
-4. Of course, cycling adjes and taking turns is another challenge.
+4. Of course, cycling the adjes and taking turns is another challenge.
 
 Sure, online sessions mitigate these issues to quite some extent, but they pretty much convert the university specific cross mock into a regular cross mock.
 
@@ -446,7 +446,7 @@ For the offline session at PES, an NLS friend of mine dragged her friend to PES 
 
 The other 4-5 times I tried to hold sessions with NLS, I got a lackluster response on the polls.
 
-In summary, I think cross mocks are cool when they're successful. Making them successful is quite tedious. I don't think it's really a cause for concern if you're doing too few cross mocks, because there are plenty of other ways to access their benefits. And even if you inbreed, it can't be _that_ bad. (Okay I'll stop using that word)
+In summary, I think cross mocks are cool when they're successful. Making them successful is quite tedious. I don't think it's really a cause for concern if you're doing too few cross mocks, because there are plenty of other ways to access their benefits. And even if you inbreed, it can't be _that_ bad. (Okay I'll stop using that word).
 
 ## A few issues of sessions that persist
 
@@ -1181,7 +1181,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzk3NDQ2MzgyLC00ODI1Nzc2NjQsMTcwMDYzOD
+c3RvcnkiOlsxMzYwMjA5NzYyLC00ODI1Nzc2NjQsMTcwMDYzOD
 E4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwt
 MTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNj
 c3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1
