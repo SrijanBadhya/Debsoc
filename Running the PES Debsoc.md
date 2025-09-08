@@ -254,7 +254,7 @@ Multiple delays in each process add up to juniors starting late and going home l
 
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
-2. **Start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
+2. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
  + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody.
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
@@ -272,7 +272,7 @@ Here are the motions I used in 2024-2025.
  They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
 So all the motions here have been tested and I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
-&emsp;&emsp;4. Something I'm quite guilty of is taking too much time to prepare my OA.
+&emsp;&emsp;4. Something I'm guilty of myself is taking too much time to prepare my OA.
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 
 I had prioritized parenting, education, and romance motions, but the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059) shows that people soon got bored of these motions and wanted different ones too.
@@ -1195,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQ1MzE4NjAsLTQxNzAzNjAzMywxNDM0ODk4NT
-kyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUs
-OTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Nj
-g1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQx
-MiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NT
-IzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkzNDc1LC02NjY1MTUz
-NTJdfQ==
+c3RvcnkiOlstMjE0MDM1NjUyOSwtNDE3MDM2MDMzLDE0MzQ4OT
+g1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5
+NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05Mz
+Q2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1
+NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nzc4MjEsMT
+c1MjMzMTE2NSwtMjAyMzQ1ODc2LDEwMTIwOTM0NzUsLTY2NjUx
+NTM1Ml19
 -->
