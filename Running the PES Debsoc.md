@@ -182,7 +182,7 @@ I personally say don't judge the club at all.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
 Sure there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed to 
-(Like me being proud of studying better this month than last month,
+(Like me being proud of studying more this month than last month, before being crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter is way harder than the last chapter, so I feel unfairly judged~~).
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
   
@@ -1227,7 +1227,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAzNzgyODY1LC03MjY4MTU5MzEsMTU0MjQ2OD
+c3RvcnkiOlsxMzEzMjgzNTMzLC03MjY4MTU5MzEsMTU0MjQ2OD
 k3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwt
 NTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OT
 Y1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0
