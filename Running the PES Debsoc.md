@@ -298,15 +298,15 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
 - When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
-- It's very important to give the initial push for them to cross over after the debate if they don't.
+- It's very important to give the initial push for them to cross over after the debate if they don't cross over themselves.
 
 
 ##  Feedback
 
 [Back to Table of Contents](#table-of-contents)
 
-Feedback is often tricky when your brain has shut down after the debate and you try to make up something from your own notes.
-I personally write down my feedback while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
+Feedback is often tricky once your brain has shut down after the debate. Often you'll just try to make up something from your own notes.
+One thing I found useful was to write  while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
 - Their feedback is far more likely to be valid.
@@ -1195,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MDYyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNj
-AzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcs
-LTExNjI1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMD
-YzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMz
-NSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMj
-EwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0NTg3NiwxMDEyMDkz
-NDc1XX0=
+c3RvcnkiOlstMTk3ODIyMzU3OSw4MDYyNDYwOTIsLTE2MjY1OD
+QwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2
+LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00OD
+I1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1
+NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC
+04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0
+NTg3Nl19
 -->
