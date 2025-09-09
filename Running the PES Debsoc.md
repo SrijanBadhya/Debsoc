@@ -910,7 +910,7 @@ It's not unfair that they got access to this personalized coaching and others di
 What I would do is make up a tangible motion they would understand, like, "This House Would Change PES timings", or, "THW put effort to get a girlfriend", and ask questions to direct them in a certain way. Some other times, I would initially start some random conversation with them about their interests, find out something like them being a volunteer at Aatmatrisha, and then make up a more specific motion like, "THW be a volunteer at Aatmatrisha".
 Sometimes after this thorough discussion of their case, I got them to give a speech and see the effects of the deep prep on their confidence and speech quality (It felt really fulfilling for me to watch this as well).
 
-This session also helped me give people the individual a
+This session also helped me give people the individual attention that I've talked about in earlier chapters.
 
 
 ---
@@ -1219,11 +1219,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQyMDg0NTczOCw4MDYyNDYwOTIsLTE2MjY1OD
-QwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2
-LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00OD
-I1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1
-NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC
-04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0
-NTg3Nl19
+c3RvcnkiOlsxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4ND
+AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
+MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
+U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
+OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
+g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
+ODc2XX0=
 -->
