@@ -907,7 +907,8 @@ What's great about this is that you can make the lesson personalized, understand
 It's also low stakes practice for you to conduct a matter session in the future. 
 It's not unfair that they got access to this personalized coaching and others didn't, because they're the ones that showed up.
 
-What I would do is make up a tangible motion they would understand, like, "This House Would Change PES timings", or, "THW put effort to get a girlfriend"
+What I would do is make up a tangible motion they would understand, like, "This House Would Change PES timings", or, "THW put effort to get a girlfriend", and ask questions to direct them in a certain way. Some other times, I would initially start some random conversation with them about their interests, find out something like 
+Sometimes after a thorough discussion of their case
 
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "you won't get in to debsoc" during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
@@ -1204,11 +1205,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjA4MTU0OTY1LDgwNjI0NjA5MiwtMTYyNjU4ND
-AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
-MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
-U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
-OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
-g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
-ODc2XX0=
+c3RvcnkiOlstMTgxMDAxNjY4MCw4MDYyNDYwOTIsLTE2MjY1OD
+QwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2
+LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00OD
+I1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1
+NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC
+04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0
+NTg3Nl19
 -->
