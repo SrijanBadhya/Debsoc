@@ -224,6 +224,7 @@ What I mean by this is:
 - + Freshers feel lost thinking of an opp case because the benefits look great and they don't know how to outweigh them.
 - + Beginners don't think about regulation, mismanagement, and long term consequences.
 - + So even if there is tremendous learning potential after the round, people can feel depressed during the round.
+- + (If you can give hints of the case lines, like regulation, to both sides, then you can still make it work.)
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
@@ -1224,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE0MTY5MzMxMCwxNTQyNDY4OTcwLC01MDM4Nj
-c2MDgsMTE4ODYxODU3MywxMTc2NjcyNzYwLC01NTczMDQ3Niwt
-MTc2NzM3NDUxNSwtOTU3MzgxODg3LC03NTY5NjUwMjMsMTA2Nj
-UyNzUyMCwxNTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5OTY2
-Miw4MDYyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywxND
-M0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1
-MjM3OTVdfQ==
+c3RvcnkiOls4MDk3ODU4MzIsMTU0MjQ2ODk3MCwtNTAzODY3Nj
+A4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwtNTU3MzA0NzYsLTE3
+NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OTY1MDIzLDEwNjY1Mj
+c1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0LDEwNzI2OTk2NjIs
+ODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzND
+g5ODU5MiwtMTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIz
+Nzk1XX0=
 -->
