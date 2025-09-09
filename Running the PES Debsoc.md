@@ -177,23 +177,24 @@ I personally say don't judge the club at all.
 - In theory, metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
 - However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak. You usually can't even clearly pinpoint the cause of a change in the state of the soc that you see. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
 - Sure, you can ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
-- _Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
+
+_Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
 - Unfortunately, even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
 Sure, there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed towards results instead of enjoying the process.
-(Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter is way harder than the last chapter, so I feel unfairly judged, because my knowledge and work ethic have actually grown~~).
+(Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter was way harder than the last chapter,~~ so I feel unfairly judged, because my knowledge and work ethic have actually grown).
 
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
-  
+
 
 # Recruitments
 [Back to Table of Contents](#table-of-contents)
 
 remember to add these pictures in recruitments later Srijan
 
-Everyone else, just skip past these pictures for now, onto the next session, "Inside a Session".
+Everyone else, just skip past these pictures for now, onto the next session, ["Inside a Session".
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
   ![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
@@ -1228,7 +1229,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcyMTMyNzc5MSwtNzI2ODE1OTMxLDE1NDI0Nj
+c3RvcnkiOlstMTU1Njg1NTExMiwtNzI2ODE1OTMxLDE1NDI0Nj
 g5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAs
 LTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Nj
 k2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEy
