@@ -40,10 +40,11 @@ I don't want mistakes from the past to repeat because I wasn't able to empower m
 I believe it's good to keep in mind the merits and demerits of alternate policies while implementing a particular policy.
 
 
-The claims will be in **bold**, and the reasons will be in white bullet points. But first let me talk about the guiding values which are the basis for all the claims here (what we prioritized in our decisions).
-Alternate systems conceptualized or once followed will be in _italics_. 
+The claims will be in **bold** and the reasons will be in bullet points. Alternate systems conceptualized or once followed will be in _italics_. 
 
 **My whole yap isn't to say, "This is what you _should_ follow", but rather to just explain the frontier of my knowledge and lay out my case, hoping that you can overcome limitations, expand the frontier, and make better systems.**
+
+Before we get to the policies, let me first talk about the guiding values which are the basis for all the claims here (what we prioritized in our decisions).
 
 # Table of Contents
 I. [Guiding Principles](#guiding-principles)
@@ -1219,11 +1220,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NjgzODY4NDUsMTU0Mzk1ODEyMSwxMDU2MTMyMT
-I0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00
-MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2OD
-I0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0NSwtNDgyNTc3NjY0
-LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MT
-E1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQx
-OTg4XX0=
+c3RvcnkiOlstMTMwNjYzNDU3OCwxNTQzOTU4MTIxLDEwNTYxMz
+IxMjQsMTA3MjY5OTY2Miw4MDYyNDYwOTIsLTE2MjY1ODQwMTgs
+LTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMT
+Y4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2
+NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMT
+YxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2
+NDE5ODhdfQ==
 -->
