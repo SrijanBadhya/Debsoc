@@ -216,6 +216,7 @@ Add the following image to the, "even if temporary, provided value" thing
 ## Session Concepts
 Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are inevitably going to feel sad at the end of a session. Sadness cannot be avoided, but we can absolutely work to minimize its sting.
+![enter image description here](https://i.kym-cdn.com/photos/images/original/001/535/089/5e9.jpg)
 
 Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with the real thing, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, is crucial to push them towards the love point. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate.)
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality of it.
@@ -1229,7 +1230,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjc1NDIzNTQ1LC0zNzUwNTE2MTYsLTcyNjgxNT
+c3RvcnkiOlsxODc3Mzg1MzEyLC0zNzUwNTE2MTYsLTcyNjgxNT
 kzMSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3Mywx
 MTc2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3NDUxNSwtOTU3Mz
 gxODg3LC03NTY5NjUwMjMsMTA2NjUyNzUyMCwxNTQzOTU4MTIx
