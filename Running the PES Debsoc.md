@@ -107,7 +107,7 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;&emsp;c) [Relatability](#relatability)
 	&emsp;&emsp;d) [The PES Timetable](#the-damn-pes-timetable)
 	&emsp;&emsp;e) [WhatsApp](#whatsapp)
-	&emsp;6. [The Fabled Unicorn](#the-fabled-unicorn)
+	&emsp;6. [The Glorious Unicorn](#the-glorious-unicorn)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -991,10 +991,11 @@ There's no real benefit, but harm still does arise of this action. Even people w
 ---
 
 
-## The Fabl Unicorn
+## The Glorious Unicorn
 
+[Back to Table of Contents](#table-of-contents)
 
-The ultimate stage the final form of a junior, isn't when they pass a certain skill level. It's an identity shift.
+The ultimate stage, the final form of a junior, isn't when they pass a certain skill level. It's an identity shift.
 **It's when they see themselves as a debater.**
 
 They believe, "Debsoc is my club". They know, "Debating is what I _do_". Their friends think, "Debating is all they do".
@@ -1023,6 +1024,7 @@ Carrying out any of this is easier said than done. Every bit of it takes Hercule
 > Thank you for giving me a voice.
 
 # Appendix I
+
 ## Motion List
 
 [Back to Table of Contents](#table-of-contents)
@@ -1232,11 +1234,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTUwNzc1MjU1LDE1NTEwMTA1NTksLTUzODAyNz
-A0OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEs
-MTU0MjQ2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3Nj
-Y3Mjc2MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4
-NywtNzU2OTY1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMD
-U2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0
-MDE4XX0=
+c3RvcnkiOlstMTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01MzgwMj
+cwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMx
+LDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNz
+Y2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4
+ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMT
+A1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4
+NDAxOF19
 -->
