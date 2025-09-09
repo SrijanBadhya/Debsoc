@@ -411,7 +411,7 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
 - If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
 
-However since you can access a few people who are online-only, I'd recommend doing at least one online session a week for these people who don't wish to come offline. Preferably a Friday evening or Saturday evening. The debsoc gravitates to the 9 pm time. Even when we tried to schedule these sessions earlier, we were shown that a majority of college students are available only at the 9, 9:30 pm time.
+However since you can access a few people who are online-only, I'd recommend doing at least one online session a week for these people who don't wish to come offline. Preferably a Friday evening or Saturday evening. The Debsoc gravitates to the 9 pm time. Even when we tried to schedule these sessions earlier, we were shown that a majority of college students are available only at the 9, 9:30 pm time.
 Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
 
 ![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
@@ -1221,11 +1221,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMj
-EyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwt
-NDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNj
-gyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2
-NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNj
-ExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0
-MTk4OF19
+c3RvcnkiOlsxNjAxOTQ3NDU2LDEwNjY1Mjc1MjAsMTU0Mzk1OD
+EyMSwxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0x
+NjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMT
+Y4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0
+NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNT
+ExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0
+Nzk1N119
 -->
