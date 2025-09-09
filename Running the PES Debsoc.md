@@ -272,7 +272,7 @@ The obvious solutions to this are:
 
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
- They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, but ended up leading to messy debates, showing they were bad motions.
+ They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, yet ended up leading to messy debates, showing they were bad motions.
 So all the motions here have been tested and I have witnessed the debates that ensued from these motions.
 Feel free to reuse these motions or compile new ones.
 &emsp;&emsp;4. Something I'm guilty of myself is taking too much time to prepare my OA.
@@ -1222,11 +1222,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTc2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3ND
-UxNSwtOTU3MzgxODg3LC03NTY5NjUwMjMsMTA2NjUyNzUyMCwx
-NTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5OTY2Miw4MDYyND
-YwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTky
-LC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOT
-EwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1
-ODI5XX0=
+c3RvcnkiOlsyMTM4NDY5MTA1LDExNzY2NzI3NjAsLTU1NzMwND
+c2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywx
+MDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMDcyNj
+k5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MDM2MDMz
+LDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMT
+E2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4
+MTgyXX0=
 -->
