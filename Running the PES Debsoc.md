@@ -117,7 +117,7 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 ## The Point of a Debate Club
 2 parts: Debate, and Club
 
-_There have been people who say that the point of a debate club is to debate, and it's bad to chill too much_
+_There are people who say that the point of a debate club is to debate, and it's bad to chill too much_
 I believe chilling is fine, in so far as it assists in the direction of the purpose of the club. (there I said it, the first and last time I'll use that debate phrase!!)
 
 The single biggest purpose of a club is to ==provide value to every single member.==
@@ -154,7 +154,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 
 **Most of the benefits are accessible even when you don't solely care about tournament wins. You can still achieve joy, growth, and community without grinding solely for tournament wins.**
 
-- In the 2020-2023 timeframe, the PES management still freely provided reimbursement for tourneys, regardless of the lack of breaks we had in quite a few tourneys. **PES seems to fund us to support activity in the club, more than 'bringing PES name and fame', which they enjoy as a side effect, not the main purpose.**
+- In the 2020-2023 timeframe, the PES management still freely provided reimbursement for tourneys, regardless of the lack of breaks we had in quite a few tourneys. **PES seems to fund us to support activity in the club, more than 'bringing PES name and fame', which they enjoy as a side effect, not as the main purpose.**
 - A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and the community, so be careful what extent you're doing it to.
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.** 
 
@@ -1222,11 +1222,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTU3MzgxODg3LC03NTY5NjUwMjMsMTA2NjUyNz
-UyMCwxNTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5OTY2Miw4
-MDYyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0OD
-k4NTkyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3
-OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOT
-M0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1
-NTQxMl19
+c3RvcnkiOlstMTc2NzM3NDUxNSwtOTU3MzgxODg3LC03NTY5Nj
+UwMjMsMTA2NjUyNzUyMCwxNTQzOTU4MTIxLDEwNTYxMzIxMjQs
+MTA3MjY5OTY2Miw4MDYyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNz
+AzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMTY4MjQy
+NDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQsMT
+cwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUw
+NDMzNV19
 -->
