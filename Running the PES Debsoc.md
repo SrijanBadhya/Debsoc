@@ -270,12 +270,6 @@ The obvious solutions to this are:
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
 3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
 
-Here are the motions I used in 2024-2025.
-[Motion list](#motion-list)
- They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, yet ended up leading to messy debates, showing they were bad motions.
-So all the motions left here, are ones whose debates ended up being decent enough to pass my test.
-
-Feel free to reuse these motions or compile new ones.
 &emsp;&emsp;4. Something I'm guilty of myself is taking too much time to prepare my OA.
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 
@@ -1223,7 +1217,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2OTY1Mjk0ODMsMTE3NjY3Mjc2MCwtNTU3MzA0Nz
+c3RvcnkiOls0NDI2OTc0MzIsMTE3NjY3Mjc2MCwtNTU3MzA0Nz
 YsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OTY1MDIzLDEw
 NjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0LDEwNzI2OT
 k2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MTcwMzYwMzMs
