@@ -145,6 +145,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 - To win tournaments, you might start prioritizing your attention towards the people who already show potential and debate skills, to hone them further.
 - This could also mean that when you have limited tournament slots or resources, you give them to people already performing well.
 - **A hierarchy forms and people feel like worthless members when they're not the ones bringing in the accolades.** 
+- - They take tournament losses even more seriously because they're a disappointment to the soc, and not someone the soc is proud to have.
 - When a good debater becomes problematic, you're willing to let it slide because they're 'valuable to the soc'.
   + They may continue ruining the debate club experience for everyone else, while still bringing in tournament wins.
   + By utilitarian metrics, this reduces the number of people who enjoy debate, enjoy the club, and hence reduces the breadth and depth of the value given by the club.
@@ -1221,11 +1222,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjAxOTQ3NDU2LDEwNjY1Mjc1MjAsMTU0Mzk1OD
-EyMSwxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0x
-NjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMT
-Y4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0
-NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNT
-ExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0
-Nzk1N119
+c3RvcnkiOlstMTYwNTI0NjA3NSwxMDY2NTI3NTIwLDE1NDM5NT
+gxMjEsMTA1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0NjA5Miwt
+MTYyNjU4NDAxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMz
+E2ODEzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4
+NDUsLTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLT
+UxMTA2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcy
+NDc5NTddfQ==
 -->
