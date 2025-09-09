@@ -218,7 +218,7 @@ Many factors go into ensuring the quality of experience of a debate session.
 
 Debate is an extreme sport, and half the people are inevitably going to feel sad at the end of a session.
 ![The Judge Every Session](https://i.kym-cdn.com/photos/images/original/001/535/089/5e9.jpg)
- Sadness cannot be avoided, but we can absolutely work to minimize it
+ Sadness cannot be avoided, but we can absolutely work to minimize its sting.
  
 Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with the real thing, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, is crucial to push them towards the love point. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate.)
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality of it.
@@ -1232,11 +1232,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMzQ1MjQyOTgsLTM3NTA1MTYxNiwtNzI2ODE1OT
-MxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDEx
-NzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczOD
-E4ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEs
-MTA1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNj
-U4NDAxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEz
-NTZdfQ==
+c3RvcnkiOlstMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MT
+U5MzEsMTU0MjQ2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMs
+MTE3NjY3Mjc2MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1Nz
+M4MTg4NywtNzU2OTY1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEy
+MSwxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNj
+I2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4
+MTM1Nl19
 -->
