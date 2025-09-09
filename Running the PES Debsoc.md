@@ -137,7 +137,7 @@ The needs are heavily disagreed upon, and the methods even more so.
 
 _**Some have believed that the point of the debate club is to win tournaments and get accolades.**_
 
-- _This does initially make sense since our tournament results are what our PES management sees._
+- _This does initially make sense since our tournament results are what our PES management gets to see._
 - _And the debsoc cares about getting funded by PES because that's how we get to go to more fun tournaments._
 
 **However, some of us believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
@@ -1225,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2Nz
-YwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0x
-NzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywxMDY2NT
-I3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMDcyNjk5NjYy
-LDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MDM2MDMzLDE0Mz
-Q4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMTE2MjUy
-Mzc5NV19
+c3RvcnkiOlstNjMxNzY5NjAwLC03MjY4MTU5MzEsMTU0MjQ2OD
+k3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwt
+NTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OT
+Y1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0
+LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MT
+cwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2ODI0
+MjQ3XX0=
 -->
