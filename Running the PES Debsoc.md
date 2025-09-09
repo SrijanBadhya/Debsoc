@@ -268,10 +268,17 @@ The obvious solutions to this are:
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
-3. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
-
-&emsp;&emsp;4. Something I'm guilty of myself is taking too much time to prepare my OA.
+3. Something I'm guilty of myself is taking too much time to prepare my OA.
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
+
+4. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
+
+Here are the motions I used in 2024-2025.
+[Motion list](#motion-list)
+ They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, yet ended up leading to messy debates, showing they were bad motions.
+So all the motions left here, are ones whose debates ended up being decent enough to pass my test.
+
+Feel free to reuse these motions or compile new ones.
 
 I had prioritized parenting, education, and romance motions, but the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059) shows that people soon got bored of these motions and wanted different ones too.
 ![From the Google Form](https://i.ibb.co/fd1q7Tyk/motionpref.png)
@@ -1217,11 +1224,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDI2OTc0MzIsMTE3NjY3Mjc2MCwtNTU3MzA0Nz
-YsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OTY1MDIzLDEw
-NjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0LDEwNzI2OT
-k2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MTcwMzYwMzMs
-MTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMT
-YyNTIzNzk1LDkxMDE5MDg0NSwtNDgyNTc3NjY0LDE3MDA2Mzgx
-ODJdfQ==
+c3RvcnkiOlsxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwND
+c2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywx
+MDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMDcyNj
+k5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MDM2MDMz
+LDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMT
+E2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4
+MTgyXX0=
 -->
