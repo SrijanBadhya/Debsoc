@@ -181,10 +181,7 @@ I personally say don't judge the club at all.
 - Unfortunately, even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
-
-The harms of taking metrics and believing that these are good metrics (when they are actually likely flawed for the reasons listed above), is
-1. Inaccurate judgement of whether an action was beneficial or not (because it might have improved one metric but ruined what really matters). It's also likely to give you a short-term gain, but lead to a long-term decay (Something similar to the harms of the tournament-win metric). If you get a green signal for bad decisions and a red signal for good decisions, that just incentivizes the wrong decisions.
-2. 
+Sure there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors are pushed 
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
   
@@ -1229,11 +1226,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjkxNTM4MTk5LC03MjY4MTU5MzEsMTU0MjQ2OD
-k3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwt
-NTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OT
-Y1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0
-LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MT
-cwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2ODI0
-MjQ3XX0=
+c3RvcnkiOlstMTc3NzI5NjYwMCwtNzI2ODE1OTMxLDE1NDI0Nj
+g5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAs
+LTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Nj
+k2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEy
+NCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtND
+E3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgy
+NDI0N119
 -->
