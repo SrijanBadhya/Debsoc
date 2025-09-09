@@ -148,8 +148,8 @@ _**Some have believed that the point of the debate club is to win tournaments an
 - - They take tournament losses even more seriously because they're now a disappointment to the soc, not someone the soc is proud to have.
 - When a good debater becomes problematic, you're willing to let it slide because they're 'valuable to the soc'.
   + They may continue ruining the debate club experience for everyone else, while still bringing in tournament wins.
-  + By utilitarian metrics, this reduces the number of people who enjoy debate, enjoy the club, and hence reduces the breadth and depth of the value given by the club.
-- You might get depressed over the Debsoc 'deteriorating' when the people are actually doing fine. They're still enjoying the club and enjoying debate.
+  + By utilitarian metrics, this reduces the number of people who enjoy debate and the club, reduces their enjoyment of debate and the club, and hence reduces the breadth and depth of the value given by the club.
+- You might get depressed over the Debsoc 'deteriorating' when the people are actually doing fine. They're still enjoying the club and enjoying debate but you're hyperventilating.
 - You might be cringe and hesitate to work with other societies and give good feedback because they're 'rival societies' who are 'taking away your wins'. (For a while I had to process these cringe thoughts in my own head).
 
 **Most of the benefits are accessible even when you don't solely care about tournament wins. You can still achieve joy, growth, and community without grinding solely for tournament wins.**
@@ -1222,11 +1222,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MzkxMjUzNTcsMTA2NjUyNzUyMCwxNTQzOTU4MT
-IxLDEwNTYxMzIxMjQsMTA3MjY5OTY2Miw4MDYyNDYwOTIsLTE2
-MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNj
-gxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1
-LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MT
-EwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3
-OTU3XX0=
+c3RvcnkiOlsxOTYzNzE2NDg0LDEwNjY1Mjc1MjAsMTU0Mzk1OD
+EyMSwxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0x
+NjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMT
+Y4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0
+NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNT
+ExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0
+Nzk1N119
 -->
