@@ -227,7 +227,7 @@ What I mean by this is:
 - **I found it nice to have a short speech before every debate to say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace every debate. I did this throughout round 3, but think post round 3 it probably isn't really required because they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
-- I know this might look like treating juniors like snowflakes. But debating does get sad, even I and some friends still get sad on the regular. Having someone show empathy to you can mean the world to you.
+- I know this might look like juniors are being like snowflakes. Even so debating does get sad, some friends and I still get sad on the regular. Having someone show empathy to you can mean the world to you.
 - + _Sure, the argument against this is that if you keep protecting them, they'll never be able to stand on their own two feet._
 - But I disagree, regardless of how much their wounds are bandaged by you, recurring wounds make them stronger naturally with time.
 - + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
@@ -1219,11 +1219,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5OT
-Y2Miw4MDYyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywx
-NDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNj
-I1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4
-MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMT
-A5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3
-ODIxXX0=
+c3RvcnkiOlsxNzE5ODA3NzA5LDE1NDM5NTgxMjEsMTA1NjEzMj
+EyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwt
+NDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNj
+gyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2
+NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNj
+ExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0
+MTk4OF19
 -->
