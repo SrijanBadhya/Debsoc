@@ -306,7 +306,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 [Back to Table of Contents](#table-of-contents)
 
 Feedback is often tricky once your brain has shut down after the debate. Often you'll just try to make up something from your own notes.
-One thing I found useful was to write  while the speeches are going on. The moment a question comes to my mind during the speech like, "Missing reasoning", I write it down in brackets. It helps me deliver the feedback quicker when I'm asked for it.
+One thing I found useful was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Missing reasoning", I wrote it down in brackets. It helped me deliver the feedback quicker when I was asked for it.
 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
 - Their feedback is far more likely to be valid.
@@ -1195,11 +1195,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk3ODIyMzU3OSw4MDYyNDYwOTIsLTE2MjY1OD
-QwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2
-LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00OD
-I1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1
-NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC
-04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0
-NTg3Nl19
+c3RvcnkiOlstNzY4MjU0OTk1LDgwNjI0NjA5MiwtMTYyNjU4ND
+AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
+MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
+U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
+OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
+g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
+ODc2XX0=
 -->
