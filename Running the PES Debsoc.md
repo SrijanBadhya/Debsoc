@@ -238,10 +238,10 @@ What I mean by this is:
 - I found it helpful to **have a short speech before every debate saying that verdict doesn't matter, growth happens regardless, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace every debate. I did this throughout round 3, but I think post round 3 it probably isn't really required because they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
-- I know this may look like treating juniors like snowflakes. Even so debating does get sad, some friends and I still get sad on the regular. Having someone show empathy to you can mean the world to you.
+- I know this may look like treating juniors like snowflakes. Even so, debating does get sad, some friends and I still get sad on the regular. Having someone show empathy to you can mean the world to you.
 - + _Sure, the argument against this is that if you keep protecting them, they'll never be able to stand on their own two feet._
 - But I disagree, regardless of how much their wounds are bandaged by you, recurring wounds make them stronger naturally with time.
-- + _The other argument is to just follow natural selection so that you end up quickly with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
+- + _The other argument is to just follow natural selection so that you quickly end up with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
 - Keeping it challenging yet making people feel like they were able to contribute something significant is key.
 - Even the easiest motions are challenging to recruits due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
@@ -1234,11 +1234,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01MzgwMj
-cwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMx
-LDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNz
-Y2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4
-ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMT
-A1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4
-NDAxOF19
+c3RvcnkiOlstMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMD
+EwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYx
+NiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMT
+g4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0
+NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLD
+E1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0
+NjA5Ml19
 -->
