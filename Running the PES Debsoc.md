@@ -270,8 +270,8 @@ The obvious solutions to this are:
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
 3. Something I'm guilty of myself is taking too much time to prepare my OA.
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
-
-4. **Have a list of motions made in your free time before the session, so that you're not actively wasting time during the session.**
+![enter image description here](https://i.ibb.co/1fXTyKf8/Screenshot-2025-09-09-135934.png)
+4. **Have a list of motions made in your free time before the session, so that you're not acwasting time during the session.**
 
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
@@ -1224,11 +1224,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwND
-c2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywx
-MDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMDcyNj
-k5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MDM2MDMz
-LDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMT
-E2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4
-MTgyXX0=
+c3RvcnkiOlsxNTgxOTc1MDc2LDExODg2MTg1NzMsMTE3NjY3Mj
+c2MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4Nywt
+NzU2OTY1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MT
+MyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4
+LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMz
+E2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0NSwtNDgyNTc3
+NjY0XX0=
 -->
