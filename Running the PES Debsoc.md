@@ -919,7 +919,7 @@ For example, "This house regrets the narrative that going to a prestigious unive
 So one beautiful motion I came across recently, is 
 This house regrets the dominant portrayal of long-distance relationships as doomed to fail.
 
-Here it's quite clear that it could be right or wrong. It's also quite evident that people who believe the narrative, are giving up on what could have been a successful relatio
+Here it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope affecting actions is something that can clearly be mechanized from this motion.
 
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
@@ -1216,7 +1216,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTYxMjY1ODU3LDgwNjI0NjA5MiwtMTYyNjU4ND
+c3RvcnkiOlstMzkyNzEyOTYwLDgwNjI0NjA5MiwtMTYyNjU4ND
 AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
 MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
 U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
