@@ -118,7 +118,7 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 2 parts: Debate, and Club
 
 _There have been people who say that the point of a debate club is to debate, and it's bad to chill too much_
-I believe chilling is fine, in so far as it assists in the direction of the purpose of the club. (there I said it, the first and last time I use that debate phrase!!)
+I believe chilling is fine, in so far as it assists in the direction of the purpose of the club. (there I said it, the first and last time I'll use that debate phrase!!)
 
 The single biggest purpose of a club is to ==provide value to every single member.==
 
@@ -1222,7 +1222,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTYzNzE2NDg0LDEwNjY1Mjc1MjAsMTU0Mzk1OD
+c3RvcnkiOlstNzU2OTY1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1OD
 EyMSwxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0x
 NjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMT
 Y4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0
