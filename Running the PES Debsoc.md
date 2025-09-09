@@ -907,11 +907,11 @@ What's great about this is that you can make the lesson personalized, understand
 It's also low stakes practice for you to conduct a matter session in the future. 
 It's not unfair that they got access to this personalized coaching and others didn't, because they're the ones that showed up.
 
-What I would do is make up a tangible motion they would understand, like, "This House Would Change PES timings", or, "THW put effort to get a girlfriend", and ask questions to direct them in a certain way. Some other times, I would initially start some random conversation with them about their interests, find out something like 
-Sometimes after a thorough discussion of their case
+What I would do is make up a tangible motion they would understand, like, "This House Would Change PES timings", or, "THW put effort to get a girlfriend", and ask questions to direct them in a certain way. Some other times, I would initially start some random conversation with them about their interests, find out something like them being a volunteer at Aatmatrisha, and then make up a more specific motion like, "THW be a volunteer at Aatmatrisha".
+Sometimes after this thorough discussion of their case, I got them to give a speech and see the effects of the deep prep on their confidence and speech quality (It felt really fulfilling for me to watch this as well).
 
 ### Pranks
-My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "you won't get in to debsoc" during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
+My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 
 
@@ -1205,7 +1205,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgxMDAxNjY4MCw4MDYyNDYwOTIsLTE2MjY1OD
+c3RvcnkiOlstMjA2MTkxODI1Niw4MDYyNDYwOTIsLTE2MjY1OD
 QwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2
 LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00OD
 I1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1
