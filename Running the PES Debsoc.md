@@ -914,7 +914,7 @@ This session also helped me give people the individual attention that I've talke
 
 
 ---
-Narratie motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative to be right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
+Narrative motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative to be right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
 And it's extremely difficult to distinguish the two in most narrative motions, because people have such strong biases. 
 For example, "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely argue about whether it is possible to succeed without a university etc. And it's hard to differentiate that from believing in it. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
@@ -1219,11 +1219,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4ND
-AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
-MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
-U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
-OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
-g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
-ODc2XX0=
+c3RvcnkiOlsxNDUyNDc0OTAsMTA3MjY5OTY2Miw4MDYyNDYwOT
+IsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0x
+MDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMT
+kwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5
+LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMT
+Q3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzEx
+NjVdfQ==
 -->
