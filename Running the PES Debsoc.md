@@ -153,7 +153,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 
 - In the 2020-2023 timeframe, the PES management still freely provided reimbursement for tourneys, regardless of the lack of breaks we had in quite a few tourneys. **PES seems to fund us to support activity in the club, more than 'bringing PES name and fame', which they enjoy as a side effect, not the main purpose.**
 - A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and the community, so be careful what extent you're doing it to.
-  + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they don't enjoy the activity itself.** 
+  + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.** 
 
 _Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
 Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
@@ -173,7 +173,7 @@ I personally say don't judge the club at all.
 
 - In theory, metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
 - However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak. You usually can't even clearly pinpoint the cause of a change in the state of the soc that you see. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
-- Sure you can ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
+- Sure, you can ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
 - _Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
 - Unfortunately even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
@@ -1219,11 +1219,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzE5ODA3NzA5LDE1NDM5NTgxMjEsMTA1NjEzMj
-EyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwt
-NDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNj
-gyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2
-NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNj
-ExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0
-MTk4OF19
+c3RvcnkiOls4NjgzODY4NDUsMTU0Mzk1ODEyMSwxMDU2MTMyMT
+I0LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00
+MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2OD
+I0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0NSwtNDgyNTc3NjY0
+LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4LDE2MT
+E1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtODU5NjQx
+OTg4XX0=
 -->
