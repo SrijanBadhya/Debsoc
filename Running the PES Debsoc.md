@@ -183,7 +183,8 @@ I personally say don't judge the club at all.
 
 
 The harms of taking metrics and believing that these are good metrics (when they are actually likely flawed for the reasons listed above), is
-1. Inaccurate judgement of whether an action was beneficial or not (because it might have improved one metric but ruined what really matters). It's also likely to give you a short term gain 
+1. Inaccurate judgement of whether an action was beneficial or not (because it might have improved one metric but ruined what really matters). It's also likely to give you a short-term gain, but lead to a long-term decay (Something similar to the harms of the tournament-win metric). If you get a green signal for bad decisions and a red signal for good decisions, that just incentivizes the wrong decisions.
+2. 
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
   
@@ -1228,7 +1229,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTM3MjEyODQ5LC03MjY4MTU5MzEsMTU0MjQ2OD
+c3RvcnkiOlsxNjkxNTM4MTk5LC03MjY4MTU5MzEsMTU0MjQ2OD
 k3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwt
 NTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OT
 Y1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0
