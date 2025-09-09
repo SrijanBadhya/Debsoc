@@ -158,7 +158,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 - A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and the community, so be careful what extent you're doing it to.
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.**
 
-_Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
+_Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_
 Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
 
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that having enjoyable chill time goes a long way in getting people to stay, and also motivates them to debate more. 
@@ -1225,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEyMjQ4NTU0NiwtNzI2ODE1OTMxLDE1NDI0Nj
-g5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAs
-LTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Nj
-k2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEy
-NCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtND
-E3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgy
-NDI0N119
+c3RvcnkiOls2MjA4NjY1NCwtNzI2ODE1OTMxLDE1NDI0Njg5Nz
+AsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1
+NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NT
+AyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEyNCwx
+MDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MD
+M2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0
+N119
 -->
