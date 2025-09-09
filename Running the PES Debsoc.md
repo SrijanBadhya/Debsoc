@@ -914,6 +914,7 @@ Sometimes after this thorough discussion of their case, I got them to give a spe
 Narratie motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative to be right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
 And it's extremely difficult to distinguish the two in most narrative motions, because people have such strong biases. 
+For example
 
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
@@ -1210,11 +1211,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5ODA0MjQ1NTcsODA2MjQ2MDkyLC0xNjI2NTg0MD
-E4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1Niwx
-MzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0NSwtNDgyNT
-c3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4
-LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtOD
-U5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4
-NzZdfQ==
+c3RvcnkiOlsxNTM1NTk3MzQyLDgwNjI0NjA5MiwtMTYyNjU4ND
+AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
+MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
+U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
+OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
+g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
+ODc2XX0=
 -->
