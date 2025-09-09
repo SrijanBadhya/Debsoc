@@ -156,7 +156,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 
 - In the 2020-2023 timeframe, the PES management still freely provided reimbursement for tourneys, regardless of the lack of breaks we had in quite a few tourneys. **PES seems to fund us to support activity in the club, more than 'bringing PES name and fame', which they enjoy as a side effect, not as the main purpose.**
 - A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and the community, so be careful what extent you're doing it to.
-  + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.** 
+  + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.**
 
 _Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_ 
 Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
@@ -1225,11 +1225,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjMxNzY5NjAwLC03MjY4MTU5MzEsMTU0MjQ2OD
-k3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwt
-NTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OT
-Y1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0
-LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MT
-cwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2ODI0
-MjQ3XX0=
+c3RvcnkiOlstMTEyMjQ4NTU0NiwtNzI2ODE1OTMxLDE1NDI0Nj
+g5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAs
+LTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Nj
+k2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEy
+NCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtND
+E3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgy
+NDI0N119
 -->
