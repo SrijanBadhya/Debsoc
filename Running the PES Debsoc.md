@@ -981,7 +981,7 @@ I think this was rather dumb,
 
 ####  More on our approach to MUN as a whole
 
-It's unwise to alienate MUN people because quite a few people try out both clubs.
+Since quite a few people try out both clubs, it's unwise to alienate MUN people. 
 ![image](https://i.ibb.co/rfNNY5sw/debsocmunsoc.png)
 Across the year, a few people do switch from debsoc to munsoc, and munsoc to debsoc. This happens naturally, and you don't have much power to prevent this by directly targeting MUN, because there's no guarantee that your effort will bear fruit instead of backfiring.
 It's more dignified to just take the high road. Like mentioned before, any sort of insults at MUN are unlikely to convince anyone who's interested in MUN. 
@@ -1232,11 +1232,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNT
-E2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2MDgs
-MTE4ODYxODU3MywxMTc2NjcyNzYwLC01NTczMDQ3NiwtMTc2Nz
-M3NDUxNSwtOTU3MzgxODg3LC03NTY5NjUwMjMsMTA2NjUyNzUy
-MCwxNTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5OTY2Miw4MD
-YyNDYwOTIsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0ODk4
-NTkyXX0=
+c3RvcnkiOlsxNTUxMDEwNTU5LC01MzgwMjcwNDksLTE5MzA5Mz
+g0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAs
+LTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1Nz
+MwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAy
+MywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMD
+cyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MDM2
+MDMzXX0=
 -->
