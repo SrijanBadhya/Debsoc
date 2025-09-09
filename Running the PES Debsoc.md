@@ -916,7 +916,10 @@ Narratie motions are incredibly complicated for debaters to wrap their head arou
 And it's extremely difficult to distinguish the two in most narrative motions, because people have such strong biases. 
 For example, "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely argue about whether it is possible to succeed without a university etc. And it's hard to differentiate that from believing in it. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
 
-So one bea
+So one beautiful motion I came across recently, is 
+This house regrets the dominant portrayal of long-distance relationships as doomed to fail.
+
+Here it's quite clear that it could be right or wrong. It's also quite evident that people who believe the narrative, are giving up on what could have been a successful relatio
 
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
@@ -1213,11 +1216,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA1NDQ0MjUzMCw4MDYyNDYwOTIsLTE2MjY1OD
-QwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2
-LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00OD
-I1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1
-NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC
-04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzExNjUsLTIwMjM0
-NTg3Nl19
+c3RvcnkiOlsxOTYxMjY1ODU3LDgwNjI0NjA5MiwtMTYyNjU4ND
+AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
+MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
+U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
+OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
+g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
+ODc2XX0=
 -->
