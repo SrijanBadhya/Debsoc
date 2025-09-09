@@ -181,8 +181,9 @@ I personally say don't judge the club at all.
 - Unfortunately, even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
-Sure there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed to 
-(Like me being proud of studying more this month than last month, before being crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter is way harder than the last chapter, so I feel unfairly judged~~).
+Sure, there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed towards results instead of enjoying the process.
+(Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter is way harder than the last chapter, so I feel unfairly judged, because my knowledge and work ethic have actually grown~~).
+
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
   
@@ -1227,11 +1228,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzEzMjgzNTMzLC03MjY4MTU5MzEsMTU0MjQ2OD
-k3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2MCwt
-NTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNzU2OT
-Y1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMyMTI0
-LDEwNzI2OTk2NjIsODA2MjQ2MDkyLC0xNjI2NTg0MDE4LC00MT
-cwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1NiwxMzE2ODI0
-MjQ3XX0=
+c3RvcnkiOlstMTcyMTMyNzc5MSwtNzI2ODE1OTMxLDE1NDI0Nj
+g5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAs
+LTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4ODcsLTc1Nj
+k2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMjEy
+NCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtND
+E3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgy
+NDI0N119
 -->
