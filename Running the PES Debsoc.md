@@ -224,7 +224,7 @@ What I mean by this is:
 - not being brutally honest and telling speakers their speeches were shit in the early days.
 - spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
 - being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
-- **Before every it can be effective to have a short speech where you say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
+- **I found it nice to have a short speech before every debate to say that verdict doesn't matter, growth is important, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace every round. I did this throughout round 3, and post round 3 it probably isn't that required cause they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
 - I know this might look like treating juniors like snowflakes, but debating gets sad, even I and some friends still get sad on the regular. Having someone show empathy to you can mean the world to you.
@@ -1219,11 +1219,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MD
-kyLC0xNjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5Miwt
-MTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMD
-E5MDg0NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgy
-OSwtNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLT
-E0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMzMx
-MTY1XX0=
+c3RvcnkiOlstMzg4MzY4MzksMTA1NjEzMjEyNCwxMDcyNjk5Nj
+YyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwtNDE3MDM2MDMzLDE0
+MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNjgyNDI0NywtMTE2Mj
+UyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2NCwxNzAwNjM4MTgy
+LC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNjExNTA0MzM1LC0xMD
+kzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0MTk4OCwyMTA2Nzc4
+MjFdfQ==
 -->
