@@ -724,7 +724,7 @@ I don't have experience communicating between students and the management, so I 
 
 Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
 
-You might might use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
+You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
 It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
 
 If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
@@ -919,7 +919,7 @@ Narrative motions are incredibly complicated for debaters to wrap their head aro
 And it's extremely difficult to distinguish the two in most narrative motions, because people have such strong biases. 
 For example, "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely argue about whether it is possible to succeed without a university etc. And it's hard to differentiate that from believing in it. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
 
-So one beautiful motion I came across recently, is 
+So one beautiful motion I came across recently, is:
 This house regrets the dominant portrayal of long-distance relationships as doomed to fail.
 
 Here it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope affecting actions is something that can clearly be mechanized from this motion.
@@ -1219,11 +1219,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDUyNDc0OTAsMTA3MjY5OTY2Miw4MDYyNDYwOT
-IsLTE2MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0x
-MDMxNjgxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMT
-kwODQ1LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5
-LC01MTEwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMT
-Q3MjQ3OTU3LC04NTk2NDE5ODgsMjEwNjc3ODIxLDE3NTIzMzEx
-NjVdfQ==
+c3RvcnkiOlsxMDU2MTMyMTI0LDEwNzI2OTk2NjIsODA2MjQ2MD
+kyLC0xNjI2NTg0MDE4LC00MTcwMzYwMzMsMTQzNDg5ODU5Miwt
+MTAzMTY4MTM1NiwxMzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMD
+E5MDg0NSwtNDgyNTc3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgy
+OSwtNTExMDY2NTY4LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLT
+E0NzI0Nzk1NywtODU5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMzMx
+MTY1XX0=
 -->
