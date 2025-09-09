@@ -143,8 +143,8 @@ _**Some have believed that the point of the debate club is to win tournaments an
 **However, some of us believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
 
 - To win tournaments, you might start prioritizing your attention towards the people who already show potential and debate skills, to hone them further.
-- This could also mean that when you have limited tournament slots or resources, you give them to people already performing well.
-- **A hierarchy forms where people feel like worthless members when they're not the ones bringing in the accolades.** 
+- This could also mean that when you have limited tournament slots or resources, you give them to the people already performing well.
+- **A hierarchy forms where people feel like worthless members when they're not the ones bringing in the accolades.**
 - - They take tournament losses even more seriously because they're now a disappointment to the soc, not someone the soc is proud to have.
 - When a good debater becomes problematic, you're willing to let it slide because they're 'valuable to the soc'.
   + They may continue ruining the debate club experience for everyone else, while still bringing in tournament wins.
@@ -1222,11 +1222,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODM4NTk5MiwxMDY2NTI3NTIwLDE1NDM5NTgxMj
-EsMTA1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYy
-NjU4NDAxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2OD
-EzNTYsMTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUs
-LTQ4MjU3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMT
-A2NjU2OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5
-NTddfQ==
+c3RvcnkiOls4MzkxMjUzNTcsMTA2NjUyNzUyMCwxNTQzOTU4MT
+IxLDEwNTYxMzIxMjQsMTA3MjY5OTY2Miw4MDYyNDYwOTIsLTE2
+MjY1ODQwMTgsLTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNj
+gxMzU2LDEzMTY4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1
+LC00ODI1Nzc2NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MT
+EwNjY1NjgsMTYxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3
+OTU3XX0=
 -->
