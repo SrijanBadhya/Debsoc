@@ -73,7 +73,8 @@ III. [Inside a session](#inside-a-session)
 &emsp;&emsp;a) [Turncoat](#turncoat)
 &emsp;&emsp;b) [Alley Debating](#alley-debating) 
 &emsp;&emsp;c) [Impromptu Debates](#impromptu-debates)
-&emsp;&emsp;d)[Pop Debates](#pop-debates)
+&emsp;&emsp;d) [Pop Debates](#pop-debates)
+&emsp;&emsp;e) [Game Night](#game-night)
 &emsp;6. [Online sessions](#online-sessions) 
 &emsp;7. [Cross Mocks](#cross-mocks)
 &emsp;8. [Issues](#a-few-issues-of-sessions-that-persist)
@@ -392,7 +393,7 @@ Such fun motion days are best for when chatter in the Debsoc has progressed to t
 This variety of debate activities keeps debate fresh and fun.
 
 #### Game Night
-In early 2024, my batch of clubheads started online game night. Popular games are the ones people have experience playing in class already, like Skribbl.io.
+In early 2024, my batch of clubheads started online game nights. Popular games are the ones people have experience playing in class already, like Skribbl.io.
 
 If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played. It also makes it easier to get on Voice Chat alongside this, which adds to the fun.
 
@@ -1220,11 +1221,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMwNjYzNDU3OCwxNTQzOTU4MTIxLDEwNTYxMz
-IxMjQsMTA3MjY5OTY2Miw4MDYyNDYwOTIsLTE2MjY1ODQwMTgs
-LTQxNzAzNjAzMywxNDM0ODk4NTkyLC0xMDMxNjgxMzU2LDEzMT
-Y4MjQyNDcsLTExNjI1MjM3OTUsOTEwMTkwODQ1LC00ODI1Nzc2
-NjQsMTcwMDYzODE4MiwtOTM0Njg1ODI5LC01MTEwNjY1NjgsMT
-YxMTUwNDMzNSwtMTA5MzA1NTQxMiwtMTQ3MjQ3OTU3LC04NTk2
-NDE5ODhdfQ==
+c3RvcnkiOlsxMDY2NTI3NTIwLDE1NDM5NTgxMjEsMTA1NjEzMj
+EyNCwxMDcyNjk5NjYyLDgwNjI0NjA5MiwtMTYyNjU4NDAxOCwt
+NDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYsMTMxNj
+gyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4MjU3NzY2
+NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2OCwxNj
+ExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLTg1OTY0
+MTk4OF19
 -->
