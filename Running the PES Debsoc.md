@@ -218,7 +218,7 @@ Many factors go into ensuring the quality of experience of a debate session.
 
 Debate is an extreme sport, and half the people are inevitably going to feel sad at the end of a session.
 ![The Judge Every Session](https://i.kym-cdn.com/photos/images/original/001/535/089/5e9.jpg)
- Sadness cannot be avoided, but we can absolutely work to minimize its sting.
+ Sadness cannot be avoided, but we can absolutely work to minimize it
  
 Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with the real thing, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, is crucial to push them towards the love point. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate.)
 For this purpose, I think it's justified to paint an incomplete picture of debate and slowly nurture people before you hit them with the brutality of it.
@@ -232,9 +232,9 @@ What I mean by this is:
 - + Beginners don't think about regulation, mismanagement, and long term consequences.
 - + So even if there is tremendous learning potential after the round, people can feel depressed during the round.
 - + (If you can give hints of the case lines, like regulation, to both sides, then you can still make it work.)
-- not being brutally honest in the early days and telling speakers their speeches were shit.
-- spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
-- being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
+- Not being brutally honest in the early days and telling speakers their speeches were shit.
+- Spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
+- Being generous with prep time so that they build their confidence and lessen their anxiety. We don't need to make them tournament-ready until later.
 - I found it helpful to **have a short speech before every debate saying that verdict doesn't matter, growth happens regardless, and what matters is that they enjoy it.** Because even if this is common knowledge, I believe this needs to be drilled into the heads of freshers so that they are in the right headspace every debate. I did this throughout round 3, but I think post round 3 it probably isn't really required because they're used to it.
 
 If you're reading this, you would have already faced the grueling learning curve of being humbled over and over. I believe that if the extremely challenging parts of the learning curve are exposed to people too early, they wouldn't have the love-fueled commitment to persevere through the hardship.
@@ -1232,7 +1232,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NzQ3NDM0NjAsLTM3NTA1MTYxNiwtNzI2ODE1OT
+c3RvcnkiOlszMzQ1MjQyOTgsLTM3NTA1MTYxNiwtNzI2ODE1OT
 MxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDEx
 NzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczOD
 E4ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgxMjEs
