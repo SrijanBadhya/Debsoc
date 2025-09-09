@@ -984,14 +984,14 @@ I think this was rather dumb,
 Since quite a few people try out both clubs, it's unwise to alienate MUN people. 
 ![image](https://i.ibb.co/rfNNY5sw/debsocmunsoc.png)
 Across the year, a few people do switch from debsoc to munsoc, and munsoc to debsoc. This happens naturally and you don't have much power to prevent this by directly targeting MUN. There's no guarantee that your effort will bear fruit instead of backfiring.
-It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to convince anyone who's interested in MUN. 
+It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to be persuasive to anyone who's interested in MUN. 
 
-There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I'd lose respect for a debsoc member who needs to hate on MUN to make debate look valuable.
+There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I'd lose respect for a debsoc member who needed to hate on MUN to make debate look valuable.
 
 ---
 
 
-## The Fabled Unicorn
+## The Fabl Unicorn
 
 
 The ultimate stage the final form of a junior, isn't when they pass a certain skill level. It's an identity shift.
@@ -1232,7 +1232,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzk5NTA0ODEyLDE1NTEwMTA1NTksLTUzODAyNz
+c3RvcnkiOlsxOTUwNzc1MjU1LDE1NTEwMTA1NTksLTUzODAyNz
 A0OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEs
 MTU0MjQ2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3Nj
 Y3Mjc2MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4
