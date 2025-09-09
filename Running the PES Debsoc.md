@@ -332,7 +332,8 @@ This solves 2 problems.
 2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
 3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but actually a presentation issue.
 
-You'll have to decide your own policy on speaker scores. I, for one,  believed speaker scores shouldn't be given in mocks for a few reasons:
+You'll have to decide your own policy on speaker scores. I, for one,  believed speaker scores shouldn't be given in mock for a few reasons:
+
 - Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear and judges may not know, "how relevant is 'frequently relevant',".
 - At least with feedback you can give everyone feedback and criticize them all. With public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the eyes of an average fresher).
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
@@ -362,7 +363,7 @@ Don't be afraid to sprinkle in stuff like Harry Potter motions, PES related moti
 
 There isn't much 'risk'.
 - People won't straight up complain to the PES management about this. 
-- It can't be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
+- It can't possibly be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier.
@@ -1195,11 +1196,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzY4MjU0OTk1LDgwNjI0NjA5MiwtMTYyNjU4ND
-AxOCwtNDE3MDM2MDMzLDE0MzQ4OTg1OTIsLTEwMzE2ODEzNTYs
-MTMxNjgyNDI0NywtMTE2MjUyMzc5NSw5MTAxOTA4NDUsLTQ4Mj
-U3NzY2NCwxNzAwNjM4MTgyLC05MzQ2ODU4MjksLTUxMTA2NjU2
-OCwxNjExNTA0MzM1LC0xMDkzMDU1NDEyLC0xNDcyNDc5NTcsLT
-g1OTY0MTk4OCwyMTA2Nzc4MjEsMTc1MjMzMTE2NSwtMjAyMzQ1
-ODc2XX0=
+c3RvcnkiOls5NjAxMjQ2MzUsODA2MjQ2MDkyLC0xNjI2NTg0MD
+E4LC00MTcwMzYwMzMsMTQzNDg5ODU5MiwtMTAzMTY4MTM1Niwx
+MzE2ODI0MjQ3LC0xMTYyNTIzNzk1LDkxMDE5MDg0NSwtNDgyNT
+c3NjY0LDE3MDA2MzgxODIsLTkzNDY4NTgyOSwtNTExMDY2NTY4
+LDE2MTE1MDQzMzUsLTEwOTMwNTU0MTIsLTE0NzI0Nzk1NywtOD
+U5NjQxOTg4LDIxMDY3NzgyMSwxNzUyMzMxMTY1LC0yMDIzNDU4
+NzZdfQ==
 -->
