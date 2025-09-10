@@ -919,6 +919,7 @@ By the end of a year, the most rigorous debaters are the ones for whom debate fr
 - Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, or they didn't have people who actively talked to them, or they didn't have much to talk about.
 - - At debsoc, these people have seniors who actively talk to them. They actively get used to speaking (at least for 7 minutes a day), and there is already content to discuss during post-debate relaxation.
 - This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
+![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/001/908/925/7df.jpg)
 
 ---
 
@@ -1269,11 +1270,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOC
-wtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2
-MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNj
-csLTEwMzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1
-NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MD
-A4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNzA0OV19
-
+c3RvcnkiOlstMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMj
+EyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0
+MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNj
+UyLC02ODU4OTYzNjcsLTEwMzg2Njc1NzIsODg3MDI1OTk4LDEz
+NzM0NzU4MzAsLTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNj
+cyLC0xNjMyMTU0MDA4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTld
+fQ==
 -->
