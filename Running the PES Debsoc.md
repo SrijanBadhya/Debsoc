@@ -170,9 +170,8 @@ Some of us (including me) believe that being more chill and having more people f
 - So this isn't as mutually exclusive as it seems. I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
 - I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters ([but more on that later](#push-to-come-to-sessions)).
 
-![enter image description here](https://i.ibb.co/21XrGMsT/Whats-App-Image-2025-09-10-at-15-21-19.jpg)
+![enter image description here](https://i.ibb.co/PZH6yQhT/Whats-App-Image-2025-09-10-at-19-51-42.jpg)
 
-<br>
 
 
 
@@ -1275,11 +1274,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0Nz
-UsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIz
-MDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1My
-wtMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4
-NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OT
-g3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NF19
+c3RvcnkiOlstMTk2MzIzMjU3MiwzNzE4NTIwMDksLTE3MjE1Nj
+M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
+NDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
+MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0x
+MDM4NjY3NTcyLDg4NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNj
+QxNDAsMzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOF19
 
 -->
