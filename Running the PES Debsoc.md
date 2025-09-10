@@ -1,4 +1,8 @@
 
+https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg
+
+https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg
+https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
 
@@ -150,6 +154,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
   + They may continue ruining the debate club experience for everyone else, while still bringing in tournament wins.
   + By utilitarian metrics, this reduces the number of people who enjoy debate and the club, reduces their enjoyment of debate and the club, and hence reduces the breadth and depth of the value given by the club.
 - You might get depressed over the Debsoc 'deteriorating' when the people are actually doing fine. They're still enjoying the club and enjoying debate but you're hyperventilating.
+![enter image description here](https://i.ibb.co/fd1BYB3t/Whats-App-Image-2025-09-09-at-23-33-50.jpg)
 - You might be cringe and hesitate to work with other societies and give good feedback because they're 'rival societies' who are 'taking away your wins'. (For a while I had to process these cringe thoughts in my own head).
 
 **Most of the benefits are accessible even when you don't solely care about tournament wins. You can still achieve joy, growth, and community without grinding solely for tournament wins.**
@@ -164,7 +169,7 @@ Some of us (including me) believe that being more chill and having more people f
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that having enjoyable chill time goes a long way in getting people to stay, and also motivates them to debate more. 
 - So this isn't as mutually exclusive as it seems. I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
 - I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters ([but more on that later](#push-to-come-to-sessions)).
-
+![enter image description here](https://i.ibb.co/21XrGMsT/Whats-App-Image-2025-09-10-at-15-21-19.jpg)
 
 <br>
 
@@ -1234,11 +1239,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMD
-EwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYx
-NiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMT
-g4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0
-NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLD
-E1NDM5NTgxMjEsMTA1NjEzMjEyNCwxMDcyNjk5NjYyLDgwNjI0
-NjA5Ml19
+c3RvcnkiOlsxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzND
+IxNDQsMTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOTM4NDI4
+LC0zNzUwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MD
+M4Njc2MDgsMTE4ODYxODU3MywxMTc2NjcyNzYwLC01NTczMDQ3
+NiwtMTc2NzM3NDUxNSwtOTU3MzgxODg3LC03NTY5NjUwMjMsMT
+A2NjUyNzUyMCwxNTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5
+OTY2Ml19
 -->
