@@ -664,8 +664,9 @@ By the way, there are a few possible answers to this question actually
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
-4. They have issues on weekdays but not weekends.
-5. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
+3. They have issues on weekdays but not weekends.
+4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
+![enter image description here](https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg)
 
 It's hard to really solve these problems, the best you can do is things like Cubbon Park sessions, and also keep the value of sessions high.
 
@@ -1239,7 +1240,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDEzMTA5NjgsMTUzNTcxNjcyLC0xNjMyMTU0MD
+c3RvcnkiOlszNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MD
 A4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNzA0OSwt
 MTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEsMTU0Mj
 Q2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2
