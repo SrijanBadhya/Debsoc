@@ -858,7 +858,6 @@ I like how it's still able to simulate the fun chill vibe of acco at offline tou
 [Back to Table of Contents](#table-of-contents)
 
 
-
 ## Push to come to sessions
 
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
@@ -1331,11 +1330,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjA2NDMxNTQ0LC0xMzkwNzYyNDYwLC04NTcxOT
-Y5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0x
-NzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwOD
-gzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEw
-NDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4ODcwMj
-U5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2ODk4N119
+c3RvcnkiOlstMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
+NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
+NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
+k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3XX0=
 
 -->
