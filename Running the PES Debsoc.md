@@ -471,9 +471,9 @@ I think this is slightly exaggerated, because
 - Even if you're clueless and just debate over and over, there is still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
 4. Tournaments _do_ provide a lot of the benefits which crossmocks try to provide but fail to.
 5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so adjing a high quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
-- - This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than, "a spar at 9pm today".
+- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than, "a spar at 9pm today".
 
-
+---
 University specific cross mocks are great at improving inter soc ties. A lot of societies do have the incentive, are very interested to do cross mocks with PES, but often lack the capacity.
 I was the head of the NLS x PES cross mock initiative, and I saw that lot of issues of sessions are exacerbated in cross mocks.
 
@@ -496,7 +496,8 @@ For the offline session at PES, an NLS friend of mine dragged her friend to PES 
 
 The other 4-5 times I tried to hold sessions with NLS, I got a lackluster response on the polls.
 
-In summary, I think cross mocks are cool when they're successful. Making them successful is quite tedious. I don't think it's really a cause for concern if you're doing too few cross mocks, because there are plenty of other ways to access their benefits. And even if you inbreed, it can't be _that_ bad. (Okay I'll stop using that word).
+---
+In summary, I think cross mocks are cool when they're successful. Making them successful is quite tedious. I don't think it's really a cause for concern if you're doing too few cross mocks, because there are plenty of other ways to access their benefits. And even if you inbreed, it can't be _that_ bad. (Okay I'll stop using that word.)
 
 ## A few issues of sessions that persist
 
@@ -1287,11 +1288,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDE1NTc1MTkwLDM3MTg1MjAwOSwtMTcyMTU2Mz
-UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
-MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
-wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
-Mzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2ND
-E0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4XX0=
+c3RvcnkiOls1OTEwNDEzOTcsMzcxODUyMDA5LC0xNzIxNTYzNT
+MxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQx
+OTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLD
+ExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAz
+ODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MT
+QwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDhdfQ==
 
 -->
