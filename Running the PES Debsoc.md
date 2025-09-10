@@ -199,7 +199,8 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 
 remember to add these pictures in recruitments later Srijan
 
-Everyone else, just skip past these pictures for now, onto the next session, ["Inside a Session"](#inside-a-session).
+Everyone else, just skip past these pictures for now, skip the whole section and move onto the next section, ["Inside a Session"](#inside-a-session).
+
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
   ![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
@@ -226,7 +227,9 @@ Add the following image to the, "even if temporary, provided value" thing
 Many factors go into ensuring the quality of experience of a debate session.
 
 Debate is an extreme sport, and half the people are inevitably going to feel sad at the end of a session.
+
 ![The Judge Every Session](https://i.kym-cdn.com/photos/images/original/001/535/089/5e9.jpg)
+
  Sadness cannot be avoided, but we can absolutely work to minimize its sting.
  
 Debate is weird and often an acquired taste. I believe that it takes quite a while to get a feel for debate before you fall in love with the real thing, rather than what you thought it would be. So, hooking in people to come for the initial sessions in the short term, is crucial to push them towards the love point. (This love point is usually the point where your brain gains 'debate vision', and you start to understand what goes on in a debate.)
@@ -1274,11 +1277,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk2MzIzMjU3MiwzNzE4NTIwMDksLTE3MjE1Nj
-M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
-NDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
-MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0x
-MDM4NjY3NTcyLDg4NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNj
-QxNDAsMzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOF19
+c3RvcnkiOlsxNjc2MTM5NjAxLDM3MTg1MjAwOSwtMTcyMTU2Mz
+UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
+MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
+wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
+Mzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2ND
+E0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4XX0=
 
 -->
