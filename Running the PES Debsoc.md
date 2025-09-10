@@ -791,6 +791,27 @@ It's absolutely necessary to collect money from everybody _**before**_ paying th
 - - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
 
+
+### Words from Stuthi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Tournament Briefing
 Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
 
@@ -1286,11 +1307,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2Mz
-UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
-MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
-wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
-Mzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2ND
-E0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4XX0=
+c3RvcnkiOlstOTg4ODAyNjA4LC04NTcxOTY5NjksMzcxODUyMD
+A5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEw
+OTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1Nj
+ksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4
+NTg5NjM2NywtMTAzODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NT
+gzMCwtNTU1MDY0MTQwLDM1ODM2ODk4NywxNTM1NzE2NzJdfQ==
 
 -->
