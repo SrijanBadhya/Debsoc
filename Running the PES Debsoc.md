@@ -668,6 +668,191 @@ However, interrupting is annoying, and you might make a mental note of their mis
 # How to resolve Debsoc Drama
 You're cooked. I'm just as clueless as you.
 
+# Tournaments
+
+[Back to Table of Contents](#table-of-contents)
+
+The major differences between tournaments and mocks are:
+stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends)
+
+Aaaaaand the money.
+
+## Freeloaders
+
+By freeloaders I mean people who don't participate in the debsoc much, yet want to join reimbursements.
+For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
+
+
+When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
+Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). Sometimes they reject tournaments if you've gone to other tournaments recently.
+I don't have experience communicating between students and the management, so I can't really tell how to work with the management.
+
+Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
+
+You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
+It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
+
+If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
+What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments yet isn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
+
+## Tournament Registration
+
+[Back to Table of Contents](#table-of-contents)
+
+The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't click on the google form link and register by themselves (a common honest mistake otherwise). 
+
+For their first tourney, most freshers won't know each other, and so you might be left with 4 people with no teammate preference. In this case it makes sense to assign teams yourself. In future tournaments people will have friends they want to do tourneys with, and will sign up as pairs/trios. 
+What we sometimes do is send a poll with a speaker option, adjudicator option, and a no option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
+
+Early reg is ideal but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
+Since reimbursement gets confirmed very late (often after the tournament), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement". 
+
+It's absolutely necessary to collect money from everybody _**before**_ paying the sum total to the tournament organizing committee. 
+- Otherwise, someone might drop out due to unforeseen reasons after you've already paid their share, and there's no way to really get your money back from them. 
+- - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
+- If someone has paid you already, they're less likely to drop out because the money has already been spent. 
+
+
+## Words from Stuthi
+
+[Back to Table of Contents](#table-of-contents)
+
+So, when they wanna reject reimbursement, there's 2 ways: 1 is they ghost as you say (which is pretty rare) and 2 the vc directly says no and vk sir informs us. So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that) so yeah I'd say write it in a different way
+
+If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay
+
+One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keepyour conscience in check while also letting people know that being regular has perks
+
+And idk if this is like appropriate to include in the doc, but one tip I have to make sure any staff (especially the lazy fucks down in accounts) are friendly with you and work with you is to speak with them in kannada. You don't need to predominantly speak only in kannada, but whenever I felt like they were shutting down when I needed help with something I'd throw in a sentence or two in kannada and they would suddenly be helpful again.
+
+And the process for doing things keep changing regularly, so I think it's always better for the heads to make a doc exclusively for them as per the needs of that particular year. And always take photos of whatever letter or form you're submitting. So many times the accounts people have asked me to show them the reimbursement form and if I didn't have the picture the money would take way longer to come in
+
+Wait max 2 weeks for vk sir himself to tell you the reimbursement chwck is in (he'll send a text in the group) if he doesn't go to the accounts dept yourself cause they people have buried your form somewhere in hell and do not leave until they dig it out in front of you
+
+If the reimbursement amount is particularly high and chances of getting it seem slim, then highlight your most recent achievements in the mail you send and give them a reason to spend a crap ton of money on you
+
+And one thing to always remember: never make grammatical and formatting errors in anything. You will have to redo the whole thing. Personal experience. Vk sir actually sees everything and is very particular about this. Even in the most insignificant mails, if he finds something worng he'll point it out and let you know kindly
+
+
+
+
+
+Note from Stuthi for the resolving drama section:
+I would say the best thing is to have a third party, like a senior, get involved, hear out both sides and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors [the ones involved on the other side of the drama] sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
+
+
+
+
+## Tournament Briefing
+
+[Back to Table of Contents](#table-of-contents)
+
+Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
+
+Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
+- They might reach home later than they told their parents to expect them.
+- They might delay food expecting a break, and then miss out on eating food at all, if you don't tell them the strategic time to eat food.
+- There are a lot of possible logistic issues like all members of a team filling feedback, trainees being confused about filling the ballot, a bunch of other Tabbycat issues like navigating on your private url, different forms of check-in, etc.
+- They might expect the tournament to provide food so they won't have made their own food plans like lunch boxes.
+
+One briefing session before their first tournament, talking about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
+
+The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. And they won't have really comprehended that this is a national level tournament with people years elder to them.
+Every novice initially assumes that they'll only face novices in the tournament, and get a rude awakening. 
+
+Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it's happened in APs). I think the egos of juniors are in need of a warning of this tragedy.
+I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
+
+![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
+
+
+## Tournament Spirits
+
+[Back to Table of Contents](#table-of-contents)
+
+Due to different rooms having different end times, it's hard to execute this, but do try to get everyone to congregate at a designated spot after every round to chill together. Without a contingent it's easy for people to feel lost and lonely.
+I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
+
+In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
+
+If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
+
+Also I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying they're sorry for disappointing me (It appears I wasn't successful in telling them enough that results don't matter to me)).
+
+We've had traditions like, "the tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament when they achieve it and when they don't.
+Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
+
+[^2]: These people sometimes didn't even received their brownies lmao
+
+### Breaks
+
+![enter image description here](https://i.ibb.co/JwzPPn3J/novice-speaker.jpg)
+Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
+
+Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
+
+The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
+
+A few people including me believe glorifying the speaker score is useless and does more harm than good. Like I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality fluctuate to the point where they're unreliable. The main insight people derive from a speaker score is who was the superior teammate and who was the inferior teammate. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but the speaker score feels especially harsh because the blame is on you. 
+
+
+Glorifying one person's speaker score for being the best speaker is kinda an insult to their teammate. 
+Pragmatically, the good that you can claim comes out of this is that, "the speaker feels honored for the work they've done", and, "people get inspired to be like them". But usually the speaker feels happy enough with whatever other result they have already achieved. If you really want to do this, you can do this in private to them. Other people are also 'inspired enough' usually to debate, glorifying someone else is unlikely to result in extra effort from them, and can actually result in them feeling even worse about themselves. Sure, juniors aren't snowflakes, but there's no real point in hurting their self-esteem which is already bruised from the tournament. It's normal for humans to feel sad when it comes to something they care about.
+
+For so long I had felt jealous of people being congratulated, but when I and my teammate were on the receiving side, we didn't really find the glorification to be that special, it didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
+
+![enter image description here](https://i.ibb.co/KcD3g28y/joy-of-breaking.jpg)
+
+## Online Tournaments
+
+[Back to Table of Contents](#table-of-contents)
+
+The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
+
+Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
+I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
+So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
+The most memorable online tournament for me has been SBS in early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
+
+### Online Tournament Logistics
+
+PES wifi sometimes randomly blocks discord and randomly unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
+
+The major spots at PES with accessible wifi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
+The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
+
+The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
+
+What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
+These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
+
+How to access this place:
+
+(Obviously talk to the security in Kannada)
+Security guards might tell you that it's closed when you enter B block. Reply to this saying that you're not going inside, you'll just be outdoors. 
+If they say that it's restricted, tell them that the Debate Club is doing an online competition here, just like they have been doing for the last 2 years.  
+If all else fails, say that you know a security guard named Shankar. If Shankar is there, tell him that you're the kids of Srijan. 😂😂
+
+However they'll usually let you in without asking any questions. Just don't make sure a boy and a girl enter together, always go in larger groups or one by one.
+
+You're allowed to order food to PES, collect it at the main gate, bring it up to 13th floor and eat there. 
+
+
+### Cafe Down The Alley
+
+
+This used to be our regular post session hangout spot back in 2023, 
+but the last time I went here was after the online tournament Mukhtalif.
+
+Online tournaments can be severely lacking in fun, and it was hard for me to engage people in conversation post their debates, because I was busy preparing and giving my OAs. People were sad and everyone wanted to quit before round 5.
+I reached out to shenanigans 5.0, and they gave me the idea of chilling at Cafe Down The Alley. (We still proceeded to quit round 5 lol)
+
+This was a great idea because it had food and great games. 
+Some people played Chess, sometimes people played Uno (I'll hate Debsoc Uno till my dying day because everyone debates over the rules), and we played Jenga, the greatest group game there (because it's so fun for everyone to experience people shaking the tower of blocks). 
+
+The food is on the pricier side and they unfortunately seem to no longer have a discount for PES students.
+
+I like how it's still able to simulate the fun chill vibe of acco at offline tournaments. It also has the novelty that makes it feel like we're going out instead of staying at PES.
 
 # Debate Culture Round the Year
 [Back to Table of Contents](#table-of-contents)
@@ -750,178 +935,8 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 - A few people who undergo informal recruitments are the people who barely missed out in round 3, who still expressed desire to join when I reached out to them. I keep the bar a little lower for them. I'm glad to see many of them are still debating today, 6 months later, and did NALSAR, like Shubhangi, Akshay Gudur, and Akshith.
 
 
-## Tournaments
 
-[Back to Table of Contents](#table-of-contents)
 
-The major differences between tournaments and mocks are:
-stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends)
-
-Aaaaaand the money.
-
-### Freeloaders
-
-By freeloaders I mean people who don't participate in the debsoc much, yet want to join reimbursements.
-For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
-
-
-When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
-Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). Sometimes they reject tournaments if you've gone to other tournaments recently.
-I don't have experience communicating between students and the management, so I can't really tell how to work with the management.
-
-Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
-
-You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
-It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
-
-If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
-What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments yet isn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
-
-### Tournament Registration
-
-The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't click on the google form link and register by themselves (a common honest mistake otherwise). 
-
-For their first tourney, most freshers won't know each other, and so you might be left with 4 people with no teammate preference. In this case it makes sense to assign teams yourself. In future tournaments people will have friends they want to do tourneys with, and will sign up as pairs/trios. 
-What we sometimes do is send a poll with a speaker option, adjudicator option, and a no option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
-
-Early reg is ideal but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
-Since reimbursement gets confirmed very late (often after the tournament), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement". 
-
-It's absolutely necessary to collect money from everybody _**before**_ paying the sum total to the tournament organizing committee. 
-- Otherwise, someone might drop out due to unforeseen reasons after you've already paid their share, and there's no way to really get your money back from them. 
-- - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
-- If someone has paid you already, they're less likely to drop out because the money has already been spent. 
-
-
-### Words from Stuthi
-
-So, when they wanna reject reimbursement, there's 2 ways: 1 is they ghost as you say (which is pretty rare) and 2 the vc directly says no and vk sir informs us. So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that) so yeah I'd say write it in a different way
-
-If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay
-
-One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keepyour conscience in check while also letting people know that being regular has perks
-
-And idk if this is like appropriate to include in the doc, but one tip I have to make sure any staff (especially the lazy fucks down in accounts) are friendly with you and work with you is to speak with them in kannada. You don't need to predominantly speak only in kannada, but whenever I felt like they were shutting down when I needed help with something I'd throw in a sentence or two in kannada and they would suddenly be helpful again.
-
-And the process for doing things keep changing regularly, so I think it's always better for the heads to make a doc exclusively for them as per the needs of that particular year. And always take photos of whatever letter or form you're submitting. So many times the accounts people have asked me to show them the reimbursement form and if I didn't have the picture the money would take way longer to come in
-
-Wait max 2 weeks for vk sir himself to tell you the reimbursement chwck is in (he'll send a text in the group) if he doesn't go to the accounts dept yourself cause they people have buried your form somewhere in hell and do not leave until they dig it out in front of you
-
-If the reimbursement amount is particularly high and chances of getting it seem slim, then highlight your most recent achievements in the mail you send and give them a reason to spend a crap ton of money on you
-
-And one thing to always remember: never make grammatical and formatting errors in anything. You will have to redo the whole thing. Personal experience. Vk sir actually sees everything and is very particular about this. Even in the most insignificant mails, if he finds something worng he'll point it out and let you know kindly
-
-
-
-
-
-Note from Stuthi for the resolving drama section:
-I would say the best thing is to have a third party, like a senior, get involved, hear out both sides and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors [the ones involved on the other side of the drama] sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
-
-
-
-
-### Tournament Briefing
-Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
-
-Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
-- They might reach home later than they told their parents to expect them.
-- They might delay food expecting a break, and then miss out on eating food at all, if you don't tell them the strategic time to eat food.
-- There are a lot of possible logistic issues like all members of a team filling feedback, trainees being confused about filling the ballot, a bunch of other Tabbycat issues like navigating on your private url, different forms of check-in, etc.
-- They might expect the tournament to provide food so they won't have made their own food plans like lunch boxes.
-
-One briefing session before their first tournament, talking about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
-
-The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. And they won't have really comprehended that this is a national level tournament with people years elder to them.
-Every novice initially assumes that they'll only face novices in the tournament, and get a rude awakening. 
-
-Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it's happened in APs). I think the egos of juniors are in need of a warning of this tragedy.
-I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
-
-![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
-
-
-### Tournament Spirits
-Due to different rooms having different end times, it's hard to execute this, but do try to get everyone to congregate at a designated spot after every round to chill together. Without a contingent it's easy for people to feel lost and lonely.
-I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
-
-In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
-
-If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
-
-Also I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying they're sorry for disappointing me (It appears I wasn't successful in telling them enough that results don't matter to me)).
-
-We've had traditions like, "the tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament when they achieve it and when they don't.
-Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
-
-[^2]: These people sometimes didn't even received their brownies lmao
-
-#### Breaks
-
-![enter image description here](https://i.ibb.co/JwzPPn3J/novice-speaker.jpg)
-Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
-
-Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
-
-The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
-
-A few people including me believe glorifying the speaker score is useless and does more harm than good. Like I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality fluctuate to the point where they're unreliable. The main insight people derive from a speaker score is who was the superior teammate and who was the inferior teammate. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but the speaker score feels especially harsh because the blame is on you. 
-
-
-Glorifying one person's speaker score for being the best speaker is kinda an insult to their teammate. 
-Pragmatically, the good that you can claim comes out of this is that, "the speaker feels honored for the work they've done", and, "people get inspired to be like them". But usually the speaker feels happy enough with whatever other result they have already achieved. If you really want to do this, you can do this in private to them. Other people are also 'inspired enough' usually to debate, glorifying someone else is unlikely to result in extra effort from them, and can actually result in them feeling even worse about themselves. Sure, juniors aren't snowflakes, but there's no real point in hurting their self-esteem which is already bruised from the tournament. It's normal for humans to feel sad when it comes to something they care about.
-
-For so long I had felt jealous of people being congratulated, but when I and my teammate were on the receiving side, we didn't really find the glorification to be that special, it didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
-
-![enter image description here](https://i.ibb.co/KcD3g28y/joy-of-breaking.jpg)
-### Online Tournaments
-
-The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
-
-Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
-I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
-So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
-The most memorable online tournament for me has been SBS in early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
-
-#### Online Tournament Logistics
-
-PES wifi sometimes randomly blocks discord and randomly unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
-
-The major spots at PES with accessible wifi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
-The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
-
-The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
-
-What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
-These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
-
-How to access this place:
-
-(Obviously talk to the security in Kannada)
-Security guards might tell you that it's closed when you enter B block. Reply to this saying that you're not going inside, you'll just be outdoors. 
-If they say that it's restricted, tell them that the Debate Club is doing an online competition here, just like they have been doing for the last 2 years.  
-If all else fails, say that you know a security guard named Shankar. If Shankar is there, tell him that you're the kids of Srijan. 😂😂
-
-However they'll usually let you in without asking any questions. Just don't make sure a boy and a girl enter together, always go in larger groups or one by one.
-
-You're allowed to order food to PES, collect it at the main gate, bring it up to 13th floor and eat there. 
-
-
-#### Cafe Down The Alley
-
-
-This used to be our regular post session hangout spot back in 2023, 
-but the last time I went here was after the online tournament Mukhtalif.
-
-Online tournaments can be severely lacking in fun, and it was hard for me to engage people in conversation post their debates, because I was busy preparing and giving my OAs. People were sad and everyone wanted to quit before round 5.
-I reached out to shenanigans 5.0, and they gave me the idea of chilling at Cafe Down The Alley. (We still proceeded to quit round 5 lol)
-
-This was a great idea because it had food and great games. 
-Some people played Chess, sometimes people played Uno (I'll hate Debsoc Uno till my dying day because everyone debates over the rules), and we played Jenga, the greatest group game there (because it's so fun for everyone to experience people shaking the tower of blocks). 
-
-The food is on the pricier side and they unfortunately seem to no longer have a discount for PES students.
-
-I like how it's still able to simulate the fun chill vibe of acco at offline tournaments. It also has the novelty that makes it feel like we're going out instead of staying at PES.
 
 ## Community
 
@@ -1316,11 +1331,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MzI3ODM2NTQsLTEzOTA3NjI0NjAsLTg1NzE5Nj
-k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
-NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
-MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
-NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
-k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3XX0=
+c3RvcnkiOlstNjA2NDMxNTQ0LC0xMzkwNzYyNDYwLC04NTcxOT
+Y5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0x
+NzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwOD
+gzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEw
+NDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4ODcwMj
+U5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2ODk4N119
 
 -->
