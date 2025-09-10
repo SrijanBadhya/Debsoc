@@ -1038,7 +1038,7 @@ But to my surprise, I see signs of this in a few first years. I see them talking
 When something is a part of your identity, you don't feel like you're making an effort to change yourself, because you already have this as your natural state.
 
 Everything the soc does, is in hopes of leading juniors up to this stage. And it feels truly wonderful when it manifests, when you spot this beautiful unicorn.
-
+![enter image description here](https://wallpaperaccess.com/download/beautiful-unicorn-732536)
 
 ---
 I hope everything so far has been able to empower you with ideas and vision to tackle challenges that will arise.
@@ -1268,11 +1268,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
-MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0x
-MDM4NjY3NTcyLDg4NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNj
-QxNDAsMzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwt
-MTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01MzgwMjcwNDksLTE5Mz
-A5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMxLDE1NDI0Njg5
-NzBdfQ==
+c3RvcnkiOlstNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
+Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02
+ODU4OTYzNjcsLTEwMzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0Nz
+U4MzAsLTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0x
+NjMyMTU0MDA4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzOD
+AyNzA0OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5
+MzFdfQ==
 -->
