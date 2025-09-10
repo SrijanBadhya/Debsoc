@@ -99,7 +99,7 @@ VI. [Tournaments](#tournaments)
 	&emsp;5) [Spirits](#tournament-spirits)
 	&emsp;6) [Online Tournaments](#online-tournaments)
 
-VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
+VII. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;1. [Push To Come To Sessions](#push-to-come-to-sessions)
 	&emsp;2. [Informal Recruitments](#informal-recruitments)
 	&emsp;3. [Community](#community)
@@ -1329,11 +1329,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyND
-YwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIw
-NDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MD
-MsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkw
-OTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2Nz
-U3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwXX0=
+c3RvcnkiOlstMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1ND
+UwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0x
+NzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzND
+M4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYw
+NjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5Nj
+M2NywtMTAzODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMF19
 
 -->
