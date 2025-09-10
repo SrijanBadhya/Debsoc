@@ -387,7 +387,7 @@ There isn't much 'risk'.
 - It can't possibly be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
-- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier.
+- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier.
 
 #### Turncoat
 When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
@@ -1246,11 +1246,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MT
-QwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3
-NjkzNDIxNDQsMTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOT
-M4NDI4LC0zNzUwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcw
-LC01MDM4Njc2MDgsMTE4ODYxODU3MywxMTc2NjcyNzYwLC01NT
-czMDQ3NiwtMTc2NzM3NDUxNSwtOTU3MzgxODg3LC03NTY5NjUw
-MjNdfQ==
+c3RvcnkiOlstNTY5NDI0MDgwLDg4NzAyNTk5OCwxMzczNDc1OD
+MwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYz
+MjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01MzgwMj
+cwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMx
+LDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNz
+Y2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4
+ODddfQ==
 -->
