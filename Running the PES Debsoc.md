@@ -93,24 +93,25 @@ IV. [Adj Rant](#adj-rant)
 
 V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 
+VI. [Tournaments](#tournaments)
+	&emsp;1) [Freeloaders](#freeloaders)
+	&emsp;2) [Registration](#tournament-registration)
+	&emsp;3) [Words From Stuthi on Reimbursement](#words-from-stuthi)
+	&emsp;4) [Briefing](#tournament-briefing)
+	&emsp;5) [Spirits](#tournament-spirits)
+	&emsp;6) [Online Tournaments](#online-tournaments)
+
 VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;1. [Push To Come To Sessions](#push-to-come-to-sessions)
 	&emsp;2. [Informal Recruitments](#informal-recruitments)
-	&emsp;3. [Tournaments](#tournaments)
-	&emsp;&emsp;a) [Freeloaders](#freeloaders)
-	&emsp;&emsp;b) [Registration](#tournament-registration)
-	&emsp;&emsp;c) [Words From Stuthi on Reimbursement](#words-from-stuthi)
-	&emsp;&emsp;d) [Briefing](#tournament-briefing)
-	&emsp;&emsp;e) [Spirits](#tournament-spirits)
-	&emsp;&emsp;f) [Online Tournaments](#online-tournaments)
-	&emsp;4. [Community](#community)
-	&emsp;5. [Miscellaneous](#miscellaneous)
+	&emsp;3. [Community](#community)
+	&emsp;4. [Miscellaneous](#miscellaneous)
 	&emsp;&emsp;a) [Teaching Debate](#teaching-debate)
 	&emsp;&emsp;b) [Pranks](#pranks)
 	&emsp;&emsp;c) [Relatability](#relatability)
 	&emsp;&emsp;d) [The PES Timetable](#the-damn-pes-timetable)
 	&emsp;&emsp;e) [WhatsApp](#whatsapp)
-	&emsp;6. [The Glorious Unicorn](#the-glorious-unicorn)
+	&emsp;5. [The Glorious Unicorn](#the-glorious-unicorn)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
@@ -1330,11 +1331,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
-k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
-NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
-MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
-NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
-k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3XX0=
+c3RvcnkiOlsxOTU5NDk1OTMzLC0yMjgwNTQ1MCwtMTM5MDc2Mj
+Q2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwy
+MDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4OD
+AzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5
+MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Nj
+c1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MF19
 
 -->
