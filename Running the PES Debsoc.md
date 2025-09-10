@@ -282,6 +282,7 @@ Multiple delays in each process add up to juniors starting late and going home l
 - Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp where the seniors were. It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - Making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
+
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/003/105/514/a81.jpg)
 
 The obvious solutions to this are:
@@ -291,6 +292,7 @@ The obvious solutions to this are:
 + Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
+ 
  ![enter image description here](https://i.ibb.co/vxmXxr6y/Screenshot-2025-09-06-164214.png)
  (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and cut the idle time of the 3 people who have already shown up). 
  
@@ -1282,7 +1284,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODQ5MDQ3MTYzLDM3MTg1MjAwOSwtMTcyMTU2Mz
+c3RvcnkiOlsxOTMwNjQzOTExLDM3MTg1MjAwOSwtMTcyMTU2Mz
 UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
 MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
 wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
