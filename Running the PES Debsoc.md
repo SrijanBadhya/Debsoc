@@ -813,6 +813,8 @@ Sure, it does feel necessary to reward the ones who put effort, and the common w
 [^2]: These people sometimes didn't even received their brownies lmao
 
 #### Breaks
+
+![enter image description here](https://i.ibb.co/fdrT6sKw/novice-speaker.jpg)
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
@@ -827,6 +829,7 @@ Pragmatically, the good that you can claim comes out of this is that, "the speak
 
 For so long I had felt jealous of people being congratulated, but when I and my teammate were on the receiving side, we didn't really find the glorification to be that special, it didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
 
+![enter image description here](https://i.ibb.co/KcD3g28y/joy-of-breaking.jpg)
 ### Online Tournaments
 
 The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
@@ -1265,11 +1268,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTc3NTQ5NDMxLDE1MjQwNTA1NjksMTYwNjYwNj
-EzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2Nywt
-MTAzODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MD
-Y0MTQwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgs
-LTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOT
-MwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4
-OTcwXX0=
+c3RvcnkiOlsxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
+MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0x
+MDM4NjY3NTcyLDg4NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNj
+QxNDAsMzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwt
+MTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01MzgwMjcwNDksLTE5Mz
+A5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMxLDE1NDI0Njg5
+NzBdfQ==
 -->
