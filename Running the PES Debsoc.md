@@ -798,6 +798,11 @@ It's absolutely necessary to collect money from everybody _**before**_ paying th
 
 
 
+Note from Stuthi for the resolving drama section:
+I would say the best thing is to have a third party, like a senior, get involved, hear out both sides and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors (the other people involved) sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
+
+
+
 
 
 
@@ -1307,7 +1312,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTg4ODAyNjA4LC04NTcxOTY5NjksMzcxODUyMD
+c3RvcnkiOlsxNzUxMDgyNTc1LC04NTcxOTY5NjksMzcxODUyMD
 A5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEw
 OTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1Nj
 ksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4
