@@ -1,7 +1,7 @@
 
 https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg
 
-https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg
+
 https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
@@ -1239,11 +1239,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzND
-IxNDQsMTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOTM4NDI4
-LC0zNzUwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MD
-M4Njc2MDgsMTE4ODYxODU3MywxMTc2NjcyNzYwLC01NTczMDQ3
-NiwtMTc2NzM3NDUxNSwtOTU3MzgxODg3LC03NTY5NjUwMjMsMT
-A2NjUyNzUyMCwxNTQzOTU4MTIxLDEwNTYxMzIxMjQsMTA3MjY5
-OTY2Ml19
+c3RvcnkiOlsxNDEzMTA5NjgsMTUzNTcxNjcyLC0xNjMyMTU0MD
+A4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNzA0OSwt
+MTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEsMTU0Mj
+Q2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2
+MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNz
+U2OTY1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMy
+MTI0XX0=
 -->
