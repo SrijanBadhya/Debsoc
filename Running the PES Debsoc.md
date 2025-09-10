@@ -94,7 +94,7 @@ V. [How To Resolve Debsoc Drama](#how-to-resolve-debsoc-drama)
 VI. [Tournaments](#tournaments)
 	&emsp;1) [Freeloaders](#freeloaders)
 	&emsp;2) [Registration](#tournament-registration)
-	&emsp;3) [Words From Stuthi on Reimbursement](#words-from-stuthi)
+	&emsp;3) [Words From Stuthi (Including Reimbursement)](#words-from-stuthi)
 	&emsp;4) [Briefing](#tournament-briefing)
 	&emsp;5) [Spirits](#tournament-spirits)
 	&emsp;6) [Online Tournaments](#online-tournaments)
@@ -1329,11 +1329,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1ND
-UwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0x
-NzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzND
-M4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYw
-NjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5Nj
-M2NywtMTAzODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMF19
+c3RvcnkiOls2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4Nj
+UsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcx
+ODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMT
+IsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQw
+NTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NT
+IsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4ODcwMjU5OThdfQ==
 
 -->
