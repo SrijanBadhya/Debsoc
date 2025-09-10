@@ -256,6 +256,8 @@ If you're reading this, you would have already faced the grueling learning curve
 ![image](https://i.ibb.co/dw3rpnpr/sadaboutdebate2.png)
 - I've come to believe that **love for debate can't really be tested from day one.**
 
+![enter image description here](https://i.ibb.co/KpR26wDX/Whats-App-Image-2025-09-10-at-15-57-03.jpg)
+
 
 ## Time
 [Back to Table of Contents](#table-of-contents)
@@ -1244,11 +1246,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OT
-g3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwx
-NTUxMDEwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NT
-A1MTYxNiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYw
-OCwxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNz
-Y3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywxMDY2NTI3
-NTIwXX0=
+c3RvcnkiOls4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MT
+QwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3
+NjkzNDIxNDQsMTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOT
+M4NDI4LC0zNzUwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcw
+LC01MDM4Njc2MDgsMTE4ODYxODU3MywxMTc2NjcyNzYwLC01NT
+czMDQ3NiwtMTc2NzM3NDUxNSwtOTU3MzgxODg3LC03NTY5NjUw
+MjNdfQ==
 -->
