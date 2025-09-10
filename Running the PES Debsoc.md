@@ -438,6 +438,7 @@ Even if they don't practice body language and the feeling of speaking to a physi
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
+
 ### Cross Mocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay money for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
@@ -1246,11 +1247,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzE5ODAyMzAsODg3MDI1OTk4LDEzNzM0NzU4Mz
-AsLTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMy
-MTU0MDA4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNz
-A0OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEs
-MTU0MjQ2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3Nj
-Y3Mjc2MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4
-N119
+c3RvcnkiOlstMTAzODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NT
+gzMCwtNTU1MDY0MTQwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2
+MzIxNTQwMDgsLTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwtNTM4MD
+I3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNjgxNTkz
+MSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3MywxMT
+c2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3NDUxNSwtOTU3Mzgx
+ODg3XX0=
 -->
