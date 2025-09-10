@@ -791,6 +791,8 @@ Tournaments are very draining physically, mentally, and emotionally. Juniors usu
 I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
 
 
+
+
 ### Tournament Spirits
 Due to different rooms having different end times, it's hard to execute this, but do try to get everyone to congregate at a designated spot after every round to chill together. Without a contingent it's easy for people to feel lost and lonely.
 I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
@@ -1002,7 +1004,7 @@ Across the year, a few people do switch from debsoc to munsoc, and munsoc to deb
 It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to be persuasive to anyone who's interested in MUN. 
 
 There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I'd lose respect for a debsoc member who needed to hate on MUN to make debate look valuable.
-
+![enter image description here](https://i.ibb.co/fVRDB8ph/munsoc.jpg)
 ---
 
 
@@ -1244,16 +1246,23 @@ A “memory erasure machine” is a device that is capable of removing specific 
 Uploading one's consciousness to the cloud refers to the process of transferring a person's mind, thoughts, and identity into a digital space, allowing them to exist as a non-physical entity. Individuals who undergo this process lose all physical capabilities, including sensation and mobility, but can continue to think, communicate, and interact with the living through digital interfaces. This digital existence is persistent as long as the system supporting it remains functional and as long as others choose to engage with it.
 
  
+ [Back to Table of Contents](#table-of-contents)
+
+
+https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg
+https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg
+https://i.ibb.co/shr6VfN/just-before-Feedback.jpg
+https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0NDE2MD
-Y1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNTk5OCwx
-MzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1MzU3MT
-Y3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMDEwNTU5
-LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNz
-I2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4
-NTczXX0=
+c3RvcnkiOlsxNDMxMjEwMTQsMTYwNjYwNjEzLDExNTkwOTkyNT
+MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4
+ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2OD
+k4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQs
+MTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNz
+UwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2
+MDhdfQ==
 -->
