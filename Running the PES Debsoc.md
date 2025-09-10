@@ -535,8 +535,9 @@ b) Another issue is the complications of adjing. This was initially a section un
 
 [Link back to the 'Time' subsection if you came from the link there](#time)
 ### My Story
-The debsoc controversy I am the most infamous for is my history with Adjudication.
-This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
+The debsoc controversy I am the most infamous for is my history with Adjudication. This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
+
+2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
 The 4 of us continued to remain silent about which 3 would form a team and which one would adj.
 
 In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel. I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming am I right). 
@@ -1285,7 +1286,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzk4ODI2NTA1LDM3MTg1MjAwOSwtMTcyMTU2Mz
+c3RvcnkiOlstODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2Mz
 UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
 MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
 wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
