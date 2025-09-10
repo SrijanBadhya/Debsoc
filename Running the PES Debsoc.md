@@ -576,7 +576,7 @@ How do we make sure this trend continues?
 - + I know someone who judges when they're too exhausted to speak.
 - + I know people who end up judging all the time because they're late all the time.
 - + I know people who equally feel like judging/speaking, and because they're the only one among 7 people who feel that way, they're made a judge.
-- + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging)
+- + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging.)
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
 - + **The interesting thing about the narrative of freshers early on before they judge, is that judging looks like a position of authority.** Freshers believe that you need to be highly qualified to be a judge, and that being a judge is a sign of you being great (They're unaware that anyone can judge in a tournament). 
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) 
@@ -586,7 +586,7 @@ How do we make sure this trend continues?
 
 Samuel, my senior, once said this to encourage judging,
 
-"Also, I notice a lot of you love speaking and I couldn't be glader you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
+"Also, I notice a lot of you love speaking and I couldn't be glader [_sic_] you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
 1) Adjudicating is also a competition in tournaments, and speakers rate you on your Oral Adjudication (OA).
 2) It's easier to break (qualify to playoffs), as an adjudicator than a speaker.
 3) The prize money for adjes is obscene - 10-20k ez for best adjes at big tournaments.
@@ -1243,7 +1243,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU2MjUzNDE5LDM1ODM2ODk4NywxNTM1NzE2Nz
+c3RvcnkiOlstNTU1MDY0MTQwLDM1ODM2ODk4NywxNTM1NzE2Nz
 IsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwt
 NTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNj
 gxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3
