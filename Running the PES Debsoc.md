@@ -261,7 +261,7 @@ If you're reading this, you would have already faced the grueling learning curve
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/001/944/435/931.jpg)
 
 - Keeping it challenging yet making people feel like they were able to contribute something significant is key.
-- The first part is not hard, since even the easiest motions are challenging to recruits (due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
+- The first part is not hard, since even the easiest motions are challenging to recruits (due to various reasons like not reaching 7 minutes). This translates to already a high amount of learning already. Any benefit by doubling difficulty is marginal.
 
 ![image](https://i.ibb.co/tPCYNSgR/sadaboutdebate1.png)
 ![image](https://i.ibb.co/dw3rpnpr/sadaboutdebate2.png)
@@ -274,6 +274,7 @@ If you're reading this, you would have already faced the grueling learning curve
 [Back to Table of Contents](#table-of-contents)
 
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
+
 ![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
 Having to **sit idle** before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and contributes to a belief of debate being a waste of time. 
@@ -1281,7 +1282,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTg2NDM5NjU4LDM3MTg1MjAwOSwtMTcyMTU2Mz
+c3RvcnkiOlstODQ5MDQ3MTYzLDM3MTg1MjAwOSwtMTcyMTU2Mz
 UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
 MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
 wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
