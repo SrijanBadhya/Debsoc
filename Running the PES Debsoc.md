@@ -309,12 +309,13 @@ Here are the motions I used in 2024-2025.
 So all the motions left here are ones whose debates ended up being decent enough to pass my test.
 Feel free to reuse these motions or compile new ones.
 I had prioritized parenting, education, and romance motions, but the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059) shows that people soon got bored of these motions and wanted different ones too.
+<br>
 ![From the Google Form](https://i.ibb.co/fd1q7Tyk/motionpref.png)
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 You can consider occasionally catering to these people (I should have).
 <br>![image](https://i.ibb.co/z1sLVdt/Screenshot-2025-09-06-162422.png)
 
-
+---
 Since debates usually involve 6-8 freshers and 1 senior, what naturally happens is that the senior methodically conducts the debate, then the debate ends and people go home. This is the default state that seniors have too.
 - Debate feels like a college class where you're one random person lost among the masses.
 - If I had to pick the one principle I found the most important to keep in mind, it would be to **give individual attention to every participant**. 
@@ -331,6 +332,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 - When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
 - It's very important to give the initial push for them to cross over after the debate if they don't cross over themselves.
+
 ![enter image description here](https://i.ibb.co/shr6VfN/just-before-Feedback.jpg)
 
 ##  Feedback
@@ -1280,11 +1282,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA2Nzg1MjIzLDM3MTg1MjAwOSwtMTcyMTU2Mz
-UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
-MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
-wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
-Mzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2ND
-E0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4XX0=
+c3RvcnkiOls1OTQzNzk0OTQsMzcxODUyMDA5LC0xNzIxNTYzNT
+MxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQx
+OTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLD
+ExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAz
+ODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MT
+QwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDhdfQ==
 
 -->
