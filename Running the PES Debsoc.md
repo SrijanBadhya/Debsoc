@@ -54,7 +54,6 @@ I. [Guiding Principles](#guiding-principles)
 &emsp;2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
-
 &emsp; 1. [Recruitment Concepts](#recruitment-concepts)
      &emsp;&emsp;a) [History](#history)
      &emsp;&emsp;b) [Depth wise inclusivity](#depth-wise-inclusivity)
@@ -66,7 +65,6 @@ II. [Recruitments](#recruitments)
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
-
 &emsp;1. [Session Concepts](#session-concepts)
 &emsp;2. [Time](#time)
 &emsp;3. [Feedback](#feedback)
@@ -1331,11 +1329,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTU5NDk1OTMzLC0yMjgwNTQ1MCwtMTM5MDc2Mj
-Q2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwy
-MDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4OD
-AzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5
-MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Nj
-c1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MF19
+c3RvcnkiOlszMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyND
+YwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIw
+NDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MD
+MsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkw
+OTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2Nz
+U3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwXX0=
 
 -->
