@@ -206,6 +206,10 @@ Everyone else, just skip past these pictures for now, onto the next session, ["I
 
 ![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
 
+
+https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
+(In the part about
+
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
 Add the following image to the, "even if temporary, provided value" thing
@@ -321,7 +325,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 - When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
 - It's very important to give the initial push for them to cross over after the debate if they don't cross over themselves.
-
+![enter image description here](https://i.ibb.co/shr6VfN/just-before-Feedback.jpg)
 
 ##  Feedback
 
@@ -439,6 +443,7 @@ Even if they don't practice body language and the feeling of speaking to a physi
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
+![enter image description here](https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg)
 
 ### Cross Mocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay money for it. 
@@ -1252,18 +1257,18 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 
 
-https://i.ibb.co/shr6VfN/just-before-Feedback.jpg
+
 https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTQxNjM3MzQzLDE2MDY2MDYxMywxMTU5MDk5Mj
-UzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Njc1NzIs
-ODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MCwzNTgzNj
-g5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4LC0xNzY5MzQyMTQ0
-LDE1NTEwMTA1NTksLTUzODAyNzA0OSwtMTkzMDkzODQyOCwtMz
-c1MDUxNjE2LC03MjY4MTU5MzEsMTU0MjQ2ODk3MCwtNTAzODY3
-NjA4XX0=
+c3RvcnkiOls1MzczMDUxNTMsMTYwNjYwNjEzLDExNTkwOTkyNT
+MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4
+ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2OD
+k4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQs
+MTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNz
+UwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2
+MDhdfQ==
 -->
