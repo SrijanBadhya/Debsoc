@@ -546,6 +546,7 @@ Anyway, this highlights a couple problems with adjing.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
+ ![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
 4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
 5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
@@ -790,7 +791,7 @@ Every novice initially assumes that they'll only face novices in the tournament,
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it's happened in APs). I think the egos of juniors are in need of a warning of this tragedy.
 I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
 
-
+![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
 
 
 ### Tournament Spirits
@@ -1249,8 +1250,8 @@ Uploading one's consciousness to the cloud refers to the process of transferring
  [Back to Table of Contents](#table-of-contents)
 
 
-https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg
-https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg
+
+
 https://i.ibb.co/shr6VfN/just-before-Feedback.jpg
 https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
 <!--stackedit_data:
@@ -1258,11 +1259,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDMxMjEwMTQsMTYwNjYwNjEzLDExNTkwOTkyNT
-MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4
-ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2OD
-k4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQs
-MTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNz
-UwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2
-MDhdfQ==
+c3RvcnkiOlstOTQxNjM3MzQzLDE2MDY2MDYxMywxMTU5MDk5Mj
+UzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Njc1NzIs
+ODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MCwzNTgzNj
+g5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4LC0xNzY5MzQyMTQ0
+LDE1NTEwMTA1NTksLTUzODAyNzA0OSwtMTkzMDkzODQyOCwtMz
+c1MDUxNjE2LC03MjY4MTU5MzEsMTU0MjQ2ODk3MCwtNTAzODY3
+NjA4XX0=
 -->
