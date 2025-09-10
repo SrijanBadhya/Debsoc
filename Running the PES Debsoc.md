@@ -2,7 +2,7 @@
 https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg
 
 
-https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg
+
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
 
@@ -580,6 +580,7 @@ How do we make sure this trend continues?
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
 - + **The interesting thing about the narrative of freshers early on before they judge, is that judging looks like a position of authority.** Freshers believe that you need to be highly qualified to be a judge, and that being a judge is a sign of you being great (They're unaware that anyone can judge in a tournament). 
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) I have a few [ideas](#elevating-the-judging-experience) on how you can increase a fresher's enjoyment of judging mocks. 
+![enter image description here](https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg)
 - But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
 Samuel, my senior, once said this to encourage judging,
@@ -1241,11 +1242,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDMxMDcxMjM1LDM1ODM2ODk4NywxNTM1NzE2Nz
-IsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwt
-NTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNj
-gxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3
-MywxMTc2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3NDUxNSwtOT
-U3MzgxODg3LC03NTY5NjUwMjMsMTA2NjUyNzUyMCwxNTQzOTU4
-MTIxXX0=
+c3RvcnkiOls0NTY2ODM1NTYsMzU4MzY4OTg3LDE1MzU3MTY3Mi
+wtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01
+MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2OD
+E1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTcz
+LDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NT
+czODE4ODcsLTc1Njk2NTAyMywxMDY2NTI3NTIwLDE1NDM5NTgx
+MjFdfQ==
 -->
