@@ -270,6 +270,7 @@ Multiple delays in each process add up to juniors starting late and going home l
 - Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp where the seniors were. It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - Making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
 - In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
+![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/003/105/514/a81.jpg)
 
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
@@ -1248,11 +1249,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OT
-YzNjcsLTEwMzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAs
-LTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMT
-U0MDA4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNzA0
-OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEsMT
-U0MjQ2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3
-Mjc2MF19
+c3RvcnkiOlsxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0NDE2MD
+Y1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNTk5OCwx
+MzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1MzU3MT
+Y3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMDEwNTU5
+LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNz
+I2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4
+NTczXX0=
 -->
