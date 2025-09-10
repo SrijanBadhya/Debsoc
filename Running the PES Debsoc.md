@@ -248,6 +248,7 @@ If you're reading this, you would have already faced the grueling learning curve
 - But I disagree, regardless of how much their wounds are bandaged by you, recurring wounds make them stronger naturally with time.
 - + _The other argument is to just follow natural selection so that you quickly end up with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
+![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/001/944/435/931.jpg)
 - Keeping it challenging yet making people feel like they were able to contribute something significant is key.
 - Even the easiest motions are challenging to recruits due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
 
@@ -1243,11 +1244,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTU1MDY0MTQwLDM1ODM2ODk4NywxNTM1NzE2Nz
-IsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwt
-NTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNj
-gxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3
-MywxMTc2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3NDUxNSwtOT
-U3MzgxODg3LC03NTY5NjUwMjMsMTA2NjUyNzUyMCwxNTQzOTU4
-MTIxXX0=
+c3RvcnkiOlsxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OT
+g3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwx
+NTUxMDEwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NT
+A1MTYxNiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYw
+OCwxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNz
+Y3Mzc0NTE1LC05NTczODE4ODcsLTc1Njk2NTAyMywxMDY2NTI3
+NTIwXX0=
 -->
