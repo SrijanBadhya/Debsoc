@@ -613,7 +613,7 @@ However, a few issues from Sam's text are
 **Trends get pushed in micro ways, and try to avoid being a perpetuator as much as you can** 
 - One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
-- Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", an an effort to make them punctual. 
+- Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", as an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
 - If you have a strict bar for people to participate in tourneys (inactive people cannot come to tourneys), you might be tempted to lower the bar for someone who wants to adj, saying, "We really need an adj, we'll take you to Bombay with us even if you have been inactive", which further pushes that adjing is undesirable.
 - Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out. Here are some very relevant excerpts from page 40.
@@ -1247,11 +1247,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAzODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NT
-gzMCwtNTU1MDY0MTQwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2
-MzIxNTQwMDgsLTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwtNTM4MD
-I3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNjgxNTkz
-MSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3MywxMT
-c2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3NDUxNSwtOTU3Mzgx
-ODg3XX0=
+c3RvcnkiOlstNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
+k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1
+MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMD
+EwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYx
+NiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMT
+g4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0
+NTE1XX0=
 -->
