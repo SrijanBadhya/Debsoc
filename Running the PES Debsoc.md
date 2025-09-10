@@ -430,7 +430,7 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - People either forget about the session, or join really late because there are so many things at home that can take up your time. Back in 2022, online sessions set for 9 pm used to start at 10 pm. 
 - If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
 
-However since you can access a few people who are online-only, I'd recommend doing at least one online session a week for these people who don't wish to come offline. Preferably a Friday evening or Saturday evening. The Debsoc gravitates to the 9 pm time. Even when we tried to schedule these sessions earlier, we were shown that a majority of college students are available only at the 9, 9:30 pm time.
+However, since you can access a few people who are online-only, I'd recommend doing at least one online session a week for these people who don't wish to come offline. Preferably a Friday evening or Saturday evening. The Debsoc gravitates to the 9 pm time. Even when we tried to schedule these sessions earlier, we were shown that a majority of college students are available only at the 9, 9:30 pm time.
 Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
 
 ![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
@@ -1246,11 +1246,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTY5NDI0MDgwLDg4NzAyNTk5OCwxMzczNDc1OD
-MwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYz
-MjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMDEwNTU5LC01MzgwMj
-cwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMx
-LDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMTg4NjE4NTczLDExNz
-Y2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0NTE1LC05NTczODE4
-ODddfQ==
+c3RvcnkiOlstNzE5ODAyMzAsODg3MDI1OTk4LDEzNzM0NzU4Mz
+AsLTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMy
+MTU0MDA4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNz
+A0OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEs
+MTU0MjQ2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3Nj
+Y3Mjc2MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4
+N119
 -->
