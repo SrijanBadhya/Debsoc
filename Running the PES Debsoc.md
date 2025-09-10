@@ -708,6 +708,7 @@ Informal recruitments, also known as lateral entry, is the entry of people into 
 #### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
 - **It really helps with the activity of the soc the next sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At that point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire). You get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
+![enter image description here](https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg)
 - If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you. 
 - Even if they're temporary and you think they'll leave soon (because they didn't care enough to come to the actual recruitments), their help in keeping the society alive is valuable to keep the flow of the other members going.
 
@@ -1240,11 +1241,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MD
-A4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzODAyNzA0OSwt
-MTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5MzEsMTU0Mj
-Q2ODk3MCwtNTAzODY3NjA4LDExODg2MTg1NzMsMTE3NjY3Mjc2
-MCwtNTU3MzA0NzYsLTE3NjczNzQ1MTUsLTk1NzM4MTg4NywtNz
-U2OTY1MDIzLDEwNjY1Mjc1MjAsMTU0Mzk1ODEyMSwxMDU2MTMy
-MTI0XX0=
+c3RvcnkiOlsxNDMxMDcxMjM1LDM1ODM2ODk4NywxNTM1NzE2Nz
+IsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQsMTU1MTAxMDU1OSwt
+NTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNzUwNTE2MTYsLTcyNj
+gxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2MDgsMTE4ODYxODU3
+MywxMTc2NjcyNzYwLC01NTczMDQ3NiwtMTc2NzM3NDUxNSwtOT
+U3MzgxODg3LC03NTY5NjUwMjMsMTA2NjUyNzUyMCwxNTQzOTU4
+MTIxXX0=
 -->
