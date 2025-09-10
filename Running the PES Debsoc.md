@@ -657,6 +657,7 @@ You're cooked. I'm just as clueless as you.
 ## Push to come to sessions
 
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
+![enter image description here](https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg)
 
 Being strict works in getting people to work at school because you're forced to come anyway. Being strict in the debsoc and causing bad vibes just pushes people to avoid it all.
 The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (Actually fill a google form because Whatsapp didn't have the poll feature at the time), and DM one of the heads with a very valid reason if they were missing out on that session. 
@@ -1247,11 +1248,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
-k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1
-MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMD
-EwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYx
-NiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLTUwMzg2NzYwOCwxMT
-g4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMwNDc2LC0xNzY3Mzc0
-NTE1XX0=
+c3RvcnkiOlstMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4Nj
+Y3NTcyLDg4NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAs
+MzU4MzY4OTg3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OT
+M0MjE0NCwxNTUxMDEwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0
+MjgsLTM3NTA1MTYxNiwtNzI2ODE1OTMxLDE1NDI0Njg5NzAsLT
+UwMzg2NzYwOCwxMTg4NjE4NTczLDExNzY2NzI3NjAsLTU1NzMw
+NDc2XX0=
 -->
