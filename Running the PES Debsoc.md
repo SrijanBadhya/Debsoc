@@ -368,6 +368,8 @@ This solves 2 problems.
 2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
 3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but actually a presentation issue.
 
+
+---
 You'll have to decide your own policy on speaker scores. I, for one,  believed speaker scores shouldn't be given in mock for a few reasons:
 
 - Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear and judges may not know, "how relevant is 'frequently relevant',".
@@ -1284,7 +1286,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNjYzNTI0MzYsMzcxODUyMDA5LC0xNzIxNTYzNT
+c3RvcnkiOls1ODUwNjgwMTcsMzcxODUyMDA5LC0xNzIxNTYzNT
 MxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQx
 OTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLD
 ExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAz
