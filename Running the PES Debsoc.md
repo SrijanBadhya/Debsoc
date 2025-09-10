@@ -1,6 +1,4 @@
 
-https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg
-
 
 
 
@@ -208,7 +206,7 @@ Everyone else, just skip past these pictures for now, onto the next session, ["I
 
 
 https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
-(In the part about
+(In the part about your effort and feeling sad about it)
 
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
@@ -1264,11 +1262,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MzczMDUxNTMsMTYwNjYwNjEzLDExNTkwOTkyNT
-MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4
-ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2OD
-k4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDQs
-MTU1MTAxMDU1OSwtNTM4MDI3MDQ5LC0xOTMwOTM4NDI4LC0zNz
-UwNTE2MTYsLTcyNjgxNTkzMSwxNTQyNDY4OTcwLC01MDM4Njc2
-MDhdfQ==
+c3RvcnkiOlsxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5Mj
+UzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Njc1NzIs
+ODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MCwzNTgzNj
+g5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4LC0xNzY5MzQyMTQ0
+LDE1NTEwMTA1NTksLTUzODAyNzA0OSwtMTkzMDkzODQyOCwtMz
+c1MDUxNjE2LC03MjY4MTU5MzEsMTU0MjQ2ODk3MCwtNTAzODY3
+NjA4XX0=
 -->
