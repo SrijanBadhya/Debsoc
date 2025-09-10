@@ -99,9 +99,10 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;3. [Tournaments](#tournaments)
 	&emsp;&emsp;a) [Freeloaders](#freeloaders)
 	&emsp;&emsp;b) [Registration](#tournament-registration)
-	&emsp;&emsp;c) [Briefing](#tournament-briefing)
-	&emsp;&emsp;d) [Spirits](#tournament-spirits)
-	&emsp;&emsp;e) [Online Tournaments](#online-tournaments)
+	&emsp;&emsp;c)
+	&emsp;&emsp;d) [Briefing](#tournament-briefing)
+	&emsp;&emsp;e) [Spirits](#tournament-spirits)
+	&emsp;&emsp;f) [Online Tournaments](#online-tournaments)
 	&emsp;4. [Community](#community)
 	&emsp;5. [Miscellaneous](#miscellaneous)
 	&emsp;&emsp;a) [Teaching Debate](#teaching-debate)
@@ -800,6 +801,16 @@ If you don't get a reply on the mail, it's because the mail got lost in vk sirs 
 
 One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keepyour conscience in check while also letting people know that being regular has perks
 
+And idk if this is like appropriate to include in the doc, but one tip I have to make sure any staff (especially the lazy fucks down in accounts) are friendly with you and work with you is to speak with them in kannada. You don't need to predominantly speak only in kannada, but whenever I felt like they were shutting down when I needed help with something I'd throw in a sentence or two in kannada and they would suddenly be helpful again.
+
+And the process for doing things keep changing regularly, so I think it's always better for the heads to make a doc exclusively for them as per the needs of that particular year. And always take photos of whatever letter or form you're submitting. So many times the accounts people have asked me to show them the reimbursement form and if I didn't have the picture the money would take way longer to come in
+
+Wait max 2 weeks for vk sir himself to tell you the reimbursement chwck is in (he'll send a text in the group) if he doesn't go to the accounts dept yourself cause they people have buried your form somewhere in hell and do not leave until they dig it out in front of you
+
+If the reimbursement amount is particularly high and chances of getting it seem slim, then highlight your most recent achievements in the mail you send and give them a reason to spend a crap ton of money on you
+
+And one thing to always remember: never make grammatical and formatting errors in anything. You will have to redo the whole thing. Personal experience. Vk sir actually sees everything and is very particular about this. Even in the most insignificant mails, if he finds something worng he'll point it out and let you know kindly
+
 
 
 
@@ -1318,7 +1329,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NjQyMDA0MDcsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+c3RvcnkiOls0MjUyMDI1MDksLTEzOTA3NjI0NjAsLTg1NzE5Nj
 k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
 NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
 MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
