@@ -29,7 +29,7 @@ You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll def
 
 There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view). I thought that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
 
-<br>
+---
 <br>
 
 This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session on closing (I'm sorry Hadar), ==so this will be the format of the content:==
@@ -113,6 +113,7 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
+---
 
 # Guiding Principles
 
@@ -1272,11 +1273,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDY2MTczMTM3LC0xNzIxNTYzNTMxLDIwNDMyND
-c1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIy
-MzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNT
-MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4
-ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MTQwLDM1ODM2OD
-k4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDgsLTE3NjkzNDIxNDRd
-fQ==
+c3RvcnkiOlstMTYyMDIxMDIyNywtMTcyMTU2MzUzMSwyMDQzMj
+Q3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEy
+MjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5Mj
+UzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Njc1NzIs
+ODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MCwzNTgzNj
+g5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4LC0xNzY5MzQyMTQ0
+XX0=
 -->
