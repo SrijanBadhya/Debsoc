@@ -303,19 +303,15 @@ The obvious solutions to this are:
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 ![enter image description here](https://i.ibb.co/1fXTyKf8/Screenshot-2025-09-09-135934.png)
 4. **Have a list of motions made in your free time before the session, so that you're not wasting session time.**
-
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
  They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, yet ended up leading to messy debates, showing they were bad motions.
 So all the motions left here are ones whose debates ended up being decent enough to pass my test.
-
 Feel free to reuse these motions or compile new ones.
-
 I had prioritized parenting, education, and romance motions, but the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059) shows that people soon got bored of these motions and wanted different ones too.
 ![From the Google Form](https://i.ibb.co/fd1q7Tyk/motionpref.png)
 - There are also oddballs who want finance and IR motions, and these people usually get sidelined in the interest of keeping the motions debatable for everyone.
 You can consider occasionally catering to these people (I should have).
-
 ![image](https://i.ibb.co/z1sLVdt/Screenshot-2025-09-06-162422.png)
 
 
@@ -1284,7 +1280,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTMwNjQzOTExLDM3MTg1MjAwOSwtMTcyMTU2Mz
+c3RvcnkiOlsxMDAzMjg3ODE1LDM3MTg1MjAwOSwtMTcyMTU2Mz
 UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
 MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
 wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
