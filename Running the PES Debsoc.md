@@ -794,6 +794,12 @@ It's absolutely necessary to collect money from everybody _**before**_ paying th
 
 ### Words from Stuthi
 
+So, when they wanna reject reimbursement, there's 2 ways: 1 is they ghost as you say (which is pretty rare) and 2 the vc directly says no and vk sir informs us. So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that) so yeah I'd say write it in a different way
+
+If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay
+
+One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keepyour conscience in check while also letting people know that being regular has perks
+
 
 
 
@@ -1312,11 +1318,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1Mj
-AwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMx
-MDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
-Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02
-ODU4OTYzNjcsLTEwMzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0Nz
-U4MzAsLTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyXX0=
+c3RvcnkiOls2NjQyMDA0MDcsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
+NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
+NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
+k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3XX0=
 
 -->
