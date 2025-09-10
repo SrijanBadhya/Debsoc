@@ -354,7 +354,9 @@ But I think **consciously trying to tell people what they got right** as well is
 - If juniors just change their approach constantly, they won't really know what to keep.
 - Just like tournaments, speakers feel understood and cared for when their ideas were received by the judge. The more positive emotions people associate with the debsoc, the more they'll want to keep coming.
 - From the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059), something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
+<br>
 ![image](https://i.ibb.co/27VvCzRf/feedback-reaction.png)
+
 - They're already getting humbled by other factors, we don't want them to get humbled to the point where they quit.
 - "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear, balancing happiness and motivation to grow.
 
@@ -1282,7 +1284,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1OTQzNzk0OTQsMzcxODUyMDA5LC0xNzIxNTYzNT
+c3RvcnkiOlsyNjYzNTI0MzYsMzcxODUyMDA5LC0xNzIxNTYzNT
 MxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQx
 OTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLD
 ExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAz
