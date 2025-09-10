@@ -452,6 +452,7 @@ Even if they don't practice body language and the feeling of speaking to a physi
 
 ![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
 ![enter image description here](https://i.ibb.co/Xf8fW4Sg/Screenshot-2025-09-06-164711.png)
+
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
 It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
 
@@ -463,7 +464,7 @@ Here are some of my thoughts about the challenges, pros and cons of them.
 1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but there are doubts about their consistency in activity.
 2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality (because only new judges are the ones willing to judge a random cross mock) and give you the, 'mind-blowing diverse genius new perspective ' feedback which you're looking for. (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc).
 3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool. Everyone is isolated and could be veering off what real debate is, and there's no one to correct them.
-- I think this is slightly exaggerated, because
+&emsp; I think this is slightly exaggerated, because
 - - as long as people have access to the WUDC BP manual, you'll be mostly accurate enough. 
 - - Even if you debate the same people over and over, it's rare for this to be the cause of improvement plateauing. There's so much you can improve even with the same people, like how well you characterize, mechanize, analyze, impact. Other people's debating _styles_ have less impact on your own skill improvement imo.
 - - By the time you reach anything close to a plateau of debating the same people, new juniors will have appeared.
@@ -1286,11 +1287,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1ODUwNjgwMTcsMzcxODUyMDA5LC0xNzIxNTYzNT
-MxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQx
-OTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLD
-ExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAz
-ODY2NzU3Miw4ODcwMjU5OTgsMTM3MzQ3NTgzMCwtNTU1MDY0MT
-QwLDM1ODM2ODk4NywxNTM1NzE2NzIsLTE2MzIxNTQwMDhdfQ==
+c3RvcnkiOlsyMDQ0NzQ1MzcwLDM3MTg1MjAwOSwtMTcyMTU2Mz
+UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
+MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
+wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
+Mzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2ND
+E0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4XX0=
 
 -->
