@@ -153,6 +153,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
   + They may continue ruining the debate club experience for everyone else, while still bringing in tournament wins.
   + By utilitarian metrics, this reduces the number of people who enjoy debate and the club, reduces their enjoyment of debate and the club, and hence reduces the breadth and depth of the value given by the club.
 - You might get depressed over the Debsoc 'deteriorating' when the people are actually doing fine. They're still enjoying the club and enjoying debate but you're hyperventilating.
+
 ![enter image description here](https://i.ibb.co/fd1BYB3t/Whats-App-Image-2025-09-09-at-23-33-50.jpg)
 - You might be cringe and hesitate to work with other societies and give good feedback because they're 'rival societies' who are 'taking away your wins'. (For a while I had to process these cringe thoughts in my own head).
 
@@ -168,6 +169,7 @@ Some of us (including me) believe that being more chill and having more people f
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that having enjoyable chill time goes a long way in getting people to stay, and also motivates them to debate more. 
 - So this isn't as mutually exclusive as it seems. I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
 - I don't think you should worry about being too chill and lenient, because being hardcore and strict tends to cause a worse effect in debaters ([but more on that later](#push-to-come-to-sessions)).
+
 ![enter image description here](https://i.ibb.co/21XrGMsT/Whats-App-Image-2025-09-10-at-15-21-19.jpg)
 
 <br>
@@ -1273,11 +1275,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYyMDIxMDIyNywtMTcyMTU2MzUzMSwyMDQzMj
-Q3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEy
-MjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5Mj
-UzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEwMzg2Njc1NzIs
-ODg3MDI1OTk4LDEzNzM0NzU4MzAsLTU1NTA2NDE0MCwzNTgzNj
-g5ODcsMTUzNTcxNjcyLC0xNjMyMTU0MDA4LC0xNzY5MzQyMTQ0
-XX0=
+c3RvcnkiOlszNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0Nz
+UsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIz
+MDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1My
+wtMTA0NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4
+NzAyNTk5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OT
+g3LDE1MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NF19
+
 -->
