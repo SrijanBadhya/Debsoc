@@ -814,7 +814,7 @@ Sure, it does feel necessary to reward the ones who put effort, and the common w
 
 #### Breaks
 
-![enter image description here](https://i.ibb.co/fdrT6sKw/novice-speaker.jpg)
+![enter image description here](https://i.ibb.co/JwzPPn3J/novice-speaker.jpg)
 Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
@@ -1268,11 +1268,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
-Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02
-ODU4OTYzNjcsLTEwMzg2Njc1NzIsODg3MDI1OTk4LDEzNzM0Nz
-U4MzAsLTU1NTA2NDE0MCwzNTgzNjg5ODcsMTUzNTcxNjcyLC0x
-NjMyMTU0MDA4LC0xNzY5MzQyMTQ0LDE1NTEwMTA1NTksLTUzOD
-AyNzA0OSwtMTkzMDkzODQyOCwtMzc1MDUxNjE2LC03MjY4MTU5
-MzFdfQ==
+c3RvcnkiOlszMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
+NDE2MDY1MiwtNjg1ODk2MzY3LC0xMDM4NjY3NTcyLDg4NzAyNT
+k5OCwxMzczNDc1ODMwLC01NTUwNjQxNDAsMzU4MzY4OTg3LDE1
+MzU3MTY3MiwtMTYzMjE1NDAwOCwtMTc2OTM0MjE0NCwxNTUxMD
+EwNTU5LC01MzgwMjcwNDksLTE5MzA5Mzg0MjgsLTM3NTA1MTYx
+Nl19
 -->
