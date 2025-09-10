@@ -229,6 +229,7 @@ Many factors go into ensuring the quality of experience of a debate session.
 Debate is an extreme sport, and half the people are inevitably going to feel sad at the end of a session.
 
 ![The Judge Every Session](https://i.kym-cdn.com/photos/images/original/001/535/089/5e9.jpg)
+(The Judge every debate)
 
  Sadness cannot be avoided, but we can absolutely work to minimize its sting.
  
@@ -255,9 +256,12 @@ If you're reading this, you would have already faced the grueling learning curve
 - But I disagree, regardless of how much their wounds are bandaged by you, recurring wounds make them stronger naturally with time.
 - + _The other argument is to just follow natural selection so that you quickly end up with the debaters who had the most mettle to begin with. But I believe people can grow mettle over time (with your nurturing), and you're leaving these people out if you just let them end themselves._
 - + From personal experience, I and a few other people would have quit debating early if we felt like we were inherently too dumb for this shit. So try to effectively balance humbling, learning, and happiness, to keep them coming until they're ready to face hard mode. 
+
+
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/001/944/435/931.jpg)
+
 - Keeping it challenging yet making people feel like they were able to contribute something significant is key.
-- Even the easiest motions are challenging to recruits due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
+- The first part is not hard, since even the easiest motions are challenging to recruits (due to various reasons like not reaching 7 minutes. This translates to already a high amount of learning. Any benefit by doubling difficulty is marginal.
 
 ![image](https://i.ibb.co/tPCYNSgR/sadaboutdebate1.png)
 ![image](https://i.ibb.co/dw3rpnpr/sadaboutdebate2.png)
@@ -1277,7 +1281,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjc2MTM5NjAxLDM3MTg1MjAwOSwtMTcyMTU2Mz
+c3RvcnkiOlstNTg2NDM5NjU4LDM3MTg1MjAwOSwtMTcyMTU2Mz
 UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
 MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
 wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjcsLTEw
