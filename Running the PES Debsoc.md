@@ -99,7 +99,7 @@ VI. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;3. [Tournaments](#tournaments)
 	&emsp;&emsp;a) [Freeloaders](#freeloaders)
 	&emsp;&emsp;b) [Registration](#tournament-registration)
-	&emsp;&emsp;c)
+	&emsp;&emsp;c) [Words From Stuthi on Reimbursement](#words-from-stuthi)
 	&emsp;&emsp;d) [Briefing](#tournament-briefing)
 	&emsp;&emsp;e) [Spirits](#tournament-spirits)
 	&emsp;&emsp;f) [Online Tournaments](#online-tournaments)
@@ -821,19 +821,6 @@ I would say the best thing is to have a third party, like a senior, get involved
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Tournament Briefing
 Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
 
@@ -1329,7 +1316,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MjUyMDI1MDksLTEzOTA3NjI0NjAsLTg1NzE5Nj
+c3RvcnkiOls3MzI3ODM2NTQsLTEzOTA3NjI0NjAsLTg1NzE5Nj
 k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
 NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
 MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0
