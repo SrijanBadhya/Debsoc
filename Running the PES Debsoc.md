@@ -411,10 +411,10 @@ There isn't much 'risk'.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give us serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier, but we're desensitized to them.
 
 #### Turncoat
-When there have been 2 or 3 people showing up for a session (like it often happens in the odd sems before recruitments), we played Turncoat with each other. The speaker is given a prompt, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor, and Bharath's experience conducting PESDT.
-It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
+When there have been 2 or 3 people showing up for a session (like it often happens in the odd sems before recruitments), we played Turncoat with each other. The speaker is given a prompt, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor and Bharath's experience conducting PESDT.
+It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick-witted you have to be while changing your flow.
 
-We used this to market the Debsoc during the club showcase at Aarohi too in 2024. We wrote the topics on chits and placed them in a bowl for freshers to pick and speak from.
+We used this to market the Debsoc during the club showcase at Aarohi too, back in 2024. We wrote the topics on chits and placed them in a bowl for freshers to pick and speak from.
 
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMTQyMjQxNjcsLTEwNDgwNzU3OTQsLTE3MjY5Mj
-U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
-LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
-IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
-Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMj
-I4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIw
-MDldfQ==
+c3RvcnkiOlstMTM0NDcxNTk3OSwtMTA0ODA3NTc5NCwtMTcyNj
+kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
+OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
+IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
+NDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC
+0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1
+MjAwOV19
 -->
