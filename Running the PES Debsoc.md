@@ -435,7 +435,7 @@ Such fun motion days are best for when chatter in the Debsoc has progressed to t
 This variety of debate activities keeps debate fresh and fun.
 
 #### Game Night
-In early 2024, my batch of clubheads started online game nights. Popular games are the ones people have experience playing in class already, like Skribbl.io.
+In early 2024, my batch of clubheads started online game nights. Popular games are the ones people have experience playing in class already, like Skribbl.io. 
 
 If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played. It also makes it easier to get on Voice Chat alongside this, which adds to the fun.
 
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0MjYwOTU3MiwtMTA0ODA3NTc5NCwtMTcyNj
-kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
-OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
-IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
-NDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC
-0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1
-MjAwOV19
+c3RvcnkiOlsxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
+I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
+LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
+AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
+NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLT
+IyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUy
+MDA5XX0=
 -->
