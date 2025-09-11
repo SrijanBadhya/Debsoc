@@ -430,7 +430,7 @@ It's a good way to keep you on your feet and make you better prepared for tourne
 The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do because you can ask it to give you, "Naruto debate motions", and it actually cooks fun motions. 
 The issue with this is that not all of the debaters would have watched Naruto, so these people don't share in the fun. 
 
-Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone. ChatGPT is actually pretty good at generating motions for a niche interest which doesn't have motions made on it already (that's what we did for Maroon 5).
+Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone. ChatGPT is actually pretty good at generating motions for a niche interest which doesn't have readily available motions (that's what we did for Maroon 5).
 
 This variety of debate activities keeps debate fresh and fun.
 
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTE5Nzc4MzEwLC0xMDQ4MDc1Nzk0LC0xNzI2OT
-I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
-LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
-AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
-NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLT
-IyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUy
-MDA5XX0=
+c3RvcnkiOlstMTI0MjYwOTU3MiwtMTA0ODA3NTc5NCwtMTcyNj
+kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
+OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
+IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
+NDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC
+0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1
+MjAwOV19
 -->
