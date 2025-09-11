@@ -648,8 +648,8 @@ However, a few issues from Sam's text are
 
 ### Common Pitfalls
 
-**Trends get pushed in micro ways. It's difficult to avoid being a propagator.** 
-- One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
+**Trends get pushed in micro ways. It's difficult to avoid being a conduit.** 
+- I remember one time, one of my seniors was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", as an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
@@ -1377,11 +1377,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjAzMjcyNzc5LC0yMTQxOTAyNDU1LDYzODg5NT
-I2MywyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNCwxMjAy
-MTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1NzkyLC01OTk2Njg1MD
-csMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0
-ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NT
-MzODQ2LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1
-NV19
+c3RvcnkiOlstMjA4NTcxNzY2NCwxNjAzMjcyNzc5LC0yMTQxOT
+AyNDU1LDYzODg5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1
+NjM0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1Nz
+kyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYz
+MTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
+ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
+M119
 -->
