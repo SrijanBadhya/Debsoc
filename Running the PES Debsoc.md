@@ -636,13 +636,16 @@ All in all, try and balance the both when you come for practice, that way you be
 
 The way he carefully did it was by approaching it as, "the only reason you speak more than you judge is because you haven't tried it out", and that's why they needed encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
 
-**I think it's very important to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits. Someone new to debate would also never know that judges compete as well, so they're usually ignorant of this fact until their first tournament. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.** (if new debaters don't know that judges compete, then why would they want to register as an adj at a tournament.)
+**I think it's vital to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits. Someone new to debate would also never know that judges compete as well, so they're usually ignorant of this fact until their first tournament. This information shows that judging is a challenge worth pursuing, and makes people care about becoming better judges.** (If new debaters don't know that judges compete, then why would they want to register as an adj at a tournament.)
 
 However, a few issues from Sam's text are
 - "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy.
 - The judge prize money isn't that accurately portrayed, and that feels like a speculative impact to a lot of people.
 - Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging.
-- A fundamental issue is that people may wonder why there is even pressure put on them to judge, because if judging is actually fun, everybody should be trying to do it. Maybe people don't think so deep. Luckily this isn't a real problem with Samuel's context of, "making people aware of something they've never tried out", but while trying to convince people to judge, you replicate this text, some nuances may be missed and it might not work out.
+- A fundamental issue is that people may wonder why there is even pressure put on them to judge, because if judging is actually fun, everybody should be trying to do it. Maybe people don't think so deep. 
+
+
+Luckily this isn't a real problem with Samuel's context of, "making people aware of something they've never tried out", but while trying to convince people to judge, you replicate this text, some nuances may be missed and it might not work out.
 
 
 ### Common Pitfalls
@@ -1372,11 +1375,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEyODQ1Mjk2OSwxMjAyMTM5MjM5LDE1OTA3OT
-g2MjgsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1
-NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNj
-kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
-OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
-IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
-NDUyODldfQ==
+c3RvcnkiOlsxNjYzOTQzODY5LDEyMDIxMzkyMzksMTU5MDc5OD
+YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
+MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
+I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
+LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
+AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
+NTI4OV19
 -->
