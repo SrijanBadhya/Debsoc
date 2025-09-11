@@ -684,7 +684,7 @@ For quite a few years, the debsoc has tried to prevent freeloaders, but sometime
 
 When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely. Sometimes they reject tournaments if you've gone to other tournaments recently.
-I don't have experience communicating between students and the management, so I can't really tell how to work with the management (but Stuthi has, and you'l.
+I don't have experience communicating between students and the management, so I can't really tell how to work with the management (but Stuthi has, and she has words for you in the next section).
 
 Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
 
@@ -724,7 +724,7 @@ So I'd say that you shouldn't like put it in a bracket that they ghost us if it'
 
 If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay
 
-One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keepyour conscience in check while also letting people know that being regular has perks
+One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keep your conscience in check while also letting people know that being regular has perks
 
 And idk if this is like appropriate to include in the doc, but one tip I have to make sure any staff (especially the lazy fucks down in accounts) are friendly with you and work with you is to speak with them in kannada. You don't need to predominantly speak only in kannada, but whenever I felt like they were shutting down when I needed help with something I'd throw in a sentence or two in kannada and they would suddenly be helpful again.
 
@@ -1333,11 +1333,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDU3MDc4OTAsLTE3NTMyNDUyODksNjIxMzM4ND
-MsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5
-MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2Mz
-UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
-MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
-wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjddfQ==
+c3RvcnkiOlstMTE1NTE5Mjk2OCwtMTc1MzI0NTI4OSw2MjEzMz
+g0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0x
+MzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNT
+YzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03
+MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNj
+EzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2N119
 
 -->
