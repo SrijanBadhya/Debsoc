@@ -239,11 +239,11 @@ For this purpose, I think it's justified to paint an incomplete picture of debat
 What I mean by this is:
 - Not dropping finance and IR (International Relations) motions in the early days.
 - Even within other subjects, giving easy and accessible motions (and motions they would find fun). Feeling hopeless and having nothing to say before a speech is quite depressing. 
-- Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. Give them easy motions which even they will think are balanced.
+- Although we know that nearly all motions are balanced, freshers often think most motions are unbalanced. It is possible though, to find easy motions which even they will find balanced.
 - Philosophy motions are usually fun, but unfortunately usually follow the format of, "THW use this amazing technology", and feel unbalanced for opp because:
-- + Freshers feel lost thinking of an opp case because the benefits look great and they don't know how to outweigh them.
-- + Beginners don't think about regulation, mismanagement, and long term consequences.
-- + So even if there is tremendous learning potential after the round, people can feel depressed during the round.
+- + Freshers feel lost thinking of an opp case since the benefits look great and they don't know how to outweigh them.
+- + Beginners don't often think about regulation, mismanagement, and long-term consequences.
+- + So even if there is tremendous learning potential after the round, people can feel depressed during the round .
 - + (If you can give hints of the case lines, like regulation, to both sides, then you can still make it work.)
 - Not being brutally honest in the early days and telling speakers their speeches were shit.
 - Spending extra time and effort in the early days compared to later days, providing aftercare to the wounded recruits.
@@ -1344,11 +1344,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NT
-I4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIy
-ODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMD
-A5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEw
-OTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1Nj
-ksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTJdfQ==
-
+c3RvcnkiOlstNDYwOTE1MDQ0LC00ODU4MTQwOCwtODg5NDc2OT
+Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
+NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
+NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
 -->
