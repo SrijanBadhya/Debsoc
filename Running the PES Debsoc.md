@@ -349,10 +349,12 @@ Ideally the judges who conduct sessions, are ones who've read and understood the
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech, I'm still not sure though".
 - Wrong feedback can set debaters back quite a bit and it's hard for them to ever realize that this is wrong later. They are likely to approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about, I trust my senior more". 
 
+--- 
+
 The impulsive way to give feedback is telling people how they messed up and what they can improve on.
 But I think **consciously trying to tell people what they got right** as well is incredibly impactful for a few reasons:
 
-- Freshers often do random genius stuff they weren't taught to do, like weighing sometimes. Give them a signal that this is something good which they should keep going. 
+- Freshers sometimes do random genius stuff they weren't taught to do, like surprise weighing. It's a positive reinforcement loop if you give them a signal that this is something good which they should keep doing. 
 - If juniors just change their approach constantly, they won't really know what to keep.
 - Just like tournaments, speakers feel understood and cared for when their ideas were received by the judge. The more positive emotions people associate with the debsoc, the more they'll want to keep coming.
 - From the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059), something juniors feel is, "I'm working hard in debate everyday but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
@@ -1346,10 +1348,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MzQyODQzMDcsLTQ4NTgxNDA4LC04ODk0NzY5Nj
-YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
-MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
-Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
-MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
-wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
+c3RvcnkiOlstMTAzNTAzODQ3NCwtNDg1ODE0MDgsLTg4OTQ3Nj
+k2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Niwz
+MjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOT
+Y5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0x
+NzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwOD
+gzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTNdfQ==
+
 -->
