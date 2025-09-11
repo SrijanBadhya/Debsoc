@@ -453,13 +453,13 @@ While Nikhil and I understood this exclusive benefit, we're still certified hate
 - If someone starts off debating with online sessions, they might drop out because they're unaware that online sessions are far inferior to the fun of offline sessions.
 
 However, since you can access a few people who are online-only, I'd recommend doing at least one online session a week for these people who don't wish to come offline. Preferably a Friday evening or Saturday evening. The Debsoc gravitates to the 9 pm time. Even when we tried to schedule these sessions earlier, we were shown that a majority of college students are available only at the 9, 9:30 pm time.
-Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they're still tournament-ready for online tournaments.
+Even if they don't practice body language and the feeling of speaking to a physical audience which are useful for tournaments, they still get tournament-ready for online tournaments.
 
 ![enter image description here](https://i.ibb.co/KpX9pG6d/Screenshot-2025-09-06-164409.png)
 ![enter image description here](https://i.ibb.co/Xf8fW4Sg/Screenshot-2025-09-06-164711.png)
 
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
-It means the world to people if you dm them and check up on them and how they feel about the session. (easier if you weren't involved in the session). 
+It means the world to people if you dm them and check up on them and how they feel about the session (easier if you weren't involved in the session).
 
 ![enter image description here](https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg)
 
@@ -1354,7 +1354,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDE5MjAzNjg0LDE2MzEzNjcxMzYsLTEwNDgwNz
+c3RvcnkiOlsxMjk0MDg4MDM2LDE2MzEzNjcxMzYsLTEwNDgwNz
 U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
 NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
 Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
