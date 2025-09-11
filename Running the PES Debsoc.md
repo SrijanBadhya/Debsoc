@@ -738,11 +738,8 @@ And one thing to always remember: Never make grammatical and formatting errors i
 
 
 
-
-
-Note from Stuthi for the resolving drama section:
-I would say the best thing is to have a third party, like a senior, get involved, hear out both sides and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors [the ones involved on the other side of the drama] sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
-
+Note from Stuthi for the 'resolving drama' section:
+I would say the best thing is to have a third party, like a senior, get involved, hear out both sides, and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors [the ones involved on the other side of the drama] sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
 
 
 
@@ -1328,16 +1325,19 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 
 
+
+
+
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzgzODI5ODkzLC0xNzUzMjQ1Mjg5LDYyMTMzOD
-QzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEz
-OTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1Nj
-M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
-NDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
-MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3XX0=
+c3RvcnkiOlstMTk0NDQ2MDcxNywtMTc1MzI0NTI4OSw2MjEzMz
+g0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0x
+MzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNT
+YzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03
+MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNj
+EzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2N119
 
 -->
