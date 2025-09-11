@@ -419,11 +419,11 @@ We used this to market the Debsoc during the club showcase at Aarohi too, back i
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
-It was fun cuz of how goofy it was, and very time efficient too.
+It was fun cause of how goofy it was, and very time efficient too.
 
 
 #### Impromptu debates
-Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time). For more participants, this format isn't as impactful because they don't feel the time crunch as much.
+Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time.) For more participants, this format isn't as impactful because they don't feel the time crunch as much (It feels like a regular debate).
 It's a good way to keep you on your feet and make you better prepared for tourney time crunches.
 
 #### Pop debates
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM0NDcxNTk3OSwtMTA0ODA3NTc5NCwtMTcyNj
-kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
-OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
-IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
-NDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC
-0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1
-MjAwOV19
+c3RvcnkiOlstOTE5Nzc4MzEwLC0xMDQ4MDc1Nzk0LC0xNzI2OT
+I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
+LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
+AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
+NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLT
+IyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUy
+MDA5XX0=
 -->
