@@ -331,7 +331,6 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
 - After people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say, but too hesitant to break the silence.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
-- It's very important to give the initial push for them to cross over after the debate if they don't cross over themselves.
 
 ![enter image description here](https://i.ibb.co/shr6VfN/just-before-Feedback.jpg)
 
@@ -339,7 +338,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 [Back to Table of Contents](#table-of-contents)
 
-Feedback is often tricky once your brain has shut down after the debate. Often you'll just try to make up something from your own notes.
+Feedback is often tricky once your brain has shut down after the debate. Often you'll just try to make up something from your own notes, or 
 One thing I found useful was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Missing reasoning", I wrote it down in brackets. It helped me deliver the feedback quicker when I was asked for it.
 
 Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
@@ -1344,7 +1343,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk2NzEzNzM1LC00ODU4MTQwOCwtODg5NDc2OT
+c3RvcnkiOlstNzUxMTUwNzcwLC00ODU4MTQwOCwtODg5NDc2OT
 Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
 NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
 k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
