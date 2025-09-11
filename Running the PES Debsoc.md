@@ -994,6 +994,8 @@ By the end of a year, the most rigorous debaters are the ones for whom debate fr
 - This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/001/908/925/7df.jpg)
 
+I had friends at college but none of them really matched up to the depth I found at Debsoc.
+
 ---
 
 ## Miscellaneous
@@ -1017,7 +1019,7 @@ The counter arguments I've heard about this are
 which are fair, so decide what you feel.
 
 ---
-If you have the time and the bandwidth, a great time to teach debate was when only one person shows up to a session but you don't feel like cancelling the session and sending them away. 
+If you have the time and the bandwidth, a great time to teach debate is when only one person shows up to a session, yet you don't feel like cancelling the session and sending them away. 
 What's great about this is that you can make the lesson personalized, understand their thinking process, and tune it precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole, more than giving them advice post a debate.
 It's also low stakes practice for you to conduct a matter session in the future. 
 It's not unfair that they got access to this personalized coaching and others didn't, because they're the ones that showed up.
@@ -1367,7 +1369,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MDMwMDE5MDMsMTYzMTM2NzEzNiwtMTA0ODA3NT
+c3RvcnkiOls1NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NT
 c5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2
 LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtND
 YzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5
