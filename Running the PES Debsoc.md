@@ -582,8 +582,8 @@ Anyway, this highlights a couple problems with adjing.
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
 4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes. It looked like my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots which we opened up for them.
 5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
-- There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
-- The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. And even if the grueling work of adjing 'builds character', they may not want to ever do a tournament again.
+- A dozen freshers sign up for the first tournament available. It doesn't make sense to make all of them adj.
+- The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. Even if the grueling work of adjing 'builds character', they may not want to do a tournament ever again.
 6. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
 
 _One initial solution I had thought of a year ago, was to make people adj once every three or four tournaments._
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM0NzQwNjI4MywxMjAyMTM5MjM5LDE1OTA3OT
-g2MjgsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1
-NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNj
-kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
-OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
-IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
-NDUyODldfQ==
+c3RvcnkiOls3Nzc0NDU2ODIsMTIwMjEzOTIzOSwxNTkwNzk4Nj
+I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
+NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
+U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
+LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
+IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
+Mjg5XX0=
 -->
