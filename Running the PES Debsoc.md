@@ -287,7 +287,8 @@ Multiple delays in each process add up and lead to juniors starting late and goi
 
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
-2. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
+2. Engage in conversation with the first person. It can be about what brought them to the debsoc, what interests they have (and you can even make a motion related to their interests and get them speaking on it until others arrive).
+3. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
  + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody. (I learned this the hard way.)
 + Having extra prep time isn't much of a harm. At least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and if others show up later, you can replace the iron slots.
@@ -299,10 +300,10 @@ The obvious solutions to this are:
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that this propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative).
-3. Something I'm guilty of myself is taking too much time to prepare my OA.
+4. Something I'm guilty of myself is taking too much time to prepare my OA.
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 ![enter image description here](https://i.ibb.co/1fXTyKf8/Screenshot-2025-09-09-135934.png)
-4. **Have a list of motions made in your free time before the session, so that you're not wasting session time.**
+5. **Have a list of motions made in your free time before the session, so that you're not wasting session time.**
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
  They were curated to fit the motion criteria talked about earlier this chapter. I have cut out around 30 motions I had initially thought were good, yet ended up leading to messy debates, showing they were bad motions.
@@ -1354,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjA3Mzk0MDM5LDEyNTI4MTEyNDcsLTE1NDQ1Mz
-M4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1
-LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OT
-Q3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2
-NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NT
-cxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1
-XX0=
+c3RvcnkiOlstMTQ3MjUyNTY3OCwxMjUyODExMjQ3LC0xNTQ0NT
+MzODQ2LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1
+NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04OD
+k0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1
+NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtOD
+U3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3
+NV19
 -->
