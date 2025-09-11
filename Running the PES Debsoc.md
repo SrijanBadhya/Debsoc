@@ -199,7 +199,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 
 remember to add these pictures in recruitments later Srijan
 
-Everyone else, just skip past these pictures for now, skip the whole section and move onto the next section, ["Inside a Session"](#inside-a-session).
+Everyone else, just skip past these pictures for now, skip the whole section and move onto the next section by clicking this link, ["Inside a Session"](#inside-a-session).
 
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
@@ -1344,11 +1344,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjg1MzQyODE1LC04ODk0NzY5NjYsLTE3NTMyND
-UyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0y
-MjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1Mj
-AwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMx
-MDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
-Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyXX0=
+c3RvcnkiOlstNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NT
+I4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIy
+ODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMD
+A5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEw
+OTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1Nj
+ksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTJdfQ==
 
 -->
