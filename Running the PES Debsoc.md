@@ -694,6 +694,8 @@ It's awkward to tell friends, to tell people you know, that they don't meet the 
 If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
 What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments yet isn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
 
+What we did once for an irregular debater, was to only reimburse half the amount. We got to keep your conscience in check while also letting people know that being regular has perks.
+
 ## Tournament Registration
 
 [Back to Table of Contents](#table-of-contents)
@@ -722,13 +724,11 @@ So, when they wanna reject reimbursement, there's 2 ways:
 
 So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that)
 
-If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay
+If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay.
 
-One more thing you can say if you want is that one time we told sucheta for cupd that she could come if she wanted to buy we would only reimburse half the amount, so like you get to keep your conscience in check while also letting people know that being regular has perks
+One tip I have to make sure any staff (especially the slow people down in accounts) are friendly with you and work with you, is to speak with them in Kannada. You don't need to predominantly speak only in Kannada, but whenever I felt like they were shutting down when I needed help with something I'd throw in a sentence or two in Kannada and they would suddenly be helpful again.
 
-And idk if this is like appropriate to include in the doc, but one tip I have to make sure any staff (especially the lazy fucks down in accounts) are friendly with you and work with you is to speak with them in kannada. You don't need to predominantly speak only in kannada, but whenever I felt like they were shutting down when I needed help with something I'd throw in a sentence or two in kannada and they would suddenly be helpful again.
-
-And the process for doing things keep changing regularly, so I think it's always better for the heads to make a doc exclusively for them as per the needs of that particular year. And always take photos of whatever letter or form you're submitting. So many times the accounts people have asked me to show them the reimbursement form and if I didn't have the picture the money would take way longer to come in
+The process for doing things keep changing regularly, so I think it's always better for the heads to make a doc exclusively for them as per the needs of that particular year. And always take photos of whatever letter or form you're submitting. So many times the accounts people have asked me to show them the reimbursement form, and when I didn't have the picture, the money would take way longer to come in.
 
 Wait max 2 weeks for vk sir himself to tell you the reimbursement chwck is in (he'll send a text in the group) if he doesn't go to the accounts dept yourself cause they people have buried your form somewhere in hell and do not leave until they dig it out in front of you
 
@@ -1333,11 +1333,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE1NTE5Mjk2OCwtMTc1MzI0NTI4OSw2MjEzMz
-g0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0x
-MzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNT
-YzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03
-MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNj
-EzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2N119
+c3RvcnkiOlszNDM0OTM1MTIsLTE3NTMyNDUyODksNjIxMzM4ND
+MsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5
+MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2Mz
+UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
+MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
+wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjddfQ==
 
 -->
