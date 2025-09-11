@@ -524,7 +524,6 @@ But even if there already is someone, **more seniors are always needed.**
 - Having too many seniors is always better than having too few seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
 
 
- 
 Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions.
 
 When more than a room full of juniors pull up, there are a few ways to adjust it.
@@ -533,8 +532,9 @@ You can make the extra person adj a handful of times, but make sure they don't f
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
 b) Choosing the optimal frequency of sessions. 
-Adaptive sessions are more robust to spontaneity and the PES schedule, but having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how you don't even think about brushing your teeth as a burden anymore and just do it.)
+Adaptive sessions are more robust to spontaneity and the PES schedule, but having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
 Three days a week is what we usually go for once recruitments have ended. More sessions are usually too much work for the senior without proportional returns, and having less votes on the polls sort of sends a message that the debsoc is dead.
+I talk more about debates as a whole in [Push to come to sessions](#push-to-come-to-sessions).
 
 
 c) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer so I made it a chapter of its own.
@@ -1363,11 +1363,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI2ODUwNjI5MSwxNjMxMzY3MTM2LC0xMDQ4MD
-c1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4
-NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC
-00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3
-Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Ni
-wzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcx
-OTY5NjldfQ==
+c3RvcnkiOlsxNTUzMTI5ODcwLDE2MzEzNjcxMzYsLTEwNDgwNz
+U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
+NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
+Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
+OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LD
+MyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5
+Njk2OV19
 -->
