@@ -619,7 +619,7 @@ How do we make sure this trend continues?
 - + People may feel used to having no case due to no knowledge of the world. Judging seems more comfortable to them because judges are _given_ the content to speak on. (A major reason I prefer judging.)
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
 - + **The interesting thing about the narrative of freshers early on before they judge, is that judging looks like a position of authority.** Freshers believe that you need to be highly qualified to be a judge, and that being a judge is a sign of you being great (They're unaware that anyone can judge at a tournament). 
-- I don't know how exactly to encourage adjing (because if you start outright telling everyone "adjing is nice, do try it out", it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) 
+- I don't know how exactly to encourage adjing (because if you start outright telling everyone "adjing is nice, do try it out", it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) If judging is actually fun, everybody should be trying to do it, so promotion of judging looks suspicious.
 ![enter image description here](https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg)
 - However, I have a few possible [ideas](#elevating-the-judging-experience) on how you might improve a fresher's enjoyment of judging mocks. 
 - Even if you can't safely encourage adjing, what is definitely important, is to avoid _discouraging_ adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
@@ -642,7 +642,6 @@ However, a few issues from Sam's text are
 - "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy.
 - The judge prize money isn't that accurately portrayed, and that feels like a speculative impact to a lot of people.
 - Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging.
-- A fundamental issue is that people may wonder why there is even pressure put on them to judge, because if judging is actually fun, everybody should be trying to do it. Maybe people don't think so deep. 
 
 
 Luckily this isn't a real problem with Samuel's context of, "making people aware of something they've never tried out", but while trying to convince people to judge, you replicate this text, some nuances may be missed and it might not work out.
@@ -1375,11 +1374,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjYzOTQzODY5LDEyMDIxMzkyMzksMTU5MDc5OD
-YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
-MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
-I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
-LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
-AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
-NTI4OV19
+c3RvcnkiOlszNDczMzE1NjQsMTIwMjEzOTIzOSwxNTkwNzk4Nj
+I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
+NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
+U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
+LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
+IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
+Mjg5XX0=
 -->
