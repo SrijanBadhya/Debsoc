@@ -517,12 +517,12 @@ a) Dividing the workload:
 
 Every year we try hard to encourage people to come, and people do 'commit' in theory. 
 But it always looks like people lack the push to actually show up.
-We have had seniors take up voluntary adjing slots using an excel sheet before, but people would often forget, or not feel obligated enough to write their name themselves.
+We've had seniors take up voluntary adjing slots using an excel sheet before, but people would often either forget or not feel obligated enough to write their name themselves.
 
 I don't know if this is due to the bystander effect caused by there always being someone already conducting the session. 
 But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, which can tire them out. Taking over their judging shifts and letting them speak gives them a chance to refresh.
-- My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Because matter sessions aren't enough if both participants don't actively work on the same case together. Pro-ams help juniors understand what the right debate habits are. 
+- My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Matter sessions aren't enough without actively working on the same case together. Pro-ams help juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
 ![enter image description here](https://i.ibb.co/CsvVJk5s/Screenshot-2025-09-06-170630.png)
 - Having too many seniors is always better than having too few seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
@@ -1369,11 +1369,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA0NzI3MTkyNyw2NTcxNjU3OTIsLTU5OTY2OD
-UwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMzY3MTM2LC0x
-MDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1ND
-Q1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4
-OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLT
-g4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3Nzcy
-NTU2Nl19
+c3RvcnkiOlsxMTY3NTg2Nzc0LDY1NzE2NTc5MiwtNTk5NjY4NT
+A3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEw
+NDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0ND
+UzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5
+NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtOD
+g5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1
+NTY2XX0=
 -->
