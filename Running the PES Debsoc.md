@@ -533,10 +533,11 @@ Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't e
 When more than one room full of juniors pull up (6-8 people), there are a few ways to adjust.
 You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
 
-When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4-minute speech as a reply speech. When there were 7 people,  we just worked around with what we had, even if there was a reply speaker from one side but not the other side.
+When we had 8 people pull up to a session before we taught them BPs, I made two of them a fake reply speakers once. Basically a 4th person gave a 4-minute speech as a reply speech. 
+When there were 7 people,  we just worked around with what we had, even if there was a reply speaker from one side but not the other side.
 
 b) Choosing the optimal frequency of sessions. 
-Adaptive sessions are more robust to spontaneity and the PES schedule, but having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
+Adaptive sessions are more robust to spontaneity and the PES schedule. Having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
 Three days a week is what we usually go for once recruitments have ended. More sessions are usually too much work for the senior without proportional returns, and having less votes on the polls sort of sends a message that the debsoc is dead.
 I talk more about debate turnout as a whole in [Push to come to sessions](#push-to-come-to-sessions).
 
@@ -1369,7 +1370,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTQwNDcwNDU2LDY1NzE2NTc5MiwtNTk5NjY4NT
+c3RvcnkiOlsxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NT
 A3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEw
 NDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0ND
 UzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5
