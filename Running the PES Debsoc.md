@@ -24,7 +24,7 @@ A lot of these solutions may seem like common knowledge, but I believe it's impo
 
 **So who am I, and why care about what's written here?**
 ~~It feels cringe to type this~~
-I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've helped conduct recruitments for 3 batches, and experienced the recruitment for my own batch. I have experienced being under different leaders, and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
+I'm Srijan Badhya, a member of Debate Shenanigans 3.0 (if you still follow that chronological system). I've been a part of around 200 debates with PES Debsoc members across my 4 years. I've helped conduct recruitments for 3 batches and experienced the recruitment for my own batch. I have experienced being under different leaders and have experience trying different forms of leadership myself. I've engaged with dozens of juniors about how they feel in the soc. I've talked to debaters from other colleges about how they believe societies should be run. There are too many people to credit in the making of this book, in fact, they're everyone I've had the honor of meeting across my debate career. 
 You can contact me at srijanbadhya@gmail.com or artemisrijan@gmail.com, I'll definitely reply within a week. 
 
 There already exists a globally famous document, [How to Start a Debate Society](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view). I thought that it was necessary to have something more tailored to PES, tailored to the state of the PES Debsoc at the moment, and hence I embarked on this project.
@@ -1329,11 +1329,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4Nj
-UsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcx
-ODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMT
-IsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQw
-NTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTMsLTEwNDQxNjA2NT
-IsLTY4NTg5NjM2NywtMTAzODY2NzU3Miw4ODcwMjU5OThdfQ==
+c3RvcnkiOlstMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNT
+U2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04
+NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyND
+c1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIy
+MzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNT
+MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Ml19
 
 -->
