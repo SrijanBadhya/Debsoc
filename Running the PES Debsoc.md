@@ -322,7 +322,7 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and feel like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
-- The one-on-one interaction could be about anything, doesn't have to be about feedback on their speech, just whatever they feel about everything.
+- The one-on-one interaction can be about anything. It doesn't have to be about feedback on their speech, just whatever they feel about everything.
 - Having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
 
 
@@ -1344,7 +1344,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjc3OTk4NzQ5LC00ODU4MTQwOCwtODg5NDc2OT
+c3RvcnkiOlsxNjA3ODUwMTAzLC00ODU4MTQwOCwtODg5NDc2OT
 Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
 NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
 k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
