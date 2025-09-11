@@ -492,7 +492,7 @@ I was the head of the NLS x PES cross mock initiative, and I saw that lot of iss
 3. If you thought the walk to the basement deters people, think about travel to a whole other campus.
 4. Of course, cycling the adjes and taking turns is another challenge.
 
-Sure, online sessions mitigate these issues to quite some extent, but they pretty much convert the university specific cross mock into a regular cross mock.
+Sure, online sessions mitigate these issues to quite some extent, but they pretty much convert the university-specific cross mock into a regular cross mock.
 
 With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one offline cross mock at PES (I adjed them all).
 
@@ -500,7 +500,7 @@ The first offline mock had a few interested NLS students and a few PES students.
 Clearly such people couldn't be dragged all the way to PES if a mock happened there.
 
 The second offline mock at NLS was when three friends called me since they wanted to practice for a tournament, and I brought two people from PES along.
-These offline sessions had fun vibes because we did get the tourney excitement of being at a new campus, and facing new people.
+These offline sessions had fun vibes because we did get the tourney excitement of being at a new campus and facing new people.
 
 For the offline session at PES, an NLS friend of mine dragged her friend to PES and we did a half BP. I was disappointed with the PES turnout because I had thought the debate being local would drive more people.
 
@@ -1369,11 +1369,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOT
-UyLDU0MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0x
-NzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2Mz
-cxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMz
-OCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMT
-c1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4
-NjVdfQ==
+c3RvcnkiOlstMTA0NzI3MTkyNyw2NTcxNjU3OTIsLTU5OTY2OD
+UwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMzY3MTM2LC0x
+MDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1ND
+Q1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4
+OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLT
+g4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3Nzcy
+NTU2Nl19
 -->
