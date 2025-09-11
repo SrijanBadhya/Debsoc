@@ -794,10 +794,10 @@ If the disappointment of participants builds up after every round, they may neve
 
 Also I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying they're sorry for disappointing me (It appears I wasn't successful in telling them enough that results don't matter to me)).
 
-We've had traditions like, "the tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament when they achieve it and when they don't.
+We've had traditions like, "The tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament both if they achieve it and if they don't.
 Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
 
-[^2]: These people sometimes didn't even received their brownies lmao
+[^2]: These people sometimes didn't even receive their brownies lmao
 
 ### Breaks
 
@@ -1369,11 +1369,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMzY3MT
-M2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcs
-LTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMT
-A3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0
-MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMT
-M3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYy
-NDYwXX0=
+c3RvcnkiOlstNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMD
+A1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMs
+MTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNz
+MzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUy
+OTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LD
+YyMTMzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0
+NTBdfQ==
 -->
