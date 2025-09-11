@@ -404,7 +404,7 @@ Don't be afraid to sprinkle in stuff like Harry Potter motions, PES related moti
 - Being informal and saying weird stuff makes people get more open and comfortable with each other.
 
 There isn't much 'risk'.
-- People don' straight up complain to the PES management about this. 
+- People won't care enough to straight up complain to the PES management about this. 
 - It can't possibly be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
@@ -1355,7 +1355,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDEzMDEzOTY4LC0xNzI2OTI1NTMzLDEyNTI4MT
+c3RvcnkiOlsxNTcyOTYyNzE1LC0xNzI2OTI1NTMzLDEyNTI4MT
 EyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIz
 LC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtND
 g1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0
