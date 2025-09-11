@@ -578,7 +578,7 @@ Anyway, this highlights a couple problems with adjing.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
- ![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
+ <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
 4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
 5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
 - There are a dozen freshers in their first tournament, it doesn't make sense to make all of them adj.
@@ -600,7 +600,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Characterization
 
-==**It's challenging but necessary to be careful with every word to not propagate a negative narrative of adjing.**==
+==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**==
 From the way my CUPD lore went down, it was clear that my bad impression of adjing just became worse. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
@@ -1369,11 +1369,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NT
-c5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2
-LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtND
-YzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5
-NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMz
-I3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2
-OTY5XX0=
+c3RvcnkiOlsxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMzY3MT
+M2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcs
+LTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMT
+A3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0
+MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMT
+M3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYy
+NDYwXX0=
 -->
