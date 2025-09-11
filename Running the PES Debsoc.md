@@ -413,6 +413,8 @@ There isn't much 'risk'.
 When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
 
+We used this to market the Debsoc during the club showcase at Aarohi too in 2024. We wrote the topics on chits and placed them in a bowl for freshers to pick and speak from.
+
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
@@ -1352,11 +1354,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3ND
-g5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwt
-ODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3Nz
-I1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAs
-LTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0Mz
-I0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwM119
-
+c3RvcnkiOlstMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNz
+c5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4
+LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMT
+MzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAs
+LTEzOTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3Mj
+E1NjM1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0Mzhd
+fQ==
 -->
