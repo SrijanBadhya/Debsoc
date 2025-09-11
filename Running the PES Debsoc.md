@@ -338,12 +338,13 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 [Back to Table of Contents](#table-of-contents)
 
-Feedback is often tricky once your brain has shut down after the debate. Often you'll just try to make up something from your own notes, or default to something generic.
+Feedback is often tricky once your brain has shut down after the debate. I learned the hard way that you may just try to make up something from your own notes, or default to something generic.
 
+![enter image description here](https://i.ibb.co/PG48xPjT/feedback.jpg)
 
 One thing I found useful was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Missing reasoning", I wrote it down in brackets. It helped me deliver the feedback quicker when I was asked for it.
 
-Ideally the judges who conduct sessions are ones who've read and understood the manual, so that 
+Ideally the judges who conduct sessions, are ones who've read and understood the manual, so that 
 - Their feedback is far more likely to be valid.
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech, still not sure though".
 - Wrong feedback can set debaters back quite a bit and it's hard for them to ever realize that this is wrong later. They are likely to approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about". 
@@ -1345,10 +1346,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODEzMDEwOTIxLC00ODU4MTQwOCwtODg5NDc2OT
-Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
-NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
-k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
-NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
-MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
+c3RvcnkiOls4MDkwMDQwNjQsLTQ4NTgxNDA4LC04ODk0NzY5Nj
+YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
+MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
+Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
+MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
+wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
 -->
