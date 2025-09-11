@@ -833,7 +833,7 @@ The most memorable online tournament for me has been SBS in early 2024. We all m
 
 PES wifi sometimes randomly blocks discord and randomly unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
 
-The major spots at PES with accessible wifi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
+The major spots at PES with accessible Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
 The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
@@ -1367,11 +1367,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI1MTA2MTE1OCwxNjMxMzY3MTM2LC0xMDQ4MD
-c1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4
-NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC
-00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3
-Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Ni
-wzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcx
-OTY5NjldfQ==
+c3RvcnkiOls2MDMwMDE5MDMsMTYzMTM2NzEzNiwtMTA0ODA3NT
+c5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2
+LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtND
+YzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5
+NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMz
+I3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2
+OTY5XX0=
 -->
