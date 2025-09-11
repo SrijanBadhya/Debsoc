@@ -1,8 +1,7 @@
 
-
-
-
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
+
+[Link to the Dropbox File where you can highlight potions of text and add comments for me to include later](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
 
 # This House Would...
 
@@ -389,7 +388,7 @@ You'll have to decide your own policy on speaker scores. I, for one,  believed s
 
 Once you know the skill levels of people, you can occasionally match up teammates to make the debate 'balanced'.
 - Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to stay motivated to come to sessions. Even if they feel like trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if the Debsoc isn't able to uplift those who work hard, then it's a skill issue of the Debsoc.)
-- I found that stealthily teaming them up with debaters I thought were good, kept the debates close and exciting too.
+- I found that stealthily teaming them up with debaters I found smart, kept the debates close and exciting too.
 - This also gave all debaters experience in working with different kinds of people.
 
 
@@ -1347,10 +1346,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODUxNTA3NzE0LC00ODU4MTQwOCwtODg5NDc2OT
-Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
-NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
-k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
-NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
-MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
+c3RvcnkiOlstMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Nj
+k2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Niwz
+MjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOT
+Y5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0x
+NzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwOD
+gzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTNdfQ==
+
 -->
