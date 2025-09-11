@@ -464,7 +464,7 @@ It means the world to people if you dm them and check up on them and how they fe
 ![enter image description here](https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg)
 
 ### Cross Mocks
-Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay mo for it. 
+Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
 1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but there are doubts about their consistency in activity.
 2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality (because only new judges are the ones willing to judge a random cross mock) and give you the, 'mind-blowing diverse genius new perspective ' feedback which you're looking for. (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc).
@@ -1354,7 +1354,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDMwOTkzMTM0LDE2MzEzNjcxMzYsLTEwNDgwNz
+c3RvcnkiOlsxOTEwNTcyNjEyLDE2MzEzNjcxMzYsLTEwNDgwNz
 U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
 NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
 Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
