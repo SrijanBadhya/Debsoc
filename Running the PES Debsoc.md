@@ -286,8 +286,8 @@ Multiple delays in each process add up and lead to juniors starting late and goi
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/003/105/514/a81.jpg)
 
 The obvious solutions to this are:
-1. Do whatever it takes to show up as early as possible or have someone there to get things going.
-2. Engage in conversation with the first person. It can be about what brought them to the debsoc, what interests they have (and you can even make a motion related to their interests and get them speaking on it until others arrive).
+1. To do whatever it takes to show up as early as possible or have someone else there to get things going.
+2. To engage in conversation with the first person. It can be about what brought them to the debsoc, what interests they have (and you can even make a motion related to their interests and get them speaking on it until others arrive).
 3. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
  + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody. (I learned this the hard way.)
 + Having extra prep time isn't much of a harm. At least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
@@ -1355,7 +1355,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ3MjUyNTY3OCwxMjUyODExMjQ3LC0xNTQ0NT
+c3RvcnkiOlstMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NT
 MzODQ2LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1
 NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04OD
 k0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1
