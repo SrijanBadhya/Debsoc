@@ -1152,11 +1152,14 @@ _I also credit Google Gemini for informing me when my sentences didn't have the 
 # Appendix I 
 ## Resources
 
+[Back to Table of Contents](#table-of-contents)
+
+
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
 
 
-(will fill this thing by Sep 12)
+(will fill the rest of resources by Sep 12)
 
 # Appendix II
 ## Motion List
@@ -1374,11 +1377,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNC
-wxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1NzkyLC01OTk2
-Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYzMTM2NzEzNi
-wtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0x
-NTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNz
-c0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4
+c3RvcnkiOls2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MT
+AsNTYzNDA0MzQsMTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2
+NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LD
+E2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1
+MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNz
+c5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4
 XX0=
 -->
