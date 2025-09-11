@@ -538,7 +538,7 @@ When there were 7 people,  we just worked around with what we had, even if there
 
 b) Choosing the optimal frequency of sessions. 
 Adaptive sessions are more robust to spontaneity and the PES schedule. Having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
-Three days a week is what we usually go for once recruitments have ended. More sessions are usually too much work for the senior without proportional returns, and having less votes on the polls sort of sends a message that the debsoc is dead.
+Three days a week is what we usually go for once recruitments have ended. More sessions are usually too much work for the senior without proportional returns, and having less votes on the polls sort of sends a message that the debsoc is a deadsoc. 
 I talk more about debate turnout as a whole in [Push to come to sessions](#push-to-come-to-sessions).
 
 
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NT
-A3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEw
-NDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0ND
-UzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5
-NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtOD
-g5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1
-NTY2XX0=
+c3RvcnkiOls4MjI0NzUzNzYsMTU5MDc5ODYyOCw2NTcxNjU3OT
+IsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMx
+MzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MT
+EyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIz
+LC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtND
+g1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0
+M119
 -->
