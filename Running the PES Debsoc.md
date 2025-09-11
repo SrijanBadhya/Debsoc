@@ -322,14 +322,14 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - Not everyone approaches you themselves to ask for personal feedback, so you need to find a way to have one on one interactions with everyone.
 - Make people feel valued, make people feel that they made a difference by being there. Because very often people do feel left out and feel like they don't belong.
 - Everyone belongs, so make sure they do feel that they belong.
-- The one-on-one interaction can be about anything. It doesn't have to be about feedback on their speech, just whatever they feel about everything.
+- The one-on-one interaction can be about anything. It doesn't have to be feedback on their speech, just whatever they feel about everything.
 - Having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
 
 
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
 **At that moment, it can be crucial to tell at least people, to cross over, shake hands, and chill.** 
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
-- When people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say.
+- After people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say, but too hesitant to break the silence.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
 - It's very important to give the initial push for them to cross over after the debate if they don't cross over themselves.
 
@@ -1344,7 +1344,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjA3ODUwMTAzLC00ODU4MTQwOCwtODg5NDc2OT
+c3RvcnkiOlsyMDk2NzEzNzM1LC00ODU4MTQwOCwtODg5NDc2OT
 Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
 NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
 k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
