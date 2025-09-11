@@ -569,10 +569,10 @@ Anyway, this highlights a couple problems with adjing.
 - The constant adj scarcity in tournaments where we beg OC to waive off adj slots, or beg juniors to adj.
 2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#the-adj-narrative).)
 3. Adjing tournaments can disappoint freshers due to a multitude of reasons like:
-- They have spent most of their time in the debsoc speaking, and aren't trained to do this.
+- They were speakers for most debate sessions and so they haven't been trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence
-- - speakers scroll their phones during their OA and don't take them seriously, 
-- - people go to ask the chair feedback instead of them, and 
+- - speakers scroll their phones during their OA and don't take them seriously.
+- - people go to ask the chair feedback instead of them.
 - - they feel they have no impact on the tournament because their vote doesn't matter. 
 - - They don't get any numerical result from the tournament either.
 - Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
@@ -1370,7 +1370,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjQ3NTYzODQ0LDE1OTA3OTg2MjgsNjU3MTY1Nz
+c3RvcnkiOlsxODcyNDI3NTY3LDE1OTA3OTg2MjgsNjU3MTY1Nz
 kyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYz
 MTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
 ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
