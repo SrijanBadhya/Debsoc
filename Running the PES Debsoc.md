@@ -610,8 +610,8 @@ The ideal scenario of tournaments is if people voluntarily adj and power through
 
 
 How do we make sure this trend continues?
-- Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a nice trend of debsoc seniors voluntarily judging, which makes it look desirable.
-- The target audience of people who will like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
+- Already having the trend is a good start. My seniors lacking adjes and avoiding judging themselves was what pushed the narrative that adjing was undesirable. Currently there is a nice trend of debsoc seniors voluntarily judging, which makes it look desirable.
+- The target audience of people who may like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
 - + I know someone who got into adjing because they were too afraid to speak.
 - + I know someone who judges when they're too exhausted to speak.
 - + I know people who end up judging all the time because they're late all the time.
@@ -1371,7 +1371,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDUyOTkxNjY3LDEyMDIxMzkyMzksMTU5MDc5OD
+c3RvcnkiOlstMjQ3NDkyNTU5LDEyMDIxMzkyMzksMTU5MDc5OD
 YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
 MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
 I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
