@@ -404,11 +404,11 @@ Don't be afraid to sprinkle in stuff like Harry Potter motions, PES related moti
 - Being informal and saying weird stuff makes people get more open and comfortable with each other.
 
 There isn't much 'risk'.
-- People won't care enough to straight up complain to the PES management about this. 
+- People won't care enough to straight up complain to the PES management about this.
 - It can't possibly be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through the debates so far, people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
-- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier.
+- Even if the motion ends up in the hands of PES management, they wouldn't care enough to give us serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier, but we're desensitized to them.
 
 #### Turncoat
 When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor, and Bharath's experience conducting PESDT.
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
-ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
-MywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLT
-Q4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4
-NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMT
-M5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2
-MzUzMV19
+c3RvcnkiOlstOTg2MDI3MjA3LC0xMDQ4MDc1Nzk0LC0xNzI2OT
+I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
+LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
+AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
+NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLT
+IyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUy
+MDA5XX0=
 -->
