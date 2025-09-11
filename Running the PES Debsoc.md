@@ -479,7 +479,8 @@ I think this is slightly exaggerated, because:
 - This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today".
 
 ---
-University specific cross mocks are great at improving inter soc ties. A lot of societies do have the incentive, are very interested to do cross mocks with PES, but often lack the capacity.
+
+University-specific cross mocks are great at improving inter soc ties. A lot of societies do have the interest to do cross mocks with PES yet often lack the capacity.
 I was the head of the NLS x PES cross mock initiative, and I saw that lot of issues of sessions were exacerbated in cross mocks.
 
 1. If you thought syncing schedules between B. Tech students and non B.Tech students was challenging, try syncing with A WHOLE OTHER UNIVERSITY.
@@ -1354,7 +1355,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjM5MjczODM3LDE2MzEzNjcxMzYsLTEwNDgwNz
+c3RvcnkiOlstODE5ODYwMTU1LDE2MzEzNjcxMzYsLTEwNDgwNz
 U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
 NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
 Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
