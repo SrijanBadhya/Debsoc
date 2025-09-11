@@ -376,11 +376,11 @@ This solves a few problems:
 You'll have to decide your own policy on speaker scores. I, for one,  believed speaker scores shouldn't be given in mock for a few reasons:
 
 - Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear. The manual also feels like it's up to interpretation. Judges may not know how relevant 'frequently relevant' really is.
-- At least with feedback you can give everyone feedback and criticize them all. With public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the eyes of an average fresher).
+- At least with feedback, you can give everyone feedback and criticize them all. With public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc., (at least in the eyes of an average fresher).
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
-- When they've already had a bad day, shit speaks can further mess them up. 
-- The argument against this is, "omg they won't know how speaker scores work in real tournaments then", but the harms outweigh the benefits. It's not really important to know how speakers scores work at tournaments unless you're a judge.
-- Another argument is that people can track their progress, but speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
+- When they've already had a bad day, shitty speaks can further mess them up. 
+- The argument against this is, "Omg they won't know how speaker scores work in real tournaments then," but to me, the harms outweigh the benefits. It's not really important to know how speakers scores work at tournaments unless you're a judge.
+- Another argument is that people can track their progress. t speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
 
 
 ## Balancing
@@ -1347,7 +1347,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzE4MzkzMjk2LC00ODU4MTQwOCwtODg5NDc2OT
+c3RvcnkiOlsxNDM0NjMxMTc5LC00ODU4MTQwOCwtODg5NDc2OT
 Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
 NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
 k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
