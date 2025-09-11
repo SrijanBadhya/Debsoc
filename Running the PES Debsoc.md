@@ -362,11 +362,11 @@ But I think **consciously trying to tell people what they got right** as well is
 ![image](https://i.ibb.co/27VvCzRf/feedback-reaction.png)
 
 - They're already getting humbled by other factors. We don't want them to get humbled to the point where they quit.
-- "You got so far doing this right, you just need to tweak the last bit of delivery" is quite motivational for someone to hear. This balances happiness and motivation to grow.
+- "You got so far doing this right, you just need to tweak the last bit of delivery," is quite motivational for someone to hear. This balances happiness and motivation to grow.
 
-(I personally didn't follow this as well as I should have, and consciously gave positive advice only a small portion of the time. I should have done it more, I was just too much in the zone of 'constructive criticism'.)
+(I personally didn't follow this as well as I should have. Only a small portion of the time did I consciously give positive advice. I should have done it more, I was just too deep in the zone of 'constructive criticism'.)
 
-A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?", and once they answer, say, "This is good reasoning which should have come out in your speech". 
+A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?" and once they answer, say, "This is good reasoning which should have come out in your speech". 
 This solves 2 problems. 
 1. If you gave regular feedback, it might feel wrong to them (like they disagree with you, but they won't push you more on it)
 2. Your feedback won't feel obvious to them like, "speak your sentence clearer".
@@ -1348,11 +1348,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE2NDQ0NDgxNywtNDg1ODE0MDgsLTg4OTQ3Nj
-k2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Niwz
-MjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOT
-Y5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0x
-NzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwOD
-gzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTNdfQ==
-
+c3RvcnkiOlsxMzI0NDU3MjY3LC00ODU4MTQwOCwtODg5NDc2OT
+Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
+NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
+NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
 -->
