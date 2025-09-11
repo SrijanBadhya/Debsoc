@@ -289,9 +289,9 @@ The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
 2. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
  + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody.
-+ Having extra prep time isn't much of a harm, since at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
-+ You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
- + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
++ Having extra prep time isn't much of a harm. At least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
++ You can inform the juniors that they will be ironing, and if others show up later, you can replace the iron slots.
+ + People who come early deserve to get the extra prep time. Maybe this will incentivize latecomers to also put extra effort.
  
  ![enter image description here](https://i.ibb.co/vxmXxr6y/Screenshot-2025-09-06-164214.png)
  (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and cut the idle time of the 3 people who have already shown up). 
@@ -1344,7 +1344,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDk0NjQyMDgsLTQ4NTgxNDA4LC04ODk0NzY5Nj
+c3RvcnkiOls2NzcyOTY0NTQsLTQ4NTgxNDA4LC04ODk0NzY5Nj
 YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
 MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
 Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
