@@ -400,11 +400,11 @@ Once you know the skill levels of people, you can occasionally match up teammate
 
 Debate can get boring fast until you've stayed long enough to acquire the taste. 
 Don't be afraid to sprinkle in stuff like Harry Potter motions, PES related motions (carefully), the sugar daddy motion (Motion 39 over [here](#motion-list)).
-- This leads to more fun, laughter, and people feeling that the soc is a place they can have a great time in.
+- This leads to more fun, laughter, and people finding the soc to be a place they can have a great time in.
 - Being informal and saying weird stuff makes people get more open and comfortable with each other.
 
 There isn't much 'risk'.
-- People won't straight up complain to the PES management about this. 
+- People don' straight up complain to the PES management about this. 
 - It can't possibly be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through many debates people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NT
-MzODQ2LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1
-NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04OD
-k0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1
-NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtOD
-U3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3
-NV19
+c3RvcnkiOlsxMDEzMDEzOTY4LC0xNzI2OTI1NTMzLDEyNTI4MT
+EyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIz
+LC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtND
+g1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0
+MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMz
+kwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYz
+NTMxXX0=
 -->
