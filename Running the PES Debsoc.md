@@ -440,10 +440,10 @@ In early 2024, my batch of clubheads started online game nights. Popular games a
 If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played. It also makes it easier to get on Voice Chat alongside this, which adds to the fun.
 
 ### Online Sessions
-At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years about how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities by clubs.
+At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities from clubs.
 
 While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
-- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA).
+- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA). This cannot be just a, 'c
 - Without being able to see each other, conversation quickly turns awkward.
 - People talk over each other each other making everything more awkward.
 - It's easy to become depressed post your debate because you're all alone (happens to me often).
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
-I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
-LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
-AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
-NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLT
-IyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUy
-MDA5XX0=
+c3RvcnkiOlsxOTA5NjY1MDI1LDE2MzEzNjcxMzYsLTEwNDgwNz
+U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
+NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
+Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
+OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LD
+MyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5
+Njk2OV19
 -->
