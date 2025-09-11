@@ -534,10 +534,10 @@ When we had 8 people pull up to a session before we taught them BPs, I made one 
 b) Choosing the optimal frequency of sessions. 
 Adaptive sessions are more robust to spontaneity and the PES schedule, but having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
 Three days a week is what we usually go for once recruitments have ended. More sessions are usually too much work for the senior without proportional returns, and having less votes on the polls sort of sends a message that the debsoc is dead.
-I talk more about debates as a whole in [Push to come to sessions](#push-to-come-to-sessions).
+I talk more about debate turnout as a whole in [Push to come to sessions](#push-to-come-to-sessions).
 
 
-c) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer so I made it a chapter of its own.
+c) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer and became a chapter of its own.
 
 # Adj Rant
 [Back to Table of Contents](#table-of-contents)
@@ -1363,7 +1363,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTUzMTI5ODcwLDE2MzEzNjcxMzYsLTEwNDgwNz
+c3RvcnkiOlstMzgzNjkzODE1LDE2MzEzNjcxMzYsLTEwNDgwNz
 U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
 NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
 Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
