@@ -1130,10 +1130,13 @@ And you, dear reader, for having the care to even open this link.
 
 _I also credit Google Gemini for informing me when my sentences didn't have the tone I intended, and also for giving me appropriate replacements for words and phrases when I asked for them._
 
-# Appendix I
+# Appendix I 
+## Resources
 
 
+(will fill this thing by Sep 12)
 
+# Appendix II
 ## Motion List
 
 [Back to Table of Contents](#table-of-contents)
@@ -1349,11 +1352,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNz
-AzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYs
-LTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MT
-U1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5
-LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MD
-EyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4M119
+c3RvcnkiOlsyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3ND
+g5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwt
+ODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3Nz
+I1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAs
+LTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0Mz
+I0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwM119
 
 -->
