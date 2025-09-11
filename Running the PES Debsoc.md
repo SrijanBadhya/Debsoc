@@ -472,9 +472,9 @@ Here are some of my thoughts about the challenges, pros and cons of them.
 I think this is slightly exaggerated, because:
 - As long as people have access to the WUDC BP manual, you'll be mostly accurate enough. 
 - Even if you debate the same people over and over, it's rare for this to be the cause of improvement plateauing. There's so much you can improve even with the same people, like how well you characterize, mechanize, analyze, impact. Other people's debating _styles_ have less impact on your own skill improvement imo.
-- By the time you reach anything close to a plateau of debating the same people, new juniors will have appeared.
-- Even if you're clueless and just debate over and over, there is still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
-4. Tournaments _do_ provide a lot of the benefits which crossmocks try to provide but fail to.
+- Before you reach anything close to a plateau of debating the same people, new juniors will have appeared.
+- Even if you're clueless and just debate over and over, there are still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
+4. Tournaments _do_ provide a lot of the benefits which cross mocks try to provide but fail to.
 5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so adjing a high quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
 - This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than, "a spar at 9pm today".
 
@@ -1354,7 +1354,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjI2MTUxNTgxLDE2MzEzNjcxMzYsLTEwNDgwNz
+c3RvcnkiOlstNTU3NjE2NzQzLDE2MzEzNjcxMzYsLTEwNDgwNz
 U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
 NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
 Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
