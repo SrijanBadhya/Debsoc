@@ -280,8 +280,8 @@ From the feedback forms and personal experience, the single biggest deterrent of
 Having to **sit idle** before a debate starts significantly impacts the quality of experience of the session for a junior. The delay stretches in their head and this contributes to the belief of debate being a waste of time. 
 Multiple delays in each process add up and lead to juniors starting late and going home even later.
 - Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp, "Any senior here?" It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
-- Making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person, even if they consent when asked, "Are you okay waiting a bit for 5 people?"
-- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to not give juniors motions which they didn't understand. 
+- Even if they had consented when asked, "Are you okay waiting a bit for 5 people?", making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person.
+- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to give juniors motions which they could understand. 
 
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/003/105/514/a81.jpg)
 
@@ -1344,10 +1344,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDQ5MTc2OTksLTQ4NTgxNDA4LC04ODk0NzY5Nj
-YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
-MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
-Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
-MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
-wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
+c3RvcnkiOlsxOTQxNTE3NzA3LC00ODU4MTQwOCwtODg5NDc2OT
+Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
+NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
+NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
 -->
