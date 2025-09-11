@@ -635,6 +635,7 @@ Samuel, my senior, once said this to encourage judging,
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
 The way he carefully did it was by approaching it as, "the only reason you speak more than you judge is because you haven't tried it out", and that's why they needed encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
+_If you try to replicate this text, some nuances might be missed, leading to a flop._
 
 **I think it's vital to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits. Someone new to debate would also never know that judges compete as well, so they're usually ignorant of this fact until their first tournament. This information shows that judging is a challenge worth pursuing, and makes people care about becoming better judges.** (If new debaters don't know that judges compete, then why would they want to register as an adj at a tournament.)
 
@@ -643,8 +644,6 @@ However, a few issues from Sam's text are
 - The judge prize money isn't that accurately portrayed, and that feels like a speculative impact to a lot of people.
 - Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging.
 
-
-Luckily this isn't a real problem with Samuel's context of, "making people aware of something they've never tried out", but while trying to convince people to judge, you replicate this text, some nuances may be missed and it might not work out.
 
 
 ### Common Pitfalls
@@ -1374,7 +1373,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNDczMzE1NjQsMTIwMjEzOTIzOSwxNTkwNzk4Nj
+c3RvcnkiOlsxMDg4MzEwNTksMTIwMjEzOTIzOSwxNTkwNzk4Nj
 I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
 NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
 U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
