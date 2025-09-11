@@ -575,8 +575,8 @@ Anyway, this highlights a couple problems with adjing.
 - - people go to ask the chair feedback instead of them, and
 - - they feel they have no presence in the tournament because their vote doesn't matter. 
 -  They don't get any numerical result from the tournament either.
-- Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
-- There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
+- Same things for BP except that they do the gruelling work of tracking 4 teams, only have 60 seconds to make a case, and they don't get the thrill of standing and giving a speech either.
+- There's so much fun in debate with a teammate, and as an adj you feel lonely. There will never be people from PES in your room.
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
  - Adjing is boring and challenging with no real payoff.
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
@@ -1370,7 +1370,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM4MDUzMjAzMCwxNTkwNzk4NjI4LDY1NzE2NT
+c3RvcnkiOlstMTc5MTgxNjUyMSwxNTkwNzk4NjI4LDY1NzE2NT
 c5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2
 MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1Mj
 gxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5
