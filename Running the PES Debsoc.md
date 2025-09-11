@@ -475,8 +475,8 @@ I think this is slightly exaggerated, because:
 - Before you reach anything close to a plateau of debating the same people, new juniors will have appeared.
 - Even if you're clueless and just debate over and over, there are still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
 4. Tournaments _do_ provide a lot of the benefits which cross mocks try to provide but fail to.
-5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so adjing a high quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
-- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than, "a spar at 9pm today".
+5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so judging a high-quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
+- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today".
 
 ---
 University specific cross mocks are great at improving inter soc ties. A lot of societies do have the incentive, are very interested to do cross mocks with PES, but often lack the capacity.
@@ -1354,7 +1354,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTU3NjE2NzQzLDE2MzEzNjcxMzYsLTEwNDgwNz
+c3RvcnkiOlstNjM5MjczODM3LDE2MzEzNjcxMzYsLTEwNDgwNz
 U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
 NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
 Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
