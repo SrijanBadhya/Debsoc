@@ -606,11 +606,11 @@ From the way my CUPD lore went down, it's clear that my initial bad impression o
 
 
 The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing the next session.)
-The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
+The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still slightly hold the belief today that this happened due to random chance.
 
 
 How do we make sure this trend continues?
-- Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a trend of debsoc seniors voluntarily judging, which is nice and makes it look desirable.
+- Already having the trend is a good start. My seniors lacking adjes, and avoiding adjing themselves pushed the narrative that adjing was undesirable for me. Currently there is a nice trend of debsoc seniors voluntarily judging, which makes it look desirable.
 - The target audience of people who will like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
 - + I know someone who got into adjing because they were too afraid to speak.
 - + I know someone who judges when they're too exhausted to speak.
@@ -1371,7 +1371,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzA3MjExODgzLDEyMDIxMzkyMzksMTU5MDc5OD
+c3RvcnkiOlsxMDUyOTkxNjY3LDEyMDIxMzkyMzksMTU5MDc5OD
 YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
 MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
 I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
