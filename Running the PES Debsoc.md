@@ -558,15 +558,15 @@ The 4 of us continued to remain silent about which 3 would form a team and who w
 
 In an attempt to reach a decision, I texted, "Who wants to adj?" and nobody responded. Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel. I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming right). 
 
-I had never been told that judges competed too, so I felt like I was just a bus driver for the real performers who were debaters. Being a forced adj for CUPD didn't get me to like adjing either.
+I had never been told that judges competed too, so I just felt like a bus driver for the real performers who were debaters. Being a forced adj for CUPD didn't get me to like adjing either.
 For those who know me, things changed eventually, and I ended up adjing 3x more debates than I've spoken in.
 Anyway, this highlights a couple problems with adjing.
 
 ### Adjing Obstacles
 
-1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from
+1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from:
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
-- The constant adj scarcity in tournaments and begging to OC to waive off adj slots, or begging to juniors to adj.
+- The constant adj scarcity in tournaments where we beg OC to waive off adj slots, or begging to juniors to adj.
 2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with carrying the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#the-adj-narrative)).
 3. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
 - They spent most of their time in the debsoc speaking, and aren't trained to do this.
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI5MzA3MTE0NywxNTkwNzk4NjI4LDY1NzE2NT
-c5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2
-MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1Mj
-gxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5
-MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC
-00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMz
-ODQzXX0=
+c3RvcnkiOlstNjE0NTA1MDEsMTU5MDc5ODYyOCw2NTcxNjU3OT
+IsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMx
+MzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MT
+EyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIz
+LC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtND
+g1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0
+M119
 -->
