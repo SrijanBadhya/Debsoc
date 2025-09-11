@@ -113,6 +113,10 @@ VII. [Debate Culture Round the Year](#debate-culture-round-the-year)
 
 Appendix (i) [Easy Accessible Motion List](#motion-list)
 
+
+
+If something isn't here, it's probably because I don't know enough about it to talk about it. This isn't a debate tournament where I'm forced to yap about it anyway 😂
+
 ---
 
 # Guiding Principles
@@ -1363,11 +1367,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzgzNjkzODE1LDE2MzEzNjcxMzYsLTEwNDgwNz
-U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
-NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
-Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
-OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LD
-MyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5
-Njk2OV19
+c3RvcnkiOlstMTI1MTA2MTE1OCwxNjMxMzY3MTM2LC0xMDQ4MD
+c1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4
+NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC
+00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3
+Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Ni
+wzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcx
+OTY5NjldfQ==
 -->
