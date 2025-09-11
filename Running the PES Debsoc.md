@@ -522,13 +522,13 @@ We've had seniors take up voluntary adjing slots using an excel sheet before, bu
 I don't know if this is due to the bystander effect caused by there always being someone already conducting the session. 
 But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, which can tire them out. Taking over their judging shifts and letting them speak gives them a chance to refresh.
-- My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Matter sessions aren't enough without actively working on the same case together. Pro-ams help juniors understand what the right debate habits are. 
+- My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Pro-ams help juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
 ![enter image description here](https://i.ibb.co/CsvVJk5s/Screenshot-2025-09-06-170630.png)
 - Having too many seniors is always better than having too few seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
 
 
-Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions.
+Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions on the differend.
 
 When more than a room full of juniors pull up, there are a few ways to adjust it.
 You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
@@ -1369,7 +1369,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTY3NTg2Nzc0LDY1NzE2NTc5MiwtNTk5NjY4NT
+c3RvcnkiOlstNDIyNzcwMDk2LDY1NzE2NTc5MiwtNTk5NjY4NT
 A3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEw
 NDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0ND
 UzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5
