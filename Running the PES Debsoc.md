@@ -269,7 +269,6 @@ If you're reading this, you must have already faced the grueling learning curve 
 
 ![enter image description here](https://i.ibb.co/KpR26wDX/Whats-App-Image-2025-09-10-at-15-57-03.jpg)
 
-Once they've spent a few months debating
 
 ## Time
 [Back to Table of Contents](#table-of-contents)
@@ -1348,11 +1347,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTcyODgzMjcyLC0yMTA3NzQ4OTU1LC00NjM3MD
-MzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2Niwt
-MTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNT
-U4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5Njks
-MzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUwMT
-IyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzXX0=
+c3RvcnkiOlstMjEwNzc0ODk1NSwtMjEwNzc0ODk1NSwtNDYzNz
+AzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYs
+LTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MT
+U1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5
+LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MD
+EyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4M119
 
 -->
