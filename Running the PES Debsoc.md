@@ -577,7 +577,7 @@ Anyway, this highlights a couple problems with adjing.
 -  They don't get any numerical result from the tournament either.
 - Same things for BP except that they do the gruelling work of tracking 4 teams, only have 60 seconds to make a case, and they don't get the thrill of standing and giving a speech either.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. There will never be people from PES in your room.
- - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
+ - There's no real opportunity to talk to anyone either. You have your lunch alone du At least speaking teams get to chill with each other when judges are preparing their OA.
  - Adjing is boring and challenging with no real payoff.
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
 4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc5MTgxNjUyMSwxNTkwNzk4NjI4LDY1NzE2NT
-c5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2
-MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1Mj
-gxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5
-MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC
-00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMz
-ODQzXX0=
+c3RvcnkiOlsxNzY1NjkxNjg5LDE1OTA3OTg2MjgsNjU3MTY1Nz
+kyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYz
+MTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
+ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
+MywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLT
+Q4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4
+NDNdfQ==
 -->
