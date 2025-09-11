@@ -700,6 +700,8 @@ Aaaaaand the money.
 By freeloaders I mean people who don't participate in the debsoc much, yet want to join reimbursements.
 For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
 
+![enter image description here](https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg)
+
 
 When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely. Sometimes they reject tournaments if you've gone to other tournaments recently.
@@ -896,7 +898,6 @@ By the way, there are a few possible answers to this question actually
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
-![enter image description here](https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg)
 
 It's hard to really solve these problems, the best you can do is things like Cubbon Park sessions, and also keep the value of sessions high.
 
@@ -1373,11 +1374,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2Mj
-gsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2
-ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNT
-UzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwt
-MjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMj
-AwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUy
-ODldfQ==
+c3RvcnkiOls3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMjEzOTIzOS
+wxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMy
+OTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OT
+QsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0Niwy
+NjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2Mz
+cwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2
+XX0=
 -->
