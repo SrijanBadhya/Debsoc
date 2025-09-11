@@ -369,14 +369,13 @@ But I think **consciously trying to tell people what they got right** as well is
 A great way to give feedback to debaters, is to **ask them questions about their case** like, "Why do you think this is true?" and once they answer, say, "This is good reasoning which should have come out in your speech."
 This solves a few problems:
 1. If you give regular feedback, it might feel wrong to them (like they disagree with you, but they won't push you more on it).
-2. Your feedback could have f
-3. More importantly, it makes them feel good about themselves since it came out of their own mouth, and makes them realize it isn't an inherent IQ issue but actually a presentation issue.
-
+2. Your feedback could have felt obvious to them otherwise, especially if it was something like, "Your speech was chaotic, I need you to be clearer."
+3. More importantly, it makes them feel good about themselves since it came out of their own mouth. This makes them realize it isn't an inherent IQ issue but actually a presentation issue.
 
 ---
 You'll have to decide your own policy on speaker scores. I, for one,  believed speaker scores shouldn't be given in mock for a few reasons:
 
-- Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear and judges may not know, "how relevant is 'frequently relevant',".
+- Speaker scores are such a scam, different judges give different speaker scores, and brackets are also unclear and judges may not know, "how relevant is 'frequently relevant'."
 - At least with feedback you can give everyone feedback and criticize them all. With public speaker scores, there's an 'objective' hierarchy of who is the worst debater in the room, the second worst etc. (at least in the eyes of an average fresher).
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
 - When they've already had a bad day, shit speaks can further mess them up. 
@@ -1348,10 +1347,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MjU4ODgyMTUsLTQ4NTgxNDA4LC04ODk0NzY5Nj
-YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
-MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
-Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
-MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
-wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
+c3RvcnkiOlsxMDc2MjkwNSwtNDg1ODE0MDgsLTg4OTQ3Njk2Ni
+wtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcx
+NTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOTY5Nj
+ksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0xNzUw
+MTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwODgzLD
+E1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTNdfQ==
 -->
