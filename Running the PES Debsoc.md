@@ -566,10 +566,10 @@ Anyway, this highlights a couple problems with adjing.
 
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from:
 - The constant requests on mixidea and 4crossmock where speaker slots have been filled up fast but nobody wants to voluntarily adj.
-- The constant adj scarcity in tournaments where we beg OC to waive off adj slots, or begging to juniors to adj.
-2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with carrying the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#the-adj-narrative)).
-3. Adjing tournaments can disappoint freshers due to a multitude of reasons like 
-- They spent most of their time in the debsoc speaking, and aren't trained to do this.
+- The constant adj scarcity in tournaments where we beg OC to waive off adj slots, or beg juniors to adj.
+2. If someone's adjing out of obligation, it's hard to set up a system of rotating adjes to be 'fair' with the burden of adjing. (As you can guess, this also negatively warps the [narrative of adjing](#the-adj-narrative).)
+3. Adjing tournaments can disappoint freshers due to a multitude of reasons like:
+- They have spent most of their time in the debsoc speaking, and aren't trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence
 - - speakers scroll their phones during their OA and don't take them seriously, 
 - - people go to ask the chair feedback instead of them, and 
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjE0NTA1MDEsMTU5MDc5ODYyOCw2NTcxNjU3OT
-IsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMx
-MzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MT
-EyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIz
-LC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtND
-g1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0
-M119
+c3RvcnkiOlstNjQ3NTYzODQ0LDE1OTA3OTg2MjgsNjU3MTY1Nz
+kyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYz
+MTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
+ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
+MywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLT
+Q4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4
+NDNdfQ==
 -->
