@@ -463,14 +463,14 @@ Even if they don't practice body language and the feeling of speaking to a physi
 ![enter image description here](https://i.ibb.co/Xf8fW4Sg/Screenshot-2025-09-06-164711.png)
 
 The closest I've ever been to quitting debate, was after an online debate. I gave a shit speech, left the call entirely, flopped onto my bed, and stared at the ceiling. 
-It means the world to people if you dm them and check up on them and how they feel about the session (easier if you weren't involved in the session).
+It means the world to people if you dm them and check up on them and how they feel about the session (even if you weren't involved in the session).
 
 ![enter image description here](https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg)
 
 ### Cross Mocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
-1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but there are doubts about their consistency in activity.
+1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but their activity isn't as consistent.
 2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality and give you the, 'mind-blowing diverse genius new perspective' feedback which you're looking for (because only new judges are the ones willing to judge a random cross mock). (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc.)
 3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool. Everyone is isolated and could be veering off what real debate is, and there's no one to correct them.
 I think this is slightly exaggerated, because:
@@ -1369,11 +1369,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMD
-A1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMs
-MTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNz
-MzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUy
-OTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LD
-YyMTMzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0
-NTBdfQ==
+c3RvcnkiOlsyOTczNjY1MzYsLTU5OTY2ODUwNywxOTQzMjkzOT
+UyLDU0MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0x
+NzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2Mz
+cxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMz
+OCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMT
+c1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2NiwzMjcxNTU4
+NjVdfQ==
 -->
