@@ -634,7 +634,8 @@ Samuel, my senior, once said this to encourage judging,
 5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
-The way he carefully did it was by approaching it a people didn't judge because they hadn't even tried it out, and he was encouraging them to try it out, which was a smart move.
+The way he carefully did it was by approaching it as, "the only reason you speak more than you judge is because you haven't tried it out", and that's why they needed encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
+
 **I think it's very important to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits. Someone new to debate would also never know that judges compete as well, so they're usually ignorant of this fact until their first tournament. This information makes people care about becoming better judges, and shows that judging is a challenge worth pursuing.** (if new debaters don't know that judges compete, then why would they want to register as an adj at a tournament.)
 
 However, a few issues from Sam's text are
@@ -1371,11 +1372,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzcxMjM2OTk4LDEyMDIxMzkyMzksMTU5MDc5OD
-YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
-MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
-I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
-LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
-AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
-NTI4OV19
+c3RvcnkiOlstMTEyODQ1Mjk2OSwxMjAyMTM5MjM5LDE1OTA3OT
+g2MjgsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1
+NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNj
+kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
+OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
+IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
+NDUyODldfQ==
 -->
