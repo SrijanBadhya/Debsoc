@@ -683,8 +683,8 @@ For quite a few years, the debsoc has tried to prevent freeloaders, but sometime
 
 
 When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
-Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely (ghost the mail). Sometimes they reject tournaments if you've gone to other tournaments recently.
-I don't have experience communicating between students and the management, so I can't really tell how to work with the management.
+Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely. Sometimes they reject tournaments if you've gone to other tournaments recently.
+I don't have experience communicating between students and the management, so I can't really tell how to work with the management (but Stuthi has, and you'l.
 
 Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
 
@@ -716,7 +716,11 @@ It's absolutely necessary to collect money from everybody _**before**_ paying th
 
 [Back to Table of Contents](#table-of-contents)
 
-So, when they wanna reject reimbursement, there's 2 ways: 1 is they ghost as you say (which is pretty rare) and 2 the vc directly says no and vk sir informs us. So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that) so yeah I'd say write it in a different way
+So, when they wanna reject reimbursement, there's 2 ways: 
+1 is they ghost as you say (which is pretty rare) and 
+2 the vc directly says no and vk sir informs us. 
+
+So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that)
 
 If you don't get a reply on the mail, it's because the mail got lost in vk sirs inbox, so if you send a reminder or go talk to him personally, it'll be okay
 
@@ -1329,11 +1333,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNT
-U2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04
-NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyND
-c1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIy
-MzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNT
-MsLTEwNDQxNjA2NTIsLTY4NTg5NjM2NywtMTAzODY2NzU3Ml19
+c3RvcnkiOls0NDU3MDc4OTAsLTE3NTMyNDUyODksNjIxMzM4ND
+MsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5
+MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2Mz
+UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
+MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
+wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjddfQ==
 
 -->
