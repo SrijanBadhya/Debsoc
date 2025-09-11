@@ -580,11 +580,11 @@ Anyway, this highlights a couple problems with adjing.
  - There's no real opportunity to talk to anyone either. You have your lunch alone during case prep time for the speakers. At least speaking teams get to chill with each other when judges are preparing their OA.
  - Adjing is boring and challenging with no thrilling payoff every round.(If you're a panelist one round and get panelist next round, you have no idea whether you judged well or not. At least speakers get their results instantly.)
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
-4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes. It looked like my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots which we opened up for them.
-5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
+4. You usually can't go to a tournament as 6 speakers and no adj. So if one person is a designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
+5. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes. It looked like my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots which we opened up for them.
+6. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
 - A dozen freshers sign up for the first tournament available. It doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. Even if the grueling work of adjing 'builds character', they may not want to do a tournament ever again.
-6. You usually can't go to a tournament as 6 speakers and no adj. So even if one person is a usual designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? 
 
 _One initial solution I had thought of a year ago, was to make people adj once every three or four tournaments._
 - _This number was chosen because contingents usually can afford twice or thrice the number of speakers than adjes, and mathematically the ratios match when people switch roles across tournaments._
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3Nzc0NDU2ODIsMTIwMjEzOTIzOSwxNTkwNzk4Nj
-I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
-NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
-U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
-LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
-IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
-Mjg5XX0=
+c3RvcnkiOlstNTY2MzEzMzYyLDEyMDIxMzkyMzksMTU5MDc5OD
+YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
+MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
+I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
+LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
+AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
+NTI4OV19
 -->
