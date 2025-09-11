@@ -1,7 +1,7 @@
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
 
-[Link to the Dropbox File where you can highlight potions of text and add comments for me to include later](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
+[Link to the Dropbox File where you can highlight portions of text and add comments for me to include later](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
 
 # This House Would...
 
@@ -1346,11 +1346,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Nj
-k2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Niwz
-MjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcxOT
-Y5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1LC0x
-NzUwMTIyMTIsMzEwOTUzNDM4LC03MzQxOTg4MDMsMTIyMzAwOD
-gzLDE1MjQwNTA1NjksMTYwNjYwNjEzLDExNTkwOTkyNTNdfQ==
-
+c3RvcnkiOlstNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxND
+A4LC04ODk0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEz
+Nzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2Mj
+Q2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwy
+MDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4OD
+AzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxM119
 -->
