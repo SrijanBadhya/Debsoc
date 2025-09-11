@@ -1326,7 +1326,9 @@ I would like to express my deepest gratitude to
 
 Stuthi, an ex-club head, who proofread this book and gave me the very contributions I was missing, 
 
-Nikhil, who had the vision behind many of these systems, 
+Nikhil, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt about many topics, and supported me throughout my journey of debate and writing this, 
+
+Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and gave me the 
 
 
 
@@ -1339,11 +1341,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUzODQxNTY0MiwtMTc1MzI0NTI4OSw2MjEzMz
-g0MywtMTM3NzcyNTU2NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0x
-MzkwNzYyNDYwLC04NTcxOTY5NjksMzcxODUyMDA5LC0xNzIxNT
-YzNTMxLDIwNDMyNDc1LC0xNzUwMTIyMTIsMzEwOTUzNDM4LC03
-MzQxOTg4MDMsMTIyMzAwODgzLDE1MjQwNTA1NjksMTYwNjYwNj
-EzLDExNTkwOTkyNTMsLTEwNDQxNjA2NTIsLTY4NTg5NjM2N119
+c3RvcnkiOlsxNzE4NjU4MTE3LC0xNzUzMjQ1Mjg5LDYyMTMzOD
+QzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEz
+OTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1Nj
+M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
+NDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
+MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3XX0=
 
 -->
