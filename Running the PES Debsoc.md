@@ -616,7 +616,7 @@ How do we make sure this trend continues?
 - + I know someone who judges when they're too exhausted to speak.
 - + I know people who end up judging all the time because they're late all the time.
 - + I know people who equally feel like judging/speaking, and because they're the only one among 7 people who feel that way, they're made a judge.
-- + People may feel to pressured to give a speech, and are too used to having no case due to no knowledge of the world, and judging seems more comfortable because you're given the content. (A major reason I prefer judging.)
+- + People may feel too p and are too used to having no case due to no knowledge of the world/ Judging seems more comfortable to them because judges are _given_ the content to speak on. (A major reason I prefer judging.)
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
 - + **The interesting thing about the narrative of freshers early on before they judge, is that judging looks like a position of authority.** Freshers believe that you need to be highly qualified to be a judge, and that being a judge is a sign of you being great (They're unaware that anyone can judge in a tournament). 
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone 'adjing is nice, do try it out', it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) 
@@ -1371,11 +1371,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjQ3NDkyNTU5LDEyMDIxMzkyMzksMTU5MDc5OD
-YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
-MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
-I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
-LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
-AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
-NTI4OV19
+c3RvcnkiOls0MTc4MzAwNzYsMTIwMjEzOTIzOSwxNTkwNzk4Nj
+I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
+NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
+U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
+LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
+IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
+Mjg5XX0=
 -->
