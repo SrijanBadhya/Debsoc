@@ -641,8 +641,8 @@ _If you try to replicate this text, some nuances might be missed, leading to a f
 
 However, a few issues from Sam's text are
 - "easier to break" isn't necessarily true, and I'm unsure about the messaging that people should try it because it's easy.
-- The judge prize money isn't that accurately portrayed (only the big tournaments are talked about and not the average ones), and winni feels like a speculative impact to a lot of people.
-- Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging.
+- The judge prize money isn't that accurately portrayed (only the big tournaments are talked about and not the average ones), and winning a prize feels like a speculative impact to a lot of people.
+- Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging. (Okay, NLS has gotten way stricter recently, and the only reason I got that 5k judging gig is because Samuel, the original invitee, dipped out at the last minute.)
 
 
 
@@ -1373,11 +1373,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODY3NDc5MzAsMTIwMjEzOTIzOSwxNTkwNzk4Nj
-I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
-NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
-U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
-LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
-IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
-Mjg5XX0=
+c3RvcnkiOls1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2Mj
+gsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2
+ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNT
+UzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwt
+MjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMj
+AwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUy
+ODldfQ==
 -->
