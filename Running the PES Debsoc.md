@@ -1123,7 +1123,8 @@ Samuel, another ex-club head, my mentor, the senior who I always looked up to, t
 
 And you, dear reader, for having the care to even open this link.
 
-_I also credit Gemini
+_I also credit Google Gemini for informing me when my sentences didn't have the tone I intended, and also for giving me appropriate replacements for words and phrases when I asked for them._
+
 # Appendix I
 
 
@@ -1343,11 +1344,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE0MDY0MDA2NiwtODg5NDc2OTY2LC0xNzUzMj
-Q1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwt
-MjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NT
-IwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwz
-MTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MD
-U2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0NDE2MDY1Ml19
+c3RvcnkiOlstNjg1MzQyODE1LC04ODk0NzY5NjYsLTE3NTMyND
+UyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0y
+MjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1Mj
+AwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMx
+MDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
+Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyXX0=
 
 -->
