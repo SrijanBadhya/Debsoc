@@ -281,15 +281,15 @@ Having to **sit idle** before a debate starts significantly impacts the quality 
 Multiple delays in each process add up and lead to juniors starting late and going home even later.
 - Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp, "Any senior here?" It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - Even if they had consented when asked, "Are you okay waiting a bit for 5 people?", making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person.
-- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to give juniors motions which they could understand. 
+- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to give juniors motions which they could understand (which is a good thing btw). 
 
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/003/105/514/a81.jpg)
 
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
-2. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because**
+2. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
  + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody.
-+ Having extra prep time isn't much of a harm, at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
++ Having extra prep time isn't much of a harm, since at least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and can replace iron slots with other people if they show up.
  + People who come early deserve to get the extra prep time, maybe this will incentivize latecomers to also put extra effort.
  
@@ -1344,10 +1344,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQxNTE3NzA3LC00ODU4MTQwOCwtODg5NDc2OT
-Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
-NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
-k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
-NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
-MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
+c3RvcnkiOls0NDk0NjQyMDgsLTQ4NTgxNDA4LC04ODk0NzY5Nj
+YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
+MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
+Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
+MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
+wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
 -->
