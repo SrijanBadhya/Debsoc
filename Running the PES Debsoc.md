@@ -288,17 +288,17 @@ Multiple delays in each process add up and lead to juniors starting late and goi
 The obvious solutions to this are:
 1. Do whatever it takes to show up as early as possible or have someone there to get things going.
 2. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
- + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody.
+ + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody. (I learned this the hard way.)
 + Having extra prep time isn't much of a harm. At least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
 + You can inform the juniors that they will be ironing, and if others show up later, you can replace the iron slots.
  + People who come early deserve to get the extra prep time. Maybe this will incentivize latecomers to also put extra effort.
  
  ![enter image description here](https://i.ibb.co/vxmXxr6y/Screenshot-2025-09-06-164214.png)
- (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and cut the idle time of the 3 people who have already shown up). 
+ (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and hence cut the idle time of the 3 people who have already shown up). 
  
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
- + Making latecomers adj can be problematic to how adjing is treated and the narrative that propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative)
+ + Making latecomers adj can be problematic to how adjing is treated and the narrative that this propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative).
 3. Something I'm guilty of myself is taking too much time to prepare my OA.
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 ![enter image description here](https://i.ibb.co/1fXTyKf8/Screenshot-2025-09-09-135934.png)
@@ -1344,10 +1344,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NzcyOTY0NTQsLTQ4NTgxNDA4LC04ODk0NzY5Nj
-YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
-MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
-Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
-MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
-wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
+c3RvcnkiOlsxNjc3OTk4NzQ5LC00ODU4MTQwOCwtODg5NDc2OT
+Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
+NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
+k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
+NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
+MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
 -->
