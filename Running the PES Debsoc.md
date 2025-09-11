@@ -1118,7 +1118,7 @@ Stuthi, an ex-club head, who proofread this book and gave me the very contributi
 
 Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and showed me that there's someone out there who would read all my word vomit. Without Nahush I would never have the determination to go on and complete this book.
 
-Samuel, another ex-club head, my mentor, the senior who I always looked up to, the soul who made scattered members converge around him like a campfire, my main source of Debsoc lore.
+Samuel, another ex-club head, my mentor, the senior who I always looked up to, the soul who made scattered members converge around him like a campfire, my main source of Debsoc lore, and a man with whom I have discussed Debsoc systems extensively.
 
 And you, dear reader, for having the care to even open this link.
 
@@ -1341,7 +1341,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTc1NjA4Mzg5LC04ODk0NzY5NjYsLTE3NTMyND
+c3RvcnkiOlstNzg2MzQ5NTE0LC04ODk0NzY5NjYsLTE3NTMyND
 UyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0y
 MjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1Mj
 AwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMx
