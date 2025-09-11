@@ -471,7 +471,7 @@ It means the world to people if you dm them and check up on them and how they fe
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
 1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but their activity isn't as consistent.
-2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality and give you the, 'mind-blowing diverse genius new perspective' feedback which you're looking for (because only new judges are the ones willing to judge a random cross mock). (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc.)
+2. Most cross mocks get cancelled due to the adj scarcity. Even if you do find an adj, they're unlikely to be of high quality and give you the 'mind-blowing diverse genius new perspective' feedback which you're looking for (because only new judges are the ones willing to judge a random cross mock). (Both a lack of capacity since this is a noob judge, and a lack of incentive since you're not a part of their soc.)
 3. The whole argument of cross mocks is that regular mocks lead to inbreeding, where everyone's just following the same debate gene pool. Everyone is isolated and could be veering off what real debate is, and there's no one to correct them.
 I think this is slightly exaggerated, because:
 - As long as people have access to the WUDC BP manual, you'll be mostly accurate enough. 
@@ -1369,7 +1369,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyOTczNjY1MzYsLTU5OTY2ODUwNywxOTQzMjkzOT
+c3RvcnkiOls2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOT
 UyLDU0MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0x
 NzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2Mz
 cxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMz
