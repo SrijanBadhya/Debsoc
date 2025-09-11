@@ -545,7 +545,7 @@ The debsoc controversy I am the most infamous for is my history with Adjudicatio
 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?". As we were all freshers to the debsoc, I expected our seniors to assign roles for us, since most of us hadn't been to a tournament before, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving us clueless since there's no authority to back up a decision.)
 The 4 of us continued to remain silent about which 3 would form a team and which one would adj.
 
-In an attempt to reach a decision, I texted, "Who wants to adj?", and nobody responded. Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel. I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming am I right). 
+In an attempt to reach a decision, I texted, "Who wants to adj?" and nobody responded. Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel. I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming am I right). 
 
 I had never been told that judges competed too, so I felt like I was just a bus driver for the real performers who were debaters. Being a forced adj for CUPD didn't get me to like adjing either.
 For those who know me, things changed eventually, and I ended up adjing 3x more debates than I've spoken in.
@@ -634,7 +634,7 @@ However, a few issues from Sam's text are
 
 ### Common Pitfalls
 
-**Trends get pushed in micro ways, and try to avoid being a perpetuator as much as you can** 
+**Trends get pushed in micro ways. Try to avoid being a perpetuator as much as you can** 
 - One of my seniors once was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!", and we might be too tempted to say, "If you want to speak, then come earlier next time", as an effort to make them punctual. 
@@ -1354,7 +1354,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzQ5ODEwOTcyLDEyNTI4MTEyNDcsLTE1NDQ1Mz
+c3RvcnkiOlsxNjA3Mzk0MDM5LDEyNTI4MTEyNDcsLTE1NDQ1Mz
 M4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1
 LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OT
 Q3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2
