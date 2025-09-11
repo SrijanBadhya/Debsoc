@@ -724,7 +724,7 @@ It's absolutely necessary to collect money from everybody _**before**_ paying th
 [Back to Table of Contents](#table-of-contents)
 
 So, when they wanna reject reimbursement, there's 2 ways: 
-1 is they ghost as you say (which is pretty rare) and 
+1 is they ghost you (which is pretty rare) and 
 2 the vc directly says no and vk sir informs us. 
 
 So I'd say that you shouldn't like put it in a bracket that they ghost us if it's a rejection cause ghosting is super rare and we have never actually been ghosted (except if you count the nls situation, which we did get a verbal rejection at least twice but we still tried on email 3 times cause we greedy like that)
@@ -1354,11 +1354,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MT
-I2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgs
-LTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NT
-MyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1
-LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MT
-g1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEy
+c3RvcnkiOlsxNzQ5ODEwOTcyLDEyNTI4MTEyNDcsLTE1NDQ1Mz
+M4NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1
+LC00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OT
+Q3Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2
+NiwzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NT
+cxOTY5NjksMzcxODUyMDA5LC0xNzIxNTYzNTMxLDIwNDMyNDc1
 XX0=
 -->
