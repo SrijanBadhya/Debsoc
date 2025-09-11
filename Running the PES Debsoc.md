@@ -591,7 +591,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 - _Freshers will get to speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucked._ 
 - _This also distributes adjes evenly among multiple tournaments._
 - However, later I realized this was bad for the [narrative of adjing](#the-adj-narrative), and hence it was a bad idea. (The only way to still execute this is to equally say that _speaking_ twice in 3 tourneys is also 'compulsory', but this is too delicate and weird, and one slip-up ruins the narrative of adjing).
-6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge to decide a winner, or how to analyze clashes. The thrill of speaking is way more than the thrill of adjing, so to bait them into the debsoc the initially need to speak.
+6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge to decide a winner, or how to analyze clashes. The thrill of speaking is way more than the thrill of listening, so to bait them into the debsoc they initially are made to speak.
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
 
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1ODY4MDMxMzYsMTIwMjEzOTIzOSwxNTkwNzk4Nj
-I4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQz
-NjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5Mj
-U1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgs
-LTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMD
-IwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1
-Mjg5XX0=
+c3RvcnkiOlsyNjM3NDg3OCwxMjAyMTM5MjM5LDE1OTA3OTg2Mj
+gsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2
+ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNT
+UzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwt
+MjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMj
+AwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUy
+ODldfQ==
 -->
