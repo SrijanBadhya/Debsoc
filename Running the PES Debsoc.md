@@ -443,9 +443,9 @@ If you've successfully gotten everyone onto the PES discord (which is a feat of 
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities from clubs.
 
 While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
-- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA). This cannot be just a, 'c
+- The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA). This cannot be just a, 'cross over shake hands' initiation, but an actual mention of some topic. You have to ask someone a particular question. 
 - Without being able to see each other, conversation quickly turns awkward.
-- People talk over each other each other making everything more awkward.
+- Due to a lot of issues involving talking over each other, it's impossible to have 6 people talking at once (which is possible offline). When people do talk over each other, they pause, repeat themselves, and things f
 - It's easy to become depressed post your debate because you're all alone (happens to me often).
 - The impressions of people aren't that impactful.
 - Conversation between the seniors and juniors often ends after the OA/feedback. You have to consciously initiate further conversation. However offline, conversation would happen naturally on the way to the gate.
@@ -1355,11 +1355,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTA5NjY1MDI1LDE2MzEzNjcxMzYsLTEwNDgwNz
-U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
-NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
-Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
-OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LD
-MyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5
-Njk2OV19
+c3RvcnkiOlstMTIwODc0NjI3NiwxNjMxMzY3MTM2LC0xMDQ4MD
+c1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4
+NDYsMjY2MzcxMjY4LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC
+00NjM3MDMzOCwtMjAyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3
+Njk2NiwtMTc1MzI0NTI4OSw2MjEzMzg0MywtMTM3NzcyNTU2Ni
+wzMjcxNTU4NjUsLTIyODA1NDUwLC0xMzkwNzYyNDYwLC04NTcx
+OTY5NjldfQ==
 -->
