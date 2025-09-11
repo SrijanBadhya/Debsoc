@@ -115,7 +115,7 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 
 
 
-If something isn't here, it's probably because I don't know enough about it to talk about it. This isn't a debate tournament where I'm forced to yap about it anyway 😂
+If something isn't here, it's probably because I don't know enough about it to talk about it. This isn't a debate tournament where I'd be forced to yap about it anyway 😂
 
 ---
 
@@ -1377,11 +1377,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MT
-AsNTYzNDA0MzQsMTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2
-NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LD
-E2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1
-MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNz
-c5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4
+c3RvcnkiOlstMjE0MTkwMjQ1NSw2Mzg4OTUyNjMsMjA5NzUxOD
+IzMCw3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMjEzOTIzOSwxNTkw
+Nzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NT
+IsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3
+MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0NiwyNjYzNz
+EyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4
 XX0=
 -->
