@@ -658,7 +658,7 @@ However, a few issues from Sam's text are
 - - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
 > Furthermore, it should be emphasized that judging is just a part of debating and it is a great opportunity to provide feedback to help your friends and fellow debaters improve. Rather than seeing it as an act of service, it should be presented as a given, not to create narratives of judging being a “duty” and debating a “reward”.
 
-Although this is idealistic and nice in principle, it's hard to really implement this and ensure that such narratives are created exactly the way we wish. "Presented as a given" sounds a lot like, "compulsory".
+Although this is nice in principle, it's very idealistic and hard to really implement this and ensure that such narratives are created exactly the way we wish. "Presented as a given" sounds a lot like, "compulsory".
 
 ### Elevating The Judging Experience
 Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
@@ -1377,11 +1377,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNz
-I3NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAs
-Nzc5NDkxODEwLDU2MzQwNDM0LDEyMDIxMzkyMzksMTU5MDc5OD
-YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
-MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
-I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
-XX0=
+c3RvcnkiOlsxMTk2OTI5NjE4LC0yMDY5Nzc0NjkyLDE3NjQ5OT
+MzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUyNjMs
+MjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMjEzOT
+IzOSwxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5
+NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNz
+U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
+Nl19
 -->
