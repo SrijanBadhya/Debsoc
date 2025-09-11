@@ -1112,15 +1112,15 @@ Carrying out any of this is easier said than done. Every bit of it takes Hercule
 
 I would like to express my deepest gratitude to 
 
-Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt about many topics, and supported me throughout my journey of debate and writing this, 
+Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt about many topics, and supported me throughout my journeys of both debate and writing this.
 
-Stuthi, an ex-club head, who proofread this book and gave me the very contributions I was missing, 
+Stuthi, an ex-club head, who proofread this book and gave me the very contributions I was missing.
 
-Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and showed me that there's someone who would read all my word vomit. Without Nahush I would never have the determination to go on and complete this book,
+Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and showed me that there's someone out there who would read all my word vomit. Without Nahush I would never have the determination to go on and complete this book.
 
-Samuel, another ex-club head, my mentor, the senior who I always looked up to, the soul who made scattered members converge around him like a campfire,
+Samuel, another ex-club head, my mentor, the senior who I always looked up to, the soul who made scattered members converge around him like a campfire, my main source of Debsoc lore.
 
-and you, dear reader, for having the care to even open this link.
+And you, dear reader, for having the care to even open this link.
 
 # Appendix I
 
@@ -1341,11 +1341,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzOD
-QzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEz
-OTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1Nj
-M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
-NDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
-MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3XX0=
+c3RvcnkiOlsxNTc1NjA4Mzg5LC04ODk0NzY5NjYsLTE3NTMyND
+UyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0y
+MjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1Mj
+AwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMx
+MDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
+Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyXX0=
 
 -->
