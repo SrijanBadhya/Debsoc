@@ -1027,6 +1027,7 @@ Here it's quite easy to explain that the narrative could be either right or wron
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
+The main use of the old WhatsApp groups of seniors, has now been to secretly organize pranks lmao.
 
 
 
@@ -1122,6 +1123,7 @@ Samuel, another ex-club head, my mentor, the senior who I always looked up to, t
 
 And you, dear reader, for having the care to even open this link.
 
+_I also credit Gemini
 # Appendix I
 
 
@@ -1341,11 +1343,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzg2MzQ5NTE0LC04ODk0NzY5NjYsLTE3NTMyND
-UyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0y
-MjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1Mj
-AwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMx
-MDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNT
-Y5LDE2MDY2MDYxMywxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyXX0=
+c3RvcnkiOlstMTE0MDY0MDA2NiwtODg5NDc2OTY2LC0xNzUzMj
+Q1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwt
+MjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NT
+IwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwz
+MTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MD
+U2OSwxNjA2NjA2MTMsMTE1OTA5OTI1MywtMTA0NDE2MDY1Ml19
 
 -->
