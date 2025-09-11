@@ -410,7 +410,7 @@ There isn't much 'risk'.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier.
 
 #### Turncoat
-When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about her microbiology professor, and Bharath's experience conducting PESDT.
+When there have been 2 or 3 people showing up for a session (like it often happens in odd sems before recruitments), we have played Turncoat with each other. A prompt is given, a person speaks, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor, and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick witted you have to be when changing.
 
 We used this to market the Debsoc during the club showcase at Aarohi too in 2024. We wrote the topics on chits and placed them in a bowl for freshers to pick and speak from.
@@ -1354,11 +1354,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNz
-c5MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4
-LC00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMT
-MzODQzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAs
-LTEzOTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3Mj
-E1NjM1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0Mzhd
-fQ==
+c3RvcnkiOlsxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MT
+I2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgs
+LTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NT
+MyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1
+LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MT
+g1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEy
+XX0=
 -->
