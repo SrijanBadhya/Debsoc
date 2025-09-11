@@ -1324,24 +1324,19 @@ Uploading one's consciousness to the cloud refers to the process of transferring
 
 I would like to express my deepest gratitude to 
 
+Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt about many topics, and supported me throughout my journey of debate and writing this, 
+
 Stuthi, an ex-club head, who proofread this book and gave me the very contributions I was missing, 
 
-Nikhil, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt about many topics, and supported me throughout my journey of debate and writing this, 
+Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and showed me that there's someone who would read all my word vomit. Without Nahush I would never have the determination to go on and complete this book,
 
-Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and gave me the 
-
-
-
-
-
-
-
+Samuel, my mentor in the Debsoc, the senio
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzE4NjU4MTE3LC0xNzUzMjQ1Mjg5LDYyMTMzOD
+c3RvcnkiOlstMTkwODcxOTU5LC0xNzUzMjQ1Mjg5LDYyMTMzOD
 QzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEz
 OTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1Nj
 M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
