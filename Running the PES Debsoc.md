@@ -578,7 +578,7 @@ Anyway, this highlights a couple problems with adjing.
 - Same things for BP except that they do the gruelling work of tracking 4 teams, only have 60 seconds to make a case, and they don't get the thrill of standing and giving a speech either.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. There will never be people from PES in your room.
  - There's no real opportunity to talk to anyone either. You have your lunch alone during case prep time for the speakers. At least speaking teams get to chill with each other when judges are preparing their OA.
- - Adjing is boring and challenging with no thrilling payoff every round.(If you're a panelist one round and get panelist next round, you have no idea whether you judged well or not. At least speakers get their payof)
+ - Adjing is boring and challenging with no thrilling payoff every round.(If you're a panelist one round and get panelist next round, you have no idea whether you judged well or not. At least speakers get their results instantly.)
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
 4. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes, which shows that my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots that we opened up for them.
 5. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
@@ -1370,7 +1370,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzExNjY5NTA0LDE1OTA3OTg2MjgsNjU3MTY1Nz
+c3RvcnkiOlsxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1Nz
 kyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYz
 MTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
 ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
