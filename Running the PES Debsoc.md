@@ -1145,7 +1145,7 @@ Samuel, another ex-club head, my mentor, the senior who I always looked up to, t
 
 Everyone, my seniors, my batchmates, my juniors, who I've met along the journey and gave me insight into how things work in the debate world.
 
-And you, dear reader, for having the care to even open this link.
+And you, dear reader, for believing in the weight of my words enough to read this.
 
 _I also credit Google Gemini for informing me when my sentences didn't have the tone I intended, and also for giving me appropriate replacements for words and phrases when I asked for them._
 
@@ -1374,11 +1374,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMjEzOTIzOS
-wxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMy
-OTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OT
-QsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0Niwy
-NjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLTQ2Mz
-cwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2OTY2
+c3RvcnkiOlsyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNC
+wxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1NzkyLC01OTk2
+Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYzMTM2NzEzNi
+wtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0x
+NTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNz
+c0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4
 XX0=
 -->
