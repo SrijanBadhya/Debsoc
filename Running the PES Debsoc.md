@@ -1124,6 +1124,8 @@ Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up 
 
 Samuel, another ex-club head, my mentor, the senior who I always looked up to, the soul who made scattered members converge around him like a campfire, my main source of Debsoc lore, and a man with whom I have discussed Debsoc systems extensively.
 
+Everyone, my seniors, my batchmates, my juniors, who I've met along the journey and gave me insight into how things work in the debate world.
+
 And you, dear reader, for having the care to even open this link.
 
 _I also credit Google Gemini for informing me when my sentences didn't have the tone I intended, and also for giving me appropriate replacements for words and phrases when I asked for them._
@@ -1347,7 +1349,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjEwNzc0ODk1NSwtMjEwNzc0ODk1NSwtNDYzNz
+c3RvcnkiOlstMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNz
 AzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYs
 LTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MT
 U1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5
