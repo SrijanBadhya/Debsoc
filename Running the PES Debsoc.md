@@ -730,11 +730,11 @@ One tip I have to make sure any staff (especially the slow people down in accoun
 
 The process for doing things keep changing regularly, so I think it's always better for the heads to make a doc exclusively for them as per the needs of that particular year. And always take photos of whatever letter or form you're submitting. So many times the accounts people have asked me to show them the reimbursement form, and when I didn't have the picture, the money would take way longer to come in.
 
-Wait max 2 weeks for vk sir himself to tell you the reimbursement chwck is in (he'll send a text in the group) if he doesn't go to the accounts dept yourself cause they people have buried your form somewhere in hell and do not leave until they dig it out in front of you
+Wait max 2 weeks for vk sir himself to tell you the reimbursement check is in (he'll send a text in the group). If he doesn't, go to the accounts dept yourself cause the people have buried your form somewhere in hell. Do not leave until they dig it out in front of you.
 
-If the reimbursement amount is particularly high and chances of getting it seem slim, then highlight your most recent achievements in the mail you send and give them a reason to spend a crap ton of money on you
+If the reimbursement amount is particularly high and chances of getting it seem slim, then highlight your most recent achievements in the mail you send. Give them a reason to spend a crap ton of money on you.
 
-And one thing to always remember: never make grammatical and formatting errors in anything. You will have to redo the whole thing. Personal experience. Vk sir actually sees everything and is very particular about this. Even in the most insignificant mails, if he finds something worng he'll point it out and let you know kindly
+And one thing to always remember: Never make grammatical and formatting errors in anything. You will have to redo the whole thing. Personal experience. Vk sir actually sees everything and is very particular about this. Even in the most insignificant mails, if he finds something wrong, he'll point it out and let you know kindly.
 
 
 
@@ -1333,11 +1333,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNDM0OTM1MTIsLTE3NTMyNDUyODksNjIxMzM4ND
-MsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5
-MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2Mz
-UzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0
-MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxMy
-wxMTU5MDk5MjUzLC0xMDQ0MTYwNjUyLC02ODU4OTYzNjddfQ==
+c3RvcnkiOlstMzgzODI5ODkzLC0xNzUzMjQ1Mjg5LDYyMTMzOD
+QzLC0xMzc3NzI1NTY2LDMyNzE1NTg2NSwtMjI4MDU0NTAsLTEz
+OTA3NjI0NjAsLTg1NzE5Njk2OSwzNzE4NTIwMDksLTE3MjE1Nj
+M1MzEsMjA0MzI0NzUsLTE3NTAxMjIxMiwzMTA5NTM0MzgsLTcz
+NDE5ODgwMywxMjIzMDA4ODMsMTUyNDA1MDU2OSwxNjA2NjA2MT
+MsMTE1OTA5OTI1MywtMTA0NDE2MDY1MiwtNjg1ODk2MzY3XX0=
 
 -->
