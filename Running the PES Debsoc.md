@@ -1,3 +1,4 @@
+![enter image description here](https://ugc.production.linktr.ee/8c207a45-1912-438e-bb78-d4ec8700d94d_debsoc-logo.png-page-0001.jpeg?io=true&size=avatar-v3_0)
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/running-pes-debsoc.html#the-point-of-a-debate-club)
 
@@ -1346,10 +1347,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDYzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxND
-A4LC04ODk0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEz
-Nzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2Mj
-Q2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwy
-MDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4OD
-AzLDEyMjMwMDg4MywxNTI0MDUwNTY5LDE2MDY2MDYxM119
+c3RvcnkiOlstMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNT
+I5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUyODks
+NjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3MTU1ODY1LC0yMjgwNT
+Q1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OTY5LDM3MTg1MjAwOSwt
+MTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1MDEyMjEyLDMxMDk1Mz
+QzOCwtNzM0MTk4ODAzLDEyMjMwMDg4MywxNTI0MDUwNTY5XX0=
+
 -->
