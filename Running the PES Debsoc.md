@@ -571,10 +571,10 @@ Anyway, this highlights a couple problems with adjing.
 3. Adjing tournaments can disappoint freshers due to a multitude of reasons like:
 - They were speakers for most debate sessions and so they haven't been trained to do this.
 - They're likely to spend the whole tournament as a trainee, and hence
-- - speakers scroll their phones during their OA and don't take them seriously.
-- - people go to ask the chair feedback instead of them.
-- - they feel they have no impact on the tournament because their vote doesn't matter. 
-- - They don't get any numerical result from the tournament either.
+- - speakers scroll their phones during their OA and don't take them seriously,
+- - people go to ask the chair feedback instead of them, and
+- - they feel they have no presence in the tournament because their vote doesn't matter. 
+-  They don't get any numerical result from the tournament either.
 - Same things for BP except that they do a lot of boring work to track 4 teams, and only have 60 seconds to make a case, so they don't get the thrill of standing and giving a speech either.
 - There's so much fun in debate with a teammate, and as an adj you feel lonely. At every room, there won't be any PES friends. 
  - There's no real opportunity to talk to anyone either. You have your lunch during speaker case prep, and speakers get to chill with each other when you're preparing your OA.
@@ -1370,11 +1370,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODcyNDI3NTY3LDE1OTA3OTg2MjgsNjU3MTY1Nz
-kyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYz
-MTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNjkyNTUzMywxMjUyOD
-ExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2OCwtMjA3MzM3Nzky
-MywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLTIwMjAwNTI5NzgsLT
-Q4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMyNDUyODksNjIxMzM4
-NDNdfQ==
+c3RvcnkiOlstMTM4MDUzMjAzMCwxNTkwNzk4NjI4LDY1NzE2NT
+c5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2
+MzEzNjcxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1Mj
+gxMTI0NywtMTU0NDUzMzg0NiwyNjYzNzEyNjgsLTIwNzMzNzc5
+MjMsLTIxMDc3NDg5NTUsLTQ2MzcwMzM4LC0yMDIwMDUyOTc4LC
+00ODU4MTQwOCwtODg5NDc2OTY2LC0xNzUzMjQ1Mjg5LDYyMTMz
+ODQzXX0=
 -->
