@@ -380,7 +380,7 @@ You'll have to decide your own policy on speaker scores. I, for one,  believed s
 - There's no real benefit of 'extra motivation to grind' when you give people speaker scores.
 - When they've already had a bad day, shitty speaks can further mess them up. 
 - The argument against this is, "Omg they won't know how speaker scores work in real tournaments then," but to me, the harms outweigh the benefits. It's not really important to know how speakers scores work at tournaments unless you're a judge.
-- Another argument is that people can track their progress. t speaker scores are quite stagnant since the realistic range is so small. This can give the illusion of a lack of progress.
+- Another argument is that people can track their progress. This doesn't quite materialize often. Speaker scores are quite stagnant since the realistic range is so small. Seeing yourself constantly oscillate between 73 and 77 can give the illusion of a lack of progress.
 
 
 ## Balancing
@@ -1347,10 +1347,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDM0NjMxMTc5LC00ODU4MTQwOCwtODg5NDc2OT
-Y2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LDMy
-NzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5Nj
-k2OSwzNzE4NTIwMDksLTE3MjE1NjM1MzEsMjA0MzI0NzUsLTE3
-NTAxMjIxMiwzMTA5NTM0MzgsLTczNDE5ODgwMywxMjIzMDA4OD
-MsMTUyNDA1MDU2OSwxNjA2NjA2MTMsMTE1OTA5OTI1M119
+c3RvcnkiOls4NDA4MzUzODgsLTQ4NTgxNDA4LC04ODk0NzY5Nj
+YsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMzI3
+MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2OT
+Y5LDM3MTg1MjAwOSwtMTcyMTU2MzUzMSwyMDQzMjQ3NSwtMTc1
+MDEyMjEyLDMxMDk1MzQzOCwtNzM0MTk4ODAzLDEyMjMwMDg4My
+wxNTI0MDUwNTY5LDE2MDY2MDYxMywxMTU5MDk5MjUzXX0=
 -->
