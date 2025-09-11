@@ -622,7 +622,7 @@ How do we make sure this trend continues?
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone "adjing is nice, do try it out", it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) 
 ![enter image description here](https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg)
 - However, I have a few possible [ideas](#elevating-the-judging-experience) on how you might improve a fresher's enjoyment of judging mocks. 
-- But what is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
+- What is definitely important, is avoiding discouraging adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
 Samuel, my senior, once said this to encourage judging,
 
@@ -1371,7 +1371,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDkzMzE5NDg0LDEyMDIxMzkyMzksMTU5MDc5OD
+c3RvcnkiOlstMTYxMjQzMzY1LDEyMDIxMzkyMzksMTU5MDc5OD
 YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
 MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
 I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
