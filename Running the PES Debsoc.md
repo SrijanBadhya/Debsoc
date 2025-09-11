@@ -605,7 +605,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
-The ideal scenario is an organic shift to adjing. Maybe they wanna try something new, try adjing, and end up liking it. The ideal scenario is people voluntarily adj in tournaments and push through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
+The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing the next session.)
+The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and slightly hold the belief that this happened due to random chance.
 
 
 How do we make sure this trend continues?
@@ -1370,11 +1371,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg3MDE4OTYzMCwxMjAyMTM5MjM5LDE1OTA3OT
-g2MjgsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1
-NDM2ODIwMDUsMTYzMTM2NzEzNiwtMTA0ODA3NTc5NCwtMTcyNj
-kyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2LDI2NjM3MTI2
-OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtNDYzNzAzMzgsLT
-IwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5NjYsLTE3NTMy
-NDUyODldfQ==
+c3RvcnkiOlstNzA3MjExODgzLDEyMDIxMzkyMzksMTU5MDc5OD
+YyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0
+MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OT
+I1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4NDYsMjY2MzcxMjY4
+LC0yMDczMzc3OTIzLC0yMTA3NzQ4OTU1LC00NjM3MDMzOCwtMj
+AyMDA1Mjk3OCwtNDg1ODE0MDgsLTg4OTQ3Njk2NiwtMTc1MzI0
+NTI4OV19
 -->
