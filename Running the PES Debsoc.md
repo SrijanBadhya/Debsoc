@@ -532,7 +532,9 @@ You can make the extra person adj a handful of times, but make sure they don't f
 
 When we had 8 people pull up to a session before we taught them BPs, I made one of them a fake reply speaker once. Basically a 4th person gave a 4 minute speech as a reply speech. When there were 7 people, there was a reply speaker from one side but not the other side, we just worked around with what we had.
 
-b) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer so I made it a chapter of its own.
+b) Choosing the optimal frequency of sessions. Three days a week is what we usually go for once recruitments have ended. More session
+
+c) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer so I made it a chapter of its own.
 
 # Adj Rant
 [Back to Table of Contents](#table-of-contents)
@@ -1358,11 +1360,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzgyMTg5NzkzLDE2MzEzNjcxMzYsLTEwNDgwNz
-U3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0NywtMTU0NDUzMzg0
-NiwyNjYzNzEyNjgsLTIwNzMzNzc5MjMsLTIxMDc3NDg5NTUsLT
-Q2MzcwMzM4LC0yMDIwMDUyOTc4LC00ODU4MTQwOCwtODg5NDc2
-OTY2LC0xNzUzMjQ1Mjg5LDYyMTMzODQzLC0xMzc3NzI1NTY2LD
-MyNzE1NTg2NSwtMjI4MDU0NTAsLTEzOTA3NjI0NjAsLTg1NzE5
-Njk2OV19
+c3RvcnkiOlsyNDY4MDkyNDksMTYzMTM2NzEzNiwtMTA0ODA3NT
+c5NCwtMTcyNjkyNTUzMywxMjUyODExMjQ3LC0xNTQ0NTMzODQ2
+LDI2NjM3MTI2OCwtMjA3MzM3NzkyMywtMjEwNzc0ODk1NSwtND
+YzNzAzMzgsLTIwMjAwNTI5NzgsLTQ4NTgxNDA4LC04ODk0NzY5
+NjYsLTE3NTMyNDUyODksNjIxMzM4NDMsLTEzNzc3MjU1NjYsMz
+I3MTU1ODY1LC0yMjgwNTQ1MCwtMTM5MDc2MjQ2MCwtODU3MTk2
+OTY5XX0=
 -->
