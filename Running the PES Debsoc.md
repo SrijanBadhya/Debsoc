@@ -672,7 +672,7 @@ The two ways juniors judge are:
 1. As a panel to a senior chair
 2. As a chair, a sole judge, when the senior present decides to speak instead
 
-I think there are primarily 2 ways to replicate a portion of this feeling that I had
+I think there are primarily 2 ways to replicate a portion of this feeling that I had:
 1. **If you're the chair, make the junior feel like their thoughts are heard.** 
 2. **If you spoke, ask this junior judge for feedback. Most people don't think of this because they think there's no point of doing this. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
 
@@ -1378,7 +1378,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzQzNjYzNjE1LC0xODk5ODc4NzkyLC0yMDY5Nz
+c3RvcnkiOlsxMjcyNDE2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nz
 c0NjkyLDE3NjQ5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1
 NSw2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzND
 A0MzQsMTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5Miwt
