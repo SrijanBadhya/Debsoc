@@ -662,7 +662,7 @@ Although this is nice in principle, it's very idealistic and hides a lot of diff
 
 ### Elevating The Judging Experience
 Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
-- I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me.
+- I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me (narcissist). 
 - I wasn't a 'useless trainee' judge anymore, but now a chair who people depended on.
 - I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit, the man.
 
@@ -1377,11 +1377,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc2MTgxNjQxOSwtMTg5OTg3ODc5MiwtMjA2OT
-c3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxNDE5MDI0
-NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEwLDU2Mz
-QwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYyOCw2NTcxNjU3OTIs
-LTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMz
-Y3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEy
-NDddfQ==
+c3RvcnkiOlstMzYwMjM4OTQ3LC0xODk5ODc4NzkyLC0yMDY5Nz
+c0NjkyLDE3NjQ5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1
+NSw2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzND
+A0MzQsMTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5Miwt
+NTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNj
+cxMzYsLTEwNDgwNzU3OTQsLTE3MjY5MjU1MzMsMTI1MjgxMTI0
+N119
 -->
