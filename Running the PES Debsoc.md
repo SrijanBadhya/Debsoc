@@ -653,7 +653,7 @@ However, a few issues from Sam's text are
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!" and we might impulsively say, "If you want to speak, then come earlier next time," as an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
-- If you have a strict bar for people to participate in tourneys (inactive people cannot come to tourneys), you might be tempted to lower the bar for someone who wants to adj, saying, "We really need an adj, we'll take you to Bombay with us even if you have been inactive", which further pushes adjing being undesirable.
+- If you have a strict bar for people to participate in tourneys (inactive people cannot come to tourneys), you might be tempted to lower the bar for someone who wants to adj, saying, "We really need an adj, we'll take you to Bombay with us even if you have been inactive", which further pushes the undesirability of adjing.
 - Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out.) Here are some very relevant excerpts from page 40:
 - - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
 > Furthermore, it should be emphasized that judging is just a part of debating and it is a great opportunity to provide feedback to help your friends and fellow debaters improve. Rather than seeing it as an act of service, it should be presented as a given, not to create narratives of judging being a “duty” and debating a “reward”.
@@ -1377,11 +1377,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg5OTg3ODc5MiwtMjA2OTc3NDY5MiwxNzY0OT
-kzMzgzLDE2MDMyNzI3NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYz
-LDIwOTc1MTgyMzAsNzc5NDkxODEwLDU2MzQwNDM0LDEyMDIxMz
-kyMzksMTU5MDc5ODYyOCw2NTcxNjU3OTIsLTU5OTY2ODUwNywx
-OTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMzY3MTM2LC0xMDQ4MD
-c1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEyNDcsLTE1NDQ1MzM4
-NDZdfQ==
+c3RvcnkiOlstMTc2MTgxNjQxOSwtMTg5OTg3ODc5MiwtMjA2OT
+c3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxNDE5MDI0
+NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEwLDU2Mz
+QwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYyOCw2NTcxNjU3OTIs
+LTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNSwxNjMxMz
+Y3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMzLDEyNTI4MTEy
+NDddfQ==
 -->
