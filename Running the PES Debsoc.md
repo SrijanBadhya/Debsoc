@@ -674,7 +674,7 @@ The two ways juniors judge are:
 
 I think there are primarily 2 ways to replicate a portion of this feeling that I had:
 1. **If you're the chair, make the junior feel like their thoughts are heard.** 
-2. **If you spoke, ask this junior judge for feedback. This isn't something we do out of habit. However, it can still help you to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
+2. **If you spoke, ask this junior judge for feedback. This isn't something we do out of habit. However, it can still help to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
 
 Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
@@ -1378,11 +1378,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3OD
-c5MiwtMjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3Nzks
-LTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5ND
-kxODEwLDU2MzQwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYyOCw2
-NTcxNjU3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4Mj
-AwNSwxNjMxMzY3MTM2LC0xMDQ4MDc1Nzk0LC0xNzI2OTI1NTMz
-XX0=
+c3RvcnkiOlstMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyNDE2NT
+AxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMzODMs
+MTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUyNjMsMjA5Nz
+UxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMjEzOTIzOSwx
+NTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOT
+M5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTRd
+fQ==
 -->
