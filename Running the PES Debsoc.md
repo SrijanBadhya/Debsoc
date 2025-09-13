@@ -666,10 +666,10 @@ Adjudication only started to really feel fulfilling to me when I felt the value 
 - I wasn't a 'useless trainee' judge anymore, but now a chair who people depended on.
 - I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit, the man.
 
-How do we get inexperienced juniors to enjoy judging though? Since they are not fully qualified to give feedback.
+How do we get inexperienced juniors to enjoy judging though? Since they aren't fully qualified to give feedback.
 The two scenarios a junior would be judging is 
 1. As a panel to a senior chair
-2. As a chair, a sole judge, when the senior present decides to speak instead.
+2. As a chair, a sole judge, when the senior present decides to speak instead
 
 I think there are primarily 2 ways to replicate a portion of this feeling that I had, and it's the duty of the senior present to try.
 1. **If you're the chair, make the junior feel like their thoughts are heard.** 
@@ -1377,7 +1377,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzYwMjM4OTQ3LC0xODk5ODc4NzkyLC0yMDY5Nz
+c3RvcnkiOlstMTAwMTg1MzY5LC0xODk5ODc4NzkyLC0yMDY5Nz
 c0NjkyLDE3NjQ5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1
 NSw2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzND
 A0MzQsMTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5Miwt
