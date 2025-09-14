@@ -859,10 +859,10 @@ The places you can debate in the GJB library are the small brainstorming rooms, 
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this place only as a last resort. It's usually deserted on Saturdays and Sundays, so you can enter and turn the lights on yourself.  
 
-What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
+What I find to be the best place is the 13th floor of B block (heavy favoritism tbh). Debating in the indoors section usually isn't feasible because either there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
 These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
 
-How to access this place:
+How to access 13th floor:
 
 (Obviously talk to the security in Kannada)
 Security guards might tell you that it's closed when you enter B block. Reply to this saying that you're not going inside, you'll just be outdoors. 
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MjY3OTcyNTEsLTEzNTIwMzU4ODQsNjUxNTQ0Nz
-UwLDU4NzAzODAxNCwtOTUyNzM1ODQwLC0yMDc3Njc3MDc4LC0x
-OTg5MTQ2NDEwLDY2MzY0NTU1MCwxMzg5NDA2MTM1LDE4MzMzMj
-QxNDEsLTc0Mzg1MzU0MCwxNDc1NTcwMzA1LC0xODI2ODY4Nzk1
-LDIwNjU2ODUxODAsLTIzNTEwOTk0MSwtMTE4MTMwMDc3NiwtMT
-g4MTk2ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0
-MjYwOTJdfQ==
+c3RvcnkiOls3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1OD
+g0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3
+NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNj
+EzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwt
+MTgyNjg2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExOD
+EzMDA3NzYsLTE4ODE5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0
+MzU2Ml19
 -->
