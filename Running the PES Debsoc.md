@@ -773,7 +773,7 @@ And one thing to always remember: Never make grammatical and formatting errors i
 Note from Stuthi for the 'resolving drama' section:
 I would say the best thing is to have a third party, like a senior, get involved, hear out both sides, and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors [the ones involved on the other side of the drama] sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
 
-
+End of Stuthi (no she's alive as of September 14 2025)
 
 ## Tournament Briefing
 
@@ -1388,11 +1388,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg4MTk2ODkxMCwtMjAwNTc3NzM1MSwxNDA5Nz
-QzNTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkw
-LC0xMTA4MTAyMzczLC0yMjg2ODYwNzcsLTE1NDcxOTA3NywxMj
-Y0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3ODc5MiwtMjA2OTc3
-NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxNDE5MDI0NT
-UsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEwLDU2MzQw
-NDM0XX0=
+c3RvcnkiOlsxMTg3NjgyNDIwLC0xODgxOTY4OTEwLC0yMDA1Nz
+c3MzUxLDE0MDk3NDM1NjIsLTY0OTQyNjA5Miw2NzYwNzQwMDgs
+LTEwODQwMjE1OTAsLTExMDgxMDIzNzMsLTIyODY4NjA3NywtMT
+U0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyNDE2NTAxLC0xODk5ODc4
+NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMzODMsMTYwMzI3Mjc3OS
+wtMjE0MTkwMjQ1NSw2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0
+OTE4MTBdfQ==
 -->
