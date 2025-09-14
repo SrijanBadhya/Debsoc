@@ -699,13 +699,13 @@ You're cooked. I'm just as clueless as you.
 [Back to Table of Contents](#table-of-contents)
 
 The major differences between tournaments and mocks are:
-Stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends).
+Stakes, dedicated days for debate, and the increased depth and breadth of the community (more time with more friends).
 
 Aaaaaand the money.
 
 ## Freeloaders
 
-By freeloaders I mean people who don't participate in the debsoc much, yet want to join reimbursements.
+By freeloaders I mean people who don't participate in the debsoc much yet want to join reimbursements.
 For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
 
 ![enter image description here](https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg)
@@ -1385,11 +1385,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgxMD
-IzNzMsLTIyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5ODMzMCwx
-MjcyNDE2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3Nj
-Q5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUy
-NjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMj
-EzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3
+c3RvcnkiOlstNjQ5NDI2MDkyLDY3NjA3NDAwOCwtMTA4NDAyMT
+U5MCwtMTEwODEwMjM3MywtMjI4Njg2MDc3LC0xNTQ3MTkwNzcs
+MTI2NDk4MzMwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIsLTIwNj
+k3NzQ2OTIsMTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMTQxOTAy
+NDU1LDYzODg5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1Nj
+M0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1Nzky
 XX0=
 -->
