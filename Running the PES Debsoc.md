@@ -864,8 +864,7 @@ These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POW
 
 How to access 13th floor:
 
-(Obviously talk to the security in Kannada)
-Security guards might tell you that it's closed when you enter B block. Reply to this saying that you're not going inside, you'll just be outdoors. 
+Security guards might tell you that it's closed when you enter B block. Reply (Obviously talk to the security in Kannada) to this saying that you're not going inside, you'll just be outdoors. 
 If they say that it's restricted, tell them that the Debate Club is doing an online competition here, just like they have been doing for the last 2 years.  
 If all else fails, say that you know a security guard named Shankar. If Shankar is there, tell him that you're the kids of Srijan. 😂😂
 
@@ -1392,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1OD
-g0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3
-NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNj
-EzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwt
-MTgyNjg2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExOD
-EzMDA3NzYsLTE4ODE5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0
-MzU2Ml19
+c3RvcnkiOlstMTQwMDQ4NTczNiw3NDA1NzcxNDYsODI2Nzk3Mj
+UxLC0xMzUyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1
+MjczNTg0MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2ND
+U1NTAsMTM4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAs
+MTQ3NTU3MDMwNSwtMTgyNjg2ODc5NSwyMDY1Njg1MTgwLC0yMz
+UxMDk5NDEsLTExODEzMDA3NzYsLTE4ODE5Njg5MTAsLTIwMDU3
+NzczNTFdfQ==
 -->
