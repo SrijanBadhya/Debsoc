@@ -804,7 +804,7 @@ I believed that it was better to make them prepared for this possibility instead
 [Back to Table of Contents](#table-of-contents)
 
 Due to different rooms having different end times, it's hard to execute this, but trying to get everyone to congregate at a designated spot after every round to chill together is vital to tournament vibes. Without a contingent it's easy for people to feel lost and lonely. (I guess this hampers their ability to stay talking to new people, so this is vital primarily to people who are awkward with strangers.)
-I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as important for judges who yearn for someone to listen to them (especially since speakers rarely do). 
+I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as impactful to judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
 In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
 
@@ -1389,7 +1389,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODY4MzU1NzczLDE0NzU1NzAzMDUsLTE4MjY4Nj
+c3RvcnkiOlstNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4MjY4Nj
 g3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMzAwNzc2
 LC0xODgxOTY4OTEwLC0yMDA1Nzc3MzUxLDE0MDk3NDM1NjIsLT
 Y0OTQyNjA5Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgx
