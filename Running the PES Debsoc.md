@@ -991,7 +991,7 @@ The most difficult part of Cubbon has been the arrival. For people's first Cubbo
 ### Beyond The Debates
 
 Circles get formed in hangouts quite often. These circles can be both physical with body posture, and metaphysical, with one new or rare fresher. People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who know each other like this.
-It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'. 
+It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'. (Unfortunate that you read this already in the Tournament section, but I didn't feel like cutting it.)
 
 ![enter image description here](https://www.utoronto.ca/sites/default/files/picpath/2015-12-02-feeling-alone.jpg)
 ---
@@ -1389,7 +1389,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2OTUzNDM1NDgsMTM4OTQwNjEzNSwxODMzMzI0MT
+c3RvcnkiOls2NjM2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0MT
 QxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNjg2ODc5NSwy
 MDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExODEzMDA3NzYsLTE4OD
 E5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0MzU2MiwtNjQ5NDI2
