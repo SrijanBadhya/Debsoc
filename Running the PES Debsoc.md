@@ -830,7 +830,8 @@ A few people including me believe glorifying the speaker score is useless and do
 
 
 Glorifying one person's speaker score for being the best speaker is kinda an insult to their teammate. 
-Pragmatically, the good that you can claim comes out of this is that, "the speaker feels honored for the work they've done," and "people get inspired to be like them." But the speaker usually feels happy enough with whatever other result they have already achieved. If you really want to do make them happy, doing it in their private messages cover it.
+Pragmatically, the good that you can claim comes out of this is that, "the speaker feels honored for the work they've done," and "people get inspired to be like them." But the speaker usually feels happy enough with whatever other result they have already achieved. If you really want to make them happy, cheering in their private messages covers it.
+(Ngl writing this stuff also makes me cringe and I wanna delete it.)
 
 Other people are also 'inspired enough' anyway to debate. Glorifying someone else is unlikely to result in extra effort from them and can result in them just feeling even worse about themselves. Sure, juniors aren't snowflakes, but there's no real point in hurting their self-esteem which is already bruised from the tournament. It's normal for humans to feel sad when it comes to something they care about.
 
@@ -1391,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTUyNzM1ODQwLC0yMDc3Njc3MDc4LC0xOTg5MT
-Q2NDEwLDY2MzY0NTU1MCwxMzg5NDA2MTM1LDE4MzMzMjQxNDEs
-LTc0Mzg1MzU0MCwxNDc1NTcwMzA1LC0xODI2ODY4Nzk1LDIwNj
-U2ODUxODAsLTIzNTEwOTk0MSwtMTE4MTMwMDc3NiwtMTg4MTk2
-ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0MjYwOT
-IsNjc2MDc0MDA4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC0y
-Mjg2ODYwNzddfQ==
+c3RvcnkiOlsxNTc2MjE0MDU2LC05NTI3MzU4NDAsLTIwNzc2Nz
+cwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUs
+MTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4Mj
+Y4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMzAw
+Nzc2LC0xODgxOTY4OTEwLC0yMDA1Nzc3MzUxLDE0MDk3NDM1Nj
+IsLTY0OTQyNjA5Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTEx
+MDgxMDIzNzNdfQ==
 -->
