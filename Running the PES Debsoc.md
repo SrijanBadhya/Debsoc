@@ -846,9 +846,9 @@ For so long I had felt jealous of people being congratulated, but when me and my
 The target audience for online tournaments is people who do tourneys to grind debate, even without the fun of the tournament experience. Hence, as time goes on, the only people who participate are the hardcore ones.
 
 Initially though, online tournaments are popular with juniors since they get to do a tournament without investing 4k rupees.
-I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
+I wouldn't want juniors to start with an online tournament with zero fun, since this could lead them believe that all debate tournaments are like this.
 So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
-The most memorable online tournament for me has been SBS in early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
+The most memorable online tournament for me has been SBS from early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
 
 ### Online Tournament Logistics
 
@@ -1392,7 +1392,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0Mjc3OTQwNjksNTg3MDM4MDE0LC05NTI3MzU4ND
+c3RvcnkiOlszNjk5MzIzODksNTg3MDM4MDE0LC05NTI3MzU4ND
 AsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEz
 ODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1Nz
 AzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQx
