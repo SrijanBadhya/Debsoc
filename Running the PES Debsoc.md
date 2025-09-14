@@ -677,7 +677,7 @@ The two ways juniors judge are:
 I think there are primarily 2 ways to replicate a portion of this feeling that I had:
 3. **If you're the chair, make the junior feel like their thoughts are heard.** 
 4. **If you're a speaker, ask this junior judge for feedback. This isn't something we do normally because we don't see much gain for ourselves. However, it can still help to know how an ordinary person would interpret your speech. 
-It does leagues to improve the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
+It works wonders for a junior's enjoyment of judging, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them regardless, by saying that you value their words, you value the fact that they sat through your 1 hour yap, a judge is a judge, etc.**
 
 Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
@@ -1381,11 +1381,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjI4Njg2MDc3LC0xNTQ3MTkwNzcsMTI2NDk4Mz
-MwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIsLTIwNjk3NzQ2OTIs
-MTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMTQxOTAyNDU1LDYzOD
-g5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNCwx
-MjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1NzkyLC01OTk2Nj
-g1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYzMTM2NzEzNl19
+c3RvcnkiOls1NzU2MDA0MjAsLTIyODY4NjA3NywtMTU0NzE5MD
+c3LDEyNjQ5ODMzMCwxMjcyNDE2NTAxLC0xODk5ODc4NzkyLC0y
+MDY5Nzc0NjkyLDE3NjQ5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MT
+kwMjQ1NSw2Mzg4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAs
+NTYzNDA0MzQsMTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NT
+c5MiwtNTk5NjY4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1XX0=
 
 -->
