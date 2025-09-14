@@ -806,11 +806,11 @@ I believed that it was better to make them prepared for this possibility instead
 Due to different rooms ending at times, it's hard to execute this, getting everyone to congregate at a designated spot after every round to chill together is vital to tournament vibes. Without a contingent it's easy for people to feel lost and lonely. (I guess this hampers their ability to stay talking to new people, so this is vital primarily to people who are awkward with strangers.)
 I've talked [earlier](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as impactful to judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
-In groups that emerge, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
+In groups that emerge, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter.)
 
-If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Try to give them good experiences, which can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, roaming around the campus or the city. 
+If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Creating good experiences can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, and roaming around the campus or the city. 
 
-Also I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying they're sorry for disappointing me (It appears I wasn't successful in telling them enough that results don't matter to me)).
+I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying sorry for disappointing me (It appears I wasn't successful enough in telling them that results don't matter to me)).
 
 We've had traditions like, "The tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament both if they achieve it and if they don't.
 Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
@@ -1389,11 +1389,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NjM2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0MT
-QxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNjg2ODc5NSwy
-MDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExODEzMDA3NzYsLTE4OD
-E5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0MzU2MiwtNjQ5NDI2
-MDkyLDY3NjA3NDAwOCwtMTA4NDAyMTU5MCwtMTEwODEwMjM3My
-wtMjI4Njg2MDc3LC0xNTQ3MTkwNzcsMTI2NDk4MzMwLDEyNzI0
-MTY1MDFdfQ==
+c3RvcnkiOlszNjE3NzA4MTksNjYzNjQ1NTUwLDEzODk0MDYxMz
+UsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4
+MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMz
+AwNzc2LC0xODgxOTY4OTEwLC0yMDA1Nzc3MzUxLDE0MDk3NDM1
+NjIsLTY0OTQyNjA5Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLT
+ExMDgxMDIzNzMsLTIyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5
+ODMzMF19
 -->
