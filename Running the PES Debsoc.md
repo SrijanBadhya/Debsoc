@@ -857,7 +857,7 @@ PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when dis
 The major accessible spots at PES with Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated.)
 The places you can debate in the GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
-The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
+The GJB cafeteria has like 3 power sockets. I'd recommend this place only as a last resort. It's usually deserted on Saturdays and Sundays, so you can enter and turn the lights on yourself.  
 
 What I find to be the best place is the 13th floor of B block (heavy bias tbh). Debating in the indoors section usually isn't feasible because there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
 These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MD
-E0LC05NTI3MzU4NDAsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAs
-NjYzNjQ1NTUwLDEzODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzOD
-UzNTQwLDE0NzU1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4
-MCwtMjM1MTA5OTQxLC0xMTgxMzAwNzc2LC0xODgxOTY4OTEwLC
-0yMDA1Nzc3MzUxLDE0MDk3NDM1NjIsLTY0OTQyNjA5Miw2NzYw
-NzQwMDhdfQ==
+c3RvcnkiOls4MjY3OTcyNTEsLTEzNTIwMzU4ODQsNjUxNTQ0Nz
+UwLDU4NzAzODAxNCwtOTUyNzM1ODQwLC0yMDc3Njc3MDc4LC0x
+OTg5MTQ2NDEwLDY2MzY0NTU1MCwxMzg5NDA2MTM1LDE4MzMzMj
+QxNDEsLTc0Mzg1MzU0MCwxNDc1NTcwMzA1LC0xODI2ODY4Nzk1
+LDIwNjU2ODUxODAsLTIzNTEwOTk0MSwtMTE4MTMwMDc3NiwtMT
+g4MTk2ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0
+MjYwOTJdfQ==
 -->
