@@ -824,7 +824,7 @@ Breaks are when emotional turbulence is at a high since it's the culmination of 
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
-The people who haven't broken, both the people who narrowly missed out or people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and tend to these people providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
+The people who haven't broken, both the people who narrowly missed out and the people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and to tend to these people by providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
 
 A few people including me believe glorifying the speaker score is useless and does more harm than good. Like I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality fluctuate to the point where they're unreliable. The main insight people derive from a speaker score is who was the superior teammate and who was the inferior teammate. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but the speaker score feels especially harsh because the blame is on you. 
 
@@ -1389,11 +1389,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTc5MjMyMTEzLDY2MzY0NTU1MCwxMzg5NDA2MT
-M1LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwxNDc1NTcwMzA1LC0x
-ODI2ODY4Nzk1LDIwNjU2ODUxODAsLTIzNTEwOTk0MSwtMTE4MT
-MwMDc3NiwtMTg4MTk2ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQz
-NTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkwLC
-0xMTA4MTAyMzczLC0yMjg2ODYwNzcsLTE1NDcxOTA3NywxMjY0
-OTgzMzBdfQ==
+c3RvcnkiOlstMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNj
+EzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwt
+MTgyNjg2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExOD
+EzMDA3NzYsLTE4ODE5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0
+MzU2MiwtNjQ5NDI2MDkyLDY3NjA3NDAwOCwtMTA4NDAyMTU5MC
+wtMTEwODEwMjM3MywtMjI4Njg2MDc3LC0xNTQ3MTkwNzcsMTI2
+NDk4MzMwXX0=
 -->
