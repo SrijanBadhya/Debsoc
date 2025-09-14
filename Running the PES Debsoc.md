@@ -711,11 +711,11 @@ For quite a few years, the debsoc has tried to prevent freeloaders, but sometime
 ![enter image description here](https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg)
 
 
-When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the debsoc to cut names. 
+When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the soc to cut names. 
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely. Sometimes they reject tournaments if you've gone to other tournaments recently.
 I don't have experience communicating between students and the management, so I can't really tell how to work with the management (but Stuthi has, and she has words for you in the next section).
 
-Basically, tournament reimbursement slots are kind of limited. Every slot is hard earned by the clubheads or whoever communicates to the management. 
+Basically, tournament reimbursement slots are kind of limited. Every slot is hard-earned by the clubheads or whoever communicates to the management. 
 
 You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
 It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
@@ -1385,11 +1385,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjQ5NDI2MDkyLDY3NjA3NDAwOCwtMTA4NDAyMT
-U5MCwtMTEwODEwMjM3MywtMjI4Njg2MDc3LC0xNTQ3MTkwNzcs
-MTI2NDk4MzMwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIsLTIwNj
-k3NzQ2OTIsMTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMTQxOTAy
-NDU1LDYzODg5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1Nj
-M0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1Nzky
-XX0=
+c3RvcnkiOlsxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0MD
+A4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC0yMjg2ODYwNzcs
+LTE1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OT
+g3ODc5MiwtMjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3
+NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNz
+c5NDkxODEwLDU2MzQwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYy
+OF19
 -->
