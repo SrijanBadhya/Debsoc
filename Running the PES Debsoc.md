@@ -845,14 +845,14 @@ For so long I had felt jealous of people being congratulated, but when me and my
 
 The target audience for online tournaments is people who do tourneys to grind debate, even without the fun of the tournament experience. Hence, as time goes on, the only people who participate are the hardcore ones.
 
-Initially though, online tournaments are popular with juniors since they get to do a tournament without investing 4k rupees.
+Initially though, online tournaments are popular with juniors since they get to do a tournament without investing 3k rupees.
 I wouldn't want juniors to start with an online tournament with zero fun, since this could lead them believe that all debate tournaments are like this.
 So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
 The most memorable online tournament for me has been SBS from early 2024. We all met up together offline on both days, debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
 
 ### Online Tournament Logistics
 
-PES wifi sometimes randomly blocks discord and randomly unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
+PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
 
 The major spots at PES with accessible Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
 The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4ND
-AsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEz
-ODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1Nz
-AzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQx
-LC0xMTgxMzAwNzc2LC0xODgxOTY4OTEwLC0yMDA1Nzc3MzUxLD
-E0MDk3NDM1NjIsLTY0OTQyNjA5Miw2NzYwNzQwMDgsLTEwODQw
-MjE1OTBdfQ==
+c3RvcnkiOlstMTMwNjgzODAxLDY1MTU0NDc1MCw1ODcwMzgwMT
+QsLTk1MjczNTg0MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2
+NjM2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NT
+M1NDAsMTQ3NTU3MDMwNSwtMTgyNjg2ODc5NSwyMDY1Njg1MTgw
+LC0yMzUxMDk5NDEsLTExODEzMDA3NzYsLTE4ODE5Njg5MTAsLT
+IwMDU3NzczNTEsMTQwOTc0MzU2MiwtNjQ5NDI2MDkyLDY3NjA3
+NDAwOF19
 -->
