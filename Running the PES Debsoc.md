@@ -740,7 +740,7 @@ What we sometimes do, is send a poll with a speaker option and an adjudicator op
 Early reg is ideal, but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
 Since reimbursement gets confirmed very late (often after the tournament reg closes), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement."
 
-It's absolutely necessary to collect money from everybody _**before**_ paying the sum total to the tournament organizing committee. 
+It's absolutely necessary to collect money from everybody _**before**_ paying the sum total to the tournament organizers. 
 - Otherwise, someone might drop out due to unforeseen reasons after you've already paid their share, and there's no way to really get your money back from them. 
 - - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
@@ -1388,11 +1388,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0Mj
-YwOTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzcz
-LC0yMjg2ODYwNzcsLTE1NDcxOTA3NywxMjY0OTgzMzAsMTI3Mj
-QxNjUwMSwtMTg5OTg3ODc5MiwtMjA2OTc3NDY5MiwxNzY0OTkz
-MzgzLDE2MDMyNzI3NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLD
-IwOTc1MTgyMzAsNzc5NDkxODEwLDU2MzQwNDM0LDEyMDIxMzky
-MzldfQ==
+c3RvcnkiOlstMTg4MTk2ODkxMCwtMjAwNTc3NzM1MSwxNDA5Nz
+QzNTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkw
+LC0xMTA4MTAyMzczLC0yMjg2ODYwNzcsLTE1NDcxOTA3NywxMj
+Y0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3ODc5MiwtMjA2OTc3
+NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxNDE5MDI0NT
+UsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEwLDU2MzQw
+NDM0XX0=
 -->
