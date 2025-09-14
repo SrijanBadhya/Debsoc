@@ -843,7 +843,7 @@ For so long I had felt jealous of people being congratulated, but when me and my
 
 [Back to Table of Contents](#table-of-contents)
 
-The target audience for online tournaments is people in it solely for the debate grind over the fun of the tournament experience. Hence, as time goes on, the only people who do them are the hardcore ones.
+The target audience for online tournaments is people who do tourneys to grind debate, even without the fun of the tournament experience. Hence, as time goes on, the only people who partic are the hardcore ones.
 
 Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
 I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3Nz
-A3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwx
-ODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNj
-g2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExODEzMDA3
-NzYsLTE4ODE5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0MzU2Mi
-wtNjQ5NDI2MDkyLDY3NjA3NDAwOCwtMTA4NDAyMTU5MCwtMTEw
-ODEwMjM3M119
+c3RvcnkiOlsxNDEwMzQ4NzI1LDU4NzAzODAxNCwtOTUyNzM1OD
+QwLC0yMDc3Njc3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NTU1MCwx
+Mzg5NDA2MTM1LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwxNDc1NT
+cwMzA1LC0xODI2ODY4Nzk1LDIwNjU2ODUxODAsLTIzNTEwOTk0
+MSwtMTE4MTMwMDc3NiwtMTg4MTk2ODkxMCwtMjAwNTc3NzM1MS
+wxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4LC0xMDg0
+MDIxNTkwXX0=
 -->
