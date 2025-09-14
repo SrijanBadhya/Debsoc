@@ -343,7 +343,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 [Back to Table of Contents](#table-of-contents)
 
-Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now". I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likel
+Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now". I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likely to value it more.
 
 
 Feedback is often tricky once your brain has shut down after the debate. I learned the hard way that you may just try to make up something from your own notes, or default to something generic.
@@ -1385,11 +1385,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTIxNTIzMDI2LC0yMjg2ODYwNzcsLTE1NDcxOT
-A3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3ODc5Miwt
-MjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxND
-E5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEw
-LDU2MzQwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYyOCw2NTcxNj
-U3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNV19
-
+c3RvcnkiOlstMTEwODEwMjM3MywtMjI4Njg2MDc3LC0xNTQ3MT
+kwNzcsMTI2NDk4MzMwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIs
+LTIwNjk3NzQ2OTIsMTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMT
+QxOTAyNDU1LDYzODg5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgx
+MCw1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MT
+Y1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDVd
+fQ==
 -->
