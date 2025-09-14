@@ -784,7 +784,7 @@ Freshers are often intimidated at their first tournament, due to being unaware o
 Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
 - They might reach home later than they told their parents to expect them.
 - They might delay food expecting a lunch break, and then miss out on eating food at all, if you haven't told them the strategic time to eat food.
-- There are a lot of possible logistic issues like all members of a team filling duplicate feedback, trainees being confused about filling the ballot, a bunch of other Tabbycat issues like navigating on your private url, different forms of check-in, etc.
+- There are a lot of possible logistic issues like all members of a team filling duplicate feedback, trainees being confused about filling the ballot, waiting for the OA during the silent round, a bunch of other Tabbycat issues like navigating on your private url, different forms of check-in, etc.
 - They might expect the tournament to provide food so they won't have made their own food plans like lunch boxes.
 
 One briefing session before their first tournament, talking about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
@@ -1388,7 +1388,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU3MjQzMzI2MiwtMTg4MTk2ODkxMCwtMjAwNT
+c3RvcnkiOlstMTYxNTYxNzE1MCwtMTg4MTk2ODkxMCwtMjAwNT
 c3NzM1MSwxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4
 LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC0yMjg2ODYwNzcsLT
 E1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3
