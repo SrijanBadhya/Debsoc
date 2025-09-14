@@ -791,7 +791,7 @@ Debate tournaments have a stark difference between expectations and reality for 
 One briefing session before their first tournament where you talk about the logistics and equity can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
 
 The biggest difference between expectations and reality is of course, that juniors are used to interschool science quizzes (where most people score high) and they won't have really comprehended that this is a national level tournament with people years elder to them.
-Every novice initially assumes that they'll only face novices in the tournament and is in for a rude awakening. 
+The illusion of every novice that they'll only face novices in the tournament and is in 
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it's happened in APs). I think the egos of juniors are in need of a warning of this tragedy.
 I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
@@ -1389,11 +1389,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjM1MTA5OTQxLC0xMTgxMzAwNzc2LC0xODgxOT
-Y4OTEwLC0yMDA1Nzc3MzUxLDE0MDk3NDM1NjIsLTY0OTQyNjA5
-Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgxMDIzNzMsLT
-IyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyNDE2
-NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMzOD
-MsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUyNjMsMjA5
-NzUxODIzMF19
+c3RvcnkiOlsxNDUzMzUzMjMxLC0yMzUxMDk5NDEsLTExODEzMD
+A3NzYsLTE4ODE5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0MzU2
+MiwtNjQ5NDI2MDkyLDY3NjA3NDAwOCwtMTA4NDAyMTU5MCwtMT
+EwODEwMjM3MywtMjI4Njg2MDc3LC0xNTQ3MTkwNzcsMTI2NDk4
+MzMwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIsLTIwNjk3NzQ2OT
+IsMTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMTQxOTAyNDU1LDYz
+ODg5NTI2M119
 -->
