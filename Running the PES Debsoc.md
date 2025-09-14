@@ -666,7 +666,7 @@ Adjudication only started to truly be fulfilling to me when I could feel the val
 - I wasn't a 'useless trainee' judge anymore, but now a chair who people depended on.
 - I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit, the man (narcissist again).
 
-_This is starting to get into the territory of altruism being selfish, 
+~~This is starting to get into the territory of altruism being selfish, which is a debate of its own.~~
 
 Since they aren't fully qualified to give feedback, these motivations don't work for inexperienced judges. How then do we get them to enjoy judging?
 
@@ -676,7 +676,7 @@ The two ways juniors judge are:
 
 I think there are primarily 2 ways to replicate a portion of this feeling that I had:
 1. **If you're the chair, make the junior feel like their thoughts are heard.** 
-2. **If you spoke, ask this junior judge for feedback. This isn't something we do out of habit. However, it can still help to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
+2. **If you're a speaker, ask this junior judge for feedback. This isn't something we do normally . However, it can still help to know how an ordinary person would interpret your speech. And it does leagues of improvement in the enjoyment of a junior to judge, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them, saying that you value their words, you value the fact that they sat through your 1 hour yap.**
 
 Speakers rarely feel like they didn't matter, because people pay attention to their words, and their words are talked about in the OA. Trainees however often feel like they didn't matter. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
@@ -1380,11 +1380,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc0MTY1MDc2MywtMTU0NzE5MDc3LDEyNjQ5OD
-MzMCwxMjcyNDE2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0Njky
-LDE3NjQ5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mz
-g4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQs
-MTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5Nj
-Y4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzZd
-fQ==
+c3RvcnkiOlstNzg2MTQ3NjM3LC0xNTQ3MTkwNzcsMTI2NDk4Mz
+MwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIsLTIwNjk3NzQ2OTIs
+MTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMTQxOTAyNDU1LDYzOD
+g5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNCwx
+MjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MTY1NzkyLC01OTk2Nj
+g1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDUsMTYzMTM2NzEzNl19
+
 -->
