@@ -852,10 +852,10 @@ The most memorable online tournament for me has been SBS from early 2024. We all
 
 ### Online Tournament Logistics
 
-PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems first.
+PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems early at the tournament.
 
-The major spots at PES with accessible Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated).
-The places you can debate in GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
+The major accessible spots at PES with Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated.)
+The places you can debate in the GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this only as a last resort, and not for a long duration either. It's usually deserted on Saturdays and Sundays, and you can enter and turn on the lights yourself. 
 
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMwNjgzODAxLDY1MTU0NDc1MCw1ODcwMzgwMT
-QsLTk1MjczNTg0MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2
-NjM2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NT
-M1NDAsMTQ3NTU3MDMwNSwtMTgyNjg2ODc5NSwyMDY1Njg1MTgw
-LC0yMzUxMDk5NDEsLTExODEzMDA3NzYsLTE4ODE5Njg5MTAsLT
-IwMDU3NzczNTEsMTQwOTc0MzU2MiwtNjQ5NDI2MDkyLDY3NjA3
-NDAwOF19
+c3RvcnkiOlstMTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MD
+E0LC05NTI3MzU4NDAsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAs
+NjYzNjQ1NTUwLDEzODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzOD
+UzNTQwLDE0NzU1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4
+MCwtMjM1MTA5OTQxLC0xMTgxMzAwNzc2LC0xODgxOTY4OTEwLC
+0yMDA1Nzc3MzUxLDE0MDk3NDM1NjIsLTY0OTQyNjA5Miw2NzYw
+NzQwMDhdfQ==
 -->
