@@ -699,7 +699,7 @@ You're cooked. I'm just as clueless as you.
 [Back to Table of Contents](#table-of-contents)
 
 The major differences between tournaments and mocks are:
-stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends)
+Stakes, dedicated days for debate, and the increased depth and breadth of the community (More time with more friends).
 
 Aaaaaand the money.
 
@@ -1385,11 +1385,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA4NDAyMTU5MCwtMTEwODEwMjM3MywtMjI4Nj
-g2MDc3LC0xNTQ3MTkwNzcsMTI2NDk4MzMwLDEyNzI0MTY1MDEs
-LTE4OTk4Nzg3OTIsLTIwNjk3NzQ2OTIsMTc2NDk5MzM4MywxNj
-AzMjcyNzc5LC0yMTQxOTAyNDU1LDYzODg5NTI2MywyMDk3NTE4
-MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OT
-A3OTg2MjgsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1
-Ml19
+c3RvcnkiOls2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgxMD
+IzNzMsLTIyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5ODMzMCwx
+MjcyNDE2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3Nj
+Q5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUy
+NjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMj
+EzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3
+XX0=
 -->
