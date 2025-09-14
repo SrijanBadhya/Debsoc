@@ -661,10 +661,12 @@ However, a few issues from Sam's text are
 Although this is nice in principle, it's very idealistic and hides a lot of difficulty behind the phrase, '(rather informally)'. It's hard to ensure that such narratives around judging are created exactly the way we wish. "Presented as a given" sounds a lot like, "compulsory".
 
 ### Elevating The Judging Experience
-Adjudication only started to really feel fulfilling to me when I felt the value I was providing.
+Adjudication only started to truly be fulfilling to me when I could feel the value I was providing.
 - I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me (narcissist). 
 - I wasn't a 'useless trainee' judge anymore, but now a chair who people depended on.
-- I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit, the man.
+- I felt this 'value' when juniors asked me for feedback on getting better. It made me feel like I was the shit, the man (narcissist again).
+
+_This is starting to get into the territory of altruism being selfish, 
 
 Since they aren't fully qualified to give feedback, these motivations don't work for inexperienced judges. How then do we get them to enjoy judging?
 
@@ -1378,11 +1380,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyNDE2NT
-AxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMzODMs
-MTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUyNjMsMjA5Nz
-UxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQsMTIwMjEzOTIzOSwx
-NTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5NjY4NTA3LDE5NDMyOT
-M5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzYsLTEwNDgwNzU3OTRd
+c3RvcnkiOlstMTc0MTY1MDc2MywtMTU0NzE5MDc3LDEyNjQ5OD
+MzMCwxMjcyNDE2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0Njky
+LDE3NjQ5OTMzODMsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mz
+g4OTUyNjMsMjA5NzUxODIzMCw3Nzk0OTE4MTAsNTYzNDA0MzQs
+MTIwMjEzOTIzOSwxNTkwNzk4NjI4LDY1NzE2NTc5MiwtNTk5Nj
+Y4NTA3LDE5NDMyOTM5NTIsNTQzNjgyMDA1LDE2MzEzNjcxMzZd
 fQ==
 -->
