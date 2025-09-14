@@ -679,11 +679,11 @@ I think there are primarily 2 ways to replicate a portion of this feeling that I
 2. **If you're a speaker, ask this junior judge for feedback. This isn't something we do normally because we don't see much gain for ourselves. However, it can still help to know how an ordinary person would interpret your speech. 
 It works wonders for a junior's enjoyment of judging, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them regardless, by saying that you value their words, you value the fact that they sat through your 1 hour yap, a judge is a judge, etc.**
 
-Speakers rarely feel insignificant, because people pay attention to their words, and their words are talked about in the OA. Unlike speakers whose words are paid attention to and talked about in a Trainees however often feel insignificant. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
+Unlike speakers whose words are paid attention to and talked about in an OA, Trainees often feel insignificant. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
-_However, I wouldn't recommend getting the fresher to give an OA to everyone because people might follow incorrect advice from them. What I did, was ask this panelist to give their OA privately to me. 
-However, if you think you can interrupt their OA and catch them on every mistake or misleading piece of feedback, and prevent harm to the other fresher speakers, then go for public OAs. 
-However, interrupting is annoying, and you might make a mental note of their mistakes and tell them later, but in this case you're also quite likely to forget your mental notes._
+_However, I wouldn't recommend getting the fresher to give an OA to everyone because people might follow incorrect advice from them. What I did, was ask this panelist to give their OA privately to just me._ 
+- _However, if you think you can interrupt their OA and catch them on every mistake or misleading piece of feedback, and prevent harm to the other fresher speakers, then you can go for public OAs._ 
+- + However, interrupting is annoying, and you might make a mental note of their mistakes and tell them later, but in this case you're also quite likely to forget your mental notes._
 
 
 
@@ -1381,11 +1381,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzg0OTA5ODk3LC0yMjg2ODYwNzcsLTE1NDcxOT
-A3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3ODc5Miwt
-MjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxND
-E5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEw
-LDU2MzQwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYyOCw2NTcxNj
-U3OTIsLTU5OTY2ODUwNywxOTQzMjkzOTUyLDU0MzY4MjAwNV19
-
+c3RvcnkiOlstMTc1NDk0NzA3NCwtMjI4Njg2MDc3LC0xNTQ3MT
+kwNzcsMTI2NDk4MzMwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIs
+LTIwNjk3NzQ2OTIsMTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMT
+QxOTAyNDU1LDYzODg5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgx
+MCw1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MT
+Y1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDVd
+fQ==
 -->
