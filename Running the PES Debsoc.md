@@ -718,7 +718,7 @@ I don't have experience communicating between students and the management, so I 
 Basically, tournament reimbursement slots are kind of limited. Every slot is hard-earned by the clubheads or whoever communicates to the management. 
 
 You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
-It's awkward to tell friends, to tell people you know, that they don't meet the bar to attain reimbursement for the tournament. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
+It's awkward to tell friends, people you know, that they don't meet the bar to attain reimbursement for the tournament. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
 
 If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
 What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments yet isn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
@@ -1385,11 +1385,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0MD
-A4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC0yMjg2ODYwNzcs
-LTE1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OT
-g3ODc5MiwtMjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3
-NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNz
-c5NDkxODEwLDU2MzQwNDM0LDEyMDIxMzkyMzksMTU5MDc5ODYy
-OF19
+c3RvcnkiOls1NjA5MTUyMzIsMTQwOTc0MzU2MiwtNjQ5NDI2MD
+kyLDY3NjA3NDAwOCwtMTA4NDAyMTU5MCwtMTEwODEwMjM3Mywt
+MjI4Njg2MDc3LC0xNTQ3MTkwNzcsMTI2NDk4MzMwLDEyNzI0MT
+Y1MDEsLTE4OTk4Nzg3OTIsLTIwNjk3NzQ2OTIsMTc2NDk5MzM4
+MywxNjAzMjcyNzc5LC0yMTQxOTAyNDU1LDYzODg5NTI2MywyMD
+k3NTE4MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNCwxMjAyMTM5MjM5
+XX0=
 -->
