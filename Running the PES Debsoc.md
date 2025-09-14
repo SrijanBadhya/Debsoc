@@ -785,10 +785,10 @@ Debate tournaments have a stark difference between expectations and reality for 
 - They might reach home later than they told their parents to expect them.
 - They might delay food expecting a lunch break, and then miss out on eating food at all, if you haven't told them the strategic time to eat food.
 - There are a lot of possible logistic issues like all members of a team filling duplicate feedback, trainees being confused about filling the ballot, waiting for the OA during the silent round, a bunch of other Tabbycat issues like navigating on your private url, different forms of check-in, etc.
-- They also won't know a couple of life hacks like waiting for the motion on WhatsApp instead of going to the audi, being allowed to ask CAP or chair for the dictionary definitions, and of course
 - They might expect the tournament to provide food so they wouldn't have made their own food plans like lunch boxes.
+- And most of all, won't know the meaning of the word imminent.
 
-One briefing session before their first tournament, talking about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
+One briefing session before their first tournament where you talk about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
 
 The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. And they won't have really comprehended that this is a national level tournament with people years elder to them.
 Every novice initially assumes that they'll only face novices in the tournament, and get a rude awakening. 
@@ -1389,11 +1389,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE4MTMwMDc3NiwtMTg4MTk2ODkxMCwtMjAwNT
-c3NzM1MSwxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4
-LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC0yMjg2ODYwNzcsLT
-E1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3
-ODc5MiwtMjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3Nz
-ksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5
-NDkxODEwXX0=
+c3RvcnkiOlstMTYwNzAzNzEzOSwtMTE4MTMwMDc3NiwtMTg4MT
+k2ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0MjYw
+OTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC
+0yMjg2ODYwNzcsLTE1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQx
+NjUwMSwtMTg5OTg3ODc5MiwtMjA2OTc3NDY5MiwxNzY0OTkzMz
+gzLDE2MDMyNzI3NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIw
+OTc1MTgyMzBdfQ==
 -->
