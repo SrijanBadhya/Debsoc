@@ -684,7 +684,8 @@ Unlike speakers whose words are paid attention to and talked about in an OA, Tra
 _However, I wouldn't recommend getting the fresher to give an OA to everyone because people might follow incorrect advice from them. What I did, was ask this panelist to give their OA privately to just me._ 
 - _However, if you think you can interrupt their OA and catch them on every mistake or misleading piece of feedback, and prevent harm to the other fresher speakers, then you can go for public OAs._ 
 - + _However, interrupting is also annoying. To avoid this, you might decide make a mental note of their mistakes and tell them later. This flaw in this solution is that you're also quite likely to forget your mental notes._
-(that does it for these 3 confusing lines of prolb
+
+(That's it for these 3 confusing lines of a problem to a solution to a problem to a solution to a problem to a solution to a problem to a solution.)
 
 
 # How to resolve Debsoc Drama
@@ -1381,7 +1382,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjI4NzE2NTU5LC0yMjg2ODYwNzcsLTE1NDcxOT
+c3RvcnkiOlstOTgxNDIwNjgzLC0yMjg2ODYwNzcsLTE1NDcxOT
 A3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3ODc5Miwt
 MjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxND
 E5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEw
