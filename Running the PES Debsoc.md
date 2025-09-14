@@ -868,7 +868,7 @@ Security guards might tell you that it's closed when you enter B block. Reply (O
 If they say that it's restricted, tell them that the Debate Club is doing an online competition here, just like they have been doing for the last 2 years.  
 If all else fails, say that you know a security guard named Shankar. If Shankar is there, tell him that you're the kids of Srijan. 😂😂
 
-However they'll usually let you in without asking any questions. Just don't make sure a boy and a girl enter together, always go in larger groups or one by one.
+They'll usually let you in without asking any questions. Just don't have one boy and one girl enter together. Always go in larger groups or one by one.
 
 You're allowed to order food to PES, collect it at the main gate, bring it up to 13th floor and eat there. 
 
@@ -1391,7 +1391,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQwMDQ4NTczNiw3NDA1NzcxNDYsODI2Nzk3Mj
+c3RvcnkiOlstMTY1NzY0MjcwOSw3NDA1NzcxNDYsODI2Nzk3Mj
 UxLC0xMzUyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1
 MjczNTg0MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2ND
 U1NTAsMTM4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAs
