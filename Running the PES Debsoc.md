@@ -343,7 +343,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 [Back to Table of Contents](#table-of-contents)
 
-Unsolicited advice is annoying to anyone. You can choose the consent approach of meeting a junior and saying, "Do you want feedback"
+Unsolicited advice is annoying to anyone. You can choose the consent approach of meeting each speaker and saying, "Do you want feedback", or, "Anyone who wants feedback can ask me now". I prefer the latter because it when people _ask_ for your advice, they're likely to value it more. So thi 
 
 
 Feedback is often tricky once your brain has shut down after the debate. I learned the hard way that you may just try to make up something from your own notes, or default to something generic.
@@ -1385,7 +1385,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjc5MTg1OTk4LC0yMjg2ODYwNzcsLTE1NDcxOT
+c3RvcnkiOlsxMTcwNjY4Mzk0LC0yMjg2ODYwNzcsLTE1NDcxOT
 A3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5OTg3ODc5Miwt
 MjA2OTc3NDY5MiwxNzY0OTkzMzgzLDE2MDMyNzI3NzksLTIxND
 E5MDI0NTUsNjM4ODk1MjYzLDIwOTc1MTgyMzAsNzc5NDkxODEw
