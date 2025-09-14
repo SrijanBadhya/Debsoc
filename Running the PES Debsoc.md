@@ -812,15 +812,15 @@ If the disappointment of participants builds up after every round, they may neve
 
 I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying sorry for disappointing me (It appears I wasn't successful enough in telling them that results don't matter to me)).
 
-We've had traditions like, "The tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament both if they achieve it and if they don't.
-Sure, it does feel necessary to reward the ones who put effort, and the common way to measure effort put in is by the output, but these people already get enough dopamine hits in my opinion.
+We've had traditions like, "The tab topper at this tournament will be given[^2] brownies", but I don't know how far that really motivates people's performance, or how it impacts their emotions post the tournament when they achieve it and when they don't.
+Sure, it does feel necessary to reward the ones who put effort, and the common way to measure the effort put in, is by the output, but these people already get enough dopamine hits in my opinion.
 
 [^2]: These people sometimes didn't even receive their brownies lmao
 
 ### Breaks
 
 ![enter image description here](https://i.ibb.co/JwzPPn3J/novice-speaker.jpg)
-Breaks are where emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
+Breaks are when emotional turbulence is at a high since it's the culmination of the stakes across the whole tournament. People get starkly divided into the elated and the crestfallen. 
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
 
@@ -1389,7 +1389,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNjE3NzA4MTksNjYzNjQ1NTUwLDEzODk0MDYxMz
+c3RvcnkiOls3MDk2ODIwMDIsNjYzNjQ1NTUwLDEzODk0MDYxMz
 UsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4
 MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMz
 AwNzc2LC0xODgxOTY4OTEwLC0yMDA1Nzc3MzUxLDE0MDk3NDM1
