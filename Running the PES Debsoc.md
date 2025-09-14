@@ -725,7 +725,7 @@ What if someone was active earlier but is inactive now? What if there's a tourna
 
 Are you banning freeloaders, deprioritizing them, or letting everyone in? 
 
-What we did once for an irregular debater, was to only reimburse half the amount. We got to keep your conscience in check while also letting people know that being regular has perks.
+What we did once for an irregular debater, was to only reimburse half their amount. We got to keep your conscience in check while also letting people know that being regular has perks.
 
 ## Tournament Registration
 
@@ -1387,7 +1387,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTA1NjMwMjA2LDE0MDk3NDM1NjIsLTY0OTQyNj
+c3RvcnkiOlsxNTQzODQyODU1LDE0MDk3NDM1NjIsLTY0OTQyNj
 A5Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgxMDIzNzMs
 LTIyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyND
 E2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMz
