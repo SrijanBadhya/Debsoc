@@ -843,9 +843,9 @@ For so long I had felt jealous of people being congratulated, but when me and my
 
 [Back to Table of Contents](#table-of-contents)
 
-The target audience for online tournaments is people who do tourneys to grind debate, even without the fun of the tournament experience. Hence, as time goes on, the only people who partic are the hardcore ones.
+The target audience for online tournaments is people who do tourneys to grind debate, even without the fun of the tournament experience. Hence, as time goes on, the only people who participate are the hardcore ones.
 
-Initially though, online tournaments are popular with juniors who want to do a tournament without investing 3k rupees.
+Initially though, online tournaments are popular with juniors since they get to do a tournament without investing 4k rupees.
 I wouldn't want juniors to start with an online tournament with no fun, and make them believe that all debate tournaments are like this.
 So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
 The most memorable online tournament for me has been SBS in early 2024. We all met up together offline on both days, and debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDEwMzQ4NzI1LDU4NzAzODAxNCwtOTUyNzM1OD
-QwLC0yMDc3Njc3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NTU1MCwx
-Mzg5NDA2MTM1LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwxNDc1NT
-cwMzA1LC0xODI2ODY4Nzk1LDIwNjU2ODUxODAsLTIzNTEwOTk0
-MSwtMTE4MTMwMDc3NiwtMTg4MTk2ODkxMCwtMjAwNTc3NzM1MS
-wxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0MDA4LC0xMDg0
-MDIxNTkwXX0=
+c3RvcnkiOls0Mjc3OTQwNjksNTg3MDM4MDE0LC05NTI3MzU4ND
+AsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEz
+ODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1Nz
+AzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQx
+LC0xMTgxMzAwNzc2LC0xODgxOTY4OTEwLC0yMDA1Nzc3MzUxLD
+E0MDk3NDM1NjIsLTY0OTQyNjA5Miw2NzYwNzQwMDgsLTEwODQw
+MjE1OTBdfQ==
 -->
