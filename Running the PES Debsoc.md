@@ -735,10 +735,10 @@ The first time you forward a tournament advertisement post to freshers, make sur
 
 For their first tourney, most freshers won't know each other, and so you might be left with 4 people with no teammate preference. In this case it makes sense to assign teams yourself. 
 In the future, you don't have to worry about this. People will have friends they want to do tourneys with, and will sign up as pairs/trios. 
-What we sometimes do, is send a poll with a speaker option and an adjudicator option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants, and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
+What we sometimes do, is send a poll with a speaker option and an adjudicator option. I think this system is flawed for reasons I said in my [adj rant](#my-story), and maybe it would be better to just ask for participants and decide the speaker-adj split later. This split is awkward for the reasons I mentioned in [my story](#my-story), but unless you're able to get an adj waiver or have enough voluntary adjes in the soc, you're going to have to deal with this issue somehow.
 
-Early reg is ideal but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
-Since reimbursement gets confirmed very late (often after the tournament), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement". 
+Early reg is ideal, but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
+Since reimbursement gets confirmed very late (sometimes even after the tournament), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement."
 
 It's absolutely necessary to collect money from everybody _**before**_ paying the sum total to the tournament organizing committee. 
 - Otherwise, someone might drop out due to unforeseen reasons after you've already paid their share, and there's no way to really get your money back from them. 
@@ -1388,7 +1388,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzI3MTg1MzgyLDE0MDk3NDM1NjIsLTY0OTQyNj
+c3RvcnkiOlsxMDEwMDU2MzQyLDE0MDk3NDM1NjIsLTY0OTQyNj
 A5Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgxMDIzNzMs
 LTIyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyND
 E2NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMz
