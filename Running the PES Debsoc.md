@@ -352,7 +352,7 @@ Feedback is often tricky once your brain has shut down after the debate. I learn
 
 One thing I found handy was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Missing reasoning", I wrote it down in brackets next to their statement. It also helped me deliver the feedback quicker when asked for it.
 
-Ideally the judges who conduct sessions, are ones who've read and understood the manual, so that 
+Ideally the judges who conduct sessions, are ones who've read and understood the manual, since 
 - Their feedback is far more likely to be valid.
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech, I'm still not sure though".
 - Wrong feedback can set debaters back quite a bit and it's hard for them to ever realize that this is wrong later. They are likely to approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about, I trust my senior more". 
@@ -1385,11 +1385,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEwODEwMjM3MywtMjI4Njg2MDc3LC0xNTQ3MT
-kwNzcsMTI2NDk4MzMwLDEyNzI0MTY1MDEsLTE4OTk4Nzg3OTIs
-LTIwNjk3NzQ2OTIsMTc2NDk5MzM4MywxNjAzMjcyNzc5LC0yMT
-QxOTAyNDU1LDYzODg5NTI2MywyMDk3NTE4MjMwLDc3OTQ5MTgx
-MCw1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OTA3OTg2MjgsNjU3MT
-Y1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1Miw1NDM2ODIwMDVd
-fQ==
+c3RvcnkiOlstMTA4NDAyMTU5MCwtMTEwODEwMjM3MywtMjI4Nj
+g2MDc3LC0xNTQ3MTkwNzcsMTI2NDk4MzMwLDEyNzI0MTY1MDEs
+LTE4OTk4Nzg3OTIsLTIwNjk3NzQ2OTIsMTc2NDk5MzM4MywxNj
+AzMjcyNzc5LC0yMTQxOTAyNDU1LDYzODg5NTI2MywyMDk3NTE4
+MjMwLDc3OTQ5MTgxMCw1NjM0MDQzNCwxMjAyMTM5MjM5LDE1OT
+A3OTg2MjgsNjU3MTY1NzkyLC01OTk2Njg1MDcsMTk0MzI5Mzk1
+Ml19
 -->
