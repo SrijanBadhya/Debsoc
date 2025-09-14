@@ -835,7 +835,7 @@ Pragmatically, the good that you can claim comes out of this is that, "The speak
 
 Other people are also 'inspired enough' anyway to debate. Glorifying someone else is unlikely to result in extra effort from them and can result in them just feeling even worse about themselves. Sure, juniors aren't snowflakes, but there's no real point in hurting their self-esteem when they're already bruised from the tournament. It's normal for humans to feel sad when it comes to something they care about.
 
-For so long I had felt jealous of people being congratulated, but when I and my teammate were on the receiving side, we didn't really find the glorification to be that special, it didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
+For so long I had felt jealous of people being congratulated, but when me and my teammate were on the receiving side, we didn't really find the glorification to be that special. It didn't have an actual impact on our actual happiness, and I felt pity for the ones on the other side.
 
 ![enter image description here](https://i.ibb.co/KcD3g28y/joy-of-breaking.jpg)
 
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2ODY4MDQ1NywtOTUyNzM1ODQwLC0yMDc3Nj
-c3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NTU1MCwxMzg5NDA2MTM1
-LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwxNDc1NTcwMzA1LC0xOD
-I2ODY4Nzk1LDIwNjU2ODUxODAsLTIzNTEwOTk0MSwtMTE4MTMw
-MDc3NiwtMTg4MTk2ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQzNT
-YyLC02NDk0MjYwOTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkwLC0x
-MTA4MTAyMzczXX0=
+c3RvcnkiOls1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3Nz
+A3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwx
+ODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNj
+g2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExODEzMDA3
+NzYsLTE4ODE5Njg5MTAsLTIwMDU3NzczNTEsMTQwOTc0MzU2Mi
+wtNjQ5NDI2MDkyLDY3NjA3NDAwOCwtMTA4NDAyMTU5MCwtMTEw
+ODEwMjM3M119
 -->
