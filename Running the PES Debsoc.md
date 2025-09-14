@@ -788,10 +788,10 @@ Debate tournaments have a stark difference between expectations and reality for 
 - They might expect the tournament to provide food so they wouldn't have made their own food plans like lunch boxes.
 - And most of all, won't know the meaning of the word imminent.
 
-One briefing session before their first tournament where you talk about the logistics, equity, and anything else, can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
+One briefing session before their first tournament where you talk about the logistics and equity can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
 
-The biggest difference between expectations and reality of course, is that juniors are used to interschool science quizzes where most people score high. And they won't have really comprehended that this is a national level tournament with people years elder to them.
-Every novice initially assumes that they'll only face novices in the tournament, and get a rude awakening. 
+The biggest difference between expectations and reality is of course, that juniors are used to interschool science quizzes (where most people score high) and they won't have really comprehended that this is a national level tournament with people years elder to them.
+Every novice initially assumes that they'll only face novices in the tournament and is in for a rude awakening. 
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors usually don't know how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it's happened in APs). I think the egos of juniors are in need of a warning of this tragedy.
 I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However this is something particular to my beliefs and the way I see the world, so I'm unsure if it's better to act like your expectations for them are low, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then it could affect their self-esteem from the start if their mentor has no hope in them.
@@ -1389,11 +1389,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYwNzAzNzEzOSwtMTE4MTMwMDc3NiwtMTg4MT
-k2ODkxMCwtMjAwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0MjYw
-OTIsNjc2MDc0MDA4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC
-0yMjg2ODYwNzcsLTE1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQx
-NjUwMSwtMTg5OTg3ODc5MiwtMjA2OTc3NDY5MiwxNzY0OTkzMz
-gzLDE2MDMyNzI3NzksLTIxNDE5MDI0NTUsNjM4ODk1MjYzLDIw
-OTc1MTgyMzBdfQ==
+c3RvcnkiOlstMjM1MTA5OTQxLC0xMTgxMzAwNzc2LC0xODgxOT
+Y4OTEwLC0yMDA1Nzc3MzUxLDE0MDk3NDM1NjIsLTY0OTQyNjA5
+Miw2NzYwNzQwMDgsLTEwODQwMjE1OTAsLTExMDgxMDIzNzMsLT
+IyODY4NjA3NywtMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyNDE2
+NTAxLC0xODk5ODc4NzkyLC0yMDY5Nzc0NjkyLDE3NjQ5OTMzOD
+MsMTYwMzI3Mjc3OSwtMjE0MTkwMjQ1NSw2Mzg4OTUyNjMsMjA5
+NzUxODIzMF19
 -->
