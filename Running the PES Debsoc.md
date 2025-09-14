@@ -804,7 +804,7 @@ I believed that it was better to make them prepared for this possibility instead
 [Back to Table of Contents](#table-of-contents)
 
 Due to different rooms ending at times, it's hard to execute this, getting everyone to congregate at a designated spot after every round to chill together is vital to tournament vibes. Without a contingent it's easy for people to feel lost and lonely. (I guess this hampers their ability to stay talking to new people, so this is vital primarily to people who are awkward with strangers.)
-I've talked [before](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as impactful to judges who yearn for someone to listen to them (especially since speakers rarely do). 
+I've talked [earlier](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as impactful to judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
 In groups that form naturally, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter). 
 
@@ -1389,11 +1389,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszODk5ODU4MTIsMTgzMzMyNDE0MSwtNzQzODUzNT
-QwLDE0NzU1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4MCwt
-MjM1MTA5OTQxLC0xMTgxMzAwNzc2LC0xODgxOTY4OTEwLC0yMD
-A1Nzc3MzUxLDE0MDk3NDM1NjIsLTY0OTQyNjA5Miw2NzYwNzQw
-MDgsLTEwODQwMjE1OTAsLTExMDgxMDIzNzMsLTIyODY4NjA3Ny
-wtMTU0NzE5MDc3LDEyNjQ5ODMzMCwxMjcyNDE2NTAxLC0xODk5
-ODc4NzkyXX0=
+c3RvcnkiOlsxMzg5NDA2MTM1LDE4MzMzMjQxNDEsLTc0Mzg1Mz
+U0MCwxNDc1NTcwMzA1LC0xODI2ODY4Nzk1LDIwNjU2ODUxODAs
+LTIzNTEwOTk0MSwtMTE4MTMwMDc3NiwtMTg4MTk2ODkxMCwtMj
+AwNTc3NzM1MSwxNDA5NzQzNTYyLC02NDk0MjYwOTIsNjc2MDc0
+MDA4LC0xMDg0MDIxNTkwLC0xMTA4MTAyMzczLC0yMjg2ODYwNz
+csLTE1NDcxOTA3NywxMjY0OTgzMzAsMTI3MjQxNjUwMSwtMTg5
+OTg3ODc5Ml19
 -->
