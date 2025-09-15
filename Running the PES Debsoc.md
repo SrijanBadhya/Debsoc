@@ -879,7 +879,7 @@ You're allowed to order food to PES, collect it at the main gate, bring it up to
 This used to be our regular post-session hangout spot back in 2023, 
 but the last time I went here was after the online tournament Mukhtalif.
 
-Online tournaments can . It was hard for me to engage people in conversation post their debates, because I was busy preparing and giving my OAs. People were sad and everyone wanted to quit before round 5.
+Online tournaments can severely lack fun. It was hard for me to engage people in conversation post their debates, because I was busy preparing and giving my OAs. People were sad and everyone wanted to quit before round 5.
 I reached out to shenanigans 5.0, and they gave me the idea of chilling at Cafe Down The Alley. (We still proceeded to quit round 5 lol)
 
 This was a great idea because it had food and great games. 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAyNjM2NTI0NCw3NDA1NzcxNDYsODI2Nzk3Mj
-UxLC0xMzUyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1
-MjczNTg0MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2ND
-U1NTAsMTM4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAs
-MTQ3NTU3MDMwNSwtMTgyNjg2ODc5NSwyMDY1Njg1MTgwLC0yMz
-UxMDk5NDEsLTExODEzMDA3NzYsLTE4ODE5Njg5MTAsLTIwMDU3
-NzczNTFdfQ==
+c3RvcnkiOlstNjI4MzExMTk5LDc0MDU3NzE0Niw4MjY3OTcyNT
+EsLTEzNTIwMzU4ODQsNjUxNTQ0NzUwLDU4NzAzODAxNCwtOTUy
+NzM1ODQwLC0yMDc3Njc3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NT
+U1MCwxMzg5NDA2MTM1LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwx
+NDc1NTcwMzA1LC0xODI2ODY4Nzk1LDIwNjU2ODUxODAsLTIzNT
+EwOTk0MSwtMTE4MTMwMDc3NiwtMTg4MTk2ODkxMCwtMjAwNTc3
+NzM1MV19
 -->
