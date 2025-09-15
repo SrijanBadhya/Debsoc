@@ -880,7 +880,7 @@ This was our regular post-session hangout spot back in 2023,
 but the last time I went here was after the online tournament Mukhtalif.
 
 Online tournaments can severely lack fun. At Mukhtalif, since I was busy with my OAs, it was hard for me to engage with people post their debates. By round 4 everyone wanted to quit round 5.
-I reached out to shenanigans 5.0, and they gave me the idea of chilling at Cafe Down The Alley. (We still proceeded to quit round 5 lol)
+I reached out to shenanigans 5.0 and they gave me the idea of chilling at Cafe Down The Alley. (They still gave us thumbs up to quit round 5 lol.)
 
 This was a great idea because it had food and great games. 
 Some people played Chess, sometimes people played Uno (I'll hate Debsoc Uno till my dying day because everyone debates over the rules), and we played Jenga, the greatest group game there (because it's so fun for everyone to experience people shaking the tower of blocks). 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTEyMjc3NDg3LC02MjgzMTExOTksNzQwNTc3MT
-Q2LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3
-MDM4MDE0LC05NTI3MzU4NDAsLTIwNzc2NzcwNzgsLTE5ODkxND
-Y0MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUsMTgzMzMyNDE0MSwt
-NzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NT
-Y4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMzAwNzc2LC0xODgxOTY4
-OTEwXX0=
+c3RvcnkiOlsxNzg0OTYzNzQzLC05MTIyNzc0ODcsLTYyODMxMT
+E5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1
+MTU0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3Nz
+A3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwx
+ODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNj
+g2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExODEzMDA3
+NzZdfQ==
 -->
