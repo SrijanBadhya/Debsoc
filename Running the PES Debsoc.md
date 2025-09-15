@@ -887,7 +887,7 @@ Some people played Chess, some played Uno (I'll hate Debsoc Uno till my dying da
 
 The food is on the pricier side and they unfortunately seem to no longer have a discount for PES students.
 
-I like how it's still able to simulate the fun chill vibe of acco at offline tournaments. It also has the novelty of going out instead of staying at PES.
+I like how it's still able to simulate the fun chill vibe of acco(hotels) at offline tournaments. It also has the novelty of going out instead of staying at PES.
 
 # Debate Culture Round the Year
 [Back to Table of Contents](#table-of-contents)
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjUzNTY5MjI5LC05MTIyNzc0ODcsLTYyODMxMT
-E5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1
-MTU0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3Nz
-A3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwx
-ODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNj
-g2ODc5NSwyMDY1Njg1MTgwLC0yMzUxMDk5NDEsLTExODEzMDA3
-NzZdfQ==
+c3RvcnkiOlstMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02MjgzMT
+ExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2
+NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4NDAsLTIwNzc2Nz
+cwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUs
+MTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4Mj
+Y4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMzAw
+Nzc2XX0=
 -->
