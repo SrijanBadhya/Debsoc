@@ -913,7 +913,7 @@ By the way, there are actually a few possible answers to this question
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
 
-It's hard to really solve these problems, the best you can do is things like Cubbon Park sessions, and also keep the value of sessions high.
+It's hard to really solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
 
 - A lot of people, in their head, will feel guilty about coming to debate, because 'they should be studying instead', 'they could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people actually end up passing the time anyway on their short days, the fantasy of this is enough to deter people from walking to a debate session. 
 - Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzMxMDA1NTM0LC01MjEzNTU0NzksLTEzNjU5MT
-QzMTQsLTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3NzQ4
-NywtNjI4MzExMTk5LDc0MDU3NzE0Niw4MjY3OTcyNTEsLTEzNT
-IwMzU4ODQsNjUxNTQ0NzUwLDU4NzAzODAxNCwtOTUyNzM1ODQw
-LC0yMDc3Njc3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NTU1MCwxMz
-g5NDA2MTM1LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwxNDc1NTcw
-MzA1XX0=
+c3RvcnkiOls0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxND
+MxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3
+LC02MjgzMTExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1Mj
+AzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4NDAs
+LTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEzOD
+k0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAz
+MDVdfQ==
 -->
