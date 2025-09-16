@@ -898,7 +898,7 @@ I like how it's still able to simulate the fun chill vibe of acco(hotels) at off
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
 ![enter image description here](https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg)
 
-Being strict works in getting people to work at school because you're forced to come anyway. Being strict in the debsoc and causing bad vibes just pushes people to avoid it all.
+School teachers get to be strict to get results out of students because the students can't really quit school. Being strict in the Debsoc and causing bad vibes just pushes people to avoid it all.
 The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (Actually fill a google form because Whatsapp didn't have the poll feature at the time), and DM one of the heads with a very valid reason if they were missing out on that session. 
 One time our debate knowledge was tested. And we got shit on for not knowing the full form of THP even after a year in the club. 
 When numbers of attendees dropped, we were called to serious meetings where we were yelled at. The constant threat was that if we weren't attending enough sessions, we'd be kicked out of the club. 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMj
-c3NDg3LC02MjgzMTExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwt
-MTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3Mz
-U4NDAsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUw
-LDEzODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0Nz
-U1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5
-OTQxXX0=
+c3RvcnkiOlstMTM2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMj
+IxMTg4NywtOTEyMjc3NDg3LC02MjgzMTExOTksNzQwNTc3MTQ2
+LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MD
+M4MDE0LC05NTI3MzU4NDAsLTIwNzc2NzcwNzgsLTE5ODkxNDY0
+MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUsMTgzMzMyNDE0MSwtNz
+QzODUzNTQwLDE0NzU1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NTY4
+NTE4MF19
 -->
