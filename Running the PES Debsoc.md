@@ -903,10 +903,10 @@ The stance my seniors adopted in 2022 was one involving fear. Everyone was suppo
 One night on a discord voice call, our seniors tested our debate knowledge. We got shit on for not knowing the full form of THP even after a year in the club. 
 When numbers of attendees dropped, we were called to serious meetings. The constant threat we heard was that if we didn't attend enough sessions, we'd be kicked out of the club. 
 
-At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked".
+At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked". (And the rest is history.)
 
-Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
-By the way, there are a few possible answers to this question actually
+Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
+By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkzOTYwNTU3MiwtMTM2NTkxNDMxNCwtMjAzNz
-g0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02MjgzMTEx
-OTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2NT
-E1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4NDAsLTIwNzc2Nzcw
-NzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUsMT
-gzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4MjY4
-Njg3OTVdfQ==
+c3RvcnkiOlstOTY2NDY3OTQ5LC0xMzY1OTE0MzE0LC0yMDM3OD
+QyODEzLC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5
+OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1MT
+U0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3NzA3
+OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwxOD
+MzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNjg2
+ODc5NV19
 -->
