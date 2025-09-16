@@ -920,7 +920,7 @@ A few random concepts that I've learned:
 - Regardless of how much value debate adds to life, nobody thinks that it's more productive than studying. Second year onwards, the main reason people still find the drive to come is because of the community. Debate culture is a testament to the community you've built. People should be _tempted_ to come debate. 
 - The only reason college students do anything besides studies is when something feels fun, or if it's what they visualized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the same way that people hang out with their friends regardless of their academic commitments.
 
-The activity of the Debsoc should be kept fresh even in the minds of the people who don't come debate. Just seeing a poll everyday doesn't give even me a feel of the club being lively, and debating.
+The activity of the Debsoc should be kept fresh even in the minds of the people who don't come debate. From my experience these last few months sitting at home, session polls don't give me a sense of how alive the soc is, only other conversation about the session does.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. It really makes people feel the fear of missing out, the feel that there's something thriving which other people are enjoying, which they are not a part of.
 
 One thing that Akshat Saxena once told me was, to ignite passion in the juniors, the seniors must also show their passion and how debate obsessed they are. This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually", and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
@@ -1392,7 +1392,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjAxNzcxMDAwLDE0MDAzODY5ODMsLTEyMTkwNj
+c3RvcnkiOlstOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNj
 I3NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4Nywt
 NTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC0xNj
 EyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3NDA1Nzcx
