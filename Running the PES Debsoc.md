@@ -907,7 +907,7 @@ At the time I was apathetic about late night online sessions, and I adopted the 
 
 Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
 By the way, there are actually a few possible answers to this question
-1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
+1. It's in the back of their mind, and they always mull about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
 3. They have issues on weekdays but not weekends.
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTczODcyMTc1OCwtNTIxMzU1NDc5LC0xMzY1OT
-E0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0
-ODcsLTYyODMxMTE5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMz
-UyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0
-MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMT
-M4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3
-MDMwNV19
+c3RvcnkiOlstMzMxMDA1NTM0LC01MjEzNTU0NzksLTEzNjU5MT
+QzMTQsLTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3NzQ4
+NywtNjI4MzExMTk5LDc0MDU3NzE0Niw4MjY3OTcyNTEsLTEzNT
+IwMzU4ODQsNjUxNTQ0NzUwLDU4NzAzODAxNCwtOTUyNzM1ODQw
+LC0yMDc3Njc3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NTU1MCwxMz
+g5NDA2MTM1LDE4MzMzMjQxNDEsLTc0Mzg1MzU0MCwxNDc1NTcw
+MzA1XX0=
 -->
