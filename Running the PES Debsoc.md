@@ -905,7 +905,7 @@ When numbers of attendees dropped, we were called to serious meetings. The const
 
 At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked". (And the rest is history.)
 
-Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point.)
+Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
 By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always think about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3OD
-QyODEzLC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5
-OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1MT
-U0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3NzA3
-OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwxOD
-MzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3MDMwNSwtMTgyNjg2
-ODc5NV19
+c3RvcnkiOlstMTczODcyMTc1OCwtNTIxMzU1NDc5LC0xMzY1OT
+E0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0
+ODcsLTYyODMxMTE5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMz
+UyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1MjczNTg0
+MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2NjM2NDU1NTAsMT
+M4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NTM1NDAsMTQ3NTU3
+MDMwNV19
 -->
