@@ -1061,7 +1061,7 @@ This house regrets the dominant portrayal of long-distance relationships as doom
 Here it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope affecting actions is something that can clearly be mechanized from this motion.
 
 ### Pranks
-My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.
+My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.6
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 The main use of the old WhatsApp groups of seniors, has now been to secretly organize pranks lmao.
 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02MjgzMT
-ExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2
-NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4NDAsLTIwNzc2Nz
-cwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUs
-MTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAzMDUsLTE4Mj
-Y4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5OTQxLC0xMTgxMzAw
-Nzc2XX0=
+c3RvcnkiOlstMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMj
+c3NDg3LC02MjgzMTExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwt
+MTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3Mz
+U4NDAsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUw
+LDEzODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0Nz
+U1NzAzMDUsLTE4MjY4Njg3OTUsMjA2NTY4NTE4MCwtMjM1MTA5
+OTQxXX0=
 -->
