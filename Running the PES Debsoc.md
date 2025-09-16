@@ -908,7 +908,7 @@ At the time I was apathetic about late night online sessions, and I adopted the 
 Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
 By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always mull about coming, but they never bring themselves to come. Other things take priority.
-2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore and even feel like even a part of the club). 
+2. They want to be in a club for the sake of it, because it's cool. (There are people who get excited over buying debsoc merch even though they don't debate anymore  even feel like even a part of the club. )
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxND
-MxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3
-LC02MjgzMTExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1Mj
-AzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4NDAs
-LTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNjYzNjQ1NTUwLDEzOD
-k0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUzNTQwLDE0NzU1NzAz
-MDVdfQ==
+c3RvcnkiOlstMTgzMTkwNzYyNCw0OTk1MDU5ODcsLTUyMTM1NT
+Q3OSwtMTM2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4
+NywtOTEyMjc3NDg3LC02MjgzMTExOTksNzQwNTc3MTQ2LDgyNj
+c5NzI1MSwtMTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4MDE0
+LC05NTI3MzU4NDAsLTIwNzc2NzcwNzgsLTE5ODkxNDY0MTAsNj
+YzNjQ1NTUwLDEzODk0MDYxMzUsMTgzMzMyNDE0MSwtNzQzODUz
+NTQwXX0=
 -->
