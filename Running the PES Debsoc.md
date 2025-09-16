@@ -911,9 +911,9 @@ By the way, there are actually a few possible answers to this question
 2. They want to be in a club for the sake of it because it's cool. (There are people who get excited about buying debsoc merch even though they don't debate anymore or even feel like even a part of the club.)
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
 3. They have issues on weekdays but not weekends.
-4. They want to do tournaments because they are super fun, but don't want to attend sessions because they're not that fun. (Surprisingly a very common scenario I've observed).
+4. They want to do tournaments because they are super fun, but don't want to attend sessions which aren't that fun. (Surprisingly a very common scenario I've observed).
 
-It's hard to really solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
+It's hard to entirely solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
 
 - A lot of people, in their head, will feel guilty about coming to debate, because 'they should be studying instead', 'they could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people actually end up passing the time anyway on their short days, the fantasy of this is enough to deter people from walking to a debate session. 
 - Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
@@ -1391,11 +1391,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1ND
-c5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3
-LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3NDA1NzcxNDYsODI2Nz
-k3MjUxLC0xMzUyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQs
-LTk1MjczNTg0MCwtMjA3NzY3NzA3OCwtMTk4OTE0NjQxMCw2Nj
-M2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0MTQxLC03NDM4NTM1
-NDBdfQ==
+c3RvcnkiOlstMTE3MDM3NDg4MCwxOTUzMzA0NTEwLDQ5OTUwNT
+k4NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEz
+LC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3ND
+A1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1MTU0NDc1
+MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3NzA3OCwtMT
+k4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0
+MTQxXX0=
 -->
