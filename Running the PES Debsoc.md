@@ -915,7 +915,8 @@ By the way, there are actually a few possible answers to this question
 
 It's hard to entirely solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
 
-- A lot of people, in their head, will feel guilty about coming to debate, because 'they should be studying instead', 'they could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people actually end up passing the time anyway on their short days, the fantasy of this is enough to deter people from walking to a debate session. 
+A few random concepts that I've learned:
+- A lot of people, in their head, will feel guilty about coming to debate, because they 'should be studying instead'. An empty session will  People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people actually end up passing the time anyway on their short days, the fantasy of this is enough to deter people from walking to a debate session. 
 - Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
 - The only reason college students do anything besides studies, is when something feels fun, or if it's what people picturized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the way that people hang out with their friends regardless of their academic commitments.
 
@@ -1391,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE3MDM3NDg4MCwxOTUzMzA0NTEwLDQ5OTUwNT
-k4NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEz
-LC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3ND
-A1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1MTU0NDc1
-MCw1ODcwMzgwMTQsLTk1MjczNTg0MCwtMjA3NzY3NzA3OCwtMT
-k4OTE0NjQxMCw2NjM2NDU1NTAsMTM4OTQwNjEzNSwxODMzMzI0
-MTQxXX0=
+c3RvcnkiOlsyODEwNzQxMzAsMTk1MzMwNDUxMCw0OTk1MDU5OD
+csLTUyMTM1NTQ3OSwtMTM2NTkxNDMxNCwtMjAzNzg0MjgxMywt
+MTYxMjIxMTg4NywtOTEyMjc3NDg3LC02MjgzMTExOTksNzQwNT
+c3MTQ2LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2NTE1NDQ3NTAs
+NTg3MDM4MDE0LC05NTI3MzU4NDAsLTIwNzc2NzcwNzgsLTE5OD
+kxNDY0MTAsNjYzNjQ1NTUwLDEzODk0MDYxMzUsMTgzMzMyNDE0
+MV19
 -->
