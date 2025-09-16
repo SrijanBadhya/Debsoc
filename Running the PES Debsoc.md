@@ -917,7 +917,7 @@ It's hard to entirely solve these problems. The best you can do is keep the valu
 
 A few random concepts that I've learned:
 - A lot of people, in their head, will feel guilty about coming to debate, because they 'should be studying instead'. During a banal session they may think that they 'could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people do end up passing the time anyway on their short days, the fantasy of this productivity is enough to discourage them from walking to a debate session. 
-- Nobody thinks that debating is more productive than studying, regardless of how much debating adds value to your life. Second year onwards, the main reason people would come is because of the community. People should be _tempted_ to come debate. 
+- Regardless of how much value debate adds to life, nobody thinks that it's more productive than studying. Second year onwards, the main reason people still find the drive to come is because of the community. People should be _tempted_ to come debate. 
 - The only reason college students do anything besides studies, is when something feels fun, or if it's what people picturized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the way that people hang out with their friends regardless of their academic commitments.
 
 The activity of the debsoc should be kept fresh in the minds of even the people who don't come to debate. Just seeing a poll everyday doesn't give even me a feel of the club being lively, and debating.
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzM1MzUwMTk1LDE5NTMzMDQ1MTAsNDk5NTA1OT
-g3LC01MjEzNTU0NzksLTEzNjU5MTQzMTQsLTIwMzc4NDI4MTMs
-LTE2MTIyMTE4ODcsLTkxMjI3NzQ4NywtNjI4MzExMTk5LDc0MD
-U3NzE0Niw4MjY3OTcyNTEsLTEzNTIwMzU4ODQsNjUxNTQ0NzUw
-LDU4NzAzODAxNCwtOTUyNzM1ODQwLC0yMDc3Njc3MDc4LC0xOT
-g5MTQ2NDEwLDY2MzY0NTU1MCwxMzg5NDA2MTM1LDE4MzMzMjQx
-NDFdfQ==
+c3RvcnkiOlstMTIxOTA2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMD
+Q1MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLTEzNjU5MTQzMTQs
+LTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3NzQ4NywtNj
+I4MzExMTk5LDc0MDU3NzE0Niw4MjY3OTcyNTEsLTEzNTIwMzU4
+ODQsNjUxNTQ0NzUwLDU4NzAzODAxNCwtOTUyNzM1ODQwLC0yMD
+c3Njc3MDc4LC0xOTg5MTQ2NDEwLDY2MzY0NTU1MCwxMzg5NDA2
+MTM1XX0=
 -->
