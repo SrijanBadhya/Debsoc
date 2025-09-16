@@ -900,10 +900,10 @@ The question the debsoc will forever grapple with is, "How do we get people to c
 
 School teachers get to be strict to get results out of students because the students can't really quit school. Being strict in the Debsoc and causing bad vibes just pushes people to avoid it all.
 The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (well, actually fill a google form because Whatsapp didn't have the poll feature at the time). If they were missing out on that session, they had to "DM one of the heads with a very valid reason". 
-One discord voice call, our seniors tested our debate knowledge. We got shit on for not knowing the full form of THP even after a year in the club. 
+One night on a discord voice call, our seniors tested our debate knowledge. We got shit on for not knowing the full form of THP even after a year in the club. 
 When numbers of attendees dropped, we were called to serious meetings. The constant threat we heard was that if we didn't attend enough sessions, we'd be kicked out of the club. 
 
-At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked if they remember to do it".
+At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked".
 
 Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense because why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? (The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point).
 By the way, there are a few possible answers to this question actually
@@ -1391,7 +1391,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQzODgwMzA4OSwtMTM2NTkxNDMxNCwtMjAzNz
+c3RvcnkiOlstMTkzOTYwNTU3MiwtMTM2NTkxNDMxNCwtMjAzNz
 g0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02MjgzMTEx
 OTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1MjAzNTg4NCw2NT
 E1NDQ3NTAsNTg3MDM4MDE0LC05NTI3MzU4NDAsLTIwNzc2Nzcw
