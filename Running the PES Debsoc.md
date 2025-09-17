@@ -1173,7 +1173,7 @@ _I also credit Google Gemini for informing me when my sentences didn't have the 
 
 [Back to Table of Contents](#table-of-contents)
 
-Put the debsoc driv
+Put the debsoc drive also here somewhere
 
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
@@ -1181,6 +1181,8 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4Vw
 Debate recordings from a few Majors Tournaments:
 https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0
 (will fill the rest of resources by Sep 12)
+
+BPs with
 
 # Appendix II
 ## Motion List
@@ -1398,7 +1400,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODk5NTc3MzY4LDEyMjc1NDAyNTUsMTE2NjkwND
+c3RvcnkiOlsxMzkyOTAzMzY2LDEyMjc1NDAyNTUsMTE2NjkwND
 YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
 NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
 Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
