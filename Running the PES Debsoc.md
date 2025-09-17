@@ -483,7 +483,7 @@ I think this is slightly exaggerated, because:
 - Even if you're clueless and just debate over and over, there are still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
 4. Tournaments _do_ provide a lot of the benefits which cross mocks try to provide but fail to.
 5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so judging a high-quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
-- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today". (Side note, a great way to learn debate is by doing speeches and then seeing what the people in the round spoke. These directly give you access to great speakers instead of being limited to the weak speakers at PES LOL. Here is a document with a bunch of recorded rou)
+- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today". (Side note, a great way to learn debate is by doing speeches and then seeing what the people in the round spoke. These directly give you access to great speakers instead of being limited to the weak speakers at PES LOL. [Here](https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0) is a document with a bunch of recorded rounds of Majors.)
 
 
 ---
@@ -1177,7 +1177,8 @@ _I also credit Google Gemini for informing me when my sentences didn't have the 
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
 
-
+Debate recordings from a few Majors Tournaments:
+https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0
 (will fill the rest of resources by Sep 12)
 
 # Appendix II
@@ -1396,7 +1397,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODQxNTUwMTYyLDExNjY5MDQ2MDIsMzk3NzQ2Mj
+c3RvcnkiOlsxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2Mj
 I0LC0xMzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0x
 Mzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMD
 M4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMDQ1
