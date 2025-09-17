@@ -1051,7 +1051,7 @@ A good way to make people feel valued is to remember them by their name, call th
 
 ---
 
-**It's great to talk about how you went through the same struggles that they're going through now,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy significantly helps them feel normal and feel less shit about themselves. We don't always do this consciously, and doing it proactively we should proactively try to tell them how we relate to the hardships they're going through now.
+**It's great to talk about how you went through the same struggles that they're going through now,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy significantly helps them feel normal and feel less shit about themselves. Juniors look up to you and see you as someone they want to become, and showing that you're human makes them feel more confident. We don't always tell them this consciously, and doing it proactively ensures that we d we should proactively try to tell them how we relate to the hardships they're going through now.
 
 ---
 
@@ -1457,11 +1457,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1OTAwMDY4MDYsMTM4Nzg5MDY1NiwtMTk2NTQ2OD
-g2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3Miwx
-Mzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1ND
-AyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgs
-MTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MD
-IyMzk2MjUsLTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYy
-NzUwXX0=
+c3RvcnkiOlstMTYwMzkxMzM5OCwxMzg3ODkwNjU2LC0xOTY1ND
+Y4ODYwLC0xNDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5Njcy
+LDEzOTcyMTkzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNz
+U0MDI1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEz
+OCwxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMT
+QwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkw
+NjI3NTBdfQ==
 -->
