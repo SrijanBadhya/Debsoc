@@ -179,7 +179,7 @@ Some of us (including me) believe that being more chill and having more people f
 ![enter image description here](https://i.ibb.co/PZH6yQhT/Whats-App-Image-2025-09-10-at-19-51-42.jpg)
 
 
-
+---
 
 ## Metrics
 So if not tournament wins, what metric _do_ you judge the club by?
@@ -199,7 +199,7 @@ Sure, there aren't any provable 'harms' of using inaccurate metrics, except for 
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
 
-
+---
 # Recruitments
 [Back to the Table of Contents](#table-of-contents)
 
@@ -275,6 +275,7 @@ If you're reading this, you must have already faced the grueling learning curve 
 
 ![enter image description here](https://i.ibb.co/KpR26wDX/Whats-App-Image-2025-09-10-at-15-57-03.jpg)
 
+---
 
 ## Time
 [Back to the Table of Contents](#table-of-contents)
@@ -1424,11 +1425,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzYwNDE2MzU2LC0xOTY1NDY4ODYwLC0xNDc1Nz
-g1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywt
-MjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OT
-A0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3
-LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOT
-AwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1
-MDE5NV19
+c3RvcnkiOls4MDU3ODcxMywtMTk2NTQ2ODg2MCwtMTQ3NTc4NT
+cxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3
+MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwND
+YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
+NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
+Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
+OTVdfQ==
 -->
