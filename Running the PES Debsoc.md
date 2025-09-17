@@ -974,7 +974,7 @@ The real time that you get after the main recruitment is the shared even semeste
 
 
 #### How do we usually carry out informal recruitments?
-- (What we usually _don't do is inform people that this is even possible, and hence we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
+- (What we usually _don't_ do, is inform people that this is even possible. Hence, we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
 Most people don't even know this is possible because the natural assumption of an ignorant first year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
 - Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
@@ -989,9 +989,7 @@ Most people don't even know this is possible because the natural assumption of a
 
 ## Community
 
-[Back to Table of Contents](#table-of-contents)
-
-Write about inbreeding somewhere in some other section. Novice crossmocks don't add that much value. 
+[Back to the Table of Contents](#table-of-contents)
 
 ### Cubbon Park
 Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
@@ -1423,11 +1421,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTU2NDA0MTA5LC0yNzM3MjkwNTEsMTcxOTM3NT
-I2MCwxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0x
-MzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4Mz
-QxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4
-MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMDQ1MTAsND
-k5NTA1OTg3LC01MjEzNTU0NzksLTEzNjU5MTQzMTQsLTIwMzc4
-NDI4MTNdfQ==
+c3RvcnkiOlsxMzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1Mj
+YwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjQsLTEz
+MTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEzOTgzND
+EyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxNDAwMzg2OTgz
+LC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMTk1MzMwNDUxMCw0OT
+k1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxNDMxNCwtMjAzNzg0
+MjgxM119
 -->
