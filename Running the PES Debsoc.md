@@ -277,7 +277,7 @@ If you're reading this, you must have already faced the grueling learning curve 
 
 
 ## Time
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 From the feedback forms and personal experience, the single biggest deterrent of attending debate sessions is time. 
 
@@ -343,7 +343,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 ##  Feedback
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now". I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likely to value it more.
 
@@ -395,7 +395,7 @@ Once you tell debaters that speaker scores are a thing, they'll sometimes badger
 
 ## Balancing
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 Once you know the skill levels of people, you can occasionally match up teammates to make the debate 'balanced'.
 - Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to stay motivated to come to sessions. Even if they feel like trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if the Debsoc isn't able to uplift those who work hard, then it's a skill issue of the Debsoc.)
@@ -517,7 +517,7 @@ In summary, I think cross mocks are cool when they're successful. Making them su
 
 ## A few issues of sessions that persist
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 a) Dividing the workload:
 
@@ -551,7 +551,7 @@ I talk more about debate turnout as a whole in [Push to come to sessions](#push-
 c) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer and became a chapter of its own.
 
 # Adj Rant
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 ## Encouraging Adjing is Complicated
 
@@ -586,6 +586,7 @@ Anyway, this highlights a couple problems with adjing.
  - There's no real opportunity to talk to anyone either. You have your lunch alone during case prep time for the speakers. At least speaking teams get to chill with each other when judges are preparing their OA.
  - Adjing is boring and challenging with no thrilling payoff every round.(If you're a panelist one round and get panelist next round, you have no idea whether you judged well or not. At least speakers get their results instantly.)
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
+ 
 4. You usually can't go to a tournament as 6 speakers and no adj. So if one person is a designated adj, who's gonna adj and earn this person a speaking slot when they want to speak? If nobody steps up this person will be pushed to adj yet again.
 5. At the CUPD that I spoke about, there were 4 teams with seniors, 1 team from us freshers, 1 senior adj, and 4 junior adjes. It looked like my seniors essentially 'used' us freshers to carry the burden of adjing so that they could enjoy the speaking slots which we opened up for them.
 6. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
@@ -603,11 +604,11 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ## The Adj Narrative
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 ### Characterization
 
-==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**==
+==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because 
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
@@ -1415,7 +1416,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA0NjUyNjA4MywxMjI3NTQwMjU1LDExNjY5MD
+c3RvcnkiOlstMTA4OTE4MjcwMywxMjI3NTQwMjU1LDExNjY5MD
 Q2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4Njcs
 LTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MD
 A2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUw
