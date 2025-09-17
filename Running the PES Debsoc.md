@@ -1051,7 +1051,7 @@ A good way to make people feel valued is to remember them by their name, call th
 
 ---
 
-**It's great to talk about how you went through the same struggles that they're going through now,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy significantly helps them feel normal and feel less shit about themselves. Juniors look up to you and see you as someone they want to become, and showing that you're human makes them feel more confident. We don't always tell them this consciously, and doing it proactively ensures that we d we should proactively try to tell them how we relate to the hardships they're going through now.
+**It's great to talk about how you went through the same struggles that they're going through now,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy significantly helps them feel normal and feel less shit about themselves. Juniors look up to you and see you as someone they want to become, and showing that you're human makes them feel more confident. We don't always tell them this consciously, and doing it proactively ensures that we comfort more people and comfort them earlier.
 
 ---
 
@@ -1457,11 +1457,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYwMzkxMzM5OCwxMzg3ODkwNjU2LC0xOTY1ND
-Y4ODYwLC0xNDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5Njcy
-LDEzOTcyMTkzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNz
-U0MDI1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEz
-OCwxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMT
-QwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkw
-NjI3NTBdfQ==
+c3RvcnkiOlstNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Nj
+g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
+MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
+QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
+LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xND
+AyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2
+Mjc1MF19
 -->
