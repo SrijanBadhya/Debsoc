@@ -1051,7 +1051,7 @@ A good way to make people feel valued is to remember them by their name, call th
 
 ---
 
-**It's great to talk about how you went through the same struggles,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy is great  them feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.
+**It's great to talk about how you went through the same struggles that they're going through now,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy significantly helps them feel normal and feel less shit about themselves. We don't always do this consciously, and doing it proactively we should proactively try to tell them how we relate to the hardships they're going through now.
 
 ---
 
@@ -1457,7 +1457,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NDc2NjMwMDcsMTM4Nzg5MDY1NiwtMTk2NTQ2OD
+c3RvcnkiOls1OTAwMDY4MDYsMTM4Nzg5MDY1NiwtMTk2NTQ2OD
 g2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3Miwx
 Mzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1ND
 AyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgs
