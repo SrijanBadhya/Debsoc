@@ -672,12 +672,14 @@ However, a few issues from Sam's text are
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!" and we might impulsively say, "If you want to speak, then come earlier next time," as an effort to make them punctual. 
 - Even actions with positive intent can be destructive. Profusely thanking someone for agreeing to your judge can be destructive ("Thank you so so so much for making a huge sacrifice and agreeing to judge my mock/judge for this tournament"), because they further the narrative that adjing is undesirable.
 - If you have a strict bar for people to participate in tourneys (inactive people cannot come to tourneys), you might be tempted to lower the bar for someone who wants to adj, saying, "We really need an adj, we'll take you to Bombay with us even if you have been inactive", which further pushes the undesirability of adjing.
+---
 - Page 38 and 40 of the book I mentioned earlier, [Empowering University Debate Clubs](https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view) puts it into words better than I ever can. (Page 38 is about the difficult task of getting seniors to judge juniors, which I'd recommend checking out.) Here are some very relevant excerpts from page 40:
 - - Sometimes societies struggle with finding people willing to judge and opt for a rotating system. This usually enforces an obligation to judge one time per three to four debates. This system is good for egalitarian treatment and makes sure no one feels like they are being pressured into judging too much. In small societies with just a few qualified judges, this system-approach allows for new people to quickly get into judging. The advice would be to ask the good judges to chair the first few months with different new people as wings before going fully into the system to keep the judging level consistent. However, this system can make judging seem like “a chore” to earn “the reward” of debate. It forces people to keep track of how many people have debated and can decrease judging quality if a big pool of novices is involved. A hybrid system of rotating systems (rather informally) and encouraging narratives and activities can prevent the cons of this approach.
 > Furthermore, it should be emphasized that judging is just a part of debating and it is a great opportunity to provide feedback to help your friends and fellow debaters improve. Rather than seeing it as an act of service, it should be presented as a given, not to create narratives of judging being a “duty” and debating a “reward”.
 
 Although this is nice in principle, it's very idealistic and hides a lot of difficulty behind the phrase, '(rather informally)'. It's hard to ensure that such narratives around judging are created exactly the way we wish. "Presented as a given" sounds a lot like, "compulsory".
 
+---
 ### Elevating The Judging Experience
 Adjudication only started to truly be fulfilling to me when I could feel the value I was providing.
 - I was the sole third year student holding sessions, and I felt valued since sessions couldn't run without me (narcissist). 
@@ -705,10 +707,12 @@ _However, I wouldn't recommend getting the fresher to give an OA to everyone bec
 
 (That's it for these 3 confusing lines of a problem to a solution to a problem to a solution to a problem to a solution to a problem to a solution.)
 
+---
 
 # How to resolve Debsoc Drama
 You're cooked. I'm just as clueless as you.
 
+---
 # Tournaments
 
 [Back to the Table of Contents](#table-of-contents)
@@ -742,6 +746,7 @@ Are you banning freeloaders, deprioritizing them, or letting everyone in?
 
 What we did once for an irregular debater, was to only reimburse half their amount. We got to keep your conscience in check while also letting people know that being regular has perks.
 
+---
 ## Tournament Registration
 
 [Back to the Table of Contents](#table-of-contents)
@@ -755,12 +760,13 @@ What we sometimes do, is send a poll with a speaker option and an adjudicator op
 Early reg is ideal, but it's often really hard because there are so many steps like people asking their parents, reimbursement mails, etc.
 Since reimbursement gets confirmed very late (often after the tournament reg closes), we usually tell people, "There's a chance of reimbursement, but no guarantee, so register only if you can handle no reimbursement."
 
+---
 It's absolutely necessary to collect money from everybody _**before**_ paying the sum total to the tournament organizers. 
 - Otherwise, someone might drop out due to unforeseen reasons after you've already paid their share, and there's no way to really get your money back from them. 
 - - You have to struggle to find a replacement which is rarely possible because everyone interested will already have registered. 
 - If someone has paid you already, they're less likely to drop out because the money has already been spent. 
 
-
+---
 ## Words from Stuthi
 
 [Back to the Table of Contents](#table-of-contents)
@@ -1434,11 +1440,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nz
-g1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywt
-MjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OT
-A0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3
-LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOT
-AwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1
-MDE5NV19
+c3RvcnkiOlstMjYxMzUxNzg5LDEzODc4OTA2NTYsLTE5NjU0Nj
+g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
+MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
+QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
+LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xND
+AyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2
+Mjc1MF19
 -->
