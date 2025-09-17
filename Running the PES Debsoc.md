@@ -967,9 +967,9 @@ The real time that you get after the main recruitment is the shared even semeste
 Most people don't even know this is possible because the natural assumption of an ignorant first year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
 - Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
-- We still need to make sure people feel like they earned their way into the club.
-- I usually set the bar of attendance to be like 5 sessions, and once they reach that, they get into Shenanigans.
-- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
+- We may still need to make sure people feel like they earned their way into the club, so a bar to get in may be necessary.
+- I usually set the bar of attendance to be like 4 sessions, and once they surpass that, they get into Shenanigans.
+- People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, Tusti, started off by spectating debates and then proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
 - A few people who undergo informal recruitments are the people who barely missed out in round 3, who still expressed desire to join when I reached out to them. I keep the bar a little lower for them. I'm glad to see many of them are still debating today, 6 months later, and did NALSAR, like Shubhangi, Akshay Gudur, and Akshith.
 
 
@@ -1396,7 +1396,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ3NjE1MzkzOSwxMTY2OTA0NjAyLDM5Nzc0Nj
+c3RvcnkiOlstMTM5NjM4MzY5NywxMTY2OTA0NjAyLDM5Nzc0Nj
 IyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MDA0Miwt
 MTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MD
 AzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0
