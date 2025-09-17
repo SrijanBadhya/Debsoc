@@ -608,12 +608,12 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Characterization
 
-==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something if they believe it's good. The value of something is quite affected by its value in the eyes of society. Even if a garbage collector enjoys collecting garbage, they may not enjoy their job if they're treated weirdly by society.
+==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something out if they believe it's good. The value of something is quite affected by its value in the eyes of society. Even if a garbage collector enjoys collecting garbage, they may not enjoy their job if they're treated weirdly by society.
 
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
-The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing the next session.)
+The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing in the next session.)
 The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still slightly hold the belief today that this happened due to random chance.
 
 
@@ -1417,11 +1417,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwND
-YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
-NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
-Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
-OTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMT
-M2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEy
-Mjc3NDg3XX0=
+c3RvcnkiOlstMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MD
+I1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwx
+NjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMj
+IzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3
+NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNT
+IxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEy
+MjExODg3XX0=
 -->
