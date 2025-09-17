@@ -963,7 +963,7 @@ The real time that you get after the main recruitment is the shared even semeste
 
 
 #### How do we usually carry out informal recruitments?
-- (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who push their message through their friends, or get their hands on the contact number of the clubhead and pester them). This is enormous work on them, and it should be way easier than this for someone to opt in. Most people don't even think this is possible because the natural assumption of an ignorant first year is that people only get recruited during recruitments, so even if they want to reach out, they don't because they don't see the point of the attempt. 
+- (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. Most people don't even think this is possible because the natural assumption of an ignorant first year is that people only get recruited during recruitments, so even if they want to reach out, they don't because they don't see the point of the attempt. 
 - Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We still need to make sure people feel like they earned their way into the club.
@@ -1395,11 +1395,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NDE3Mjk4NTMsMTE2NjkwNDYwMiwzOTc3NDYyMj
-QsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEz
-OTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxNDAwMz
-g2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMTk1MzMwNDUx
-MCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxNDMxNCwtMj
-AzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02Mjgz
-MTExOTldfQ==
+c3RvcnkiOlstMjAzMTQ4NjY0LDExNjY5MDQ2MDIsMzk3NzQ2Mj
+I0LC0xMzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0x
+Mzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMD
+M4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMDQ1
+MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLTEzNjU5MTQzMTQsLT
+IwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3NzQ4NywtNjI4
+MzExMTk5XX0=
 -->
