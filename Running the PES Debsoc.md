@@ -1056,7 +1056,7 @@ A good way to make people feel valued is to remember them by their name, call th
 ---
 
 By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
-- Some of these people are the ones who have shifted from their regular friends group, to having debsoc as their primary friends group, in various ways. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen and you constantly meet these people.) 
+- Some of these people are the ones who have shifted from their regular friends group, to having debsoc as their primary friends group, due to various external factors. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen and you constantly meet these people.) 
 - Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, or they didn't have people who actively talked to them, or they didn't have much to talk about.
 - - At debsoc, these people have seniors who actively talk to them. They actively get used to speaking (at least for 7 minutes a day), and there is already content to discuss during post-debate relaxation.
 - This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
@@ -1457,11 +1457,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Nj
-g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
-MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
-QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
-LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xND
-AyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2
-Mjc1MF19
+c3RvcnkiOlstMTQwMjk2MDE4LC00Njg1MzQ4MjUsMTM4Nzg5MD
+Y1NiwtMTk2NTQ2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMs
+MTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mz
+c1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjQs
+LTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEzOT
+gzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxNDAwMzg2
+OTgzXX0=
 -->
