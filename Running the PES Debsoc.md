@@ -990,15 +990,14 @@ A major reason people find it difficult to come to sessions after classes is fee
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to directly debate.
 
-
-
-
+---
 #### What causes the need of informal recruitments?
 
 - A lot of people may not have heard of the debsoc at the start of recruitments, or even if they had, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
 - Most such people get interested in the debsoc because their friend sings them praises of the Debsoc.
 - If these people are made to wait until the official recruitments next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem). By the next sem, maybe even their friend drops out, and they aren't invested enough in debating to care to continue without this friend.
 
+---
 #### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
 - **It really helps with the activity of the soc in the even sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At this point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire.) With informal recruits, you get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
@@ -1008,7 +1007,7 @@ Every year there are people initially anxious about speaking in front of strange
 - If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you (since they haven't reached the 8-month boredom point). 
 - Even if they seem temporary and you think they'll leave soon (because they didn't care enough to come to the actual recruitments), their help in keeping the society alive is valuable to keep the flow of the other members going.
 
-
+---
 #### How do we usually carry out informal recruitments?
 - (What we usually _don't_ do, is inform people that this is even possible. Hence, we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
 Most people don't even know this is possible because the natural assumption of an ignorant first year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
@@ -1020,9 +1019,7 @@ Most people don't even know this is possible because the natural assumption of a
 - A few people who undergo informal recruitments are the people who barely missed the bar in round 3, and still expressed desire to join when I reached out to them. I keep the bar a little lower for them since they had already debated a little. I'm glad to see many of them are still debating today, 6 months later, and did NALSAR too, like Shubhangi, Akshay Gudur, and Akshith. (I made extra sessions for them during the regular recruitment semester itself.)
 
 
-
-
-
+---
 ## Community
 
 [Back to the Table of Contents](#table-of-contents)
@@ -1041,7 +1038,7 @@ We've played kabaddi, dog and the bone, mafia, and card games.
 
 The most frustrating part of Cubbon has been the arrival. People at their first Cubbon session won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon, so maybe a video walkthrough could help. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start the debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up.)
 
-
+---
 ### Beyond The Debates
 
 Circles get formed in hangouts quite often. These circles can be both physical with body posture, or metaphysical, where a new or rare fresher is excluded.  People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who already know each other.
@@ -1054,7 +1051,7 @@ A good way to make people feel valued is to remember them by their name, call th
 
 ---
 
-**It's great to talk about how you went through the same struggles,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions too. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.
+**It's great to talk about how you went through the same struggles,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.
 
 ---
 
@@ -1460,7 +1457,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODI4MTUxNDU5LDEzODc4OTA2NTYsLTE5NjU0Nj
+c3RvcnkiOlsxOTcxOTQwMzIwLDEzODc4OTA2NTYsLTE5NjU0Nj
 g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
 MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
 QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
