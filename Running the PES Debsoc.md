@@ -1003,7 +1003,7 @@ As I mention later, the opportunities for Cubbon Park sessions are rare and you 
 Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
 We've played kabaddi, dog and the bone, mafia, and card games.
 
-The most difficult part of Cubbon has been the arrival. For people's first Cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up). 
+The most di part of Cubbon has been the arrival. For people's first Cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up). 
 
 
 ### Beyond The Debates
@@ -1424,11 +1424,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MjA1OTkxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5Mz
-csLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2
-NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mj
-g2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUs
-LTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3Mz
-UzNTAxOTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3
-OV19
+c3RvcnkiOlsyMzYxNTYyODAsNTIwNTk5MTQzLDE2NzM0ODk2Nz
+IsMTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3
+NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MT
+M4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0x
+NDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4MywtMTIxOT
+A2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMDQ1MTAsNDk5NTA1OTg3
+XX0=
 -->
