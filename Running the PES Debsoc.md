@@ -981,7 +981,7 @@ Most people don't even know this is possible because the natural assumption of a
 - We may still need to make sure people feel like they earned their way into the club, so a bar to get in may be necessary.
 - I usually set the bar of attendance to be like 4 sessions, and once they surpass that, they get into Shenanigans.
 - People like Harikeshav, Nahush, Gokul, Aditya Chaitanya, Tusti, started off by spectating debates before proceeding to debate themselves. I believe spectating should be counted as attendance (like I've said previously).
-- A few people who undergo informal recruitments are the people who barely missed out in round 3, who still expressed desire to join when I reached out to them. I keep the bar a little lower for them since they had already debated a little. I'm glad to see many of them are still debating today, 6 months later, and did NALSAR too, like Shubhangi, Akshay Gudur, and Akshith. (I made extra sessions for them during the regular recruitment semester itself.)
+- A few people who undergo informal recruitments are the people who barely missed the bar in round 3, and still expressed desire to join when I reached out to them. I keep the bar a little lower for them since they had already debated a little. I'm glad to see many of them are still debating today, 6 months later, and did NALSAR too, like Shubhangi, Akshay Gudur, and Akshith. (I made extra sessions for them during the regular recruitment semester itself.)
 
 
 
@@ -1421,11 +1421,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQxODA2MzI3MSwxMzk3MjE5MzcsLTI3MzcyOT
-A1MSwxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwz
-OTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2ND
-AwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUz
-NywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMT
-k1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkx
-NDMxNF19
+c3RvcnkiOlsxNjczNDg5NjcyLDEzOTcyMTkzNywtMjczNzI5MD
+UxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OTA0NjAyLDM5
+Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MD
+A0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3
+LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOT
+UzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0
+MzE0XX0=
 -->
