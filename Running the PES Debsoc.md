@@ -923,7 +923,7 @@ A few random concepts that I've learned:
 The activity of the Debsoc should be kept fresh even in the minds of the people who don't come debate. From my experience sitting at home these last few months, session polls don't give me a sense of how alive the soc is. Only other conversation about the session does.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. This really makes people feel like they're missing out and that there's something thriving which other people are enjoying.
 
-Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to show their own passion and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually", and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
+Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to show their own passion and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to also enjoy debate. On the flip side, seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually," and making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
 
 Inertia is huge and letting people go long without debating can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations, like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side if people have started debating every Tuesday and Wednesday, people usually continue it.
 
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNj
-QxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5
-NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMz
-Y1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIy
-Nzc0ODcsLTYyODMxMTE5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC
-0xMzUyMDM1ODg0LDY1MTU0NDc1MCw1ODcwMzgwMTQsLTk1Mjcz
-NTg0MF19
+c3RvcnkiOlstMTg4NDgzMjYwMiwtMTM5ODM0MTI0MCwtMTQwMj
+IzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3
+NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNT
+IxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEy
+MjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3NDA1NzcxND
+YsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1MTU0NDc1MCw1ODcw
+MzgwMTRdfQ==
 -->
