@@ -937,6 +937,7 @@ When numbers of attendees dropped, we were called to serious meetings. The const
 
 At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked". (And the rest is history.)
 
+---
 Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
 By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always mull about coming, but they never bring themselves to come. Other things take priority.
@@ -947,7 +948,8 @@ By the way, there are actually a few possible answers to this question
 
 It's hard to entirely solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
 
-A few random concepts that I've learned:
+---
+A few random concepts that I've learned the hard way:
 - A lot of people, in their head, will feel guilty about coming to debate, because they 'should be studying instead'. During a banal session they may think that they 'could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people do end up passing the time anyway on their short days, the fantasy of this productivity is enough to discourage them from walking to a debate session. 
 - Regardless of how much value debate adds to life, nobody thinks that it's more productive than studying. Second year onwards, the main reason people still find the drive to come is because of the community. Debate culture is a testament to the community you've built. People should be _tempted_ to come debate. 
 - The only reason college students do anything besides studies is when something feels fun, or if it's what they visualized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the same way that people hang out with their friends regardless of their academic commitments.
@@ -955,10 +957,13 @@ A few random concepts that I've learned:
 The activity of the Debsoc should be kept fresh even in the minds of the people who don't come debate. From my experience sitting at home these last few months, session polls don't give me a sense of how alive the soc is. Only other conversation about the session does.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. This really makes people feel like they're missing out and that there's something thriving which other people are enjoying.
 
+---
 Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to show their own passion and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to enjoy debate. On the flip side, seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually." Making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
 
+---
 We learned the hard way that inertia is huge and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
 
+---
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive you can control, it's one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). 
 
 ![enter image description here](https://static.vecteezy.com/system/resources/previews/021/392/820/original/incentive-reward-or-bonus-to-motivate-employee-on-hard-working-to-reach-success-company-benefit-job-promotion-or-employee-program-concept-business-people-run-on-giant-hand-to-grab-carrot-stick-vector.jpg)
@@ -968,18 +973,24 @@ The issue here is that this makes Debsoc sessions look like a chore, but at leas
 
 (We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The Debsoc didn't owe you money because you weren't really a contributing member to the soc, since you didn't assist in its activity through sessions.)
 
+---
 ## Informal recruitments
 
 [Back to Table of Contents](#table-of-contents)
 
-During recruitments, a lot of recruits show up with their friends who just come to spend time with them, not debate. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing (if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends who join the soc together, often egg each other on to come to Debsoc later too. (To be fair, sometimes when one friend leaves the soc, their friend leaves the soc too, but we do have cases where the friend who was dragged into the soc ended up being the one who stayed.)
+Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. Recruitments usually conclude right at the end of the shared odd semester (the portion that's shared between seniors and the first sem of juniors), since the semester is packed with bootstrap, Aarohi (the club showcase for freshers), round 1, round 2, round 3, and then the exams of seniors almost immediately after that. 
+The real time that you get after the main recruitment is the shared even semester (after the sem 1 exams of freshers), which is the right time to encourage lateral entry.
+
+---
+
+During regular recruitments, a lot of recruits show up with their friends who just come to spend time with them, not debate. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing (if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends who join the soc together, often egg each other on to come to Debsoc later too. (To be fair, sometimes when one friend leaves the soc, their friend leaves the soc too, but we do have cases where the friend who was dragged into the soc ended up being the one who stayed.)
 A major reason people find it difficult to come to sessions after classes is feeling they'd rather spend that time with their friend. Bringing the friend along solves that issue.
 
+---
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to directly debate.
 
-Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. Recruitments usually conclude right at the end of the shared odd semester (the portion that's shared between seniors and the first sem of juniors), since the semester is packed with bootstrap, Aarohi (the club showcase for freshers), round 1, round 2, round 3, and then the exams of seniors almost immediately after that. 
-The real time that you get after the main recruitment is the shared even semester (after the sem 1 exams of freshers), which is the right time to encourage lateral entry.
+
 
 
 #### What causes the need of informal recruitments?
@@ -1449,7 +1460,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTQ1MTU5MzY4LDEzODc4OTA2NTYsLTE5NjU0Nj
+c3RvcnkiOlstODI4MTUxNDU5LDEzODc4OTA2NTYsLTE5NjU0Nj
 g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
 MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
 QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
