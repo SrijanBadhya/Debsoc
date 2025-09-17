@@ -342,6 +342,8 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 ![enter image description here](https://i.ibb.co/shr6VfN/just-before-Feedback.jpg)
 
+---
+
 ##  Feedback
 
 [Back to the Table of Contents](#table-of-contents)
@@ -419,23 +421,25 @@ There isn't much 'risk'.
 - The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
 - Through the debates so far, people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give us serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier, but we're desensitized to them.
-
+---
 #### Turncoat
 When there have been 2 or 3 people showing up for a session (like it often happens in the odd sems before recruitments), we played Turncoat with each other. The speaker is given a prompt, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick-witted you have to be while changing your flow.
 
 We used this to market the Debsoc during the club showcase at Aarohi too, back in 2024. We wrote the topics on chits and placed them in a bowl for freshers to pick and speak from.
 
+---
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cause of how goofy it was, and very time efficient too.
 
-
+---
 #### Impromptu debates
 Pretty straightforward. Especially good when there are like 2 people for a session. No prep time, the motion drops and the PM just starts yapping. (The LO technically gets 7 minutes prep time.) For more participants, this format isn't as impactful because they don't feel the time crunch as much (It feels like a regular debate).
 It's a good way to keep you on your feet and make you better prepared for tourney time crunches.
 
+---
 #### Pop debates
 The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do because you can ask it to give you, "Naruto debate motions", and it actually cooks fun motions. 
 The issue with this is that not all of the debaters would have watched Naruto, so these people don't share in the fun. 
@@ -1425,11 +1429,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MDU3ODcxMywtMTk2NTQ2ODg2MCwtMTQ3NTc4NT
-cxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3
-MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwND
-YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
-NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
-Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
-OTVdfQ==
+c3RvcnkiOlstOTYwMjAyMjIsLTE5NjU0Njg4NjAsLTE0NzU3OD
+U3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5NzIxOTM3LC0y
+NzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NTQwMjU1LDExNjY5MD
+Q2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4Njcs
+LTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MD
+A2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUw
+MTk1XX0=
 -->
