@@ -1191,6 +1191,11 @@ https://youtu.be/1aW74xUed-I?si=60PvmtPikNwSBvkB
 Judging Basics by Rumen
 https://www.youtube.com/playlist?list=PLdk7ZVs2HpVzzQgkbMxmXGR2fszHz-0GL
 
+Judging and OAs by Pranav Kagalkar
+https://www.youtube.com/watch?v=_U0DC21f55k
+
+AP weighing and basics
+https://www.youtube.com/watch?v=3aTZKcS0tb8)
 
 # Appendix II
 ## Motion List
@@ -1408,11 +1413,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0OTE3NjQ5MzEsMTIyNzU0MDI1NSwxMTY2OTA0Nj
-AyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01
-MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNj
-QxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5
-NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMz
-Y1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIy
-Nzc0ODddfQ==
+c3RvcnkiOlstOTU2MDgxNTUyLDEyMjc1NDAyNTUsMTE2NjkwND
+YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
+NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
+Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
+OTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMT
+M2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEy
+Mjc3NDg3XX0=
 -->
