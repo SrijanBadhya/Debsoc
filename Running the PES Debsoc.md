@@ -608,7 +608,8 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Characterization
 
-==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something if they believe it's good. The value of something is quite affected by its value in the eyes of society. 
+==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something if they believe it's good. The value of something is quite affected by its value in the eyes of society. Even if a garbage collector enjoys collecting garbage, they may not enjoy their job if they're treated weirdly by society.
+
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
@@ -1416,11 +1417,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NjA2MzU4MiwxMjI3NTQwMjU1LDExNjY5MDQ2MD
-IsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4NjcsLTUz
-NjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MDA2ND
-E1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1
-LDE5NTMzMDQ1MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLTEzNj
-U5MTQzMTQsLTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3
-NzQ4N119
+c3RvcnkiOlsxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwND
+YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
+NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
+Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
+OTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMT
+M2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEy
+Mjc3NDg3XX0=
 -->
