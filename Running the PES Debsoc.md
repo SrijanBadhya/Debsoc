@@ -950,9 +950,9 @@ The real time that you get after the main recruitment is the shared even semeste
 
 #### What causes the need of informal recruitments?
 
-- A lot of people might not have heard of the debsoc at the start of recruitments, or even if they have, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
-- Most such people get interested in the debsoc because their friend sings praises of the debsoc.
-- If these people are made to wait until the official recruitments next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem). Or because by the next sem, their friend drops out and they aren't invested enough into debating to care to continue.
+- A lot of people may not have heard of the debsoc at the start of recruitments, or even if they had, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
+- Most such people get interested in the debsoc because their friend sings them praises of the Debsoc.
+- If these people are made to wait until the official recruitments next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem). By the next sem, m their friend drops out and they aren't invested enough into debating to care to continue without this friend.
 
 #### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
@@ -1395,11 +1395,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4Nj
-EzOCwxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwt
-MTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMT
-kwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4
-NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC
-0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3NDA1
-NzcxNDZdfQ==
+c3RvcnkiOlstMTQ4NDY5NjI1OSwxMTY2OTA0NjAyLDM5Nzc0Nj
+IyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MDA0Miwt
+MTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MD
+AzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0
+NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC
+0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYy
+ODMxMTE5OV19
 -->
