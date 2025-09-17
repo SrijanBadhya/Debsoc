@@ -117,7 +117,7 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 
 If something isn't here, it's probably because I don't know enough about it to talk about it. This isn't a debate tournament where I'd be forced to yap about it anyway 😂
 
-To navigate across sections (if y
+To navigate across sections (if you get distracted by a few links), find the nearest link back to this Table of Contents and navigate from here.
 
 ---
 
@@ -201,7 +201,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 
 
 # Recruitments
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 remember to add these pictures in recruitments later Srijan
 
@@ -227,7 +227,7 @@ Add the following image to the, "even if temporary, provided value" thing
 
 
 # Inside a session
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 ## Session Concepts
 Many factors go into ensuring the quality of experience of a debate session.
@@ -1415,11 +1415,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NDkxNDI0NzUsMTIyNzU0MDI1NSwxMTY2OTA0Nj
-AyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01
-MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNj
-QxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5
-NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMz
-Y1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIy
-Nzc0ODddfQ==
+c3RvcnkiOlstMjA0NjUyNjA4MywxMjI3NTQwMjU1LDExNjY5MD
+Q2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4Njcs
+LTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MD
+A2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUw
+MTk1LDE5NTMzMDQ1MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLT
+EzNjU5MTQzMTQsLTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkx
+MjI3NzQ4N119
 -->
