@@ -928,7 +928,7 @@ Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to s
 We learned the hard way that inertia is huge and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive you can control, it's one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). 
-
+![enter image description here](https://friendlystock.com/wp-content/uploads/2022/07/9-donkey-carrot-on-a-stick-cartoon-clipart.jpg)
 This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
 The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
 
@@ -1394,7 +1394,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyOTIxMDI1NjQsMTYyMDk1Mjg2NywtNTM2NDAwND
+c3RvcnkiOls4ODAyNDI5MjgsMTYyMDk1Mjg2NywtNTM2NDAwND
 IsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywx
 NDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMTk1Mz
 MwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxNDMx
