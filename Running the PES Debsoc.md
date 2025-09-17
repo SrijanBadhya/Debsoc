@@ -939,7 +939,7 @@ The issue here is that this makes Debsoc sessions look like a chore, but at leas
 [Back to Table of Contents](#table-of-contents)
 
 During recruitments, a lot of recruits show up with their friends who just come to spend time with them, not debate. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing (if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends who join the soc together, often egg each other on to come to Debsoc later too. (To be fair, sometimes when one friend leaves the soc, their friend leaves the soc too, but we do have cases where the friend who was dragged into the soc ended up being the one who stayed.)
-A major reason people find it difficult to come to sessions after classes is if they'd rather spend that time with their friend, and bringing the friend along solves that issue.
+A major reason people find it difficult to come to sessions after classes is feeling they'd rather spend that time with their friend. Bringing the friend along solves that issue.
 
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to debate or not.
@@ -1394,11 +1394,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MD
-A0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3
-LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOT
-UzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0
-MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0OD
-csLTYyODMxMTE5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUy
-MDM1ODg0XX0=
+c3RvcnkiOlszOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mj
+g2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUs
+LTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3Mz
+UzNTAxOTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3
+OSwtMTM2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4Ny
+wtOTEyMjc3NDg3LC02MjgzMTExOTksNzQwNTc3MTQ2LDgyNjc5
+NzI1MV19
 -->
