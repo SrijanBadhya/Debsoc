@@ -614,7 +614,7 @@ From the way my CUPD lore went down, it's clear that my initial bad impression o
 
 
 The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing in the next session.)
-The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts of it. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still slightly hold the belief today that this happened due to random chance.
+The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts of it. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still mildly hold the belief today that this happened due to random chance.
 
 
 How do we make sure this trend continues?
@@ -895,12 +895,13 @@ The food is on the pricier side and they unfortunately seem to no longer have a 
 I like how it's still able to simulate the fun chill vibe of acco(hotels) at offline tournaments. It also has the novelty of going out instead of staying at PES.
 
 # Debate Culture Round the Year
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 
 ## Push to come to sessions
 
 The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
+
 ![enter image description here](https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg)
 
 School teachers get to be strict to get results out of students because the students can't really quit school. Being strict in the Debsoc and causing bad vibes just pushes people to avoid it all.
@@ -933,7 +934,9 @@ Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to s
 We learned the hard way that inertia is huge and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive you can control, it's one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). 
+
 ![enter image description here](https://static.vecteezy.com/system/resources/previews/021/392/820/original/incentive-reward-or-bonus-to-motivate-employee-on-hard-working-to-reach-success-company-benefit-job-promotion-or-employee-program-concept-business-people-run-on-giant-hand-to-grab-carrot-stick-vector.jpg)
+
 This also makes the reward feel valuable to someone because they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat of no freeloading is followed, it remains as an incentive since there are tournaments around the year. If you were ineligible for one tournament you can just earn the reward of the next tournament.
 The issue here is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions.) It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
 
@@ -1417,7 +1420,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjIwMjM0ODAxLC0yNzM3MjkwNTEsMTcxOTM3NT
+c3RvcnkiOlsxNzYwMjEwODUxLC0yNzM3MjkwNTEsMTcxOTM3NT
 I2MCwxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0x
 MzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4Mz
 QxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4
