@@ -483,7 +483,9 @@ I think this is slightly exaggerated, because:
 - Even if you're clueless and just debate over and over, there are still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
 4. Tournaments _do_ provide a lot of the benefits which cross mocks try to provide but fail to.
 5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so judging a high-quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
-- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today".
+- This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today". (Side note, a great way to learn debate is by doing speeches and then seeing what the people in the round spoke. These directly give you access to great speakers i
+- Also talk about recordings on Youtue and how these can add as much value as high level crossmocks.
+Maybe talk about doing speeches and then seeing how the people in the recording did it. 
 
 ---
 
@@ -980,8 +982,7 @@ Most people don't even know this is possible because the natural assumption of a
 
 [Back to Table of Contents](#table-of-contents)
 
-Write about inbreeding somewhere in some other section. Novice crossmocks don't add that much value. Also talk about recordings on Youtue and how these can add as much value as high level crossmocks.
-Maybe talk about doing speeches and then seeing how the people in the recording did it. 
+Write about inbreeding somewhere in some other section. Novice crossmocks don't add that much value. 
 
 ### Cubbon Park
 Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
@@ -1396,11 +1397,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc3MzkwODk0NSwxMTY2OTA0NjAyLDM5Nzc0Nj
-IyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MDA0Miwt
-MTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MD
-AzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0
-NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC
-0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYy
-ODMxMTE5OV19
+c3RvcnkiOlstOTgzMjg1NDIxLDExNjY5MDQ2MDIsMzk3NzQ2Mj
+I0LC0xMzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0x
+Mzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMD
+M4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMDQ1
+MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLTEzNjU5MTQzMTQsLT
+IwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3NzQ4NywtNjI4
+MzExMTk5XX0=
 -->
