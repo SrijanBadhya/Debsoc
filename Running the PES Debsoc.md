@@ -608,7 +608,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Characterization
 
-==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because 
+==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something if they believe it's good. The value of something is quite affected by its value in the eyes of society. 
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
@@ -1416,11 +1416,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA4OTE4MjcwMywxMjI3NTQwMjU1LDExNjY5MD
-Q2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4Njcs
-LTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MD
-A2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUw
-MTk1LDE5NTMzMDQ1MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLT
-EzNjU5MTQzMTQsLTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkx
-MjI3NzQ4N119
+c3RvcnkiOls1NjA2MzU4MiwxMjI3NTQwMjU1LDExNjY5MDQ2MD
+IsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4NjcsLTUz
+NjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MDA2ND
+E1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1
+LDE5NTMzMDQ1MTAsNDk5NTA1OTg3LC01MjEzNTU0NzksLTEzNj
+U5MTQzMTQsLTIwMzc4NDI4MTMsLTE2MTIyMTE4ODcsLTkxMjI3
+NzQ4N119
 -->
