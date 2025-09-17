@@ -998,9 +998,9 @@ The vibes of Cubbon are unattainable on regular days at PES. Cubbon sessions hav
 2. People have more free time on the weekends.
 
 Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people were split between Saturday and Sunday, we did both, but that was too exhausting.
-As I mention later, the opportunities for Cubbon Park sessions are rare so you should grab them when you can. Vacation time may seem ideal but you're bound to miss out on hostelites who go home. Holding them a few times a year keeps them accessible to everyone.
+As I mention later, the opportunities for Cubbon Park sessions are rare so you should grab them when you can. Vacation time may seem ideal but you're bound to miss out on hostelites who've gone home. Holding them a few times a year keeps them accessible to everyone.
 
-Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We usually end up playing eventually anyway, but half the time we precede this playing with a debate.
+Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We end up playing eventually anyway, but hal we precede this with a debate.
 We've played kabaddi, dog and the bone, mafia, and card games.
 
 The most frustrating part of Cubbon has been the arrival. For people's first Cubbon session, they won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up). 
@@ -1424,11 +1424,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OT
-Y3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEy
-Mjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4OD
-YxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAs
-LTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMj
-E5MDYyNzUwLDE3MzUzNTAxOTUsMTk1MzMwNDUxMCw0OTk1MDU5
-ODddfQ==
+c3RvcnkiOlstMjA0NzAwOTMyNCwtMTQ3NTc4NTcxMCw1MjA1OT
+kxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwx
+NzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3ND
+YyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIs
+LTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxND
+AwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMTk1MzMw
+NDUxMF19
 -->
