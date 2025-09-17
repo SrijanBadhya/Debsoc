@@ -993,7 +993,10 @@ Most people don't even know this is possible because the natural assumption of a
 
 ### Cubbon Park
 Holding a couple Cubbon Park Sessions in a year is a Debsoc tradition.
-The vibes of Cubbon are unattainable on regular days at PES. Cubbon sessions have way more turnout also because more of Bangalore lives closer to Cubbon Park than PES, and have more free time on the weekends.
+The vibes of Cubbon are unattainable on regular days at PES. Cubbon sessions have way more turnout also because 
+1. More of Bangalore lives closer to Cubbon Park than PES
+2. People have more free time on the weekends.
+
 Cubbon Park is usually scheduled for a Saturday or Sunday. One time when people were split between Saturday and Sunday, we did both, but that was too exhausting.
 As I mention later, the opportunities for Cubbon Park sessions are rare and you should grab them if you want them. Vacation time may seem ideal but you're bound to miss out on hostelites who go home. Holding them a few times a year keeps them accessible to everyone.
 
@@ -1421,11 +1424,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjczNDg5NjcyLDEzOTcyMTkzNywtMjczNzI5MD
-UxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OTA0NjAyLDM5
-Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MD
-A0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3
-LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOT
-UzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0
-MzE0XX0=
+c3RvcnkiOls1MjA1OTkxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5Mz
+csLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2
+NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mj
+g2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUs
+LTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3Mz
+UzNTAxOTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3
+OV19
 -->
