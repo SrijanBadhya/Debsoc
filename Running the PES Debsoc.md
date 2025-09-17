@@ -925,7 +925,7 @@ Share the motion on the WhatsApp group (not the Sessions group because that prev
 
 Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to show their own passion and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to enjoy debate. On the flip side, seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually." Making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
 
-Inertia is huge and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
+We learned the hard way that inertia is huge and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
 
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive, one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). This also makes the reward feel valuable to someone since they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat is followed upon, it remains as an incentive since tournaments are constant through the year, and being prevented from one tournament isn't permanent because you can earn your reward for the next tournament.
 The issue is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions). It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
@@ -942,7 +942,7 @@ A major reason people find it difficult to come to sessions after classes is if 
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to debate or not.
 
-Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared odd semester semester (the portion that's shared between seniors and the first sem of juniors). 
+Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared odd semester (the portion that's shared between seniors and the first sem of juniors). 
 
 
 #### What causes the need of informal recruitments?
@@ -1392,11 +1392,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMz
-k2MjUsLTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUw
-LDE3MzUzNTAxOTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMT
-M1NTQ3OSwtMTM2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIx
-MTg4NywtOTEyMjc3NDg3LC02MjgzMTExOTksNzQwNTc3MTQ2LD
-gyNjc5NzI1MSwtMTM1MjAzNTg4NCw2NTE1NDQ3NTAsNTg3MDM4
-MDE0XX0=
+c3RvcnkiOlsxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MT
+I0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMs
+LTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OT
+UwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQy
+ODEzLC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OS
+w3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUyMDM1ODg0LDY1MTU0
+NDc1MF19
 -->
