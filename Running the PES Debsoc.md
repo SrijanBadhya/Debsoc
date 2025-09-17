@@ -958,7 +958,7 @@ The real time that you get after the main recruitment is the shared even semeste
 - It lessens the load on the swarm of recruitments the next year.
 - **It really helps with the activity of the soc in the even sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At this point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire.) With informal recruits, you get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
 ![enter image description here](https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg)
-- If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you. 
+- If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you (since they haven't reached the 8-month boredom point). 
 - Even if they're temporary and you think they'll leave soon (because they didn't care enough to come to the actual recruitments), their help in keeping the society alive is valuable to keep the flow of the other members going.
 
 
@@ -1395,11 +1395,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5ODQ0NDkwMDUsMTE2NjkwNDYwMiwzOTc3NDYyMj
-QsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEz
-OTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxNDAwMz
-g2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMTk1MzMwNDUx
-MCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxNDMxNCwtMj
-AzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02Mjgz
-MTExOTldfQ==
+c3RvcnkiOlstMTM4NDIwNTUwNywxMTY2OTA0NjAyLDM5Nzc0Nj
+IyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01MzY0MDA0Miwt
+MTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MD
+AzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0
+NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC
+0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYy
+ODMxMTE5OV19
 -->
