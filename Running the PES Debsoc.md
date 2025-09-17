@@ -944,7 +944,8 @@ A major reason people find it difficult to come to sessions after classes is fee
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to directly debate.
 
-Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. With round 1, round 2, round 3, and usually the exams of seniors almost immediately after that, recruitments usually conclude right at the end of the shared odd semester (the portion that's shared between seniors and the first sem of juniors). 
+Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. Recruitments usually conclude right at the end of the shared odd semester (the portion that's shared between seniors and the first sem of juniors), since the semester is packed with bootstrap, Aarohi (the club showcase for freshers), round 1, round 2, round 3, and then the exams of seniors almost immediately after that. 
+So the real time that you 
 
 
 #### What causes the need of informal recruitments?
@@ -1394,11 +1395,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUxNTkzMjQ0MiwzOTc3NDYyMjQsLTEzMTM4OD
-YxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAs
-LTE0MDIyMzk2MjUsLTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMj
-E5MDYyNzUwLDE3MzUzNTAxOTUsMTk1MzMwNDUxMCw0OTk1MDU5
-ODcsLTUyMTM1NTQ3OSwtMTM2NTkxNDMxNCwtMjAzNzg0MjgxMy
-wtMTYxMjIxMTg4NywtOTEyMjc3NDg3LC02MjgzMTExOTksNzQw
-NTc3MTQ2XX0=
+c3RvcnkiOlstOTMwMTk3OTQzLDM5Nzc0NjIyNCwtMTMxMzg4Nj
+EzOCwxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwt
+MTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMT
+kwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4
+NywtNTIxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC
+0xNjEyMjExODg3LC05MTIyNzc0ODcsLTYyODMxMTE5OSw3NDA1
+NzcxNDZdfQ==
 -->
