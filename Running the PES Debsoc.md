@@ -1047,11 +1047,11 @@ It can be really impactful to put extra effort to talk to everyone so that they 
 ![enter image description here](https://www.utoronto.ca/sites/default/files/picpath/2015-12-02-feeling-alone.jpg)
 ---
 
-A good way to make people feel valued is to remember them by their name, call them by their name, make some reference to a thing they had said on a previous day, etc. It makes them feel less like they're invisible and more like they had some impact on the people of debsoc.
+A good way to make people feel valued is to remember them by their name, call them by their name, make some reference to a thing they had said on a previous day, etc. This makes them feel less like they're invisible and more like they had some impact on the people of Debsoc.
 
 ---
 
-**It's great to talk about how you went through the same struggles,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy is great for them to feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.
+**It's great to talk about how you went through the same struggles,** had a love-hate relationship with debate, how your confidence oscillated, how you always forgot impacting, how you used to fumble glorification, narrative, and THR motions, and how everything made you want to quit. This empathy is great  them feel normal and less shit about themselves. We don't always consciously do this, but we should proactively try to tell them how we relate to the hardships they're going through now.
 
 ---
 
@@ -1457,11 +1457,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTcxOTQwMzIwLDEzODc4OTA2NTYsLTE5NjU0Nj
-g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
-MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
-QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
-LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xND
-AyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2
-Mjc1MF19
+c3RvcnkiOls3NDc2NjMwMDcsMTM4Nzg5MDY1NiwtMTk2NTQ2OD
+g2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3Miwx
+Mzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1ND
+AyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgs
+MTYyMDk1Mjg2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MD
+IyMzk2MjUsLTkwMDY0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYy
+NzUwXX0=
 -->
