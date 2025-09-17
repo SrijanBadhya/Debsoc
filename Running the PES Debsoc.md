@@ -448,11 +448,13 @@ Such fun motion days are best for when chatter in the Debsoc has progressed to t
 
 This variety of debate activities keeps debate fresh and fun.
 
+---
 #### Game Night
 In early 2024, my batch of clubheads started online game nights. Popular games are the ones people have experience playing in class already, like Skribbl.io. 
 
 If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played. It also makes it easier to get on Voice Chat alongside this, which adds to the fun.
 
+---
 ### Online Sessions
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities from clubs.
 
@@ -477,6 +479,7 @@ It means the world to people if you dm them and check up on them and how they fe
 
 ![enter image description here](https://i.ibb.co/qL0ScSGB/right-before-crossmocks.jpg)
 
+---
 ### Cross Mocks
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
@@ -555,6 +558,7 @@ I talk more about debate turnout as a whole in [Push to come to sessions](#push-
 
 c) Another issue is the complications of adjing. This was initially a section under "Inside a Session", but my rant grew longer and longer and became a chapter of its own.
 
+---
 # Adj Rant
 [Back to the Table of Contents](#table-of-contents)
 
@@ -597,7 +601,7 @@ Anyway, this highlights a couple problems with adjing.
 6. My seniors believed that freshers should compulsorily adj their first tournament. I think this is a good concept on paper, but the main issues are:
 - A dozen freshers sign up for the first tournament available. It doesn't make sense to make all of them adj.
 - The point of the initial tournament is to give juniors an experience so fun and insightful that juniors will want to continue debating and doing tournaments. Even if the grueling work of adjing 'builds character', they may not want to do a tournament ever again.
-
+---
 _One initial solution I had thought of a year ago, was to make people adj once every three or four tournaments._
 - _This number was chosen because contingents usually can afford twice (BP) or thrice (AP) the number of speakers than adjes (when N=N), and mathematically the ratios match when people switch roles across tournaments._
 - _Freshers will get to speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucked._ 
@@ -606,7 +610,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge to decide a winner, or how to analyze clashes. The thrill of speaking is way more than the thrill of listening, so to bait them into the debsoc they initially are made to speak.
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
-
+---
 ## The Adj Narrative
 
 [Back to the Table of Contents](#table-of-contents)
@@ -637,6 +641,7 @@ How do we make sure this trend continues?
 - However, I have a few possible [ideas](#elevating-the-judging-experience) on how you might improve a fresher's enjoyment of judging mocks. 
 - Even if you can't safely encourage adjing, what is definitely important, is to avoid _discouraging_ adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
+---
 Samuel, my senior, once said this to encourage judging,
 
 "Also, I notice a lot of you love speaking and I couldn't be glader [_sic_] you're all eager to debate. However do note that Adjudication/Judging is equally important for the following reasons:
@@ -657,7 +662,7 @@ However, a few issues from Sam's text are
 - The judge prize money isn't that accurately portrayed (only the big tournaments are talked about and not the average ones), and winning a prize feels like a speculative impact to a lot of people.
 - Sam missed out on all the benefits IAs and SAs get. If you want to market judging financially to people, **tell them about how colleges in Bangalore like NLS and Christ pay people, quite ordinary SA level people to come judge for them.** I got 5k once to judge NLS (Even though I have never broken at a tournament) and I was super happy about judging. (Okay, NLS has gotten way stricter recently, and the only reason I got that 5k judging gig is because Samuel, the original invitee, dipped out at the last minute.)
 
-
+---
 
 ### Common Pitfalls
 
@@ -1429,11 +1434,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTYwMjAyMjIsLTE5NjU0Njg4NjAsLTE0NzU3OD
-U3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5NzIxOTM3LC0y
-NzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NTQwMjU1LDExNjY5MD
-Q2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4LDE2MjA5NTI4Njcs
-LTUzNjQwMDQyLC0xMzk4MzQxMjQwLC0xNDAyMjM5NjI1LC05MD
-A2NDE1MzcsMTQwMDM4Njk4MywtMTIxOTA2Mjc1MCwxNzM1MzUw
-MTk1XX0=
+c3RvcnkiOlsxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nz
+g1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywt
+MjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OT
+A0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3
+LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOT
+AwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1
+MDE5NV19
 -->
