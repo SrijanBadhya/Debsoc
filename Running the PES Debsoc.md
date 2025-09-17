@@ -945,7 +945,7 @@ Spectating should be counted as interest even for regular recruitments, because 
 Every year there are people initially anxious about speaking in front of strangers. **Let them know** that spectating is an option, instead of putting the responsibility on them to build up the courage to ask you if they can spectate. A lot of spectators do get converted into debaters, and these people would have been missed out on if they only had the option to directly debate.
 
 Informal recruitments, also known as lateral entry, is the entry of people into the debate society even after official recruitments have concluded. Recruitments usually conclude right at the end of the shared odd semester (the portion that's shared between seniors and the first sem of juniors), since the semester is packed with bootstrap, Aarohi (the club showcase for freshers), round 1, round 2, round 3, and then the exams of seniors almost immediately after that. 
-So the real time that you 
+The real time that you get after the main recruitment is the shared even semester (after the sem 1 exams of freshers), which is the right time to encourage lateral entry.
 
 
 #### What causes the need of informal recruitments?
@@ -1395,7 +1395,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTMwMTk3OTQzLDM5Nzc0NjIyNCwtMTMxMzg4Nj
+c3RvcnkiOlsxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4Nj
 EzOCwxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwt
 MTQwMjIzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMT
 kwNjI3NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4
