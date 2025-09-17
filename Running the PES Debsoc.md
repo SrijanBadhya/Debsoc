@@ -938,7 +938,7 @@ The issue here is that this makes Debsoc sessions look like a chore, but at leas
 
 [Back to Table of Contents](#table-of-contents)
 
-During recruitments, a lot of recruits show up with their friends. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing(if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends often egg each other on to come to Debsoc too.
+During recruitments, a lot of recruits show up with their friends who just come to spend time with them, not debate. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing (if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends who join the soc  often egg each other on to come to Debsoc too.
 A major reason people find it difficult to come to sessions after classes is if they'd rather spend that time with their friend, and bringing the friend along solves that issue.
 
 Spectating should be counted as interest even for regular recruitments, because people are investing their time and exercising their debate muscle. Heck, even walking down to the basement is an indicator of interest.
@@ -1394,11 +1394,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5ODI4NDg5NzAsMTYyMDk1Mjg2NywtNTM2NDAwND
-IsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMDY0MTUzNywx
-NDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAxOTUsMTk1Mz
-MwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMTM2NTkxNDMx
-NCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEyMjc3NDg3LC
-02MjgzMTExOTksNzQwNTc3MTQ2LDgyNjc5NzI1MSwtMTM1MjAz
-NTg4NF19
+c3RvcnkiOlstMTgxMTk1MjkzOCwxNjIwOTUyODY3LC01MzY0MD
+A0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNjQxNTM3
+LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5NSwxOT
+UzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMzY1OTE0
+MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIyNzc0OD
+csLTYyODMxMTE5OSw3NDA1NzcxNDYsODI2Nzk3MjUxLC0xMzUy
+MDM1ODg0XX0=
 -->
