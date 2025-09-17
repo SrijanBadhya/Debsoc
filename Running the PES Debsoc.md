@@ -614,7 +614,7 @@ From the way my CUPD lore went down, it's clear that my initial bad impression o
 
 
 The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing in the next session.)
-The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still slightly hold the belief today that this happened due to random chance.
+The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts of it. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still slightly hold the belief today that this happened due to random chance.
 
 
 How do we make sure this trend continues?
@@ -1417,11 +1417,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MD
-I1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwx
-NjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMj
-IzOTYyNSwtOTAwNjQxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3
-NTAsMTczNTM1MDE5NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNT
-IxMzU1NDc5LC0xMzY1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEy
-MjExODg3XX0=
+c3RvcnkiOlsxNjIwMjM0ODAxLC0yNzM3MjkwNTEsMTcxOTM3NT
+I2MCwxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0x
+MzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4Mz
+QxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4
+MywtMTIxOTA2Mjc1MCwxNzM1MzUwMTk1LDE5NTMzMDQ1MTAsND
+k5NTA1OTg3LC01MjEzNTU0NzksLTEzNjU5MTQzMTQsLTIwMzc4
+NDI4MTNdfQ==
 -->
