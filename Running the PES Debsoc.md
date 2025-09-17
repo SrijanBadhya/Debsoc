@@ -117,6 +117,8 @@ Appendix (i) [Easy Accessible Motion List](#motion-list)
 
 If something isn't here, it's probably because I don't know enough about it to talk about it. This isn't a debate tournament where I'd be forced to yap about it anyway 😂
 
+To navigate across sections (if y
+
 ---
 
 # Guiding Principles
@@ -1171,7 +1173,7 @@ _I also credit Google Gemini for informing me when my sentences didn't have the 
 # Appendix I 
 ## Resources
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 Put the debsoc drive also here somewhere
 
@@ -1195,7 +1197,7 @@ Judging and OAs by Pranav Kagalkar
 https://www.youtube.com/watch?v=_U0DC21f55k
 
 AP weighing and basics
-https://www.youtube.com/watch?v=3aTZKcS0tb8)
+https://www.youtube.com/watch?v=3aTZKcS0tb8
 
 # Appendix II
 ## Motion List
@@ -1413,11 +1415,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTU2MDgxNTUyLDEyMjc1NDAyNTUsMTE2NjkwND
-YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
-NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
-Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
-OTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMT
-M2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEy
-Mjc3NDg3XX0=
+c3RvcnkiOls4NDkxNDI0NzUsMTIyNzU0MDI1NSwxMTY2OTA0Nj
+AyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01
+MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNj
+QxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5
+NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMz
+Y1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIy
+Nzc0ODddfQ==
 -->
