@@ -789,13 +789,14 @@ If the reimbursement amount is particularly high and chances of getting it seem 
 
 And one thing to always remember: Never make grammatical and formatting errors in anything. You will have to redo the whole thing. Personal experience. Vk sir actually sees everything and is very particular about this. Even in the most insignificant mails, if he finds something wrong, he'll point it out and let you know kindly.
 
-
+---
 
 Note from Stuthi for the 'resolving drama' section:
 I would say the best thing is to have a third party, like a senior, get involved, hear out both sides, and try to bring peace, because in all the fights we have had, I regret never actually discussing my issues with the people I had issues with. We only discussed among each other and that was probably the worst thing one can do. Bharath did get involved with us, but it was mostly us venting and him listening and telling us where he thought we were in the right and wrong. He did talk to the juniors [the ones involved on the other side of the drama] sometimes, but I think the best thing would be to have all parties present with a couple sensible seniors who can moderate.
 
 End of Stuthi (no she's alive as of September 14 2025)
 
+---
 ## Tournament Briefing
 
 [Back to the Table of Contents](#table-of-contents)
@@ -811,6 +812,7 @@ Debate tournaments have a stark difference between expectations and reality for 
 
 One briefing session before their first tournament where you talk about the logistics and equity can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
 
+---
 The biggest difference between expectations and reality is of course, that juniors are used to interschool science quizzes (where most people score high) and they won't have really comprehended that this is a national level tournament with people years elder to them.
 "Most novices go into their first tournament assuming they'll only face other beginners, only to get ripped apart by dinos in the first round.
 
@@ -819,7 +821,7 @@ I believed that it was better to make them prepared for this possibility instead
 
 ![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
 
-
+---
 ## Tournament Spirits
 
 [Back to the Table of Contents](#table-of-contents)
@@ -829,6 +831,7 @@ I've talked [earlier](#adjing-obstacles) about how judges feel extremely lonely 
 
 In groups that emerge, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter.)
 
+---
 If the disappointment of participants builds up after every round, they may never want to do a tournament (or even debate) again. Creating good experiences can be done in a myriad of ways like taking fun pictures, dropping lore (Debate lore or even PES lore), asking them to drop their lore, playing card games, and roaming around the campus or the city. 
 
 I find conditional extra hyped stakes like, "If you don't break, you're kicked from the soc," to be in bad taste. Even if it's obvious as a joke, it drives the narrative that the seniors have expectations on you, and if you don't meet them, you're a disappointment. (I'm typing this fresh as a junior randomly texted me saying sorry for disappointing me (It appears I wasn't successful enough in telling them that results don't matter to me)).
@@ -838,6 +841,7 @@ Sure, it does feel necessary to reward the ones who put effort, and the common w
 
 [^2]: These people sometimes didn't even receive their brownies lmao
 
+---
 ### Breaks
 
 ![enter image description here](https://i.ibb.co/JwzPPn3J/novice-speaker.jpg)
@@ -848,6 +852,7 @@ Congratulating your friends who broke is a great display of contingent spirit. I
 
 The people who haven't broken, both the people who narrowly missed out and the people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and to tend to these people by providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
 
+---
 A few people including me believe glorifying the speaker score is useless and does more harm than good. As I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality, fluctuate to the point where they're unreliable. The main 'insight' people derive from a speaker score is who the superior teammate was and who the inferior teammate was. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but speaker scores feel especially harsh because the blame is on you. 
 
 
@@ -861,6 +866,7 @@ For so long I had felt jealous of people being congratulated, but when me and my
 
 ![enter image description here](https://i.ibb.co/KcD3g28y/joy-of-breaking.jpg)
 
+---
 ## Online Tournaments
 
 [Back to Table of Contents](#table-of-contents)
@@ -884,6 +890,7 @@ The GJB cafeteria has like 3 power sockets. I'd recommend this place only as a l
 What I find to be the best place is the 13th floor of B block (heavy favoritism tbh). Debating in the indoors section usually isn't feasible because either there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
 These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
 
+---
 How to access 13th floor:
 
 Security guards might tell you that it's closed when you enter B block. Reply (Obviously talk to the security in Kannada) to this saying that you're not going inside, you'll just be outdoors. 
@@ -894,6 +901,7 @@ Don't let these instructions give you the wrong impression, they'll usually let 
 
 You're allowed to order food to PES, collect it at the main gate, bring it up to 13th floor and eat there. 
 
+---
 
 ### Cafe Down The Alley
 
@@ -911,6 +919,7 @@ The food is on the pricier side and they unfortunately seem to no longer have a 
 
 I like how it's still able to simulate the fun chill vibe of acco(hotels) at offline tournaments. It also has the novelty of going out instead of staying at PES.
 
+---
 # Debate Culture Round the Year
 [Back to the Table of Contents](#table-of-contents)
 
@@ -1440,7 +1449,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjYxMzUxNzg5LDEzODc4OTA2NTYsLTE5NjU0Nj
+c3RvcnkiOlstOTQ1MTU5MzY4LDEzODc4OTA2NTYsLTE5NjU0Nj
 g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
 MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
 QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
