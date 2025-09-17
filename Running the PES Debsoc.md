@@ -1182,7 +1182,15 @@ Debate recordings from a few Majors Tournaments:
 https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0
 (will fill the rest of resources by Sep 12)
 
-BPs with
+BPs with recorded OAs (Good practice for Adjudicators)
+https://youtube.com/playlist?list=PLdk7ZVs2HpVzn751xdVPbWB4axVxPlMUY&si=3kpq7UVUUhVVZnu0
+
+Delivering OAs with Tin Puljic
+https://youtu.be/1aW74xUed-I?si=60PvmtPikNwSBvkB
+
+Judging Basics by Rumen
+https://www.youtube.com/playlist?list=PLdk7ZVs2HpVzzQgkbMxmXGR2fszHz-0GL
+
 
 # Appendix II
 ## Motion List
@@ -1400,11 +1408,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzkyOTAzMzY2LDEyMjc1NDAyNTUsMTE2NjkwND
-YwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2Nywt
-NTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2MjUsLTkwMD
-Y0MTUzNywxNDAwMzg2OTgzLC0xMjE5MDYyNzUwLDE3MzUzNTAx
-OTUsMTk1MzMwNDUxMCw0OTk1MDU5ODcsLTUyMTM1NTQ3OSwtMT
-M2NTkxNDMxNCwtMjAzNzg0MjgxMywtMTYxMjIxMTg4NywtOTEy
-Mjc3NDg3XX0=
+c3RvcnkiOls0OTE3NjQ5MzEsMTIyNzU0MDI1NSwxMTY2OTA0Nj
+AyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3LC01
+MzY0MDA0MiwtMTM5ODM0MTI0MCwtMTQwMjIzOTYyNSwtOTAwNj
+QxNTM3LDE0MDAzODY5ODMsLTEyMTkwNjI3NTAsMTczNTM1MDE5
+NSwxOTUzMzA0NTEwLDQ5OTUwNTk4NywtNTIxMzU1NDc5LC0xMz
+Y1OTE0MzE0LC0yMDM3ODQyODEzLC0xNjEyMjExODg3LC05MTIy
+Nzc0ODddfQ==
 -->
