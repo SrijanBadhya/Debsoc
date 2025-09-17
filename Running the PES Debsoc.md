@@ -701,7 +701,7 @@ You're cooked. I'm just as clueless as you.
 
 # Tournaments
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 The major differences between tournaments and mocks are:
 Stakes, dedicated days for debate, and the increased depth and breadth of the community (more time with more friends).
@@ -734,7 +734,7 @@ What we did once for an irregular debater, was to only reimburse half their amou
 
 ## Tournament Registration
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 The first time you forward a tournament advertisement post to freshers, make sure to state that they shouldn't click on the google form link and register by themselves (a common honest mistake otherwise). 
 
@@ -753,7 +753,7 @@ It's absolutely necessary to collect money from everybody _**before**_ paying th
 
 ## Words from Stuthi
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 So, when they wanna reject reimbursement, there's 2 ways: 
 1 is they ghost you (which is pretty rare) and 
@@ -782,7 +782,7 @@ End of Stuthi (no she's alive as of September 14 2025)
 
 ## Tournament Briefing
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
 
@@ -806,7 +806,7 @@ I believed that it was better to make them prepared for this possibility instead
 
 ## Tournament Spirits
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 Due to different rooms ending at times, it's hard to execute this, getting everyone to congregate at a designated spot after every round to chill together is vital to tournament vibes. Without a contingent it's easy for people to feel lost and lonely. (I guess this hampers their ability to stay talking to new people, so this is vital primarily to people who are awkward with strangers.)
 I've talked [earlier](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as impactful to judges who yearn for someone to listen to them (especially since speakers rarely do). 
@@ -825,6 +825,7 @@ Sure, it does feel necessary to reward the ones who put effort, and the common w
 ### Breaks
 
 ![enter image description here](https://i.ibb.co/JwzPPn3J/novice-speaker.jpg)
+
 Breaks are when emotional turbulence is at a high since it's the culmination of the stakes of the whole tournament. Break announcements starkly divide people into the elated and the crestfallen. 
 
 Congratulating your friends who broke is a great display of contingent spirit. It's great to be proud because we've all trained together and supported each other on the journey of debate.
@@ -965,13 +966,15 @@ The real time that you get after the main recruitment is the shared even semeste
 #### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
 - **It really helps with the activity of the soc in the even sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At this point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire.) With informal recruits, you get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
+
 ![enter image description here](https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg)
+
 - If the average debate tenure of people is 8 months, then when you don't have your old recruits to help you conduct the next recruitments, you'll usually at least have these people to help you (since they haven't reached the 8-month boredom point). 
 - Even if they seem temporary and you think they'll leave soon (because they didn't care enough to come to the actual recruitments), their help in keeping the society alive is valuable to keep the flow of the other members going.
 
 
 #### How do we usually carry out informal recruitments?
-- (What we usually don't do is inform people that this is even possible, and hence we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
+- (What we usually _don't do is inform people that this is even possible, and hence we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
 Most people don't even know this is possible because the natural assumption of an ignorant first year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
 - Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
@@ -1420,7 +1423,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzYwMjEwODUxLC0yNzM3MjkwNTEsMTcxOTM3NT
+c3RvcnkiOlsxOTU2NDA0MTA5LC0yNzM3MjkwNTEsMTcxOTM3NT
 I2MCwxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0x
 MzEzODg2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4Mz
 QxMjQwLC0xNDAyMjM5NjI1LC05MDA2NDE1MzcsMTQwMDM4Njk4
