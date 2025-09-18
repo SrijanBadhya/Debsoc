@@ -1058,7 +1058,7 @@ A good way to make people feel valued is to remember them by their name, call th
 By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
 - Some of these people are the ones who have shifted from their regular friend group, to having the soc as their primary friend group, due to various external factors. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen so you constantly meet these people.) 
 - Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, they didn't have people who actively talked to them, or they didn't have much to talk about.
-- - At debsoc, these people have seniors who actively talk to them. They actively get used to speaking (at least for 7 minutes a day), and there is already content to discuss during post-debate relaxation.
+- - At debsoc, these people have seniors who actively talk to them. conversation feels natural since they've gotten used to speaking (for at least 7 minutes a day) and there is already discussable content to  post-debate relaxation.
 
 This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
 
@@ -1460,11 +1460,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNDM1Njg4NTgsLTQyNzc2NjQ2LDE5OTA5MzE0OT
-UsLTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5
-NjU0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0OD
-k2NzIsMTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwx
-MjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzOD
-g2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQw
-XX0=
+c3RvcnkiOlsxMTI5NjE0MDI4LC00Mjc3NjY0NiwxOTkwOTMxND
+k1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0x
+OTY1NDY4ODYwLC0xNDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczND
+g5NjcyLDEzOTcyMTkzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAs
+MTIyNzU0MDI1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMz
+g4NjEzOCwxNjIwOTUyODY3LC01MzY0MDA0MiwtMTM5ODM0MTI0
+MF19
 -->
