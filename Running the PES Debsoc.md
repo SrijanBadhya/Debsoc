@@ -1057,9 +1057,11 @@ A good way to make people feel valued is to remember them by their name, call th
 
 By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
 - Some of these people are the ones who have shifted from their regular friend group, to having the soc as their primary friend group, due to various external factors. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen so you constantly meet these people.) 
-- Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, or they didn't have people who actively talked to them, or they didn't have much to talk about.
+- Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, they didn't have people who actively talked to them, or they didn't have much to talk about.
 - - At debsoc, these people have seniors who actively talk to them. They actively get used to speaking (at least for 7 minutes a day), and there is already content to discuss during post-debate relaxation.
-- This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
+
+This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
+
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/001/908/925/7df.jpg)
 
 I had friends at college but none of them really matched up to the depth I found at Debsoc.
@@ -1458,11 +1460,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDI3NzY2NDYsMTk5MDkzMTQ5NSwtMzA2MTQwNz
-A1LC00Njg1MzQ4MjUsMTM4Nzg5MDY1NiwtMTk2NTQ2ODg2MCwt
-MTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3MiwxMzk3Mj
-E5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1MjYwLDEyMjc1NDAyNTUs
-MTE2NjkwNDYwMiwzOTc3NDYyMjQsLTEzMTM4ODYxMzgsMTYyMD
-k1Mjg2NywtNTM2NDAwNDIsLTEzOTgzNDEyNDAsLTE0MDIyMzk2
-MjVdfQ==
+c3RvcnkiOlszNDM1Njg4NTgsLTQyNzc2NjQ2LDE5OTA5MzE0OT
+UsLTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5
+NjU0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0OD
+k2NzIsMTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwx
+MjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzOD
+g2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQw
+XX0=
 -->
