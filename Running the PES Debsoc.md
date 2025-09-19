@@ -288,7 +288,7 @@ Having to **sit idle** before a debate starts significantly impacts the quality 
 Multiple delays in each process add up and lead to juniors starting late and going home even later.
 - Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp, "Any senior here?" It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - Even if they had consented when asked, "Are you okay waiting a bit for 5 people?", making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person.
-- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to give juniors motions which they could understand (which is a good thing by the way). 
+- In 2023, after juniors had shown up, the seniors would still take quite some time to choose a suitable motion for juniors. A lot of time was taken to filter a motion because they also needed to give juniors motions which they could understand (which is still a good habit by the way). 
 
 ![enter image description here](https://i.kym-cdn.com/photos/images/newsfeed/003/105/514/a81.jpg)
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OT
-A4MywxMjQyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5
-MDkzMTQ5NSwtMzA2MTQwNzA1LC00Njg1MzQ4MjUsMTM4Nzg5MD
-Y1NiwtMTk2NTQ2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMs
-MTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mz
-c1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjRd
-fQ==
+c3RvcnkiOlsxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNT
+k2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00
+Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzND
+gyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nzg1NzEw
+LDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywtMjczNz
+I5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OTA0NjAy
+XX0=
 -->
