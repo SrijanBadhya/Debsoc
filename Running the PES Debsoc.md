@@ -1122,12 +1122,14 @@ The main use of the old WhatsApp groups of seniors, has now been to secretly org
 
 There are different types of differences in the timetables. 
 1. The daily timing which is different for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority gets too late for session prep time, or too early (they just leave for home). This causes many of the minority to quit debating. 
+
 ![enter image description here](https://i.ibb.co/Fqdq4S84/Screenshot-2025-09-06-164009.png)
+
 And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. 
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to go about it. You can't always make the latecomers adj. (Refer the section where I spoke about [making latecomers adj](#common-pitfalls))
 Okay I also learned just today, that Law is a third category, which follows the 8 am to 4 pm timetable every semester.
-2. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
-3. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
+3. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
+4. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
 
@@ -1158,12 +1160,16 @@ I think this was rather dumb,
 ####  More on our approach to MUN as a whole
 
 Since quite a few people try out both clubs, it's unwise to alienate MUN people. 
+
 ![image](https://i.ibb.co/rfNNY5sw/debsocmunsoc.png)
+
 Across the year, a few people do switch from debsoc to munsoc, and munsoc to debsoc. This happens naturally and you don't have much power to prevent this by directly targeting MUN. There's no guarantee that your effort will bear fruit instead of backfiring.
 It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to be persuasive to anyone who's interested in MUN. 
 
 There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I'd lose respect for a debsoc member who needed to hate on MUN to make debate look valuable.
+
 ![enter image description here](https://i.ibb.co/fVRDB8ph/munsoc.jpg)
+
 ---
 
 
@@ -1187,9 +1193,11 @@ But to my surprise, I see signs of this in a few first years. I see them talking
 When something is a part of your identity, you don't feel like you're making an effort to change yourself, because you already have this as your natural state.
 
 Everything the soc does, is in hopes of leading juniors up to this stage. And it feels truly wonderful when it manifests, when you spot this beautiful unicorn.
+
 ![enter image description here](https://wallpaperaccess.com/download/beautiful-unicorn-732536)
 
 ---
+
 I hope everything so far has been able to empower you with ideas and vision to tackle challenges that will arise.
 
 Carrying out any of this is easier said than done. Every bit of it takes Herculean effort, and not all effort even translates into success. But you are Hercules. You are my heroes.
@@ -1460,11 +1468,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OT
-UsLTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5
-NjU0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0OD
-k2NzIsMTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwx
-MjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzOD
-g2MTM4LDE2MjA5NTI4NjcsLTUzNjQwMDQyLC0xMzk4MzQxMjQw
-XX0=
+c3RvcnkiOlsxMjQyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2ND
+YsMTk5MDkzMTQ5NSwtMzA2MTQwNzA1LC00Njg1MzQ4MjUsMTM4
+Nzg5MDY1NiwtMTk2NTQ2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OT
+kxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwx
+NzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3ND
+YyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDJd
+fQ==
 -->
