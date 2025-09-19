@@ -1046,7 +1046,7 @@ The most frustrating part of Cubbon has been the arrival. People at their first 
 ### Beyond The Debates
 
 Circles get formed in hangouts quite often. These circles can be both physical with body posture, or metaphysical, where a new or rare fresher is excluded.  People direct their conversation towards their friends, and people on the outside find it awkward to join a conversation among people who already know each other.
-It can be really impactful to put extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup'. (Unfortunate that you've read this already in the Tournament section, but I didn't feel like cutting it.)
+Putting extra effort to talk to everyone so that they don't feel like they're part of an 'outgroup' can be quite impactful. (Unfortunate that you've read this already in the Tournament section, but I didn't feel like cutting it.)
 
 ![enter image description here](https://www.utoronto.ca/sites/default/files/picpath/2015-12-02-feeling-alone.jpg)
 ---
@@ -1473,7 +1473,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjI3ODc2OTA3LDE0NTIyMzUxNTgsNzk3OTEwOT
+c3RvcnkiOlsxMzUzMTE5NDk0LDE0NTIyMzUxNTgsNzk3OTEwOT
 k5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0x
 MTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMTg5Nz
 kxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcwNSwt
