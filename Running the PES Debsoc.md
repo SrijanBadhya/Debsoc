@@ -621,7 +621,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 
 ### Characterization
 
-==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something out if they believe it's good. The value of something is quite affected by its value in the eyes of society. Even if a garbage collector enjoys collecting garbage, they may not enjoy their job if they're treated weirdly by society.
+==**It's challenging but necessary, to be careful with every word to avoid propagating a negative narrative of adjing.**== The reason the narrative matters is because people are only ready to try something out if they believe it's good. An activity's perceived worth is heavily influenced by what society thinks of it. Even if a garbage collector enjoys collecting garbage, they may not enjoy their job if they're treated weirdly by society.
 
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
@@ -656,7 +656,7 @@ Samuel, my senior, once said this to encourage judging,
 5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
-The way he carefully did it was by approaching it as, "the only reason you speak more than you judge is because you haven't tried it out," and that's why they needed encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
+He carefully framed his encouragement by suggesting that "the only reason you speak more than you judge is because you haven't tried it out" and that's why they needed encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
 _If you try to replicate this text, some nuances might be missed, leading to a flop._
 
 **I think it's vital to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits. Someone new to debate would also never know that judges compete as well, so they're usually ignorant of this fact until their first tournament. This information shows that judging is a challenge worth pursuing, and makes people care about becoming better judges.** (If new debaters don't know that judges compete, then why would they want to register as an adj at a tournament.)
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAyMDI4MDE5NSwxNDUyMjM1MTU4LDc5NzkxMD
-k5OSwtMTgwOTcwNDI0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwt
-MTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OT
-c5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUs
-LTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xND
-c1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkz
-N119
+c3RvcnkiOlsxNDEzNjEyNzM0LDE0NTIyMzUxNTgsNzk3OTEwOT
+k5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0x
+MTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMTg5Nz
+kxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcwNSwt
+NDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Njg4NjAsLTE0Nz
+U3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5NzIxOTM3
+XX0=
 -->
