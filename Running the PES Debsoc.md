@@ -284,7 +284,7 @@ From the feedback forms and personal experience, the single biggest deterrent of
 
 ![idle time](https://i.ibb.co/F47qvtxK/idle-time.png)
 
-Having to **sit idle** before a debate starts significantly diminishes the experience of the session for a junior. The delay stretches in their head and this contributes to the belief of debate being a waste of time. 
+Having to **sit idle** before a debate starts significantly diminishes a junior's experience of the session. The delay stretches in their head and this contributes to the belief of debate being a waste of time. 
 Multiple delays in each process add up and lead to juniors starting late and going home even later.
 - Often in 2023, juniors would show up to sessions before seniors and then ask on Whatsapp, "Any senior here?" It was extremely optically bad for seniors to look 'unserious' and uncaring of juniors and debate.
 - Even if they had consented when asked, "Are you okay waiting a bit for 5 people?", making 1 person wait for 5 more people to show up before starting AP prep is a massive delay for the first person.
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nz
-c3MSw1MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OTA4Mywx
-MjQyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5MDkzMT
-Q5NSwtMzA2MTQwNzA1LC00Njg1MzQ4MjUsMTM4Nzg5MDY1Niwt
-MTk2NTQ2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3Mz
-Q4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mzc1MjYw
+c3RvcnkiOlsyMDk4MTQ4NTE3LDc5NzkxMDk5OSwtMTgwOTcwND
+I0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwx
+NTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3Nj
+Y0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwx
+Mzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nzg1NzEwLDUyMD
+U5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywtMjczNzI5MDUx
 XX0=
 -->
