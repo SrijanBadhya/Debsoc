@@ -807,7 +807,7 @@ End of Stuthi (no she's alive as of September 14 2025)
 
 Freshers are often intimidated at their first tournament, due to being unaware of the place, unaware of the system, unaware of Tabbycat, etc, and look for a senior to guide them through the weekend.
 
-Debate tournaments have a stark difference between expectations and reality for anyone new to them. If you don't educate juniors on the tournament experience, then
+For newcomers, the reality of a debate tournament often differs starkly from their expectations. If you don't educate juniors on the tournament experience, then
 - They might reach home later than they told their parents to expect them.
 - They might delay food expecting a lunch break, and then miss out on eating food at all, if you haven't told them the strategic time to eat food.
 - Numerous logistical issues can arise, such as all members of a team filling duplicate feedback, trainees being confused about filling the ballot, waiting for the OA during the silent round, various other Tabbycat issues like navigating on your private url, different forms of check-in, etc.
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTUwNDQwMzQ3LDE0NTIyMzUxNTgsNzk3OTEwOT
-k5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0x
-MTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMTg5Nz
-kxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcwNSwt
-NDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Njg4NjAsLTE0Nz
-U3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5NzIxOTM3
-XX0=
+c3RvcnkiOlstMTQyMzg5NDU3NCwxNTUwNDQwMzQ3LDE0NTIyMz
+UxNTgsNzk3OTEwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEs
+NTIxODg0ODI5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0Mj
+M0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUs
+LTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5Nj
+U0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2
+NzJdfQ==
 -->
