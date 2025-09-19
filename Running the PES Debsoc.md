@@ -965,7 +965,7 @@ Share the motion on the WhatsApp group (not the Sessions group because that prev
 Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to show their own passion and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to enjoy debate. On the flip side, seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually." Making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
 
 ---
-We learned the hard way that inertia is huge and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
+We learned the hard way that inertia is a powerful force, and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
 
 ---
 If you have successfully made juniors believe that tournaments are fun as hell, and if you really need an external motivator to get people to come to sessions, then tournaments work well as your carrot. Only allowing people who consistently show up is the only real incentive you can control, it's one of the few bits of leverage you have (well I suppose you can gatekeep Debsoc merchandise too for only the active debaters lol). 
@@ -1473,7 +1473,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjY3MTY2ODA1LDE1NTA0NDAzNDcsMTQ1MjIzNT
+c3RvcnkiOlsxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNT
 E1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1
 MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OTA4MywxMjQyMz
 Q4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5MDkzMTQ5NSwt
