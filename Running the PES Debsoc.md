@@ -656,7 +656,7 @@ Samuel, my senior, once said this to encourage judging,
 5) It's a great way to get rep in the circuit and become highly respected. A lot of career adjes are some of the most respected people in the circuit.
 All in all, try and balance the both when you come for practice, that way you become a more well rounded debater. Cheers :)"
 
-He carefully framed his encouragement by suggesting that "the only reason you speak more than you judge is because you haven't tried it out" and that's why they needed encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
+He carefully framed his encouragement by suggesting that "the only reason you speak more than you judge is because you haven't tried it out" and that's why they needed the encouragement to try it out, which was a smart move. (It doesn't suffer as much from the flaw of suspicious marketing.)
 _If you try to replicate this text, some nuances might be missed, leading to a flop._
 
 **I think it's vital to inform people that judges also compete at tournaments, because we don't consciously inform this to new recruits. Someone new to debate would also never know that judges compete as well, so they're usually ignorant of this fact until their first tournament. This information shows that judging is a challenge worth pursuing, and makes people care about becoming better judges.** (If new debaters don't know that judges compete, then why would they want to register as an adj at a tournament.)
@@ -1473,7 +1473,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDEzNjEyNzM0LDE0NTIyMzUxNTgsNzk3OTEwOT
+c3RvcnkiOlsxNTI0NDI1NDg1LDE0NTIyMzUxNTgsNzk3OTEwOT
 k5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0x
 MTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMTg5Nz
 kxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcwNSwt
