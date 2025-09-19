@@ -194,7 +194,7 @@ _Common metrics people often take are tournament wins, number of active members,
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
 Sure, there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed towards results instead of enjoying the process.
-(Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter was way harder than the last chapter,~~ so I feel unfairly judged, because my knowledge and work ethic have actually grown).
+<!-- (Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter was way harder than the last chapter,~~ so I feel unfairly judged, because my knowledge and work ethic have actually grown). -->
 
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
@@ -1468,11 +1468,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjQyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2ND
-YsMTk5MDkzMTQ5NSwtMzA2MTQwNzA1LC00Njg1MzQ4MjUsMTM4
-Nzg5MDY1NiwtMTk2NTQ2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OT
-kxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwx
-NzE5Mzc1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3ND
-YyMjQsLTEzMTM4ODYxMzgsMTYyMDk1Mjg2NywtNTM2NDAwNDJd
-fQ==
+c3RvcnkiOlsxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MT
+c0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2
+ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nz
+g1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywt
+MjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OT
+A0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEzOCwxNjIwOTUyODY3
+XX0=
 -->
