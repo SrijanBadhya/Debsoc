@@ -333,7 +333,7 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 - The one-on-one interaction can be about anything. It doesn't have to be feedback on their speech, just whatever they feel about everything.
 - Having ties to the community is what really fosters loyalty and makes people excited to come to the Debsoc.
 
-
+---
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
 **At that moment, it can be crucial to tell at least people, to cross over, shake hands, and chill.** 
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
@@ -395,7 +395,7 @@ Once you tell debaters that speaker scores are a thing, they'll sometimes badger
 - The argument against this is, "Omg they won't know how speaker scores work in real tournaments then," but to me, the harms outweigh the benefits. It's not really important to know how speakers scores work at tournaments unless you're a judge.
 - Another argument is that people can track their progress. This doesn't quite materialize often. Speaker scores are quite stagnant since the realistic range is so small. Seeing yourself constantly oscillate between 73 and 77 can give you the illusion of a lack of progress.
 
-
+---
 ## Balancing
 
 [Back to the Table of Contents](#table-of-contents)
@@ -405,7 +405,7 @@ Once you know the skill levels of people, you can occasionally match up teammate
 - I found that stealthily teaming them up with debaters I found smart, kept the debates close and exciting too.
 - This also gave all debaters experience in working with different kinds of people.
 
-
+---
 ## Keeping it fun
 
 [Back to Table of Contents](#table-of-contents)
@@ -1115,13 +1115,14 @@ This house regrets the dominant portrayal of long-distance relationships as doom
 
 Here it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope affecting actions is something that can clearly be mechanized from this motion.
 
+---
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get in to debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect.6
 Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals in their first tournament), then it can be beneficial.
 The main use of the old WhatsApp groups of seniors, has now been to secretly organize pranks lmao.
 
 
-
+---
 ### The damn PES timetable
 
 There are different types of differences in the timetables. 
@@ -1137,7 +1138,7 @@ Okay I also learned just today, that Law is a third category, which follows the 
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
 
-
+---
 ### WhatsApp
 Allowing them to text whatever they want, and making them feel comfortable, is a great way to facilitate juniors to bond together, get connected to the community, and engage more with the club. (Equity rules can still apply, that's up to the equity community, I will not speak about it). 
 However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
@@ -1472,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODA3NTc1NTQzLC0xMTA1NDE1OTY5LDE1NTQ1Nz
-kwODMsMTI0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5
-OTA5MzE0OTUsLTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OT
-A2NTYsLTE5NjU0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQz
-LDE2NzM0ODk2NzIsMTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOT
-M3NTI2MCwxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0
-XX0=
+c3RvcnkiOls1MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OT
+A4MywxMjQyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5
+MDkzMTQ5NSwtMzA2MTQwNzA1LC00Njg1MzQ4MjUsMTM4Nzg5MD
+Y1NiwtMTk2NTQ2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMs
+MTY3MzQ4OTY3MiwxMzk3MjE5MzcsLTI3MzcyOTA1MSwxNzE5Mz
+c1MjYwLDEyMjc1NDAyNTUsMTE2NjkwNDYwMiwzOTc3NDYyMjRd
+fQ==
 -->
