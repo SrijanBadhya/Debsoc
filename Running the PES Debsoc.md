@@ -14,7 +14,7 @@ As seniors, it's our responsibility to make you, our juniors, not feel lost abou
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
 - As every coder knows, replacing an existing solution with a different solution can lead to other problems popping up.
-- So, every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. Being aware of this reasoning will help you choose the right system and make more thoughtful changes.
+- So, every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. Being aware of this reasoning will help you choose the system that's right for you and make more thoughtful changes.
 - I believe that every batch will be able to improve upon existing systems.[^1] The ideal is for every change to be a step forward, instead of causing old problems to resurface.
 - An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However, trade-offs must be made sometimes, and I trust you to weigh which flaws are worth handling.
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszODM3Nzk0MCwxMjU2NDg3NzcxLDUyMTg4NDgyOS
-wtMTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4
-OTc5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MD
-UsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0x
-NDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMT
-kzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NV19
-
+c3RvcnkiOlstMTYzMjgyMzc3LDEyNTY0ODc3NzEsNTIxODg0OD
+I5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwy
+MTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MD
+cwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Njg4NjAs
+LTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5Nz
+IxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NTQwMjU1
+XX0=
 -->
