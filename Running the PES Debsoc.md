@@ -538,7 +538,9 @@ But even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, which can tire them out. Taking over their judging shifts and letting them speak gives them a chance to refresh.
 - My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Pro-ams help juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
+<br>
 ![enter image description here](https://i.ibb.co/CsvVJk5s/Screenshot-2025-09-06-170630.png)
+<br>
 - Having too many seniors is always better than having too few seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
 
 
@@ -1468,11 +1470,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDk0NjI2MzM1LDE1NTQ1NzkwODMsMTI0MjM0OD
-kyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMw
-NjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Nj
-g4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIs
-MTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NT
-QwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0LC0xMzEzODg2MTM4
-XX0=
+c3RvcnkiOlstMTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzND
+g5MjgsMjE4OTc5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0z
+MDYxNDA3MDUsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1ND
+Y4ODYwLC0xNDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5Njcy
+LDEzOTcyMTkzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNz
+U0MDI1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEz
+OF19
 -->
