@@ -880,6 +880,7 @@ I wouldn't want juniors to start with an online tournament with zero fun, since 
 So if you end up sending them to an online tournament before an offline one, try to make it as offline as possible.
 The most memorable online tournament for me has been SBS from early 2024. We all met up together offline on both days, debated together, ate together, dropped lore together, and had a fun time (primarily because of Samuel the jester). 
 
+---
 ### Online Tournament Logistics
 
 PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems early at the tournament.
@@ -924,7 +925,6 @@ I like how it's still able to simulate the fun chill vibe of acco(hotels) at off
 ---
 # Debate Culture Round the Year
 [Back to the Table of Contents](#table-of-contents)
-
 
 ## Push to come to sessions
 
@@ -1470,11 +1470,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzND
-g5MjgsMjE4OTc5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0z
-MDYxNDA3MDUsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1ND
-Y4ODYwLC0xNDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5Njcy
-LDEzOTcyMTkzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNz
-U0MDI1NSwxMTY2OTA0NjAyLDM5Nzc0NjIyNCwtMTMxMzg4NjEz
-OF19
+c3RvcnkiOlstMjYyNTA1NTUwLC0xMTA1NDE1OTY5LDE1NTQ1Nz
+kwODMsMTI0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5
+OTA5MzE0OTUsLTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OT
+A2NTYsLTE5NjU0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQz
+LDE2NzM0ODk2NzIsMTM5NzIxOTM3LC0yNzM3MjkwNTEsMTcxOT
+M3NTI2MCwxMjI3NTQwMjU1LDExNjY5MDQ2MDIsMzk3NzQ2MjI0
+XX0=
 -->
