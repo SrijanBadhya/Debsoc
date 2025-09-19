@@ -523,6 +523,7 @@ The other 4-5 times I tried to hold sessions with NLS, I got a lackluster respon
 ---
 In summary, I think cross mocks are cool when they're successful. Making them successful is quite tedious. I don't think it's really a cause for concern if you're doing too few cross mocks, because there are plenty of other ways to access their benefits. And even if you inbreed, it can't be _that_ bad. (Okay I'll stop using that word.)
 
+----
 ## A few issues of sessions that persist
 
 [Back to the Table of Contents](#table-of-contents)
@@ -579,6 +580,7 @@ I had never been told that judges competed too, so I just felt like a bus driver
 For those who know me, things changed eventually, and I ended up adjing 3x more debates than I've spoken in.
 Anyway, this highlights a couple problems with adjing.
 
+---
 ### Adjing Obstacles
 
 1. Adjing is seen as more undesirable than speaking by the vast majority of the circuit, as seen from:
@@ -1470,7 +1472,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjYyNTA1NTUwLC0xMTA1NDE1OTY5LDE1NTQ1Nz
+c3RvcnkiOlstODA3NTc1NTQzLC0xMTA1NDE1OTY5LDE1NTQ1Nz
 kwODMsMTI0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5
 OTA5MzE0OTUsLTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OT
 A2NTYsLTE5NjU0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQz
