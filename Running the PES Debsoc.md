@@ -942,7 +942,7 @@ When numbers of attendees dropped, we were called to serious meetings. The const
 At the time I was apathetic about late night online sessions, and I adopted the stance of, "Oh if they want to kick me out so badly, I'm fine getting kicked". (And the rest is history.)
 
 ---
-Fear isn't a great motivator especially when the consequence is the direction they're heading towards anyway. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
+Fear is an ineffective motivator, especially when the consequence is simply an outcome their inaction is already causing. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
 By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always mull about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it because it's cool. (There are people who get excited about buying debsoc merch even though they don't debate anymore or even feel like even a part of the club.)
@@ -1473,7 +1473,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk4MTQ4NTE3LDc5NzkxMDk5OSwtMTgwOTcwND
+c3RvcnkiOlsxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwND
 I0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwx
 NTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3Nj
 Y0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwx
