@@ -14,7 +14,7 @@ As seniors, it's our responsibility to make you, our juniors, not feel lost abou
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
 - As every coder knows, replacing an existing solution with a different solution can lead to other problems popping up.
-- So, every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. As long as you're aware of these reasons, you will be better informed in which system to choose, and will make thoughtful changes.
+- So, every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. Being aware of this reasoning will help you choose the right system and make more thoughtful changes.
 - I believe that every batch will be able to improve upon existing systems.[^1] The ideal is for every change to be a step forward, instead of causing old problems to resurface.
 - An ideal change would patch up existing flaws without opening up the flaws covered by old systems. However, trade-offs must be made sometimes, and I trust you to weigh which flaws are worth handling.
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNT
-k2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00
-Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzND
-gyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nzg1NzEw
-LDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywtMjczNz
-I5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NSwxMTY2OTA0NjAy
-XX0=
+c3RvcnkiOlszODM3Nzk0MCwxMjU2NDg3NzcxLDUyMTg4NDgyOS
+wtMTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4
+OTc5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MD
+UsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0x
+NDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMT
+kzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1NV19
+
 -->
