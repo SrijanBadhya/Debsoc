@@ -401,7 +401,7 @@ Once you tell debaters that speaker scores are a thing, they'll sometimes badger
 [Back to the Table of Contents](#table-of-contents)
 
 Once you know the skill levels of people, you can occasionally match up teammates to make the debate 'balanced'.
-- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be kept high enough to stay motivated to come to sessions. Even if they feel like trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if the Debsoc isn't able to uplift those who work hard, then it's a skill issue of the Debsoc.)
+- Losing debates nonstop will get to anyone. Even the 'weakest' debater is a valuable member of the soc, and their self-esteem needs to be maintained to keep them motivated to come to sessions. Even if they feel like trash, they shouldn't further feel like utter trash. (In fact a weak debater is a vulnerable stakeholder, and if the Debsoc isn't able to uplift those who work hard, then it's a skill issue of the Debsoc.)
 - I found that stealthily teaming them up with debaters I found smart, kept the debates close and exciting too.
 - This also gave all debaters experience in working with different kinds of people.
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTA4ODkwMTYzLDE1MTU4MzY2NTYsMTU1MDQ0MD
-M0NywxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwNDI0Mywx
-MjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwxNTU0NT
-c5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3NjY0Niwx
-OTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwxMzg3OD
-kwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nzg1NzEwLDUyMDU5OTE0
-M119
+c3RvcnkiOlstMTY4Mjg0MjUwNywtOTA4ODkwMTYzLDE1MTU4Mz
+Y2NTYsMTU1MDQ0MDM0NywxNDUyMjM1MTU4LDc5NzkxMDk5OSwt
+MTgwOTcwNDI0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNT
+QxNTk2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0
+LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2OD
+UzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nzg1
+NzEwXX0=
 -->
