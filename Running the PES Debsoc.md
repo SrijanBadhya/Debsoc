@@ -958,7 +958,7 @@ A few random concepts that I've learned the hard way:
 - Regardless of how much value debate adds to life, nobody thinks that it's more productive than studying. Second year onwards, the main reason people still find the drive to come is because of the community. Debate culture is a testament to the community you've built. People should be _tempted_ to come debate. 
 - The only reason college students do anything besides studies is when something feels fun, or if it's what they visualized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the same way that people hang out with their friends regardless of their academic commitments.
 
-The activity of the Debsoc should be kept fresh even in the minds of the people who don't come debate. From my experience sitting at home these last few months, session polls don't give me a sense of how alive the soc is. Only other conversation about the session does.
+The activity of the Debsoc should be kept visible and fresh, even in the minds of the people who don't come debate. From my experience sitting at home these last few months, session polls don't give me a sense of how alive the soc is. Only other conversation about the session does.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. This really makes people feel like they're missing out and that there's something thriving which other people are enjoying.
 
 ---
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQyMzg5NDU3NCwxNTUwNDQwMzQ3LDE0NTIyMz
-UxNTgsNzk3OTEwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEs
-NTIxODg0ODI5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0Mj
-M0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUs
-LTMwNjE0MDcwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5Nj
-U0Njg4NjAsLTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2
-NzJdfQ==
+c3RvcnkiOlsxMjY3MTY2ODA1LDE1NTA0NDAzNDcsMTQ1MjIzNT
+E1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1
+MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OTA4MywxMjQyMz
+Q4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5MDkzMTQ5NSwt
+MzA2MTQwNzA1LC00Njg1MzQ4MjUsMTM4Nzg5MDY1NiwtMTk2NT
+Q2ODg2MCwtMTQ3NTc4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3
+Ml19
 -->
