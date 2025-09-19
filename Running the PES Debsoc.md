@@ -627,7 +627,7 @@ From the way my CUPD lore went down, it's clear that my initial bad impression o
 
 
 The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing in the next session.)
-The ideal scenario of tournaments is if people voluntarily adj and power through all the sad parts of it. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still mildly hold the belief today that this happened due to random chance.
+The ideal scenario of tournaments is if people voluntarily adj and power through all the disheartening parts of it. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still mildly hold the belief today that this happened due to random chance.
 
 
 How do we make sure this trend continues?
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwND
-I0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwx
-NTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3Nj
-Y0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwx
-Mzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xNDc1Nzg1NzEwLDUyMD
-U5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkzNywtMjczNzI5MDUx
-XX0=
+c3RvcnkiOls0NzkwNDEzODcsMTQ1MjIzNTE1OCw3OTc5MTA5OT
+ksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1MjE4ODQ4MjksLTEx
+MDU0MTU5NjksMTU1NDU3OTA4MywxMjQyMzQ4OTI4LDIxODk3OT
+E3NCwtNDI3NzY2NDYsMTk5MDkzMTQ5NSwtMzA2MTQwNzA1LC00
+Njg1MzQ4MjUsMTM4Nzg5MDY1NiwtMTk2NTQ2ODg2MCwtMTQ3NT
+c4NTcxMCw1MjA1OTkxNDMsMTY3MzQ4OTY3MiwxMzk3MjE5Mzdd
+fQ==
 -->
