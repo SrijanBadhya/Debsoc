@@ -821,7 +821,7 @@ The biggest difference between expectations and reality is of course, that junio
 "Most novices go into their first tournament assuming they'll only face other beginners, only to get ripped apart by dinos in the first round.
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors have no idea how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it has happened in APs not BPs). I think they deserve a fair warning.
-I believed that it was better to make them prepared for this possibility instead of being blindly optimistic about their results. However, this is something specific to my beliefs and the way I see the world, so I'm unsure whether it's better to act like you have low expectations of them, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then that could affect their self-esteem from the start since that makes them, "hopeless".
+I believe that it was better to prepare them for this possibility instead of being blindly optimistic about their results. However, this is something specific to my beliefs and the way I see the world, so I'm unsure whether it's better to act like you have low expectations of them, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then that could affect their self-esteem from the start since that makes them, "hopeless".
 
 ![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIwMjYyODUyNSwxNDUyMjM1MTU4LDc5NzkxMD
-k5OSwtMTgwOTcwNDI0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwt
-MTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OT
-c5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUs
-LTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYwLC0xND
-c1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOTcyMTkz
-N119
+c3RvcnkiOlsxNjI3ODc2OTA3LDE0NTIyMzUxNTgsNzk3OTEwOT
+k5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0x
+MTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMTg5Nz
+kxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcwNSwt
+NDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Njg4NjAsLTE0Nz
+U3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5NzIxOTM3
+XX0=
 -->
