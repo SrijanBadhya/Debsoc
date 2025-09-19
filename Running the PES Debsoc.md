@@ -1238,7 +1238,10 @@ Put the debsoc drive also here somewhere
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
 
-Debate recordings from a few Majors Tournaments:
+How to Start a Debate Club
+https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view
+
+List of debate motions with links to recordings from a few Majors Tournaments:
 https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0
 (will fill the rest of resources by Sep 12)
 
@@ -1473,11 +1476,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzM4NzE4NjcxLDIxNjcyNzY5NCwtMTY4Mjg0Mj
-UwNywtOTA4ODkwMTYzLDE1MTU4MzY2NTYsMTU1MDQ0MDM0Nywx
-NDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwNDI0MywxMjU2ND
-g3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwxNTU0NTc5MDgz
-LDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3NjY0NiwxOTkwOT
-MxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2
-XX0=
+c3RvcnkiOlstMTYxMjU0MTEwNSwtNzM4NzE4NjcxLDIxNjcyNz
+Y5NCwtMTY4Mjg0MjUwNywtOTA4ODkwMTYzLDE1MTU4MzY2NTYs
+MTU1MDQ0MDM0NywxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOT
+cwNDI0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2
+OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mj
+c3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgy
+NV19
 -->
