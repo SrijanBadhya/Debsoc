@@ -127,7 +127,7 @@ To navigate across sections (if you get distracted by a few links), find the nea
 2 parts: Debate, and Club
 
 _There are people who say that the point of a debate club is to debate, and it's bad to chill too much_
-I believe chilling is fine, in so far as it assists in the direction of the purpose of the club. (there I said it, the first and last time I'll use that debate phrase!!)
+I believe chilling is fine, in so far as it aligns with the club's purpose. (there I said it, the first and last time I'll use that debate phrase!!)
 
 The single biggest purpose of a club is to ==provide value to every single member.==
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYzMjgyMzc3LDEyNTY0ODc3NzEsNTIxODg0OD
-I5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwy
-MTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MD
-cwNSwtNDY4NTM0ODI1LDEzODc4OTA2NTYsLTE5NjU0Njg4NjAs
-LTE0NzU3ODU3MTAsNTIwNTk5MTQzLDE2NzM0ODk2NzIsMTM5Nz
-IxOTM3LC0yNzM3MjkwNTEsMTcxOTM3NTI2MCwxMjI3NTQwMjU1
-XX0=
+c3RvcnkiOlstMTgwOTcwNDI0MywxMjU2NDg3NzcxLDUyMTg4ND
+gyOSwtMTEwNTQxNTk2OSwxNTU0NTc5MDgzLDEyNDIzNDg5Mjgs
+MjE4OTc5MTc0LC00Mjc3NjY0NiwxOTkwOTMxNDk1LC0zMDYxND
+A3MDUsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2LC0xOTY1NDY4ODYw
+LC0xNDc1Nzg1NzEwLDUyMDU5OTE0MywxNjczNDg5NjcyLDEzOT
+cyMTkzNywtMjczNzI5MDUxLDE3MTkzNzUyNjAsMTIyNzU0MDI1
+NV19
 -->
