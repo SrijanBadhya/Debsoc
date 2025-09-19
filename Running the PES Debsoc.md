@@ -442,7 +442,7 @@ It's a good way to keep you on your feet and make you better prepared for tourne
 ---
 #### Pop debates
 The way the Debsoc conducted recruitments for my batch in Jan 2022 was by enticing us with pop culture referencing motions. With AI, this has gotten even better to do because you can ask it to give you, "Naruto debate motions", and it actually cooks fun motions. 
-The issue with this is that not all of the debaters would have watched Naruto, so these people don't share in the fun. 
+The drawback of this is that not all of the debaters would have watched Naruto, so these people don't share in the fun. 
 
 Such fun motion days are best for when chatter in the Debsoc has progressed to the point where people know each other's likes and dislikes, and only a few people with common interests have shown up to the debate session. I did a 1v1 on a Maroon 5 motion versus Raj, and Raunak did a 1v1 on a How I Met Your Mother motion versus someone. ChatGPT is actually pretty good at generating motions for a niche interest which doesn't have readily available motions (that's what we did for Maroon 5).
 
@@ -973,7 +973,7 @@ If you have successfully made juniors believe that tournaments are fun as hell, 
 ![enter image description here](https://static.vecteezy.com/system/resources/previews/021/392/820/original/incentive-reward-or-bonus-to-motivate-employee-on-hard-working-to-reach-success-company-benefit-job-promotion-or-employee-program-concept-business-people-run-on-giant-hand-to-grab-carrot-stick-vector.jpg)
 
 This also makes the reward feel valuable to someone because they earned it, they were chosen for this slot because of their dedication to the soc. As long as this threat of no freeloading is followed, it remains as an incentive since there are tournaments around the year. If you were ineligible for one tournament you can just earn the reward of the next tournament.
-The issue here is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions.) It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
+The drawback here is that this makes Debsoc sessions look like a chore, but at least people will come to a session and then remember how fun sessions are. (Like some people who experience the thrill of solving an academic question, yet still procrastinate starting to solve the questions.) It also makes people feel like they're working towards something, every session is bringing them closer to a tournament.
 
 (We did this occasionally and made it such that if you didn't qualify for a tournament but really wanted to come, you could pay out of your own pocket. The Debsoc didn't owe you money because you weren't really a contributing member to the soc, since you didn't assist in its activity through sessions.)
 
@@ -1473,11 +1473,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MD
-E2MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3
-OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1MjE4OD
-Q4MjksLTExMDU0MTU5NjksMTU1NDU3OTA4MywxMjQyMzQ4OTI4
-LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5MDkzMTQ5NSwtMzA2MT
-QwNzA1LC00Njg1MzQ4MjUsMTM4Nzg5MDY1NiwtMTk2NTQ2ODg2
-MF19
+c3RvcnkiOlstNzM4NzE4NjcxLDIxNjcyNzY5NCwtMTY4Mjg0Mj
+UwNywtOTA4ODkwMTYzLDE1MTU4MzY2NTYsMTU1MDQ0MDM0Nywx
+NDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwNDI0MywxMjU2ND
+g3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwxNTU0NTc5MDgz
+LDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3NjY0NiwxOTkwOT
+MxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgyNSwxMzg3ODkwNjU2
+XX0=
 -->
