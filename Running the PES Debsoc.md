@@ -1118,7 +1118,7 @@ This house regrets the dominant portrayal of long-distance relationships as doom
 
 Here, it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope, which affects actions, is something that can clearly be mechanized from this motion. 
 
-On a similar note, weighing is a tricky concept to talk about, but what I found to be the most understandable way to explain it is to talk about the trolley problem. Would you rather kill 2 old people or 1 young person? Would you rather kill 20 cats or 1 human? Would you rather 
+On a similar note, weighing is a tricky concept to talk about, but what I found to be the most understandable way to explain it is to talk about the trolley problem. Would you rather kill 2 old people or 1 young person? Would you rather kill 20 cats or 1 human? Would you rather cut off education from 10 people or medical treatment from 20 people?
 
 ---
 ### Pranks
@@ -1484,7 +1484,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk1NjUyMTg2OSw0MjAxMjA0NjcsOTI0NDUyOD
+c3RvcnkiOlstMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyOD
 c1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcs
 MTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4Mj
 U0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1
