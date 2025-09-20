@@ -1096,8 +1096,8 @@ which are fair, so decide what you feel.
 ---
 
 When only one person shows up to a session and you don't feel like cancelling the session and sending them away, this is a great time to teach debate (if you have the time and bandwidth).
-What's great about this is that you can make the lesson personalized, understand their thinking process, and then tune it precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole,zzZ more than just giving them advice post a debate.
-It's also low stakes practice for you to conduct a matter session in the future. 
+What's great about this is that you can make the lesson personalized, understand their thinking process, and then tune it precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole, more than just giving them advice post a debate.
+To you, it's low stakes practice of conducting a matter session. (It can really help to see when you are understandable and when you aren't. 
 It's not unfair that they got access to this personalized coaching and others didn't, because they're the ones that showed up.
 
 What I would do is make up a tangible motion they would understand, like, "This House Would Change PES timings", or, "THW put effort to get a girlfriend", and ask questions to direct them in a certain way. Some other times, I would initially start some random conversation with them about their interests, find out something like them being a volunteer at Aatmatrisha, and then make up a more specific motion like, "THW be a volunteer at Aatmatrisha".
@@ -1478,11 +1478,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk3MTk5NTQxNywtMzg0NTQ4MjIwLC03MTgyNT
-QxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMTIwMzQ5NDUy
-LC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3MSwyMT
-Y3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2MywxNTE1ODM2
-NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OTc5MTA5OTksLT
-E4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1MjE4ODQ4MjksLTExMDU0
-MTU5NjldfQ==
+c3RvcnkiOls4ODc2Nzk5NDYsLTM4NDU0ODIyMCwtNzE4MjU0MT
+Q1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1Miwt
+ODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMjE2Nz
+I3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgzNjY1
+NiwxNTUwNDQwMzQ3LDE0NTIyMzUxNTgsNzk3OTEwOTk5LC0xOD
+A5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0xMTA1NDE1
+OTY5XX0=
 -->
