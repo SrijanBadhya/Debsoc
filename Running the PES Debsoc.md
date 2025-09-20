@@ -1109,7 +1109,7 @@ This session also helped me give people the individual attention that I've talke
 ---
 Narrative motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative to be right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
-And it's extremely difficult to distinguish the two in most narrative motions, because people have such strong biases. 
+It's also extremely difficult to distinguish between the two in most narrative motions, because people have such strong biases. 
 For example, "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely argue about whether it is possible to succeed without a university etc. And it's hard to differentiate that from believing in it. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
 
 So one beautiful motion I came across recently, is:
@@ -1478,11 +1478,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4MjU0MT
-Q1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1Miwt
-ODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMjE2Nz
-I3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgzNjY1
-NiwxNTUwNDQwMzQ3LDE0NTIyMzUxNTgsNzk3OTEwOTk5LC0xOD
-A5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5LC0xMTA1NDE1
-OTY5XX0=
+c3RvcnkiOlsxNjEzOTk4ODYzLDk4NTUzMTk3OSwtMzg0NTQ4Mj
+IwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwt
+MTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczOD
+cxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2
+MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OT
+c5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1MjE4ODQ4
+MjldfQ==
 -->
