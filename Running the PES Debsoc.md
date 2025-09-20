@@ -1081,6 +1081,7 @@ For the love of God, there are better motions than THW legalize weed to use as a
 When asked to pick a random motion to demonstrate a concept, this has become the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
+- Mechanizing 
 - Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
 
 The counter arguments I've heard about this are
@@ -1476,11 +1477,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1ND
-ExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcs
-LTkwODg5MDE2MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1Mj
-IzNTE1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3
-MSw1MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OTA4MywxMj
-QyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5MDkzMTQ5
-NV19
+c3RvcnkiOls0NzA1OTMyMzgsLTEyMDM0OTQ1MiwtODA3MjAwMz
+EzLC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0x
+NjgyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgzNjY1NiwxNTUwND
+QwMzQ3LDE0NTIyMzUxNTgsNzk3OTEwOTk5LC0xODA5NzA0MjQz
+LDEyNTY0ODc3NzEsNTIxODg0ODI5LC0xMTA1NDE1OTY5LDE1NT
+Q1NzkwODMsMTI0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2
+XX0=
 -->
