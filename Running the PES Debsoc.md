@@ -194,7 +194,7 @@ _Common metrics people often take are tournament wins, number of active members,
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
 Sure, there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed towards results instead of enjoying the process.
-<!-- (Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter was way harder than the last chapter,~~ so I feel unfairly judged, because my knowledge and work ethic have actually grown). -->
+<!-- (Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter was way harder than the last chapter,~~ so I feel unfairly judged, because my knowledge and work ethic have actually grown). 
 
 If you do _have_ to take metrics, try to somehow link them to the joy, growth, and interpersonal well-being of the members.
  
@@ -1476,11 +1476,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYxMjU0MTEwNSwtNzM4NzE4NjcxLDIxNjcyNz
-Y5NCwtMTY4Mjg0MjUwNywtOTA4ODkwMTYzLDE1MTU4MzY2NTYs
-MTU1MDQ0MDM0NywxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOT
-cwNDI0MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2
-OSwxNTU0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mj
-c3NjY0NiwxOTkwOTMxNDk1LC0zMDYxNDA3MDUsLTQ2ODUzNDgy
+c3RvcnkiOlstODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MT
+g2NzEsMjE2NzI3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMs
+MTUxNTgzNjY1NiwxNTUwNDQwMzQ3LDE0NTIyMzUxNTgsNzk3OT
+EwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5
+LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMT
+g5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcw
 NV19
 -->
