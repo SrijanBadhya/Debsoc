@@ -1078,9 +1078,9 @@ Although I had other friends at college, none of them really matched up to the d
 
 ### Teaching debate
 For the love of God, there are better motions than THW legalize weed to use as an example when teaching debate. 
-When asked to pick a random motion to demonstrate a concept, this has become the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
+When asked to pick a random motion to demonstrate a concept, this has become the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson.)
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
-- So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
+- So when you teach mech and impacting, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Mechanizing "banning drugs makes people do drugs more" sounds quite implausible to the average fresher. (Even if you take a smaller burden and then try to combine a lot of different arguments to outweigh, it's hard to convincingly outweigh in the minds of freshers who assign so much negative weight to drugs in their head.)
 - Flipping is way easier to understand in a parenting motion, saying that constant reminders to study make you less studious.
 
@@ -1477,11 +1477,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1ODU3MzE5MDEsLTEyMDM0OTQ1MiwtODA3MjAwMz
-EzLC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0x
-NjgyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgzNjY1NiwxNTUwND
-QwMzQ3LDE0NTIyMzUxNTgsNzk3OTEwOTk5LC0xODA5NzA0MjQz
-LDEyNTY0ODc3NzEsNTIxODg0ODI5LC0xMTA1NDE1OTY5LDE1NT
-Q1NzkwODMsMTI0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2
-XX0=
+c3RvcnkiOlstMzkyNzgxNTQ4LC0xMjAzNDk0NTIsLTgwNzIwMD
+MxMywtMTYxMjU0MTEwNSwtNzM4NzE4NjcxLDIxNjcyNzY5NCwt
+MTY4Mjg0MjUwNywtOTA4ODkwMTYzLDE1MTU4MzY2NTYsMTU1MD
+Q0MDM0NywxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwNDI0
+MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwxNT
+U0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3NjY0
+Nl19
 -->
