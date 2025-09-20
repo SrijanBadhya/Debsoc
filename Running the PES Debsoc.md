@@ -670,7 +670,7 @@ However, a few issues from Sam's text are
 
 ### Common Pitfalls
 
-**Trends get pushed in micro ways. It's difficult to avoid being a conduit.** 
+**Trends get pushed in micro ways. It's difficult to avoid being a conduit yourself.** 
 - I remember when one of my seniors was coming to a session after a long time, and when I asked them to adj, they replied, "I'm not coming to a session after so long to _adj_".
 
 - Making people judge when they come late seems like a 'punishment'. When they show up as the 7th person, they might say something like, "Aw man, I'm judging today?!" and we might impulsively say, "If you want to speak, then come earlier next time," as an effort to make them punctual. 
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyOD
-c1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcs
-MTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4Mj
-U0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1
-MiwtODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMj
-E2NzI3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgz
-NjY1Nl19
+c3RvcnkiOlsyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMTIwND
+Y3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4MjAxLC0x
+NDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5LC0zODQ1ND
+gyMjAsLTcxODI1NDE0NSwtMTcwNjU5MTI2NiwtMzkyNzgxNTQ4
+LC0xMjAzNDk0NTIsLTgwNzIwMDMxMywtMTYxMjU0MTEwNSwtNz
+M4NzE4NjcxLDIxNjcyNzY5NCwtMTY4Mjg0MjUwNywtOTA4ODkw
+MTYzXX0=
 -->
