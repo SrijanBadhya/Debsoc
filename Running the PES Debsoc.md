@@ -535,7 +535,7 @@ But it always looks like people lack the push to actually show up.
 We've had seniors take up voluntary adjing slots using an excel sheet before, but people would often either forget or not feel obligated enough to write their name themselves.
 
 I don't know if this is due to the bystander effect caused by there always being someone already conducting the session. 
-But even if there already is someone, **more seniors are always needed.**
+Even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, which can tire them out. Taking over their judging shifts and letting them speak gives them a chance to refresh.
 - My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Pro-ams help juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
@@ -1482,11 +1482,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTM2MjU2MDU0LC0xMDA4OTI4MjAxLC0xNDg2MD
-g2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5LC0zODQ1NDgyMjAs
-LTcxODI1NDE0NSwtMTcwNjU5MTI2NiwtMzkyNzgxNTQ4LC0xMj
-AzNDk0NTIsLTgwNzIwMDMxMywtMTYxMjU0MTEwNSwtNzM4NzE4
-NjcxLDIxNjcyNzY5NCwtMTY4Mjg0MjUwNywtOTA4ODkwMTYzLD
-E1MTU4MzY2NTYsMTU1MDQ0MDM0NywxNDUyMjM1MTU4LDc5Nzkx
-MDk5OV19
+c3RvcnkiOls5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyOD
+IwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwt
+Mzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mj
+c4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDEx
+MDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLT
+kwODg5MDE2MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIz
+NTE1OF19
 -->
