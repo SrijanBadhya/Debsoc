@@ -1084,7 +1084,7 @@ When asked to pick a random motion to demonstrate a concept, this has become the
 - Mechanizing "banning drugs makes people do drugs more" sounds quite implausible to the average fresher. (Even if you take a smaller burden and then try to combine a lot of different arguments to outweigh, it's hard to convincingly outweigh in the minds of freshers who assign so much negative weight to drugs in their head.)
 - Flipping is way easier to understand in a motion like parenting, by saying that constant reminders to study make you less studious.
 
-The counter arguments I've heard about this are
+The counter arguments I've heard about this are:
 - It's short and sweet, that's why it comes to mind easily.
 - It's more enticing and an "oooooo" topic.
 - It's cool to blow people's minds when you make a gov case, cuz they're used to dissing on weed.
@@ -1477,7 +1477,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkwNDY4Mzg0MiwtMzkyNzgxNTQ4LC0xMjAzND
+c3RvcnkiOlstMTcwNjU5MTI2NiwtMzkyNzgxNTQ4LC0xMjAzND
 k0NTIsLTgwNzIwMDMxMywtMTYxMjU0MTEwNSwtNzM4NzE4Njcx
 LDIxNjcyNzY5NCwtMTY4Mjg0MjUwNywtOTA4ODkwMTYzLDE1MT
 U4MzY2NTYsMTU1MDQ0MDM0NywxNDUyMjM1MTU4LDc5NzkxMDk5
