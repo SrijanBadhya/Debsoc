@@ -1094,7 +1094,7 @@ The counter arguments I've heard about this are:
 which are fair, so decide what you feel.
 
 ---
-If you have the time and the bandwidth, a great time to teach debate is when only one person shows up to a session, yet you don't feel like cancelling the session and sending them away. 
+When only one person shows up to a session and you don't feel like cancelling the session and sending them away, this is a great time to teach debate (if you have the time and bandwidth).
 What's great about this is that you can make the lesson personalized, understand their thinking process, and tune it precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole, more than giving them advice post a debate.
 It's also low stakes practice for you to conduct a matter session in the future. 
 It's not unfair that they got access to this personalized coaching and others didn't, because they're the ones that showed up.
@@ -1477,11 +1477,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzE4MjU0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3OD
-E1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNjEyNTQxMTA1
-LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQyNTA3LC05MD
-g4OTAxNjMsMTUxNTgzNjY1NiwxNTUwNDQwMzQ3LDE0NTIyMzUx
-NTgsNzk3OTEwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNT
-IxODg0ODI5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0
-ODkyOF19
+c3RvcnkiOlstMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OT
+EyNjYsLTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMs
+LTE2MTI1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2OD
+I4NDI1MDcsLTkwODg5MDE2MywxNTE1ODM2NjU2LDE1NTA0NDAz
+NDcsMTQ1MjIzNTE1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMT
+I1NjQ4Nzc3MSw1MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3
+OTA4M119
 -->
