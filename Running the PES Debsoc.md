@@ -1078,7 +1078,7 @@ Although I had other friends at college, none of them really matched up to the d
 
 ### Teaching debate
 For the love of God, there are better motions than THW legalize weed to use as an example when teaching debate. 
-However, when asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
+Hohen asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
@@ -1476,11 +1476,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MT
-g2NzEsMjE2NzI3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMs
-MTUxNTgzNjY1NiwxNTUwNDQwMzQ3LDE0NTIyMzUxNTgsNzk3OT
-EwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3NzEsNTIxODg0ODI5
-LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMTI0MjM0ODkyOCwyMT
-g5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0OTUsLTMwNjE0MDcw
-NV19
+c3RvcnkiOlstMTk1MjIxMTQ2MywtODA3MjAwMzEzLC0xNjEyNT
+QxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQyNTA3
+LC05MDg4OTAxNjMsMTUxNTgzNjY1NiwxNTUwNDQwMzQ3LDE0NT
+IyMzUxNTgsNzk3OTEwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3
+NzEsNTIxODg0ODI5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMT
+I0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0
+OTVdfQ==
 -->
