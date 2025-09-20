@@ -1130,16 +1130,16 @@ The main use of the old WhatsApp groups of seniors, has now become organizing pr
 
 There are different types of differences in the timetables. 
 1. The difference of the daily timing for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority either end up too late for session prep time, or too early (they just leave for home). This causes many of the minority branch to quit debating. 
-
+<br>
 ![enter image description here](https://i.ibb.co/Fqdq4S84/Screenshot-2025-09-06-164009.png)
-
+<br>
 And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. (Luckily we presently do have core members and club heads from this minority, so hopefully sessions for the minority will continue to be arranged.)
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to even go about it. You can't always make the latecomers adj. (Refer to the section where I spoke about [making latecomers adj](#common-pitfalls).)
+<br>
+Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence shifts between the minority and majority.
 
-Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester.
-
-3. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
-4. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
+2. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
+3. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
 
@@ -1481,11 +1481,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE1MDA4NjQyOCwtMTAwODkyODIwMSwtMTQ4Nj
-A4NjYxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIw
-LC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMT
-IwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczODcx
-ODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2My
-wxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OTc5
-MTA5OTldfQ==
+c3RvcnkiOls1NjgwNzY0NzUsLTEwMDg5MjgyMDEsLTE0ODYwOD
+Y2MTcsMTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwt
+NzE4MjU0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMD
+M0OTQ1MiwtODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MTg2
+NzEsMjE2NzI3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMsMT
+UxNTgzNjY1NiwxNTUwNDQwMzQ3LDE0NTIyMzUxNTgsNzk3OTEw
+OTk5XX0=
 -->
