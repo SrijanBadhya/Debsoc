@@ -1129,11 +1129,11 @@ The main use of the old WhatsApp groups of seniors, has now become organizing pr
 ### The damn PES timetable
 
 There are different types of differences in the timetables. 
-1. The daily timing differs for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority either end up too late for session prep time, or too early (they just leave for home). This causes many of the minority branch to quit debating. 
+1. The difference of the daily timing for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority either end up too late for session prep time, or too early (they just leave for home). This causes many of the minority branch to quit debating. 
 
 ![enter image description here](https://i.ibb.co/Fqdq4S84/Screenshot-2025-09-06-164009.png)
 
-And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. 
+And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority quit debating the year before), so this is a perpetuating cycle. (Luckily we presently do have coreme
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to go about it. You can't always make the latecomers adj. (Refer the section where I spoke about [making latecomers adj](#common-pitfalls))
 Okay I also learned just today, that Law is a third category, which follows the 8 am to 4 pm timetable every semester.
 3. The weekly timing which gives different people different sets of half days. This further distributes the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these in a week to hold debates. This calculation involves somehow balancing 'maximization of people', and also, 'making sure every recruit has at least one day a week they can debate'.
@@ -1479,11 +1479,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMj
-k4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUs
-LTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MD
-cyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2
-OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2MywxNTE1ODM2NjU2LD
-E1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OTc5MTA5OTksLTE4MDk3
-MDQyNDNdfQ==
+c3RvcnkiOlstMTkzMTQ4NjAxMiwtMTAwODkyODIwMSwtMTQ4Nj
+A4NjYxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIw
+LC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMT
+IwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczODcx
+ODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2My
+wxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OTc5
+MTA5OTldfQ==
 -->
