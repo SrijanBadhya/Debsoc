@@ -1121,8 +1121,8 @@ Here, it's quite easy to explain that the narrative could be either right or wro
 ---
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
-Light fun might also ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals at their first tournament), then it can be beneficial.
-The main use of the old WhatsApp groups of seniors, has now become secretly organizing pranks lmao.
+Light fun might ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals at their first tournament), then it can be beneficial.
+The main use of the old WhatsApp groups of seniors, has now become organizing pranks on the juniors lmao.
 
 
 ---
@@ -1479,11 +1479,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDIzMjk4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4Mj
-IwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwt
-MTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczOD
-cxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2
-MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OT
-c5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1MjE4ODQ4
-MjldfQ==
+c3RvcnkiOlstMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMT
+k3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYs
+LTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MT
+I1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1
+MDcsLTkwODg5MDE2MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMT
+Q1MjIzNTE1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4
+Nzc3MV19
 -->
