@@ -1082,7 +1082,7 @@ When asked to pick a random motion to demonstrate a concept, this has become the
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Mechanizing "banning drugs makes people do drugs more" sounds quite implausible to the average fresher. (Even if you take a smaller burden and then try to combine a lot of different arguments to outweigh, it's hard to convincingly outweigh in the minds of freshers who assign so much negative weight to drugs in their head.)
-- Flipping is way easier to understand in a parenting motion, saying that constant reminders to study make you less studious.
+- Flipping is way easier to understand in a motion like parenting, saying that constant reminders to study make you less studious.
 
 The counter arguments I've heard about this are
 - It's short and sweet, that's why it comes to mind easily.
@@ -1477,11 +1477,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzkyNzgxNTQ4LC0xMjAzNDk0NTIsLTgwNzIwMD
-MxMywtMTYxMjU0MTEwNSwtNzM4NzE4NjcxLDIxNjcyNzY5NCwt
-MTY4Mjg0MjUwNywtOTA4ODkwMTYzLDE1MTU4MzY2NTYsMTU1MD
-Q0MDM0NywxNDUyMjM1MTU4LDc5NzkxMDk5OSwtMTgwOTcwNDI0
-MywxMjU2NDg3NzcxLDUyMTg4NDgyOSwtMTEwNTQxNTk2OSwxNT
-U0NTc5MDgzLDEyNDIzNDg5MjgsMjE4OTc5MTc0LC00Mjc3NjY0
-Nl19
+c3RvcnkiOls5NTg1MzUzMDEsLTM5Mjc4MTU0OCwtMTIwMzQ5ND
+UyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3MSwy
+MTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2MywxNTE1OD
+M2NjU2LDE1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OTc5MTA5OTks
+LTE4MDk3MDQyNDMsMTI1NjQ4Nzc3MSw1MjE4ODQ4MjksLTExMD
+U0MTU5NjksMTU1NDU3OTA4MywxMjQyMzQ4OTI4LDIxODk3OTE3
+NF19
 -->
