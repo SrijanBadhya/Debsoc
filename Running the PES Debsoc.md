@@ -1078,7 +1078,7 @@ Although I had other friends at college, none of them really matched up to the d
 
 ### Teaching debate
 For the love of God, there are better motions than THW legalize weed to use as an example when teaching debate. 
-Hohen asked to pick a random motion to demonstrate a concept, this is the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
+When asked to pick a random motion to demonstrate a concept, this has become the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson).
 - Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting it, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Even flipping is easy to understand in a parenting motion, saying that constant reminders to study make you less studious.
@@ -1476,11 +1476,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk1MjIxMTQ2MywtODA3MjAwMzEzLC0xNjEyNT
-QxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQyNTA3
-LC05MDg4OTAxNjMsMTUxNTgzNjY1NiwxNTUwNDQwMzQ3LDE0NT
-IyMzUxNTgsNzk3OTEwOTk5LC0xODA5NzA0MjQzLDEyNTY0ODc3
-NzEsNTIxODg0ODI5LC0xMTA1NDE1OTY5LDE1NTQ1NzkwODMsMT
-I0MjM0ODkyOCwyMTg5NzkxNzQsLTQyNzc2NjQ2LDE5OTA5MzE0
-OTVdfQ==
+c3RvcnkiOlstMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1ND
+ExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcs
+LTkwODg5MDE2MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMTQ1Mj
+IzNTE1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4Nzc3
+MSw1MjE4ODQ4MjksLTExMDU0MTU5NjksMTU1NDU3OTA4MywxMj
+QyMzQ4OTI4LDIxODk3OTE3NCwtNDI3NzY2NDYsMTk5MDkzMTQ5
+NV19
 -->
