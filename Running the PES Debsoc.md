@@ -1113,10 +1113,10 @@ It's also extremely difficult to distinguish between the two in most narrative m
 For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university etc. And it's hard to differentiate this argument from a belief-focused argument. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
 (They don't think of people who believe in it but don't get to go.)
 
-So one beautiful motion I came across recently, is:
+One beautiful narrative motion I came across recently (which I think doesn't suffer from this confusion), is:
 This house regrets the dominant portrayal of long-distance relationships as doomed to fail.
 
-Here it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope affecting actions is something that can clearly be mechanized from this motion.
+Here, it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope, which affects actions, is something that can clearly be mechanized from this motion. 
 
 ---
 ### Pranks
@@ -1479,7 +1479,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYwMjk5ODYwLDk4NTUzMTk3OSwtMzg0NTQ4Mj
+c3RvcnkiOlsyMDQ3MzIxNDc4LDk4NTUzMTk3OSwtMzg0NTQ4Mj
 IwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwt
 MTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczOD
 cxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2
