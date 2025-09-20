@@ -1129,7 +1129,7 @@ The main use of the old WhatsApp groups of seniors, has now become organizing pr
 ### The damn PES timetable
 
 There are different types of differences in the timetables. 
-1. The daily timing differs for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority gets too late for session prep time, or too early (they just leave for home). This causes many of the minority to quit debating. 
+1. The daily timing differs for B. Tech and non B.Tech. This is so annoying because if one branch has a majority of people, the minority either end up too late for session prep time, or too early (they just leave for home). This causes many of the minority branch to quit debating. 
 
 ![enter image description here](https://i.ibb.co/Fqdq4S84/Screenshot-2025-09-06-164009.png)
 
@@ -1479,11 +1479,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMT
-k3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYs
-LTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MT
-I1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1
-MDcsLTkwODg5MDE2MywxNTE1ODM2NjU2LDE1NTA0NDAzNDcsMT
-Q1MjIzNTE1OCw3OTc5MTA5OTksLTE4MDk3MDQyNDMsMTI1NjQ4
-Nzc3MV19
+c3RvcnkiOlstMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMj
+k4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUs
+LTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MD
+cyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2
+OTQsLTE2ODI4NDI1MDcsLTkwODg5MDE2MywxNTE1ODM2NjU2LD
+E1NTA0NDAzNDcsMTQ1MjIzNTE1OCw3OTc5MTA5OTksLTE4MDk3
+MDQyNDNdfQ==
 -->
