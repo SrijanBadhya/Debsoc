@@ -1118,6 +1118,8 @@ This house regrets the dominant portrayal of long-distance relationships as doom
 
 Here, it's quite easy to explain that the narrative could be either right or wrong, but that doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope, which affects actions, is something that can clearly be mechanized from this motion. 
 
+On a similar note, weighing is a tricky concept to talk about, but what I found to be the most understandable way to explain it is to talk about the trolley problem. Would you rather kill 2 old people or 1 young person? Would you rather kill 20 cats or 1 human? Would you rather 
+
 ---
 ### Pranks
 My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
@@ -1482,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNT
-QsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5
-ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NT
-kxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEz
-LC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNj
-gyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgzNjY1NiwxNTUwNDQw
-MzQ3XX0=
+c3RvcnkiOlstMTk1NjUyMTg2OSw0MjAxMjA0NjcsOTI0NDUyOD
+c1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcs
+MTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4Mj
+U0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1
+MiwtODA3MjAwMzEzLC0xNjEyNTQxMTA1LC03Mzg3MTg2NzEsMj
+E2NzI3Njk0LC0xNjgyODQyNTA3LC05MDg4OTAxNjMsMTUxNTgz
+NjY1Nl19
 -->
