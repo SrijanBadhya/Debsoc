@@ -1107,9 +1107,9 @@ Matter sessions are the most efficient when it comes to teaching, because you ca
 
 ---
 
-Narrative motions are incred for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
+Narrative motions are notoriously tricky for debaters to wrap their head around. Everyone gets carried away believing that they should prove the narrative right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
-It's also extremely difficult to distinguish between the two in most narrative motions, because people have such strong biases. 
+ In most narrative motions, it's also extremely difficult to distinguish between the two, because people have such strong biases. 
 For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university etc. And it's hard to differentiate this argument from a belief-focused argument. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
 (They don't think of people who believe in it but don't get to go.)
 
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NDQ5NjIzMDQsMjY1MjE0NTcsLTIxMjg5NTY0My
-wxMzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAx
-MjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEwMDg5MjgyMD
-EsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4
-NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3OD
-E1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNjEyNTQxMTA1
-XX0=
+c3RvcnkiOlstMTc0ODMyNTE1NiwyNjUyMTQ1NywtMjEyODk1Nj
+QzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQy
+MDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyOD
+IwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwt
+Mzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mj
+c4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDEx
+MDVdfQ==
 -->
