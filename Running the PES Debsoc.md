@@ -1095,8 +1095,8 @@ which are fair, so decide what you feel.
 
 ---
 
-When only one person shows up to a session and you don't feel like cancelling the session and sending them away, this is a great time to teach debate (if you have the time and bandwidth).
-What's great about this is that you can make the lesson personalized, understand their thinking process, and then tune it precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole, more than just giving them advice post a debate.
+When only one person shows up to a session and if you don't feel like cancelling the session and sending them away, this is a great time to teach debate (if you have the time and bandwidth).
+What's great about this scenario is that you can make the lesson personalized, understand their thinking process, and then tune it precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole, more than just giving them advice post a debate.
 To you, it's low stakes practice of conducting a matter session. (It can really help to see what the mindset of a student is, when you are understandable, and when you aren't.) 
 I wouldn't worry about this personalized coaching being unfair, because they're the one that showed up on a day that no one else did.
 
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDk5NjkyOTkyLDI5MjUyNDU2MSwtMTczMjg1Mj
-UyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEw
-MDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1Mz
-E5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2
-LC0zOTI3ODE1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNj
-EyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQy
-NTA3XX0=
+c3RvcnkiOls2OTk5ODY1NTcsMjkyNTI0NTYxLC0xNzMyODUyNT
+IyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAw
+ODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMT
+k3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYs
+LTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MT
+I1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1
+MDddfQ==
 -->
