@@ -1152,9 +1152,9 @@ We've thought about directing juniors to conduct sessions for themselves. The st
 
 ---
 ### WhatsApp
-Allowing them to text whatever they want, and making them feel comfortable, is a great way to facilitat juniors to bond together, get connected to the community, and engage more with the club. (Equity rules can still apply, that's up to the equity community, I will not speak about it). 
-However, this spam of topics unrelated to debate, causes quite a few people to mute the group. 
-The issue with people reaching the point where they mute the group, is that they miss out on the occasional important message which comes through. 
+Allowing them to text whatever they want, and making them feel comfortable, is a great way to get juniors to bond together, get connected to the community, and engage more with the club. (Equity rules can still apply, and that's up to the equity community.)
+However, this spam of texts unrelated to debate causes quite a few people to mute the group. 
+The issue of people reaching the point where they mute the group, is that they now miss out on the occasional important message which comes through. 
 Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
 The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. The group had given the permission to text for admins only, and the admins were all the seniors who had expressed interest in conducting sessions. The polls needed to be shared a day in advance so that people could plan well.
 The Announcements channel was for important announcements major documents like the manual. The messages here needed to be minimized so that people could search up quickly. 
@@ -1488,11 +1488,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDc5NzM2NDg1LDI1NjUwMTQ2OCwtMTIzMjIxMT
-g0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mjc5MjA4Nywt
-MTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYsMjY1Mj
-E0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyNDU2MSwt
-MTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNT
-YwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2
-N119
+c3RvcnkiOlszNjA2NDQ1NzAsMjU2NTAxNDY4LC0xMjMyMjExOD
+QxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0x
+MDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMT
+Q1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0x
+NzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1Nj
+A1NCwtMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3
+XX0=
 -->
