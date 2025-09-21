@@ -1097,7 +1097,7 @@ which are fair, so decide what you feel.
 
 When only one person shows up to a session and if you don't feel like cancelling the session and sending them away, this is a great time to teach debate (if you have the time and bandwidth).
 What's great about this scenario is that you can make the lesson personalized, understand their thinking process, and then tune them precisely. From what I've seen, this has the most direct impact on their approach to debates as a whole, more than just giving them advice post a debate.
-To you, it's low stakes practice of conducting a matter session. (It can really help to see what the mindset of a listener would be, when you are understandable, and when you aren't.) 
+To you, it's low stakes practice of conducting a matter session. (It can really help to see what the mindset of a listener would be, when you are understandable, and when you aren't.)
 I wouldn't worry about this personalized coaching being unfair, because the person you're teaching is the one that showed up on a day that no one else did.
 
 What I did is make up a tangible motion they would understand, like, "This House Would Change PES timings," or, "THW put effort to get a girlfriend," and ask questions to push them in a certain direction. Some other times, I would initially start some random conversation with them about their interests, find out something like them being a volunteer at Aatmatrisha, and then make up a specific motion like, "THW be a volunteer at Aatmatrisha".
@@ -1105,7 +1105,7 @@ Sometimes after this thorough discussion of their case, I got them to give a spe
 
 This session also helped me give people the individual attention that I've talked about in earlier chapters.
 
-Matter sessions are the most efficient when it comes to teaching, because you can reach the most people even if you can't at
+Matter sessions are the most efficient when it comes to teaching, because you can reach the most people even if you can't attain depth with every student.
 
 ---
 Narrative motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative to be right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
@@ -1485,7 +1485,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDEyMzQwNjYzLDI5MjUyNDU2MSwtMTczMjg1Mj
+c3RvcnkiOlsxMzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1Mj
 UyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEw
 MDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1Mz
 E5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2
