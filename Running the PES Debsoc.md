@@ -37,7 +37,7 @@ In true debate fashion, this book will have my claims about what I think a good 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
 - If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
 
-It does take effort to keep these policies implemented, and I want to be able to convince you that it is worth the effort to implement something instead of believing, "What happens naturally is enough".
+It does take effort to keep these policies implemented, and I want to be able to convince you that it is worth the effort to implement something rather than believing, "What happens naturally is enough".
 I don't want mistakes from the past to repeat because I wasn't able to empower my juniors with functional systems.
 I believe it's good to keep in mind the merits and demerits of alternate policies while implementing a particular policy.
 
@@ -821,7 +821,7 @@ The biggest difference between expectations and reality is of course, that junio
 "Most novices go into their first tournament assuming they'll only face other beginners, only to get ripped apart by dinos in the first round.
 
 Tournaments are very draining physically, mentally, and emotionally. Juniors have no idea how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it has happened in APs not BPs). I think they deserve a fair warning.
-I believe that it was better to prepare them for this possibility instead of being blindly optimistic about their results. However, this is something specific to my beliefs and the way I see the world, so I'm unsure whether it's better to act like you have low expectations of them, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then that could affect their self-esteem from the start since that makes them, "hopeless".
+I believe that it was better to prepare them for this possibility rather than being blindly optimistic about their results. However, this is something specific to my beliefs and the way I see the world, so I'm unsure whether it's better to act like you have low expectations of them, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then that could affect their self-esteem from the start since that makes them, "hopeless".
 
 ![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
 
@@ -1107,7 +1107,7 @@ Matter sessions are the most efficient when it comes to teaching, because you ca
 
 ---
 
-Narrative motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative to be right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
+Narrative motions are incredibly complicated for debaters to wrap their head around. Everyone gets carried away and believes that you should prove the narrative right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
 It's also extremely difficult to distinguish between the two in most narrative motions, because people have such strong biases. 
 For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university etc. And it's hard to differentiate this argument from a belief-focused argument. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NT
-YxLC0xNzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUz
-NjI1NjA1NCwtMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMj
-k4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUs
-LTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MD
-cyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2
-OTRdfQ==
+c3RvcnkiOlsyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYyMz
+gsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0
+NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMSwtMTQ4NjA4Nj
+YxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIwLC03
+MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMTIwMz
+Q5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3
+MV19
 -->
