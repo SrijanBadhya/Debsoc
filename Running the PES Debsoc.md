@@ -1143,8 +1143,9 @@ Allowing people to join sessions late does mitigate this, but this is really har
 Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence it defects between the minority and majority.
 
 2. The weekly timing which gives different people different combinations of half days. This further segregates the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these to hold debates weekly. This calculation involves somehow balancing 'maximization of people' along with, 'making sure every recruit has at least one day a week they can debate.'
+The benefit of having a fixed 3 days per week is that it allows people to assimilate debsoc into their routine, which leads to the benefits mentioned before. 
 
-3. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
+4. The alternate exam timing. A significant portion of the semester is taken up by exams, and different branches have it on different weeks. Seniors usually have it together, which makes juniors sit idle and prevents any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
 
@@ -1486,11 +1487,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODIyMjU5OTMsLTExMzMxMjMwNywtMTk2Mjc5Mj
-A4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYs
-MjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyND
-U2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01
-MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMz
-I5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1
-XX0=
+c3RvcnkiOlsxNDU4ODc1ODIyLC0xMTMzMTIzMDcsLTE5NjI3OT
+IwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2
+LDI2NTIxNDU3LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwyOTI1Mj
+Q1NjEsLTE3MzI4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwt
+NTM2MjU2MDU0LC0xMDA4OTI4MjAxLC0xNDg2MDg2NjE3LDE0Mj
+MyOTg3NjcsOTg1NTMxOTc5LC0zODQ1NDgyMjAsLTcxODI1NDE0
+NV19
 -->
