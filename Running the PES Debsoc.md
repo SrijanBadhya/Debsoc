@@ -1125,7 +1125,7 @@ On a similar note, weighing is a tricky concept to talk about. What I found to b
 ### Pranks
 
 My rule of thumb was to not play pranks, at least in the initial days, because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
-Light fun might ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals at their first tournament), then it can be beneficial.
+Light fun might ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank of making people wear formals at their first tournament), then it can be beneficial.
 The main use of the old WhatsApp groups of seniors, has now become organizing pranks on the juniors lmao.
 
 
@@ -1486,11 +1486,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5ND
-E1NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5
-MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyOD
-c1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcs
-MTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4Mj
-U0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1
-Ml19
+c3RvcnkiOlsxNTg2NTUzMDM0LC0xMDExODM0NDg1LDE1NDczOT
+gzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEz
+Mzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMD
+Q2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMSwt
+MTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwtMzg0NT
+Q4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mjc4MTU0
+OF19
 -->
