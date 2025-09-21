@@ -1162,7 +1162,7 @@ The Announcements channel was for important announcements and major documents li
 My adivce would be to share the motion on the non Sessions group so that people can randomly discuss the motion by replying to it (because it takes more effort for people to switch groups to talk about a motion, than to just reply to a message above). The only people who would be able to reply to it if sent on Sessions, are other seniors with texting permissions, and them doing this leads to spam.
 
 In my opinion, even all queries and answers to queries about the session should be on Shenanigans to minimize spam in Sessions. People have different tipping points when it comes to muting, and we don't want people to mute the Sessions group (even if they are on the fence about even engaging). 
-Spam by seniors happens often due to accidents, and as long as you realize, cut it out, and redirect it to shenanigans quickly, you won't be reaching anyone's muting tipping points.
+Spam by seniors happens often due to accidents, and as long as you realize, cut it out, and redirect it to shenanigans quickly, you won't reach anyone's muting tipping points.
 
 
 PES clubs often tell juniors to market events on every group they are a part of.
@@ -1170,7 +1170,7 @@ The default stance assumed by juniors is that you can send anything you want (es
 (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 
 I think this was rather dumb, 
-- especially since the Debsoc desires to do marketing in other groups later. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. 
+- especially since the we later desire to do marketing in other groups ourselves. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group. (which affects how con 
 - We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing won't convince them, and we shouldn't show our fragile egos by saying, "Don't join, MUN is trash".
 - If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
@@ -1488,11 +1488,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExOD
-QxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0x
-MDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMT
-Q1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0x
-NzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1Nj
-A1NCwtMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3
-XX0=
+c3RvcnkiOlstMTk3NjYzNTM4NiwxNzc3Mzc3OTUsMjU2NTAxND
+Y4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0x
+OTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMTM0Nj
+k0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgs
+MjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NT
+I4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMSwtMTQ4NjA4NjYx
+N119
 -->
