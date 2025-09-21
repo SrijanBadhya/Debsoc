@@ -1119,11 +1119,12 @@ This house regrets the dominant portrayal of long-distance relationships as doom
 
 Here, it's quite easy to explain that although the narrative could be right or wrong, this doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. How narratives can affect hope, which affects actions, is something that can clearly be mechanized from this motion. 
 
-On a similar note, weighing is a tricky concept to talk about. What I found to be the most understandable way to explain it, was to talk about the trolley problem. Would you rather kill 2 old people or 1 young person? Would you rather kill 20 cats or 1 human? Would you rather cut off education from 10 people or medical treatment from 20 people? Whatever r
+On a similar note, weighing is a tricky concept to talk about. What I found to be the most understandable way to explain it, was to talk about the trolley problem. Would you rather kill 2 old people or 1 young person? Would you rather kill 20 cats or 1 human? Would you rather cut off education from 10 people or medical treatment from 20 people? Whatever explanation juniors give for this is literally weighing.
 
 ---
 ### Pranks
-My rule of thumb was to not play pranks in the initial days because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
+
+My rule of thumb was to not play pranks, at least in the initial days, because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
 Light fun might ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank to make people wear formals at their first tournament), then it can be beneficial.
 The main use of the old WhatsApp groups of seniors, has now become organizing pranks on the juniors lmao.
 
@@ -1485,11 +1486,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NTEzMjA2OCwxNTQ3Mzk4MzY5LDEzNDY5NDE1Nj
-YsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUy
-NDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC
-01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQy
-MzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4MjU0MT
-Q1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1Ml19
-
+c3RvcnkiOlstMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5ND
+E1NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5
+MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyOD
+c1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcs
+MTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4Mj
+U0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1NDgsLTEyMDM0OTQ1
+Ml19
 -->
