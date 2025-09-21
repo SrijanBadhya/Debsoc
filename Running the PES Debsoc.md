@@ -226,6 +226,10 @@ Add the following image to the, "even if temporary, provided value" thing
 ![image](https://i.ibb.co/s95RnF86/Screenshot-2025-09-06-183012.png)
 
 
+
+
+
+
 # Inside a session
 [Back to the Table of Contents](#table-of-contents)
 
@@ -1183,7 +1187,7 @@ Since quite a few people try out both clubs, it's unwise to alienate MUN people.
 Across the year, a few people do switch from debsoc to munsoc, and munsoc to debsoc. This happens naturally and you don't have much power to prevent this by directly targeting MUN. There's no guarantee that your effort will bear fruit instead of backfiring.
 It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to be persuasive to anyone who's interested in MUN. 
 
-There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I'd lose respect for a debsoc member who needed to hate on MUN to make debate look valuable.
+There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I myself would lose respect for a debsoc member who needed to hate on MUN to make debate look valuable (already happened this last year).
 
 ![enter image description here](https://i.ibb.co/fVRDB8ph/munsoc.jpg)
 
@@ -1488,11 +1492,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTE1MDY2MTY0LDE3NzczNzc5NSwyNTY1MDE0Nj
-gsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5
-NjI3OTIwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OT
-QxNTY2LDI2NTIxNDU3LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwy
-OTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mj
-g3NSwtNTM2MjU2MDU0LC0xMDA4OTI4MjAxLC0xNDg2MDg2NjE3
-XX0=
+c3RvcnkiOls4MDA0OTUzNjUsLTUxNTA2NjE2NCwxNzc3Mzc3OT
+UsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEz
+MzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOT
+gzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEz
+Mzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMD
+Q2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMV19
+
 -->
