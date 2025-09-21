@@ -1117,7 +1117,7 @@ Even if you try to explain the difference in your OA/feedback, they may struggle
 One beautiful narrative motion I came across recently (which I think doesn't suffer from this confusion), is:
 This house regrets the dominant portrayal of long-distance relationships as doomed to fail.
 
-Here, it's quite easy to explain that although the narrative could be right or wrong, this doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. Narratives affecting hope, which affects actions, is something that can clearly be mechanized from this motion. 
+Here, it's quite easy to explain that although the narrative could be right or wrong, this doesn't matter. It's also quite evident that people who believe the narrative, are going to give up on what could have been a successful relationship. How narratives can affect hope, which affects actions, is something that can clearly be mechanized from this motion. 
 
 On a similar note, weighing is a tricky concept to talk about, but what I found to be the most understandable way to explain it is to talk about the trolley problem. Would you rather kill 2 old people or 1 young person? Would you rather kill 20 cats or 1 human? Would you rather cut off education from 10 people or medical treatment from 20 people?
 
@@ -1485,7 +1485,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU0ODcxMDQ0LDI2NTIxNDU3LC0yMTI4OTU2ND
+c3RvcnkiOlsxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2ND
 MsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIw
 MTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4Mj
 AxLC0xNDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5LC0z
