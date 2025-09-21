@@ -1157,9 +1157,9 @@ However, this spam of texts unrelated to debate causes quite a few people to mut
 The issue of people reaching the point where they mute the group, is that they now miss out on the occasional important message. 
 Our solution to appease both the yappers and the muters, was to create a new group for Sessions (and utilize the Announcements channel on the Community). 
 The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. Texting permission in Sessions was given to admins only, and the admins were all the seniors who had expressed interest in conducting sessions. The polls needed to be posted a day in advance so that people could plan well.
-The Announcements channel was for important announcements major documents like the manual. The messages here needed to be minimized so that people could search up quickly. 
+The Announcements channel was for important announcements and major documents like the manual which needed to be accessible. The messages here needed to be minimized so that people could search up quickly. 
 
-Share the motion on the non Sessions group so that people can randomly discuss the motion replying to it (because it takes effort for people to switch groups to talk about a motion, but it's easier to reply to a message above). The only people who would be able to reply to it on Sessions, are seniors with texting permissions, which leads to spam.
+My adivce would be to share the motion on the non Sessions group so that people can randomly discuss the motion by replying to it (because it takes effort for people to switch groups to talk about a motion, thansier to reply to a message above). The only people who would be able to reply to it on Sessions, are seniors with texting permissions, which leads to spam.
 
 In my opinion, even all queries and answers to queries about the session should be on Shenanigans to minimize spam in Sessions. People have different tipping points when it comes to muting, and we don't want people to mute the Sessions group (even if they are on the fence about even engaging). 
 Spam by seniors happens often due to accidents, and as long as you realize, cut it out, and redirect it to shenanigans quickly, you won't be reaching anyone's muting tipping points.
@@ -1488,11 +1488,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDY5OTExMzA5LDI1NjUwMTQ2OCwtMTIzMjIxMT
-g0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mjc5MjA4Nywt
-MTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYsMjY1Mj
-E0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyNDU2MSwt
-MTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNT
-YwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2
-N119
+c3RvcnkiOls2NDgwNDMyNzcsMjU2NTAxNDY4LC0xMjMyMjExOD
+QxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0x
+MDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMT
+Q1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0x
+NzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1Nj
+A1NCwtMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3
+XX0=
 -->
