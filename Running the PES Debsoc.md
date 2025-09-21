@@ -1082,7 +1082,7 @@ When asked to pick a random motion to demonstrate a concept, this has become the
 - Since most freshers don't know about the system of the black market, or the mindset of druggies, a drug debate can feel disconnected.
 - So when you teach mech and impacting, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Mechanizing "banning drugs makes people do drugs more" sounds quite implausible to the average fresher. (Even if you take a smaller burden and then try to combine a lot of different arguments to outweigh, it's hard to convincingly outweigh in the minds of freshers who assign so much negative weight to drugs in their head.)
-- Flipping is way easier to understand in a motion like parenting. There are way more tangible examples here, like, "Constant reminders to study make you less studious.
+- Flipping is way easier to understand in a motion like parenting. There are way more tangible examples here, like, "Constant reminders to study make you less studious instead of more."
 
 The counter arguments I've heard about this are:
 - It's short and sweet, that's why it comes to mind easily.
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMzUwMzY3OTQsMjkyNTI0NTYxLC0xNzMyODUyNT
-IyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAw
-ODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMT
-k3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYs
-LTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MT
-I1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2OTQsLTE2ODI4NDI1
-MDddfQ==
+c3RvcnkiOlstNDk5NjkyOTkyLDI5MjUyNDU2MSwtMTczMjg1Mj
+UyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEw
+MDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1Mz
+E5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2
+LC0zOTI3ODE1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNj
+EyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQy
+NTA3XX0=
 -->
