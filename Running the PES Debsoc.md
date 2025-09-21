@@ -1109,8 +1109,8 @@ Matter sessions are the most efficient when it comes to teaching, because you ca
 
 Narrative motions are notoriously tricky for debaters to wrap their head around. Everyone gets carried away believing that they should prove the narrative right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
- In most narrative motions, it's also extremely difficult to distinguish between the two, because people have such strong biases. 
-For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university etc. And it's hard to differentiate this argument from a belief-focused argument. Because, in the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
+In most narrative motions, it's also extremely difficult to distinguish between the two, because people have such strong biases. 
+For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university (proving it right or wrong). It's hard to differentiate this argument from a belief-focused argument. In the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
 (They don't think of people who believe in it but don't get to go.)
 
 One beautiful narrative motion I came across recently (which I think doesn't suffer from this confusion), is:
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc0ODMyNTE1NiwyNjUyMTQ1NywtMjEyODk1Nj
-QzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQy
-MDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyOD
-IwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NTUzMTk3OSwt
-Mzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEyNjYsLTM5Mj
-c4MTU0OCwtMTIwMzQ5NDUyLC04MDcyMDAzMTMsLTE2MTI1NDEx
-MDVdfQ==
+c3RvcnkiOlstNTM1MTE3ODQ0LDI2NTIxNDU3LC0yMTI4OTU2ND
+MsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIw
+MTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4Mj
+AxLC0xNDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5LC0z
+ODQ1NDgyMjAsLTcxODI1NDE0NSwtMTcwNjU5MTI2NiwtMzkyNz
+gxNTQ4LC0xMjAzNDk0NTIsLTgwNzIwMDMxMywtMTYxMjU0MTEw
+NV19
 -->
