@@ -351,7 +351,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now". I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likely to value it more.
 
 
-Feedback is often tricky once your brain has shut down after the debate. I learned the hard way that you may just try to make up something from your own notes, or default to something generic.
+Feedback is often tricky once your brain has shut down after the debate. I learned the hard way that you may just try to make up something from your own notes, or defaulted to something generic.
 
 ![enter image description here](https://i.ibb.co/PG48xPjT/feedback.jpg)
 
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMTIwND
-Y3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4MjAxLC0x
-NDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5LC0zODQ1ND
-gyMjAsLTcxODI1NDE0NSwtMTcwNjU5MTI2NiwtMzkyNzgxNTQ4
-LC0xMjAzNDk0NTIsLTgwNzIwMDMxMywtMTYxMjU0MTEwNSwtNz
-M4NzE4NjcxLDIxNjcyNzY5NCwtMTY4Mjg0MjUwNywtOTA4ODkw
-MTYzXX0=
+c3RvcnkiOlstNjA4Mzc4NzM0LDI5MjUyNDU2MSwtMTczMjg1Mj
+UyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEw
+MDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1Mz
+E5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2
+LC0zOTI3ODE1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNj
+EyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQy
+NTA3XX0=
 -->
