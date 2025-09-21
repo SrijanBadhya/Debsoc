@@ -355,7 +355,7 @@ Feedback is often tricky once your brain has shut down after the debate. I remem
 
 ![enter image description here](https://i.ibb.co/PG48xPjT/feedback.jpg)
 
-One thing I found handy was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Why is t", I wrote it down in brackets next to their statement. It also helped me deliver the feedback quicker when asked for it.
+One thing I found handy was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Why are people going to behave the way you say," I wrote it down in brackets next to their statement. It also helped me deliver the feedback quicker when asked for it.
 
 Ideally the judges who conduct sessions, are ones who've read and understood the manual, since 
 - Their feedback is far more likely to be valid.
@@ -1079,7 +1079,7 @@ Although I had other friends at college, none of them really matched up to the d
 ### Teaching debate
 For the love of God, there are better motions than THW legalize weed to use as an example when teaching debate. 
 When asked to pick a random motion to demonstrate a concept, this has become the first motion that comes to mind. (Please have more relevant motions at hand before you start a matter session, it makes a huge difference in the illustration clarity of the lesson.)
-- Most freshers don't know about the system of the black market, or the psychologies of druggies, so a drug debate can feel disconnected.
+- Most freshers don't know about the system of the black market, or the mindset of druggies, so a drug debate can feel disconnected.
 - So when you teach mech and impacting, it doesn't feel as real. If you used a parenting motion, children could easily understand mech and impacting when they relate to it.
 - Mechanizing "banning drugs makes people do drugs more" sounds quite implausible to the average fresher. (Even if you take a smaller burden and then try to combine a lot of different arguments to outweigh, it's hard to convincingly outweigh in the minds of freshers who assign so much negative weight to drugs in their head.)
 - Flipping is way easier to understand in a motion like parenting, by saying that constant reminders to study make you less studious.
@@ -1484,7 +1484,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAzNTEzMDQ1OSwyOTI1MjQ1NjEsLTE3MzI4NT
+c3RvcnkiOlstMTExNzc0NDk5OSwyOTI1MjQ1NjEsLTE3MzI4NT
 I1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0x
 MDA4OTI4MjAxLC0xNDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NT
 MxOTc5LC0zODQ1NDgyMjAsLTcxODI1NDE0NSwtMTcwNjU5MTI2
