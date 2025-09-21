@@ -351,11 +351,11 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now". I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likely to value it more.
 
 
-Feedback is often tricky once your brain has shut down after the debate. I learned the hard way that you may just try to make up something from your own notes, or defaulted to something generic.
+Feedback is often tricky once your brain has shut down after the debate. I remember when I sometimes just tried to make up something from my own notes or defaulted to something generic.
 
 ![enter image description here](https://i.ibb.co/PG48xPjT/feedback.jpg)
 
-One thing I found handy was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Missing reasoning", I wrote it down in brackets next to their statement. It also helped me deliver the feedback quicker when asked for it.
+One thing I found handy was to write down my feedback as the speeches were happening. The moment a question came to my mind during the speech like, "Why is t", I wrote it down in brackets next to their statement. It also helped me deliver the feedback quicker when asked for it.
 
 Ideally the judges who conduct sessions, are ones who've read and understood the manual, since 
 - Their feedback is far more likely to be valid.
@@ -1484,11 +1484,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjA4Mzc4NzM0LDI5MjUyNDU2MSwtMTczMjg1Mj
-UyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEw
-MDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1Mz
-E5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2
-LC0zOTI3ODE1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNj
-EyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQy
-NTA3XX0=
+c3RvcnkiOlstMjAzNTEzMDQ1OSwyOTI1MjQ1NjEsLTE3MzI4NT
+I1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0x
+MDA4OTI4MjAxLC0xNDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NT
+MxOTc5LC0zODQ1NDgyMjAsLTcxODI1NDE0NSwtMTcwNjU5MTI2
+NiwtMzkyNzgxNTQ4LC0xMjAzNDk0NTIsLTgwNzIwMDMxMywtMT
+YxMjU0MTEwNSwtNzM4NzE4NjcxLDIxNjcyNzY5NCwtMTY4Mjg0
+MjUwN119
 -->
