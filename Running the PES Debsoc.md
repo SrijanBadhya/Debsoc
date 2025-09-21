@@ -1137,7 +1137,7 @@ There are different types of differences in the timetables.
 <br>
 ![enter image description here](https://i.ibb.co/Fqdq4S84/Screenshot-2025-09-06-164009.png)
 <br>
-And the worst part is that the only way to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority have quit debating the year before), so this is a perpetuating cycle. (Luckily we presently do have core members and club heads from this minority, so hopefully sessions for the minority will continue to be arranged.)
+And the worst part is that the only way I see to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority have quit debating the year before), so this is a perpetuating cycle. (Luckily we presently do have core members and club heads from this minority, so hopefully sessions for the minority will continue to be arranged.)
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to even go about it. You can't always make the latecomers adj. (Refer to the section where I spoke about [making latecomers adj](#common-pitfalls).)
 <br>
 Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence shifts between the minority and majority.
@@ -1486,11 +1486,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mz
-k4MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0Mywx
-MzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMj
-A0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEs
-LTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4ND
-U0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3ODE1
-NDhdfQ==
+c3RvcnkiOlstMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExOD
+M0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1Nywt
+MjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyOD
+UyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwt
+MTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NT
+UzMTk3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEy
+NjZdfQ==
 -->
