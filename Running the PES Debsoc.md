@@ -161,7 +161,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 - You might get depressed over the Debsoc 'deteriorating' when the people are actually doing fine. They're still enjoying the club and enjoying debate but you're hyperventilating.
 
 ![enter image description here](https://i.ibb.co/fd1BYB3t/Whats-App-Image-2025-09-09-at-23-33-50.jpg)
-- You might be cringe and hesitate to work with other societies and give good feedback because they're 'rival societies' who are 'taking away your wins'. (For a while I had to process these cringe thoughts in my own head).
+- You might be cringe and hesitate to work with other societies and give good feedback because they're 'rival societies' who are 'taking away your wins'. (For a while I had to process these cringeworthy thoughts in my own head).
 
 **Most of the benefits are accessible even when you don't solely care about tournament wins. You can still achieve joy, growth, and community without grinding solely for tournament wins.**
 
@@ -1487,7 +1487,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODI5MjM4MzE1LC0xMTMzMTIzMDcsLTE5NjI3OT
+c3RvcnkiOlstNjg3Mjg5MjU4LC0xMTMzMTIzMDcsLTE5NjI3OT
 IwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2
 LDI2NTIxNDU3LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwyOTI1Mj
 Q1NjEsLTE3MzI4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwt
