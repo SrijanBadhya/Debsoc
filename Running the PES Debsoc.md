@@ -1110,8 +1110,9 @@ Matter sessions are the most efficient when it comes to teaching, because you ca
 Narrative motions are notoriously tricky for debaters to wrap their head around. Everyone gets carried away believing that they should prove the narrative right or wrong, rather than proving the effects of the narrative to be beneficial or harmful. 
 
 In most narrative motions, it's also extremely difficult to distinguish between the two, because people have such strong biases. 
-For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university (proving it right or wrong). It's hard to differentiate this argument from a belief-focused argument. In the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative, so there's no difference.
-(They don't think of people who believe in it but don't get to go.)
+For example, in "This house regrets the narrative that going to a prestigious university is the key to success", people will definitely end up arguing about whether it is possible to succeed without a university (proving it right or wrong). It's hard to differentiate this argument from a belief-focused argument. In the heads of juniors, people who go to prestigious universities believe in the narrative, and people who don't, don't believe in the narrative. (They may not think of people who believe in it but don't get to go.)
+Even if you try to explain the difference in your OA/feedback, they may struggle to understand what you mean by the difference.
+
 
 One beautiful narrative motion I came across recently (which I think doesn't suffer from this confusion), is:
 This house regrets the dominant portrayal of long-distance relationships as doomed to fail.
@@ -1484,11 +1485,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTM1MTE3ODQ0LDI2NTIxNDU3LC0yMTI4OTU2ND
-MsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIw
-MTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4Mj
-AxLC0xNDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5LC0z
-ODQ1NDgyMjAsLTcxODI1NDE0NSwtMTcwNjU5MTI2NiwtMzkyNz
-gxNTQ4LC0xMjAzNDk0NTIsLTgwNzIwMDMxMywtMTYxMjU0MTEw
-NV19
+c3RvcnkiOls2NTk1NzAxOTksMjY1MjE0NTcsLTIxMjg5NTY0My
+wxMzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAx
+MjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEwMDg5MjgyMD
+EsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4
+NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2LC0zOTI3OD
+E1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNjEyNTQxMTA1
+XX0=
 -->
