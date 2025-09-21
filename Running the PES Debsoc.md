@@ -1140,7 +1140,7 @@ There are different types of differences in the timetables.
 And the worst part is that the only way I see to solve this is to have enough seniors from the minority branch (which won't be the case if many of the minority have quit debating the year before), so this is a perpetuating cycle. (Luckily we presently do have core members and club heads from this minority, so hopefully sessions for the minority will continue to be arranged.)
 Allowing people to join sessions late does mitigate this, but this is really hard to pull off efficiently and I don't know how to even go about it. You can't always make the latecomers adj. (Refer to the section where I spoke about [making latecomers adj](#common-pitfalls).)
 <br>
-Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence shifts between the minority and majority.
+Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence it defects between the minority and majority.
 
 2. The weekly timing which gives different people different combinations of half days. This further segregates the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these to hold debates weekly. This calculation involves somehow balancing 'maximization of people' along with, 'making sure every recruit has at least one day a week they can debate.'
 
@@ -1486,11 +1486,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExOD
-M0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1Nywt
-MjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyOD
-UyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwt
-MTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMjk4NzY3LDk4NT
-UzMTk3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUsLTE3MDY1OTEy
-NjZdfQ==
+c3RvcnkiOlsxODIyMjU5OTMsLTExMzMxMjMwNywtMTk2Mjc5Mj
+A4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYs
+MjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyND
+U2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01
+MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMz
+I5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1
+XX0=
 -->
