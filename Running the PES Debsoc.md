@@ -1100,7 +1100,7 @@ What's great about this scenario is that you can make the lesson personalized, u
 To you, it's low stakes practice of conducting a matter session. (It can really help to see what the mindset of a listener would be, when you are understandable, and when you aren't.)
 I wouldn't worry about this personalized coaching being unfair, because the person you're teaching is the one that showed up on a day that no one else did.
 
-What I did is make up a tangible motion they would understand, like, "This House Would Change PES timings," or, "THW put effort to get a girlfriend," and ask questions to push them in a certain direction. Some other times, I would initially start some random conversation with them about their interests, find out something like them being a volunteer at Aatmatrisha, and then make up a specific motion like, "THW be a volunteer at Aatmatrisha".
+What I would d is make up a tangible motion they would understand, like, "This House Would Change PES timings," or, "THW put effort to get a girlfriend," and then ask questions to push them in a certain direction. Some other times, I would initially start some random conversation with them about their interests, find out something like them being a volunteer at Aatmatrisha, and then make up a specific motion like, "THW be a volunteer at Aatmatrisha".
 Sometimes after this thorough discussion of their case, I got them to give a speech and see the effects of the deep prep on their confidence and speech quality (It felt really fulfilling for me to watch this as well).
 
 This session also helped me give people the individual attention that I've talked about in earlier chapters.
@@ -1485,11 +1485,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1Mj
-UyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEw
-MDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMzI5ODc2Nyw5ODU1Mz
-E5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1LC0xNzA2NTkxMjY2
-LC0zOTI3ODE1NDgsLTEyMDM0OTQ1MiwtODA3MjAwMzEzLC0xNj
-EyNTQxMTA1LC03Mzg3MTg2NzEsMjE2NzI3Njk0LC0xNjgyODQy
-NTA3XX0=
+c3RvcnkiOlsxMzI0NDM2MzU5LDEzMzc0OTYyMzgsMjkyNTI0NT
+YxLC0xNzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUz
+NjI1NjA1NCwtMTAwODkyODIwMSwtMTQ4NjA4NjYxNywxNDIzMj
+k4NzY3LDk4NTUzMTk3OSwtMzg0NTQ4MjIwLC03MTgyNTQxNDUs
+LTE3MDY1OTEyNjYsLTM5Mjc4MTU0OCwtMTIwMzQ5NDUyLC04MD
+cyMDAzMTMsLTE2MTI1NDExMDUsLTczODcxODY3MSwyMTY3Mjc2
+OTRdfQ==
 -->
