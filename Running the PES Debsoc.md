@@ -1148,7 +1148,7 @@ The benefit of having a fixed 3 days per week is that it allows people to assimi
 3. The alternate exam timing. A significant portion of the semester is consumed by exams, and different branches have them on different weeks (seniors usually have different dates from juniors). Since all seniors are usually occupied together, juniors have no one to conduct any debate activity that week. When juniors have exams, the available seniors also sit idle. This is often severely underestimated in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
-We've thought about juniors conduct sessions for themselves. The stance my seniors took in 2022 was to wait 6 months before allowing freshers to debate among themselves. This was because as fres
+We've thought about juniors conduct sessions for themselves. The stance my seniors took in 2022 was to wait 6 months before allowing freshers to debate among themselves. This was because as freshers we weren't qualified enough and we could end up developing poor habits without a senior to correct us.and I actually agree. I think 6 months is a good line to draw. 
 
 ---
 ### WhatsApp
@@ -1488,11 +1488,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzI4NTM2MTk2LC0xMTMzMTIzMDcsLTE5NjI3OT
-IwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2
-LDI2NTIxNDU3LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwyOTI1Mj
-Q1NjEsLTE3MzI4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwt
-NTM2MjU2MDU0LC0xMDA4OTI4MjAxLC0xNDg2MDg2NjE3LDE0Mj
-MyOTg3NjcsOTg1NTMxOTc5LC0zODQ1NDgyMjAsLTcxODI1NDE0
-NV19
+c3RvcnkiOls3MzU0OTA4ODgsLTExMzMxMjMwNywtMTk2Mjc5Mj
+A4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYs
+MjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyND
+U2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1LC01
+MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0ODYwODY2MTcsMTQyMz
+I5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIyMCwtNzE4MjU0MTQ1
+XX0=
 -->
