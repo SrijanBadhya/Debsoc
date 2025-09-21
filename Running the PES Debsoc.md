@@ -1145,7 +1145,7 @@ Okay I just learned today that Law is a category of its own, which follows the 8
 2. The weekly timing which gives different people different combinations of half days. This further segregates the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these to hold debates weekly. This calculation involves somehow balancing 'maximization of people' along with, 'making sure every recruit has at least one day a week they can debate.'
 The benefit of having a fixed 3 days per week is that it allows people to assimilate debsoc into their routine, which leads to the benefits mentioned earlier.
 
-3. The alternate exam timing. A significant portion of the semester is consumed by exams, and different branches have them on different weeks (seniors usually have different dates from juniors). Since all seniors are usually occupied together, juniors have no one to conduct any debate activity that week. When juniors have exams, the available seniors now sit idle. This is often severely overlooked in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible, even if not all factors seem favorable to you. Don't hope to get a better opportunity later because that is way unlikelier than you think. The window of opportunity is limited.
+3. The alternate exam timing. A significant portion of the semester is consumed by exams, and different branches have them on different weeks (seniors usually have different dates from juniors). Since all seniors are usually occupied together, juniors have no one to conduct any debate activity that week. When juniors have exams, the available seniors now sit idle. This is often severely overlooked in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible, even if not all factors seem favorable to you. I'd advise against holding out hope for a better opportunity, as the chances of one appearing are often slimmer than they seem. The window of opportunity is very limited and precious.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
 
 We've thought about directing juniors to conduct sessions for themselves. The stance my seniors took in 2022 was to wait 6 months before allowing freshers to debate among themselves. This was because as freshers we weren't qualified enough and we could end up developing poor habits without a senior to correct us. I actually agree, and I think 6 months is a good place to draw the line.
@@ -1488,11 +1488,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMj
-MwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5
-LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3ND
-k2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0Njcs
-OTI0NDUyODc1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDEsLTE0OD
-YwODY2MTcsMTQyMzI5ODc2Nyw5ODU1MzE5NzksLTM4NDU0ODIy
-MF19
+c3RvcnkiOlsyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MD
+g1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUs
+MTU0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OT
+U2NDMsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIs
+NDIwMTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OT
+I4MjAxLC0xNDg2MDg2NjE3LDE0MjMyOTg3NjcsOTg1NTMxOTc5
+XX0=
 -->
