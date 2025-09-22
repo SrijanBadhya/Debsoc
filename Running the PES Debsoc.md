@@ -391,7 +391,7 @@ A major problem of the soc is lack of members who actively debate 3 months after
 And nobody ever thinks this thought:
 "If we had taken lesser people, we could have had more people today". 
 
-Continuing the response to criticism (point [3.](#addressing-the-criticism))(scarcity is proportional to value): 
+Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
 - There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it, and that's why you're doing it for them. Different people might subscribe to different of these 2 beliefs, and so multiple options might even increase the value in their eyes. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits increases their like for the club, as shown in the picture earlier).
 - The initial poll of availability allows people to vote multiple options. Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment at all.
 - There are 3 groups of people, people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
@@ -1894,11 +1894,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzE0NDA1NjQ4LC0xMzYxNzgxMjg2LC0xMjc1ND
-U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
-MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
-c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
-NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5Mj
-UyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1
-XX0=
+c3RvcnkiOls0NjQ4MTk1ODYsLTEzNjE3ODEyODYsLTEyNzU0NT
+c1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0x
+MjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNz
+kyMDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2
+NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNT
+I0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzVd
+fQ==
 -->
