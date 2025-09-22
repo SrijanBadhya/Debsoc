@@ -1121,8 +1121,9 @@ You're cooked. I'm just as clueless as you.
 
 [Back to the Table of Contents](#table-of-contents)
 
-When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the debsoc was weird for following some weird format of debate. I wondered if the debsoc just blindly followed 'rituals'.
-Going to a tournament finally made all of this 
+When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the debsoc was weird for following some weird format of debate. I wondered if the debsoc just blindly followed 'rituals'. 
+
+Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid.
 
 The major differences between tournaments and mocks are:
 Stakes, dedicated days for debate, and the increased depth and breadth of the community (more time with more friends).
@@ -1891,7 +1892,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NTA4NzEwNTEsLTUxNTA2NjE2NCwxNzc3Mzc3OT
+c3RvcnkiOls2NDA2NTk3NzYsLTUxNTA2NjE2NCwxNzc3Mzc3OT
 UsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEz
 MzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOT
 gzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEz
