@@ -1121,7 +1121,7 @@ You're cooked. I'm just as clueless as you.
 
 [Back to the Table of Contents](#table-of-contents)
 
-When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the debsoc was weird for following some weird format of debate. I wondered if the debsoc just blindly followed 'rituals'. 
+When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the debsoc was weird for engaging in some weird format of debate. I wondered if the debsoc just blindly followed 'rituals'. 
 
 Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid. Parliamentary debate no longer felt like a made-up game with arbitrary rules.
 
@@ -1892,11 +1892,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3NzczNz
-c5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1LC0x
-MTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUsMTU0Nz
-M5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2NDMs
-MTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMT
-IwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4MjAx
+c3RvcnkiOlstMTU1MzI2Mzc4MSwtMTI3NTQ1NzU5NSwtNTE1MD
+Y2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEs
+NDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMT
+E4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3
+LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3Mz
+I4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0
 XX0=
 -->
