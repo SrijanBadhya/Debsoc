@@ -402,7 +402,7 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
-- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going this extreme without having the bandwidth yourself.
+- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself.
 - But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
@@ -1894,7 +1894,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NjQ4MTk1ODYsLTEzNjE3ODEyODYsLTEyNzU0NT
+c3RvcnkiOls3MjE3NDI2NjUsLTEzNjE3ODEyODYsLTEyNzU0NT
 c1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0x
 MjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNz
 kyMDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2
