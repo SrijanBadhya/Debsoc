@@ -495,6 +495,9 @@ how making people pro-am, making people adj once, tracking if they've done all s
 
 explain why no pois.
 
+Why no win loss announcing in round 2
+needed in round 3 cuz it's hard to give a proper OA without it
+
 Scoring is not important.
 
 Major benefit of self filtration and rounds is that 60% of the people drop out in round 1 and 2, so you're better able to handle the people who are left in round 3. You have better expectations of how many will show up.
@@ -553,7 +556,7 @@ Your organizing team will have flawed incapable actors, who don't use excel prop
 
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
-Why no win loss announcing in round 2
+
 
 From the stuff I forwarded to Anirudh:
 
@@ -1894,11 +1897,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3NTY4MT
-EzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1NDU3NTk1
-LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwtMTIzMj
-IxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mjc5MjA4
-NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYsMj
-Y1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyNDU2
-MV19
+c3RvcnkiOlstNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5OTg0Nz
+QwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3ODEyODYs
+LTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NT
+AxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3
+LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMT
+M0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYy
+MzhdfQ==
 -->
