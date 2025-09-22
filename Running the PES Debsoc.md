@@ -559,11 +559,13 @@ We often do this weird thing where we don't make them feel safe and like, "they'
 We play around with them
   
 
-make sure everyone is on the same page with respect to recruitments, last year we had a few random people suddenly change the format last minute.
+
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
 ## Recruitment Logistics
+
+make sure everyone is on the same page with respect to recruitments, last year we had a few random people suddenly change the format last minute.
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -582,7 +584,7 @@ Absolutely never input directly into excel, very easy to mess up, when you start
 
 Your organizing team will have flawed incapable actors, who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
 
-  
+
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
 Why no win loss announcing in round 2
@@ -1891,11 +1893,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyOD
-czODksLTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2
-NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwND
-I3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0
-NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMj
-EyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUy
-NTIyXX0=
+c3RvcnkiOlstMTQwMTQ4NzkwNiwxMTQ5OTg0NzQwLC0xMzc1Nj
+gxMTM0LC0yNTMyODczODksLTEzNjE3ODEyODYsLTEyNzU0NTc1
+OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMj
+MyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzky
+MDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2Ni
+wyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0
+NTYxXX0=
 -->
