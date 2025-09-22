@@ -312,7 +312,7 @@ Taking a few points out of Nikhil's recruitment document:
 
 
 ### ==Breadth wise inclusivity==
-This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap, so that you end up with whatever belief stands at the end.**
+This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough for even people with packed lives to be able to reach the minimum bar. 
 
@@ -1892,11 +1892,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MD
-Y2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEs
-NDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMT
-E4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3
-LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3Mz
-I4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0
+c3RvcnkiOlsxOTE0NDk1NDcxLC0xMzYxNzgxMjg2LC0xMjc1ND
+U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
+MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
+c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
+NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5Mj
+UyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1
 XX0=
 -->
