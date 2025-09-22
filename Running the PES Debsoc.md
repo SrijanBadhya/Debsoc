@@ -1656,6 +1656,15 @@ Put the debsoc drive also here somewhere
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
 
+
+
+Cool website recommended by Sayiram which has material and exercises to learn debate from during low turnout days:
+https://buildacase.ca/
+
+In case you've somehow forgotten the main site to get 
+https://debatedata.io/
+
+
 How to Start a Debate Club
 https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view
 
@@ -1894,11 +1903,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNz
-ksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1
-MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MD
-Y2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEs
-NDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMT
-E4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3
+c3RvcnkiOlstMjY1MzMxMSwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC
+03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2
+ODExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1Nz
+U5NSwtNTE1MDY2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEy
+MzIyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OT
+IwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2
 XX0=
 -->
