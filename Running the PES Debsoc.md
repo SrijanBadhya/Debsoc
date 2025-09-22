@@ -1608,11 +1608,11 @@ There's no real benefit, but harm still does arise of this action. Even people w
 The ultimate stage, the final form of a junior, isn't when they pass a certain skill level. It's an identity shift.
 **It's when they see themselves as a debater.**
 
-They believe, "Debsoc is my club". They know, "Debating is what I _do_". Their friends think, "Debating is all they do".
+They believe, "Debsoc is my club." They know, "Debating is what I _do_." Their friends think, "Debating is all they do."
 
-Seeing debate as central to their identity, means that they will forever exhibit soc loyalty. They've reached the point of no return. They will come to sessions because that is what they were meant to do. They were born to pursue this activity.
+Seeing debate as central to their identity means that they will forever exhibit soc loyalty. They've reached the point of no return. They will come to sessions because that is what they were meant to do. They were born to pursue this activity.
 
-When you see signs of this in a junior, you know you've done it. It's the greatest success. Regardless of their skill level, if they've reached this perspective, you've truly transformed their life.
+When you see signs of this in a junior, you know you've done it. It's the greatest success. Regardless of their skill level, if they've reached this mindset, then you've truly transformed their life.
 
 It's not easy or quick. For 2 years I didn’t feel like a true debater. In my head, my seniors were the ones who were debaters.
 
@@ -1913,11 +1913,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5OD
-gyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5
-OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3OD
-EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
-MjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMz
-EyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgz
-NjldfQ==
+c3RvcnkiOlsxMjA5MTQ2MzE5LDE1MjY1NDIzMzAsMTIzNDA4Mj
+Y5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzksLTcy
+NzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1MzI4Nz
+M4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0
+LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mj
+c5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0
+ODVdfQ==
 -->
