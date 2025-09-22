@@ -485,12 +485,11 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 
-End of the recruitment secion I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
+End of the recruitment section I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
 
 
 Talk about what wasn't implementable from Nikhil's model either. 
 how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth.
-
 
 
 
@@ -1895,11 +1894,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1ND
-U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
-MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
-c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
-NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5Mj
-UyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1
-XX0=
+c3RvcnkiOlsxOTgyMjg1Mjk3LC0yNTMyODczODksLTEzNjE3OD
+EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
+MjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMz
+EyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgz
+NjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMz
+c0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2
+N119
 -->
