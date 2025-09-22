@@ -111,7 +111,8 @@ VII. [Debate Culture Round the Year](#debate-culture-round-the-year)
 	&emsp;&emsp;e) [WhatsApp](#whatsapp)
 	&emsp;5. [The Glorious Unicorn](#the-glorious-unicorn)
 
-Appendix (i) [Easy Accessible Motion List](#motion-list)
+Appendix (i) [Resources](#resources)
+Appendix (ii) [Easy Accessible Motion List](#motion-list)
 
 
 
@@ -1651,7 +1652,7 @@ And you, dear reader, for believing in the weight of my words enough to read thi
 
 _I also credit Google Gemini for informing me when my sentences didn't have the tone I intended, and also for giving me appropriate replacements for words and phrases when I asked for them._
 
-# Appendix I 
+# Appendix I
 ## Resources
 
 [Back to the Table of Contents](#table-of-contents)
@@ -1694,10 +1695,10 @@ https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&hl=en-US
 In case you've somehow forgotten the main site to get debate motions from
 https://debatedata.io/
 
-# Appendix II
+# Appendix II 
 ## Motion List
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 #### Motions used in round 1 & 2
 1.  This house, as Aditya, would give Shreya the elixir.
@@ -1910,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzU1NTUzNTY3LDE1MjY1NDIzMzAsMTIzNDA4Mj
-Y5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzksLTcy
-NzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1MzI4Nz
-M4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0
-LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mj
-c5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0
-ODVdfQ==
+c3RvcnkiOlstMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwOD
+I2OTYsMTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03
+MjcxOTcyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyOD
+czODksLTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2
+NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwND
+I3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0
+NDg1XX0=
 -->
