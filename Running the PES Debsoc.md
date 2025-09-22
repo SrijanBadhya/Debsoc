@@ -510,7 +510,7 @@ juniors are unaware that they even have the right to judge, so make sure you alw
 Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
 
 
-This incentive to debate is only short term
+This incentive to debate is only short term 
 
 
 
@@ -530,11 +530,9 @@ We play around with them
 
 Explain the 3 motions, don't let teams be clueless, it's fine if you're giving them information.
 
-  
-
+ 
 motion ranking good because of illusion of agency
 
-  
 
 make sure case prep is balanced, and make sure it isn't one person talking over 2 other shy people.
 
@@ -1897,11 +1895,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODE0MTYwMDU3LC03NjU3MzQyNzksLTcyNzE5Nz
-IwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1MzI4NzM4OSwt
-MTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3Nz
-czNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1
-LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUsMT
-U0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2
-NDNdfQ==
+c3RvcnkiOlstMTU3ODc1NDAxNywtNzY1NzM0Mjc5LC03MjcxOT
+cyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODks
+LTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNz
+c3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4
+NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LD
+E1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1
+NjQzXX0=
 -->
