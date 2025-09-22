@@ -603,7 +603,7 @@ motion ranking good because of illusion of agency
 
 make sure case prep is balanced, and make sure it isn't one person talking over 2 other shy people.
 
-  
+
 
 Keeping friends together in debates. Some people don't keep them together to encourage socialization with new people. I think it's also good to keep them together to increase the fun they have in debate. However what's bad is keeping 2 friends and one stranger in a team which will alienate the stranger.
 
@@ -613,12 +613,7 @@ General comments about each speaker are nice, but they're too much work for an o
 
 
   
-  
 scheduling, pains of us attending more sessions than recruits themselves
-  
-  
-
-Lateral entry people are very important, make sure they know they're allowed, and also helps a lot to keep sessions alive during downtime
 
   
   
@@ -1896,11 +1891,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIwMjE4NzU1OCwtMTM3NTY4MTEzNCwtMjUzMj
-g3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYx
-NjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MD
-QyNzkwODUsLTExMzMxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgz
-NDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLT
-IxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1
-MjUyMl19
+c3RvcnkiOlsxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyOD
+czODksLTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2
+NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwND
+I3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0
+NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMj
+EyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUy
+NTIyXX0=
 -->
