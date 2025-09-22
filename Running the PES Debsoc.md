@@ -260,9 +260,7 @@ The first round remained the same.
 _The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
 And the third round was a month long, with sessions everyday, and people who attended the most sessions would be recruited.
 
-In 2024, we got rid of the group discussion round and replaced it with an AP round. I think the 2024 model is the best model we've had so far, and I'll come to it later. 
-
-I'll come to the group discussion part later, but **the month-long recruitment was extremely useful** for a few reasons:
+ **The month-long recruitment was extremely useful** for a few reasons:
 
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
 - People could get a feel of debate before they committed.
@@ -1892,11 +1890,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU1MzI2Mzc4MSwtMTI3NTQ1NzU5NSwtNTE1MD
-Y2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEs
-NDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMT
-E4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3
-LC0yMTI4OTU2NDMsMTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3Mz
-I4NTI1MjIsNDIwMTIwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0
-XX0=
+c3RvcnkiOlszNDkxNTQxMTEsLTEyNzU0NTc1OTUsLTUxNTA2Nj
+E2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQw
+NDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExOD
+M0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1Nywt
+MjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyOD
+UyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NF19
+
 -->
