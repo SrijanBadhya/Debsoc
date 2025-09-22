@@ -324,7 +324,7 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 **How are there always people who miss out?** What are the reasons that often happen?
 - When you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 9% likely, when you take a sample of 100 people, you get 9 people this event likely happens to.
 - This could be due to being sick, having some extracurricular class some day, having a high priority assignment one day, anything. Even if these same unlikely, likelihood scales up with people. 
-- **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Navarathri, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
+- **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Dussehra, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
 - + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way. 
 - + If you do send out a message asking for all the absentees to dm you, then you can use this as indication of interest. 
@@ -360,8 +360,10 @@ People's interest in debate can fall or rise over time, based on what they disco
 
 ![enter image description here](https://i.postimg.cc/SsPZgzmd/Interestovertime4.png)
 
-This blue box touches upon a very complicated problem, which is the challenge seeming so massive that you give up on it, unaware that the bar will be lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible", and "You just need to do 2 sessions in the whole month of round 3 to get into the club".
+This blue box touches upon a very complicated problem, which is the challenge seeming so massive that you give up on it, unaware that the bar will be lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible," and "You just need to do 2 sessions in the whole month of round 3 to get into the club".
+
 ![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
+
 A lot of people in group 1 will drop out due to **falling interest**. 
 However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
 Losing people who lose interest over time is fine, but we can't afford to have lost people whose interest grows over time.
@@ -1892,7 +1894,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTE0NDk1NDcxLC0xMzYxNzgxMjg2LC0xMjc1ND
+c3RvcnkiOlsxMzE0NDA1NjQ4LC0xMzYxNzgxMjg2LC0xMjc1ND
 U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
 MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
 c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
