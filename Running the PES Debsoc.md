@@ -506,44 +506,10 @@ juniors are unaware that they even have the right to judge, so make sure you alw
 
 Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
 
-  [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
-  spamsrboy@gmail.com
- scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
-
-
-https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
-
-(make a video of this too)
-
-[Round 3 in 2023](https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135)
-round 3 in 2023
-
-[Copy of Round 3 Attendance - Google Sheets](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit?gid=0#gid=0) 
-Fake names added at the bottom.
 
 This incentive to debate is only short term
 
-From the stuff I forwarded to Anirudh:
 
-Don't know if you got this already but here are the recruitment tabs of 2023-2024 if you want a reference https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
-
-The reason why I'm advocating for a google form linked to sheets is because it can improve on some issues like missing chair slots and a lot of missing phone numbers. And pinging people on the whatsapp group is too much of a pain and sometimes it won't work out
-
-missing chair slots impact trackability on people
-
-and having only the phone number impacts trackability because people can mess up one digit, or forget to add the phone number. I think adding email is beneficial in case the phone number link to a student fails
-
-you'll notice human errors here like duplicated entries for gov and opp, usually solved in a google form with compulsory questions for speaker 1 and 2
-
-Excel's ease of use is incredibly low cause it has random keybord shortcuts, and dragging a cell normally will copy its content to other cells
-
-https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 this is how we did round 3 last year btw
-
-https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
-
-Also we said, "If you have less than 5 debates then dm us", although in reality we picked all the people who did at least 2 sessions 😂😂
-
-End of forwards to Anirudh
 
 
 
@@ -589,7 +555,42 @@ Your organizing team will have flawed incapable actors, who don't use excel prop
 
 Why no win loss announcing in round 2
 
-  
+From the stuff I forwarded to Anirudh:
+
+Don't know if you got this already but here are the recruitment tabs of 2023-2024 if you want a reference https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
+
+The reason why I'm advocating for a google form linked to sheets is because it can improve on some issues like missing chair slots and a lot of missing phone numbers. And pinging people on the whatsapp group is too much of a pain and sometimes it won't work out
+
+missing chair slots impact trackability on people
+
+and having only the phone number impacts trackability because people can mess up one digit, or forget to add the phone number. I think adding email is beneficial in case the phone number link to a student fails
+
+you'll notice human errors here like duplicated entries for gov and opp, usually solved in a google form with compulsory questions for speaker 1 and 2
+
+Excel's ease of use is incredibly low cause it has random keybord shortcuts, and dragging a cell normally will copy its content to other cells
+
+https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 this is how we did round 3 last year btw
+
+https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
+
+Also we said, "If you have less than 5 debates then dm us", although in reality we picked all the people who did at least 2 sessions 😂😂
+
+  [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
+  spamsrboy@gmail.com
+ scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
+
+
+https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
+
+(make a video of this too)
+
+[Round 3 in 2023](https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135)
+round 3 in 2023
+
+[Copy of Round 3 Attendance - Google Sheets](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit?gid=0#gid=0) 
+Fake names added at the bottom.
+End of forwards to Anirudh
+
 
 Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser.
 
@@ -1893,11 +1894,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQwMTQ4NzkwNiwxMTQ5OTg0NzQwLC0xMzc1Nj
-gxMTM0LC0yNTMyODczODksLTEzNjE3ODEyODYsLTEyNzU0NTc1
-OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMj
-MyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzky
-MDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2Ni
-wyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNTI0
-NTYxXX0=
+c3RvcnkiOlstNzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3NTY4MT
+EzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1NDU3NTk1
+LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwtMTIzMj
+IxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mjc5MjA4
+NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1NjYsMj
+Y1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5MjUyNDU2
+MV19
 -->
