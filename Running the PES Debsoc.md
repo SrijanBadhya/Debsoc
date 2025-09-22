@@ -1667,7 +1667,7 @@ https://buildacase.ca/
 How to Start a Debate Club
 https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view
 
-List of debate motions with links to recordings from a few Majors Tournaments:
+List of debate motions with links to recordings from a few Majors Tournaments (we've used this whi:
 https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0
 (will fill the rest of resources by Sep 12)
 
@@ -1686,7 +1686,7 @@ https://www.youtube.com/watch?v=_U0DC21f55k
 AP weighing and basics
 https://www.youtube.com/watch?v=3aTZKcS0tb8
 
-Debatekeeper, app that automa
+Debatekeeper, app that automatically rings bells so that you don't end up missing the 6th minute mark
 https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&hl=en-US
 
 In case you've somehow forgotten the main site to get debate motions from
@@ -1908,7 +1908,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTI5NjI0MDc5LDEzNDcyOTg4MiwtMzY2NjEyOD
+c3RvcnkiOlsxODY4NTU1MTgzLDEzNDcyOTg4MiwtMzY2NjEyOD
 YsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3
 NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1ND
 U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
