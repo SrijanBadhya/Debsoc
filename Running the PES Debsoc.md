@@ -547,7 +547,7 @@ End of forwards to Anirudh
 
 
 
-(talk about wrapping up recruitments fast to push tournaments early. Tournaments are good because they provide direction and something to work for. They also make debate feel very real).
+(talk about wrapping up recruitments fast to push tournaments early).
 
 
 
@@ -1127,7 +1127,7 @@ When I joined the Debsoc, parliamentary debate was starkly different from what I
 
 Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid. Parliamentary debate no longer felt like a made-up game with arbitrary rules.
 
-Once you do a tournament, you often get motivation by havin
+Once you do a tournament, you often get motivation by having a milestone to work for, rather than an abstract aim like, "speaking better".
 
 The major differences between tournaments and mocks are:
 Stakes, dedicated days for debate, and the increased depth and breadth of the community (more time with more friends).
@@ -1896,11 +1896,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzQ3ODYxODQ5LC0yNTMyODczODksLTEzNjE3OD
-EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
-MjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMz
-EyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgz
-NjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMz
-c0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2
-N119
+c3RvcnkiOls0NjM4MDI4NDEsLTI1MzI4NzM4OSwtMTM2MTc4MT
+I4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3NzczNzc5NSwy
+NTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMT
+IzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2
+OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2NDMsMTMzNz
+Q5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMTIwNDY3
+XX0=
 -->
