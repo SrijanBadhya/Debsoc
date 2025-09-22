@@ -486,7 +486,7 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 
 End of the recruitment section I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
 
-### Round 
+### Round 3 
 
 
 Talk about what wasn't implementable from Nikhil's model either. 
@@ -541,7 +541,7 @@ make sure case prep is balanced, and make sure it isn't one person talking over 
 
 Keeping friends together in debates. Some people don't keep them together to encourage socialization with new people. I think it's also good to keep them together to increase the fun they have in debate. However what's bad is keeping 2 friends and one stranger in a team which will alienate the stranger.
 
-Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser.
+Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is).
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
@@ -1911,7 +1911,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjM5MDk0NjgxLDEyMzQwODI2OTYsMTM0NzI5OD
+c3RvcnkiOlsxNzMwMDk3NTc0LDEyMzQwODI2OTYsMTM0NzI5OD
 gyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5
 OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3OD
 EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
