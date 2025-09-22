@@ -1582,7 +1582,7 @@ The default stance assumed by juniors is that you can send anything you want (es
 (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 
 I think this was rather dumb, 
-- especially since the we later desire to do marketing in other groups ourselves. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group (which affects the marketing itself, obviously).
+- especially since the we later need to do marketing in other groups ourselves. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group (which affects the marketing itself, obviously).
 - We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing won't convince them, and we shouldn't display our fragile egos by saying, "Don't join, MUN is trash".
 - If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
@@ -1911,7 +1911,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjI2NDg5NDM0LDE1OTUwNDc1ODQsMTA3MTE5Mz
+c3RvcnkiOlstNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mz
 g1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYs
 MTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOT
 cyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODks
