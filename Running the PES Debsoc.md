@@ -266,7 +266,7 @@ The third round was a month long, with sessions everyday, and people who attende
 
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
 - People could get a feel of debate before they committed.
-- People self filtered themselves out, so by the end people who were still consistent were people who were genuinely interested.
+- People filtered themselves out, so by the end people who were still consistent were people who were genuinely interested.
 - Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them leaking info from the group later as backstabbing.
 - This was the best way to measure if someone could be an asset to the club in the future; if they would participate enthusiastically and be able to set aside time for debsoc.
@@ -312,6 +312,7 @@ Taking a few points out of Nikhil's recruitment document:
 
 
 ### ==Breadth wise inclusivity==
+
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough for even people with packed lives to be able to reach the minimum bar. 
@@ -1912,7 +1913,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjM0NTkyMzQwLDEyMzQwODI2OTYsMTM0NzI5OD
+c3RvcnkiOlsxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5OD
 gyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5
 OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3OD
 EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
