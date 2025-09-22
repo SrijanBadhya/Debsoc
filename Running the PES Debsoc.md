@@ -528,6 +528,19 @@ We often do this weird thing where we don't make them feel safe and like, "they'
 We play around with them
   
 
+Explain the 3 motions, don't let teams be clueless, it's fine if you're giving them information.
+
+  
+
+motion ranking good because of illusion of agency
+
+  
+
+make sure case prep is balanced, and make sure it isn't one person talking over 2 other shy people.
+
+
+
+Keeping friends together in debates. Some people don't keep them together to encourage socialization with new people. I think it's also good to keep them together to increase the fun they have in debate. However what's bad is keeping 2 friends and one stranger in a team which will alienate the stranger.
 
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
@@ -546,7 +559,7 @@ Even the current system was not perfect, we missed out on phone numbers during a
 
 And even I messed up by adding the wrong people multiple times. System errors are real.
 
-  
+
 basement seminar hall hard to find and easy to confuse, also remember to specify rr campus vs ec campus
 
 Absolutely never input directly into excel, very easy to mess up, when you start inputting data after scrolling far right, you'll miss the person's name and input data into someone else's name entirely, it's very easy for people to put data in the wrong pages, annoying to create a page for everyday and maintain it because people might not click the new page and may just fill the page that opens up to them.
@@ -599,19 +612,6 @@ Also it's important to alleviate anxiety, and make people associate good feeling
 
   
 
-Explain the 3 motions, don't let teams be clueless, it's fine if you're giving them information.
-
-  
-
-motion ranking good because of illusion of agency
-
-  
-
-make sure case prep is balanced, and make sure it isn't one person talking over 2 other shy people.
-
-
-
-Keeping friends together in debates. Some people don't keep them together to encourage socialization with new people. I think it's also good to keep them together to increase the fun they have in debate. However what's bad is keeping 2 friends and one stranger in a team which will alienate the stranger.
 
 
 
@@ -1897,11 +1897,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5OTg0Nz
-QwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3ODEyODYs
-LTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NT
-AxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3
-LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMT
-M0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYy
-MzhdfQ==
+c3RvcnkiOlsxODE0MTYwMDU3LC03NjU3MzQyNzksLTcyNzE5Nz
+IwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1MzI4NzM4OSwt
+MTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3Nz
+czNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1
+LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUsMT
+U0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2
+NDNdfQ==
 -->
