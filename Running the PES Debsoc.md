@@ -708,6 +708,7 @@ The obvious solutions to this are:
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
  + Making latecomers adj can be problematic to how adjing is treated and the narrative that this propagates. [Be careful about the narrative you build around adjudication](#the-adj-narrative).
 4. Something I'm guilty of myself is taking too much time to prepare my OA.
+<br>
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 ![enter image description here](https://i.ibb.co/1fXTyKf8/Screenshot-2025-09-09-135934.png)
 5. **Have a list of motions made in your free time before the session, so that you're not wasting session time.**
@@ -1908,11 +1909,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2NjEyOD
-YsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3
-NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1ND
-U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
-MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
-c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
-NjZdfQ==
+c3RvcnkiOlstMTk0OTAzNjI4NCwxMjM0MDgyNjk2LDEzNDcyOT
+g4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0
+OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNz
+gxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1
+LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMz
+MxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4
+MzY5XX0=
 -->
