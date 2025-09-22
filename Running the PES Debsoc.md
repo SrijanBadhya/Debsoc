@@ -250,7 +250,7 @@ Pros of being selective:
 - People believe that less members means less dilution and you can focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of 100 members on a groupchat but nobody responding.
-- People feel comfortable to text their thoughts on the groupchat when they actually know the people, not when half of the people are people they have ever seen.
+- People feel comfortable to text their thoughts on the groupchat when they actually know the people, rather than when half of the people are people they have ever seen.
 - Eventually small clubs will have more club loyalty than big clubs, especially when in a big club you have random people reading group chats for entertainment, and passing on rumors about seniors to the point where it becomes damaging.
 
 <br>
@@ -1888,11 +1888,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjMyMzcyNTA0LC01MTUwNjYxNjQsMTc3NzM3Nz
-k1LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTEx
-MzMxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mz
-k4MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0Mywx
-MzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMj
-A0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDFd
-fQ==
+c3RvcnkiOls4ODEwMjgxNTQsLTUxNTA2NjE2NCwxNzc3Mzc3OT
+UsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEz
+MzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOT
+gzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEz
+Mzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMD
+Q2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMV19
+
 -->
