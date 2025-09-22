@@ -1661,8 +1661,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4Vw
 Cool website recommended by Sayiram which has material and exercises to learn debate from during low turnout days:
 https://buildacase.ca/
 
-In case you've somehow forgotten the main site to get 
-https://debatedata.io/
+
 
 
 How to Start a Debate Club
@@ -1686,6 +1685,12 @@ https://www.youtube.com/watch?v=_U0DC21f55k
 
 AP weighing and basics
 https://www.youtube.com/watch?v=3aTZKcS0tb8
+
+Debatekeeper, app that automa
+https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&hl=en-US
+
+In case you've somehow forgotten the main site to get debate motions from
+https://debatedata.io/
 
 # Appendix II
 ## Motion List
@@ -1903,11 +1908,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjY1MzMxMSwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC
-03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2
-ODExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1Nz
-U5NSwtNTE1MDY2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEy
-MzIyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OT
-IwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2
-XX0=
+c3RvcnkiOlstNTI5NjI0MDc5LDEzNDcyOTg4MiwtMzY2NjEyOD
+YsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3
+NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1ND
+U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
+MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
+c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
+NjZdfQ==
 -->
