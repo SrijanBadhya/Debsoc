@@ -540,6 +540,7 @@ make sure case prep is balanced, and make sure it isn't one person talking over 
 
 Keeping friends together in debates. Some people don't keep them together to encourage socialization with new people. I think it's also good to keep them together to increase the fun they have in debate. However what's bad is keeping 2 friends and one stranger in a team which will alienate the stranger.
 
+Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser.
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
@@ -606,9 +607,7 @@ Fake names added at the bottom.
 End of forwards to Anirudh
 
 
-Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser.
 
-  
 
 
 
@@ -621,7 +620,7 @@ scheduling, pains of us attending more sessions than recruits themselves
 
   
   
-  
+  ---
   last day of recruitments, meme day,
   you can also see how comfortable juniors have gotten with you, if they shit on you the way you've told them to.
 
@@ -1895,11 +1894,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU3ODc1NDAxNywtNzY1NzM0Mjc5LC03MjcxOT
-cyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODks
-LTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNz
-c3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4
-NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LD
-E1NDczOTgzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1
-NjQzXX0=
+c3RvcnkiOlstMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3Mj
+AsMTE0OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0x
+MzYxNzgxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3Nz
+M3Nzk1LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUs
+LTExMzMxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNT
+Q3Mzk4MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0
+M119
 -->
