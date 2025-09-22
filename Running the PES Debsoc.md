@@ -552,7 +552,7 @@ End of forwards to Anirudh
 
 
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
-This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people will either be dead, will have forgotten details, or will be able to laugh it off.
+This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
 
 We often do this weird thing where we don't make them feel safe and like, "they've already debated enough to be in", because we don't want them to be lazy and stop showing up, but I don't think it's good to give them anxiety either and psych them later.
@@ -1896,11 +1896,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NjM4MDI4NDEsLTI1MzI4NzM4OSwtMTM2MTc4MT
-I4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3NzczNzc5NSwy
-NTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMT
-IzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUsMTU0NzM5ODM2
-OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2NDMsMTMzNz
-Q5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMTIwNDY3
-XX0=
+c3RvcnkiOlsxMjgwMDc3NjMwLC0yNTMyODczODksLTEzNjE3OD
+EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
+MjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMz
+EyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgz
+NjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMz
+c0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2
+N119
 -->
