@@ -1123,7 +1123,7 @@ You're cooked. I'm just as clueless as you.
 
 When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the debsoc was weird for following some weird format of debate. I wondered if the debsoc just blindly followed 'rituals'. 
 
-Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid.
+Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid. Parliamentary debate no longer felt like a made-up game with arbitrary rules.
 
 The major differences between tournaments and mocks are:
 Stakes, dedicated days for debate, and the increased depth and breadth of the community (more time with more friends).
@@ -1892,11 +1892,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NDA2NTk3NzYsLTUxNTA2NjE2NCwxNzc3Mzc3OT
-UsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEz
-MzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOT
-gzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEz
-Mzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMD
-Q2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMV19
-
+c3RvcnkiOlstMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3NzczNz
+c5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mjc5MDg1LC0x
+MTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0ODUsMTU0Nz
+M5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3LC0yMTI4OTU2NDMs
+MTMzNzQ5NjIzOCwyOTI1MjQ1NjEsLTE3MzI4NTI1MjIsNDIwMT
+IwNDY3LDkyNDQ1Mjg3NSwtNTM2MjU2MDU0LC0xMDA4OTI4MjAx
+XX0=
 -->
