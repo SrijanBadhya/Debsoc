@@ -470,9 +470,9 @@ Nikhil's round 2 in 2024 had the following features:
 - After the first 2 speeches, both teams were given 5 minutes to discuss among themselves for the next 2 speeches.
 - At the end of this time, the DPM and DLO were announced.
 - After these 2 speeches, there were 5 minutes of discussion time before the Gov whip and Opp whip.
-- There are still no POIs in this format.
+- There were still no POIs in this format.
 
-Why is this new model better?
+Why was this new model better?
 - It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
 - Group discussion portrays the wrong picture of what debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
 - Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
@@ -1895,7 +1895,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzc0MjIzNDA3LC0xMzYxNzgxMjg2LC0xMjc1ND
+c3RvcnkiOlstMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1ND
 U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
 MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
 c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
