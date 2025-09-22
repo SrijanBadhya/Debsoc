@@ -589,7 +589,7 @@ Why no win loss announcing in round 2
 
   
 
-Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser
+Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser.
 
   
 
@@ -1896,11 +1896,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjgwMDc3NjMwLC0yNTMyODczODksLTEzNjE3OD
-EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
-MjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMz
-EyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgz
-NjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMz
-c0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2
-N119
+c3RvcnkiOlstMTY3ODgyNjM5NiwtMjUzMjg3Mzg5LC0xMzYxNz
+gxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1
+LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMz
+MxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4
+MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMz
+M3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0
+NjddfQ==
 -->
