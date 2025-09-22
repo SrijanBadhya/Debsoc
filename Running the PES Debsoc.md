@@ -464,12 +464,12 @@ Why is this bad?
 
 
 Nikhil's round 2 in 2024 had the following features:
-- It was a 3v3 AP lite with 4 minute speeches instead of 3.
-- Participants prep together while the speaker positions are kept a mystery by the judge.
-- The PM and LO positions are announced at the end of prep time.
-- After the first 2 speeches, both teams are given 5 minutes to discuss among themselves for the next 2 speeches.
-- At the end of this time, the DPM and DLO are announced.
-- After these 2 speeches, there are 5 minutes of discussion time before the Gov whip and Opp whip.
+- It was a 3v3 AP lite with 4-minute speeches instead of 7.
+- Participants prepped together while the speaker positions are kept a mystery by the judge.
+- The PM and LO positions were announced at the end of prep time.
+- After the first 2 speeches, both teams were given 5 minutes to discuss among themselves for the next 2 speeches.
+- At the end of this time, the DPM and DLO were announced.
+- After these 2 speeches, there were 5 minutes of discussion time before the Gov whip and Opp whip.
 - There are still no POIs in this format.
 
 Why is this new model better?
@@ -481,6 +481,7 @@ Why is this new model better?
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
 Also, I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), because it leads to a higher quality debate.
+
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 
@@ -1894,11 +1895,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MjE3NDI2NjUsLTEzNjE3ODEyODYsLTEyNzU0NT
-c1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0x
-MjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNz
-kyMDg3LC0xMDExODM0NDg1LDE1NDczOTgzNjksMTM0Njk0MTU2
-NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEzMzc0OTYyMzgsMjkyNT
-I0NTYxLC0xNzMyODUyNTIyLDQyMDEyMDQ2Nyw5MjQ0NTI4NzVd
-fQ==
+c3RvcnkiOlstMzc0MjIzNDA3LC0xMzYxNzgxMjg2LC0xMjc1ND
+U3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1NjUwMTQ2OCwt
+MTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMwNywtMTk2Mj
+c5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4MzY5LDEzNDY5NDE1
+NjYsMjY1MjE0NTcsLTIxMjg5NTY0MywxMzM3NDk2MjM4LDI5Mj
+UyNDU2MSwtMTczMjg1MjUyMiw0MjAxMjA0NjcsOTI0NDUyODc1
+XX0=
 -->
