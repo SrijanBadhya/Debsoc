@@ -711,6 +711,7 @@ The obvious solutions to this are:
 <br>
 ![image](https://i.ibb.co/5xkDMz4s/Screenshot-2025-09-06-163856.png)
 ![enter image description here](https://i.ibb.co/1fXTyKf8/Screenshot-2025-09-09-135934.png)
+<br>
 5. **Have a list of motions made in your free time before the session, so that you're not wasting session time.**
 Here are the motions I used in 2024-2025.
 [Motion list](#motion-list)
@@ -1909,11 +1910,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk0OTAzNjI4NCwxMjM0MDgyNjk2LDEzNDcyOT
-g4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0
-OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNz
-gxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1
-LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMz
-MxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4
-MzY5XX0=
+c3RvcnkiOlsxMjg1MzE1MzM2LDEyMzQwODI2OTYsMTM0NzI5OD
+gyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5
+OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3OD
+EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
+MjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEzMz
+EyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOTgz
+NjldfQ==
 -->
