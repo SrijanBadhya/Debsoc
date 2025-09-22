@@ -499,7 +499,7 @@ Scoring is not important.
 
 Major benefit of self filtration and rounds is that 60% of the people drop out in round 1 and 2, so you're better able to handle the people who are left in round 3. You have better expectations of how many will show up.
 
-juniors are unaware that they even have the right to judge, so make sure you give them the option to, always.
+juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
 
 
@@ -1896,7 +1896,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY3ODgyNjM5NiwtMjUzMjg3Mzg5LC0xMzYxNz
+c3RvcnkiOlstMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNz
 gxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1
 LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMz
 MxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mzk4
