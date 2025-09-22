@@ -423,6 +423,7 @@ Having an inclusive round 1, round 2, and round 3, while having a low bar for se
 
 
 ## The 2024 model
+
 ### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
 
@@ -1911,7 +1912,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzMwMDk3NTc0LDEyMzQwODI2OTYsMTM0NzI5OD
+c3RvcnkiOlsxNjM0NTkyMzQwLDEyMzQwODI2OTYsMTM0NzI5OD
 gyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5
 OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3OD
 EyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUs
