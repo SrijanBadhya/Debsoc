@@ -615,7 +615,7 @@ End of forwards to Anirudh
 General comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day. Better in round 1 than round 2.
 
 
-  
+
 scheduling, pains of us attending more sessions than recruits themselves
 
   
@@ -1894,11 +1894,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3Mj
-AsMTE0OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0x
-MzYxNzgxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3Nz
-M3Nzk1LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUs
-LTExMzMxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNT
-Q3Mzk4MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0
-M119
+c3RvcnkiOlsxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNz
+ksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1
+MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MD
+Y2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEs
+NDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMT
+E4MzQ0ODUsMTU0NzM5ODM2OSwxMzQ2OTQxNTY2LDI2NTIxNDU3
+XX0=
 -->
