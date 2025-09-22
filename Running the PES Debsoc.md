@@ -1616,17 +1616,17 @@ When you see signs of this in a junior, you know you've done it. It's the greate
 
 It's not easy or quick. For 2 years I hadn’t felt like a true debater. In my head, my seniors were the ones who were debaters, and I wasn't in their vicinity.
 
-But to my surprise, I see signs of this in a few first years now. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about their future in the debsoc. It's lovely.
+But to my surprise, I see signs of this in a few first years now. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about their future in the debsoc without uncertainty. It's lovely.
 
 When something is a part of your identity, you no longer feel like you're making an effort to change yourself, because this already is your natural state.
 
-Everything the soc does, is in hopes of leading juniors up to this stage. And it feels truly wonderful when it manifests, when you spot this beautiful unicorn.
+Everything the soc does is in hopes of leading juniors up to this stage. And it feels truly wonderful when it manifests and you spot this beautiful unicorn.
 
 ![enter image description here](https://wallpaperaccess.com/download/beautiful-unicorn-732536)
 
 ---
 
-I hope everything so far has been able to empower you with ideas and vision to tackle challenges that will arise.
+I hope everything so far has been able to empower you with ideas and the vision to tackle challenges that arise.
 
 Carrying out any of this is easier said than done. Every bit of it takes Herculean effort, and not all effort even translates into success. But you are Hercules. You are my heroes.
 
@@ -1662,11 +1662,8 @@ Responses to the feedback form:
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
 
 
-
 Cool website recommended by Sayiram which has material and exercises to learn debate from during low turnout days:
 https://buildacase.ca/
-
-
 
 
 How to Start a Debate Club
@@ -1913,11 +1910,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNzkwMDY4MzMsMTUyNjU0MjMzMCwxMjM0MDgyNj
-k2LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3
-MTk3MjAsMTE0OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mz
-g5LC0xMzYxNzgxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQs
-MTc3NzM3Nzk1LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNz
-kwODUsLTExMzMxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4
-NV19
+c3RvcnkiOlsxNzU1NTUzNTY3LDE1MjY1NDIzMzAsMTIzNDA4Mj
+Y5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzksLTcy
+NzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1MzI4Nz
+M4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0
+LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4NDEsNDA0Mj
+c5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIwODcsLTEwMTE4MzQ0
+ODVdfQ==
 -->
