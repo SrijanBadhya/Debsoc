@@ -1486,7 +1486,7 @@ Although I had other friends at college, none of them really matched up to the d
 
 ## Miscellaneous
 
-[Back to Table of Contents](#table-of-contents)
+[Back to the Table of Contents](#table-of-contents)
 
 ### Teaching debate
 For the love of God, there are better motions than THW legalize weed to use as an example when teaching debate. 
@@ -1911,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwOD
-I2OTYsMTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03
-MjcxOTcyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyOD
-czODksLTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2
-NCwxNzc3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwND
-I3OTA4NSwtMTEzMzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0
-NDg1XX0=
+c3RvcnkiOlsxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1ND
+IzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03
+NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2OD
+ExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5
+NSwtNTE1MDY2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMz
+IyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIw
+ODddfQ==
 -->
