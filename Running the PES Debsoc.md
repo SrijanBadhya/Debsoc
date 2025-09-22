@@ -416,7 +416,7 @@ So, how do you carry out breadth-wise inclusivity?
 
 
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
-- **Even if people are temporary, they still contributed to the activity of the club for the time that they were there, and that's enough.**
+- **Even if people were temporary, they still contributed to the activity of the club for the time that they were there, and that's enough.**
 - You did your part, you provided value to them, and your effort contributed towards the vision of the Debsoc.
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
@@ -1911,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1ND
-IzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03
-NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2OD
-ExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5
-NSwtNTE1MDY2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMz
-IyMTE4NDEsNDA0Mjc5MDg1LC0xMTMzMTIzMDcsLTE5NjI3OTIw
-ODddfQ==
+c3RvcnkiOlsxNzE3ODc4NDk0LDEwNzExOTM4NTMsLTE3NTYxMz
+c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Miwt
+MzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4ND
+c0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2
+LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1Nj
+UwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMw
+N119
 -->
