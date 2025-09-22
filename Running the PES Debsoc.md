@@ -1571,7 +1571,7 @@ Our solution to appease both the yappers and the muters, was to create a new gro
 The polls for every session were posted on this group, and these polls included the options of 2 pm, 4 pm, and No. Texting permission in Sessions was given to admins only, and the admins were all the seniors who had expressed interest in conducting sessions. The polls needed to be posted a day in advance so that people could plan well.
 The Announcements channel was for important announcements and major documents like the manual which needed to be accessible. The messages here needed to be minimized so that people could search up quickly. 
 
-My adivce would be to share the motion on the non Sessions group so that people can randomly discuss the motion by replying to it (because it takes more effort for people to switch groups to talk about a motion, than to just reply to a message above). The only people who would be able to reply to it if sent on Sessions, are other seniors with texting permissions, and them doing this leads to spam.
+My advice would be to share the motion on the non Sessions group so that people can randomly discuss the motion by replying to it (because it takes more effort for people to switch groups to talk about a motion, than to just reply to a message above). The only people who would be able to reply to it if sent on Sessions, are other seniors with texting permissions, and them doing this leads to spam.
 
 In my opinion, even all queries and answers to queries about the session should be on Shenanigans to minimize spam in Sessions. People have different tipping points when it comes to muting, and we don't want people to mute the Sessions group (even if they are on the fence about even engaging). 
 Spam by seniors happens often due to accidents, and as long as you realize, cut it out, and redirect it to shenanigans quickly, you won't reach anyone's muting tipping points.
@@ -1911,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
-c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Miwt
-MzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4ND
-c0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2
-LC0xMjc1NDU3NTk1LC01MTUwNjYxNjQsMTc3NzM3Nzk1LDI1Nj
-UwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTExMzMxMjMw
-N119
+c3RvcnkiOlsxNjI2NDg5NDM0LDE1OTUwNDc1ODQsMTA3MTE5Mz
+g1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYs
+MTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOT
+cyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODks
+LTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNz
+c3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4
+NV19
 -->
