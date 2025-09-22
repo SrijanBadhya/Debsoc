@@ -1121,6 +1121,8 @@ You're cooked. I'm just as clueless as you.
 
 [Back to the Table of Contents](#table-of-contents)
 
+When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'reasoning, impacts, mechanization, weighing' see
+
 The major differences between tournaments and mocks are:
 Stakes, dedicated days for debate, and the increased depth and breadth of the community (more time with more friends).
 
@@ -1888,11 +1890,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4ODEwMjgxNTQsLTUxNTA2NjE2NCwxNzc3Mzc3OT
-UsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4NSwtMTEz
-MzEyMzA3LC0xOTYyNzkyMDg3LC0xMDExODM0NDg1LDE1NDczOT
-gzNjksMTM0Njk0MTU2NiwyNjUyMTQ1NywtMjEyODk1NjQzLDEz
-Mzc0OTYyMzgsMjkyNTI0NTYxLC0xNzMyODUyNTIyLDQyMDEyMD
-Q2Nyw5MjQ0NTI4NzUsLTUzNjI1NjA1NCwtMTAwODkyODIwMV19
-
+c3RvcnkiOlsxOTUwODcxNjg5LC01MTUwNjYxNjQsMTc3NzM3Nz
+k1LDI1NjUwMTQ2OCwtMTIzMjIxMTg0MSw0MDQyNzkwODUsLTEx
+MzMxMjMwNywtMTk2Mjc5MjA4NywtMTAxMTgzNDQ4NSwxNTQ3Mz
+k4MzY5LDEzNDY5NDE1NjYsMjY1MjE0NTcsLTIxMjg5NTY0Mywx
+MzM3NDk2MjM4LDI5MjUyNDU2MSwtMTczMjg1MjUyMiw0MjAxMj
+A0NjcsOTI0NDUyODc1LC01MzYyNTYwNTQsLTEwMDg5MjgyMDFd
+fQ==
 -->
