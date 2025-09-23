@@ -490,7 +490,8 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 End of the recruitment section I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
-In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these 
+In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
+We dropped POIs and proper OAs. 
 
 ### Round 3 
 
@@ -1915,11 +1916,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcxNTE2OTI4OCwxNTUyMjM0NTc2LDc3NDk1Nj
-MwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwx
-MDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzND
-A4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzks
-LTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1Mz
-I4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2
-MTY0XX0=
+c3RvcnkiOlstNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
+A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEw
+NzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MD
+gyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwt
+NzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMj
+g3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYx
+NjRdfQ==
 -->
