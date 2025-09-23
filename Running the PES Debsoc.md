@@ -489,6 +489,8 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 
 End of the recruitment section I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
 
+Round 1 and 2 are usually quite rushed because you're rushing through people processing them. 
+
 ### Round 3 
 
 On a basic level, 
@@ -1912,11 +1914,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMT
-cwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwx
-NTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyLC0zNjY2MT
-I4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5OTg0NzQwLC0x
-Mzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3ODEyODYsLTEyNz
-U0NTc1OTUsLTUxNTA2NjE2NCwxNzc3Mzc3OTUsMjU2NTAxNDY4
-XX0=
+c3RvcnkiOlsxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MD
+gwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0x
+NzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mj
+k4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwLDEx
+NDk5ODQ3NDAsLTEzNzU2ODExMzQsLTI1MzI4NzM4OSwtMTM2MT
+c4MTI4NiwtMTI3NTQ1NzU5NSwtNTE1MDY2MTY0LDE3NzczNzc5
+NV19
 -->
