@@ -493,7 +493,7 @@ End of the recruitment section I have properly written, any readers please move 
 
 
 Talk about what wasn't implementable from Nikhil's model either. 
-how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth.
+how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
 
 
 
@@ -1911,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mz
-g1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYs
-MTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOT
-cyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODks
-LTEzNjE3ODEyODYsLTEyNzU0NTc1OTUsLTUxNTA2NjE2NCwxNz
-c3Mzc3OTUsMjU2NTAxNDY4LC0xMjMyMjExODQxLDQwNDI3OTA4
-NV19
+c3RvcnkiOlsxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0Nz
+U4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAs
+MTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3Mz
+QyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzQs
+LTI1MzI4NzM4OSwtMTM2MTc4MTI4NiwtMTI3NTQ1NzU5NSwtNT
+E1MDY2MTY0LDE3NzczNzc5NSwyNTY1MDE0NjgsLTEyMzIyMTE4
+NDFdfQ==
 -->
