@@ -491,11 +491,11 @@ End of the recruitment section I have properly written, any readers please move 
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
 In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
-We dropped POIs and proper OAs. 
+We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (no matter how many times
 
 ### Round 3 
 
-On a basic level, 
+
 
 Talk about what wasn't implementable from Nikhil's model either. 
 how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
@@ -1916,11 +1916,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
-A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEw
-NzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MD
-gyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwt
-NzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMj
-g3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1NDU3NTk1LC01MTUwNjYx
-NjRdfQ==
+c3RvcnkiOlstMTYzOTYzNzQ0MCwtNTA5MzExNTY2LDE1NTIyMz
+Q1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwx
+NTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNj
+U0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODYs
+LTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MCwtMTM3NT
+Y4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2LC0xMjc1NDU3
+NTk1XX0=
 -->
