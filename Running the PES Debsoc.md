@@ -249,7 +249,7 @@ The third round was a month long, with sessions everyday, and people who attende
 - People could get a feel of debate before they committed.
 - People filtered themselves out, so by the end people who were still consistent were people who were genuinely interested.
 - Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
-- Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them leaking info from the group later as backstabbing.
+- Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them backstbbing by leaking info from the group later.
 - This was the best way to measure if someone could be an asset to the club in the future; if they would participate enthusiastically and be able to set aside time for debsoc.
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for one debate, and complained to me later that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' is also risky cuz it's a turn-off like college.**
 
@@ -1963,11 +1963,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNj
-c0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Niwz
-NzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OT
-gyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEwLDIxNTQ2MzA0MSwx
-NDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyODc2ODE0LDE5MTAwMj
-kzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1N119
-
+c3RvcnkiOlstMTQ3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MD
+g3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzks
+MTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNT
+IzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEw
+LDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyOD
+c2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0
+XX0=
 -->
