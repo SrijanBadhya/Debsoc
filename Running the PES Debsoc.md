@@ -502,11 +502,11 @@ By the time round 3 starts, around 60% of the recruits will have dropped out, an
 
 Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
 
+Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
+#### What wasn't implementable from the Round 3 model
 
-juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
-
-
+You can never accurately predict how many people 
 Talk about what wasn't implementable from Nikhil's model either. 
 how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
 
@@ -1911,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjA3Mjk3MDA4LDE5MTAwMjkzMTMsLTkxMjc0ND
-E2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1
-NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1Mz
-E3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYs
-MTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2Nj
-EyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MF19
+c3RvcnkiOls3MDcxNzY4NDcsMTkxMDAyOTMxMywtOTEyNzQ0MT
+YsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1
+MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMT
+cwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwx
+NTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyLC0zNjY2MT
+I4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5OTg0NzQwXX0=
 
 -->
