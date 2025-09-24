@@ -289,7 +289,8 @@ This level of selectivity captured the most benefits, and I believe that aiming 
 
 Which takes us to, **why we should push hard for inclusivity**:
 
-When you see 240ish people on the recruitments group, you might be intimidated by how to run such a massive club (the way we were). However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3.
+When you see 240ish people on the recruitments group, you might be intimidated by how to run such a massive club. Early on in recruitments, we had thought, "How are we going to run the club if all of them join?!"
+ However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3.
 And even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
 
 
@@ -1912,11 +1913,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NzM2ODcyNjUsODAzMjY3MzU3LC01MDkzMTE1Nj
-YsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUw
-NjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNz
-QyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyLC0z
-NjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5OTg0Nz
-QwLC0xMzc1NjgxMTM0LC0yNTMyODczODksLTEzNjE3ODEyODZd
-fQ==
+c3RvcnkiOlsxMjA1ODA0OTk3LDgwMzI2NzM1NywtNTA5MzExNT
+Y2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1
+MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
+c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Miwt
+MzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4ND
+c0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2
+XX0=
 -->
