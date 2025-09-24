@@ -560,6 +560,7 @@ Some places I find worthy of bending the rules are:
 
 1. Explaining the 3 motions. Teams are clueless about a lot of debate words. Giving them extra information helps alleviate how lost they feel. 
 2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves.
+3. Doing like 3 minutes of case prep with each team if you feel like it, asking nuanced questions to stimulate their thoughts.
 
 
 
@@ -1952,11 +1953,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk5MjI5NDQ3LC0xMTc5MjU0MzYsLTI4Mjg3Nj
-gxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4
-MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1Nj
-MwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwx
-MDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzND
-A4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzld
-fQ==
+c3RvcnkiOlsxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyODc2OD
+E0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgw
+MzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
+A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEw
+NzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MD
+gyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OV19
+
 -->
