@@ -580,17 +580,13 @@ A very similar situation is when 2 friends come together for recruitments. Other
 It's important to alleviate anxiety and make people associate the soc with good feelings. Make it very very clear that there's no real winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is). 
 
 
-(talk about wrapping up recruitments fast to push tournaments early).
+The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
-
+This year 2025, the end of recruitments slightly overlapped with NLSD, and we had to awkwardly maneuver and invite the people with the highest attendance before they were even officially recruited. Wrapping 
 
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
-
-
-
-The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
 ## Recruitment Logistics
 
@@ -1953,11 +1949,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzOD
-IyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEwLDIx
-NTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyODc2OD
-E0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgw
-MzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
-A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0XX0=
+c3RvcnkiOls0MDAxNzg3NjksMzc1MTMyNTE1LC0xMzY1OTQ0OD
+I0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAx
+NDc3MjcxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0Mz
+YsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQz
+OTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NT
+c2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzBdfQ==
 
 -->
