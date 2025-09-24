@@ -207,7 +207,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 
  
 ## Recruitment Concepts
-  
+
 This is the single most important activity of a club.
 
 This is the single place (besides arguably PESDT) where systems matter the most, because 
@@ -215,6 +215,7 @@ This is the single place (besides arguably PESDT) where systems matter the most,
 2. This is the first impression of the juniors of the soc and shapes whether they want to continue or not. A process that isn't smooth can be damaging.
 
 ### History
+
 First, a brief view on how recruitments were done in the past:
 _For my batch (2021, but recruitments ended up happening in the January of 2022), we had one online round with a quick 1v1 debate, since this was the covid era. 3+1 minute speeches with one witness, and once the debate ended, we had no contact._
 _The debsoc would take in everyone who participated in this round._
@@ -586,7 +587,7 @@ This year 2025, round 3 got delayed for months (due to factors like IITB, tourna
 
 ---
 
-A week before the end of round 3, I posted this feedback form. Most of the screenshots that you'll see across this document are from this form's responses.
+A week before the end of round 3, I posted this feedback form (which I've linked on this document before). Most of the screenshots that you'll see across this document are from this form's responses.
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
@@ -1953,11 +1954,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTU1NDAzNzAxLDcxNjk2NTM3LDIwMTIxNzcwNz
-ksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYz
-NTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNz
-EwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgy
-ODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NT
-A0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzZdfQ==
+c3RvcnkiOlstMTE3Nzk1NDExMCw3MTY5NjUzNywyMDEyMTc3MD
+c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
+MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
+cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
+Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
+UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
 
 -->
