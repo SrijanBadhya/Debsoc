@@ -498,7 +498,7 @@ Verdicts can be straight up demotivating, especially at a super early stage. It'
 
 ### Round 3 
 
-By the time round 3 starts, around 60% of the recruits will have dropped out, 
+By the time round 3 starts, around 60% of the recruits will have dropped out, and the challenge of conducting sessions shifts from having the energy to handle one intensive day, to having the stamil
 
 Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
 
@@ -1913,11 +1913,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMT
-U2NiwxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02
-NTA2NTMxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MT
-M3NDI2LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIs
-LTM2NjYxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5OD
-Q3NDAsLTEzNzU2ODExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4
-Nl19
+c3RvcnkiOlstNDkwMDU5MjM1LC0xNDM5OTY4NTA0LDgwMzI2Nz
+M1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEw
+NTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOT
+M4NTMsLTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2
+LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MT
+k3MjAsMTE0OTk4NDc0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5
+XX0=
 -->
