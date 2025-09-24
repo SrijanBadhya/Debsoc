@@ -512,6 +512,8 @@ Verdicts can be straight up demotivating, especially at a super early stage. It'
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
 The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). So you can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
+When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly crati
+
 ### Round 3 
 
 [Back to the Table of Contents](#table-of-contents)
@@ -1953,7 +1955,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2MDc5MTUwMywxNDIwMjM1NTUsLTExNzkyNT
+c3RvcnkiOlstMTI4ODM5ODM3NCwxNDIwMjM1NTUsLTExNzkyNT
 QzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0x
 NDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMz
 Q1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwx
