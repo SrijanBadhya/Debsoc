@@ -296,6 +296,9 @@ And even among those who get recruited, 80% of people stop coming to sessions by
 
 
 ### Depth wise inclusivity
+
+[Back to the Table of Contents](#table-of-contents)
+
 So the reasons for being inclusive regardless of 'skill' are:
 
 - The point of the club is not to filter based on skill, but to take everyone who is interested, and help them pursue this interest. 
@@ -315,6 +318,8 @@ Taking a few points out of Nikhil's recruitment document:
 
 
 ### ==Breadth wise inclusivity==
+
+[Back to the Table of Contents](#table-of-contents)
 
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
@@ -428,6 +433,8 @@ Having an inclusive round 1, round 2, and round 3, while having a low bar for se
 
 ## The 2024 model
 
+[Back to the Table of Contents](#table-of-contents)
+
 ### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
 
@@ -455,6 +462,9 @@ I think these changes by Nikhil were absolutely amazing, they made the recruitme
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
 
 ### Round 2
+
+[Back to the Table of Contents](#table-of-contents)
+
 Quoting Nikhil on the issues in the Group Discussion format of 2023:
 
 - A lot of participants were introverted or had social anxiety, and though they had ideas to contribute to the discussion, a lack of confidence prevented them from doing so.
@@ -504,6 +514,8 @@ The massive issue here is that people who slip by due to administrative errors, 
 
 ### Round 3 
 
+[Back to the Table of Contents](#table-of-contents)
+
 By the time round 3 starts, around 60% of the recruits will have dropped out, and the challenge of conducting sessions shifts from having the energy to handle one intensive day, to having the stamina to retain energy for a month.
 
 Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
@@ -536,7 +548,9 @@ hope that people naturally tried out different roles themselves.
 
 ### A few notes on recruitment debates
 
+[Back to the Table of Contents](#table-of-contents)
 
+I talk more about initial sessions in 
 
 
 
@@ -1930,11 +1944,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk2MzQzMjY2OSwtMTE3OTI1NDM2LC0yODI4Nz
-Y4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQs
-ODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NT
-YzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQs
-MTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMz
-QwODI2OTYsMTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5
-XX0=
+c3RvcnkiOlsxMDU4ODk3MzM2LC0xMTc5MjU0MzYsLTI4Mjg3Nj
+gxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4
+MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1Nj
+MwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwx
+MDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzND
+A4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzld
+fQ==
 -->
