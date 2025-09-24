@@ -221,8 +221,7 @@ https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
 
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
-Add the following image to the, "even if temporary, provided value" thing
-![enter image description here](https://i.ibb.co/fVWxM8td/Screenshot-2025-09-06-165913.png)
+
 
 ![image](https://i.ibb.co/6cGjwG4T/Screenshot-2025-09-06-182805.png)
 ![image](https://i.ibb.co/s95RnF86/Screenshot-2025-09-06-183012.png)
@@ -426,6 +425,9 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 - **Even if people were temporary, they still contributed to the activity of the club for the time that they were there, and that's enough.**
 - You did your part, you provided value to them, and your effort contributed towards the vision of the Debsoc.
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
+
+![enter image description here](https://i.ibb.co/fVWxM8td/Screenshot-2025-09-06-165913.png)
+
 
 Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
 Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, still gives us like 80% of the benefits of selectivity that I talk about in [History](#history). And the best part is that when people stop showing up to debates during the month of round 3, that means they've lost interest and have filtered themselves out. And hence you don't need to add people to a group they don't want to be in.
@@ -1953,10 +1955,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NT
-YsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4
-NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3MjcxMCwyMTU0NjMwND
-EsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4Mjg3NjgxNCwxOTEw
-MDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4MDMyNjczNT
-csLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1NjMwNF19
+c3RvcnkiOls0MTI5NTk2MjksNzE2OTY1MzcsMjAxMjE3NzA3OS
+wxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1
+MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MT
+AsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4
+NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MD
+QsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Nl19
 -->
