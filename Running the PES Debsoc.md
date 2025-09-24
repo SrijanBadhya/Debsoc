@@ -507,7 +507,8 @@ Juniors are unaware that they even have the right to judge, so make sure you alw
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
 I don't believe that making the bar seem high really encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
 
-In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates dt
+In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. We added these people to the recruitment list because they expressed interest. In reality we ended up setting the bar as 2 debates, and only made it look like the bar was 5. (So in the end even people who did 2 debates and didn't DM us got in.)
+
 
 
 #### What wasn't implementable from the Round 3 model
@@ -1917,11 +1918,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzM1MzM2MDU3LC0yODI4NzY4MTQsMTkxMDAyOT
-MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01
-MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNT
-A4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1Mywt
-MTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0Nz
-I5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMF19
-
+c3RvcnkiOlstMTQwMTU5NzgxNSwtMjgyODc2ODE0LDE5MTAwMj
+kzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1Nywt
+NTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0Mz
+UwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMs
+LTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzND
+cyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBd
+fQ==
 -->
