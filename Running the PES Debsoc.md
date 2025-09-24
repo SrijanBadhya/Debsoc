@@ -497,7 +497,7 @@ Verdicts can be straight up demotivating, especially at a super early stage. It'
 
 ### Round 3 
 
-Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. 
+Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
 
 Scoring is not important.
 
@@ -1910,11 +1910,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODMzODcxMDYyLDgwMzI2NzM1NywtNTA5MzExNT
-Y2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1
-MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
-c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Miwt
-MzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4ND
-c0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2
-XX0=
+c3RvcnkiOlstNTU5NzUzOCw4MDMyNjczNTcsLTUwOTMxMTU2Ni
+wxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2
+NTMxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MTM3ND
+I2LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2
+NjYxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3ND
+AsLTEzNzU2ODExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4Nl19
+
 -->
