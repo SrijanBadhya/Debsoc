@@ -630,8 +630,6 @@ https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWw
 
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
 
-Also we said, "If you have less than 5 debates then dm us", although in reality we picked all the people who did at least 2 sessions 😂😂
-
   [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
   spamsrboy@gmail.com
  scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
@@ -1949,11 +1947,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDE0NzcyNzEwLDIxNTQ2MzA0MSwxNDIwMjM1NT
-UsLTExNzkyNTQzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkx
-Mjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNT
-Y2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1
-MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
-c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Ml19
-
+c3RvcnkiOlstNjcyNDU4NjQ3LDIwMTQ3NzI3MTAsMjE1NDYzMD
+QxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkx
+MDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3Mz
+U3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1
+NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mz
+g1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTZd
+fQ==
 -->
