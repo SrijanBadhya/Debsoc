@@ -522,6 +522,8 @@ The issue with this, as I've mentioned elsewhere, is that people might just give
 In 2024-2025, we held way more Round 3 sessions than the previous year, and after looking at the distribution of attendance, we decided to make 3 debates the bar. (3 plus the 2 debates of round 1 and round 2.)
 
 
+
+
 #### What wasn't implementable from the Round 3 model
 
 You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after polls (and many don't vote).
@@ -532,7 +534,6 @@ hope that people naturally tried out different roles themselves.
 
 
 
-Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
 
 
 
@@ -545,9 +546,6 @@ Avoid disclosing the exact number of sessions the cutoff was, because people mig
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
-
-We often do this weird thing where we don't make them feel safe and like, "they've already debated enough to be in", because we don't want them to be lazy and stop showing up, but I don't think it's good to give them anxiety either and psych them later.
-We play around with them
   
 
 Explain the 3 motions, don't let teams be clueless, it's fine if you're giving them information.
@@ -1929,11 +1927,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ3OTE0MDE2MCwtMjgyODc2ODE0LDE5MTAwMj
-kzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1Nywt
-NTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0Mz
-UwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMs
-LTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzND
-cyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBd
-fQ==
+c3RvcnkiOlstMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkxMDAyOT
+MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01
+MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNT
+A4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1Mywt
+MTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0Nz
+I5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMF19
+
 -->
