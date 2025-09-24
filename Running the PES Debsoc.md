@@ -508,7 +508,7 @@ Juniors are unaware that they even have the right to judge, so make sure you alw
 
 You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after polls (and many don't vote).
 
-Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. I
+Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once. It was too much of an administrative burden to track speaker positions, and in the future check their past speaker positions before assigning them new speaker positions (because the model aimed 
 Talk about what wasn't implementable from Nikhil's model either. 
 how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
 
@@ -1913,11 +1913,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk5Nzg3MDU3NSwxOTEwMDI5MzEzLC05MTI3ND
-QxNiwtMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2Niwx
-NTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NT
-MxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2
-LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2Nj
-YxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDBd
-fQ==
+c3RvcnkiOlstMzk4MDQ4Mjk3LDE5MTAwMjkzMTMsLTkxMjc0ND
+E2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1
+NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1Mz
+E3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYs
+MTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2Nj
+EyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MF19
+
 -->
