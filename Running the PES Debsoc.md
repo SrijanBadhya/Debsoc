@@ -505,8 +505,9 @@ Round 3 had full-fledged APs. APs are simpler than BPs so we have always started
 Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
-I don't believe that making the bar seem high really encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club 
+I don't believe that making the bar seem high really encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
 
+In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates dt
 
 
 #### What wasn't implementable from the Round 3 model
@@ -520,9 +521,6 @@ hope that people naturally tried out different roles themselves.
 
 
 Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
-
-
-This incentive to debate is only short term 
 
 
 
@@ -1919,7 +1917,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzk4Njk3ODIwLC0yODI4NzY4MTQsMTkxMDAyOT
+c3RvcnkiOlstNzM1MzM2MDU3LC0yODI4NzY4MTQsMTkxMDAyOT
 MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01
 MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNT
 A4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1Mywt
