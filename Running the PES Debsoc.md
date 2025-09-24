@@ -575,6 +575,9 @@ I found that checking up on teams during case prep was pivotal to nipping unheal
 
 A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent imbalance or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
 
+---
+
+It's important to alleviate anxiety and make people associate the soc with good feelings. Make it very very clear that there's no real winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is). 
 
 
 (talk about wrapping up recruitments fast to push tournaments early).
@@ -585,7 +588,7 @@ A very similar situation is when 2 friends come together for recruitments. Other
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
 
-Also it's important to alleviate anxiety, and make people associate good feelings with the soc. Make it very very clear that there's no winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is).
+
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
@@ -1950,11 +1953,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ1MDYwMTIxOSwtMTM2NTk0NDgyNCwxNjM1Mj
-M4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MTAs
-MjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4Nz
-Y4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQs
-ODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NT
-YzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODRd
-fQ==
+c3RvcnkiOlszNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzOD
+IyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEwLDIx
+NTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyODc2OD
+E0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgw
+MzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
+A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0XX0=
+
 -->
