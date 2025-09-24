@@ -504,7 +504,8 @@ Round 3 had full-fledged APs. APs are simpler than BPs so we have always started
 
 Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
-The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and also  while actually keeping it low. 
+The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
+I don't believe that making the bar seem high really encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club 
 
 
 
@@ -1918,11 +1919,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2Njg3ODkyOCwtMjgyODc2ODE0LDE5MTAwMjkzMT
-MsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5
-MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwOD
-AsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3
-NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOT
-g4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBdfQ==
+c3RvcnkiOlstMzk4Njk3ODIwLC0yODI4NzY4MTQsMTkxMDAyOT
+MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01
+MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNT
+A4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1Mywt
+MTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0Nz
+I5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMF19
 
 -->
