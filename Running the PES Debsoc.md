@@ -570,7 +570,7 @@ The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and 
 
 ---
 
-
+Since we follow the AP format in round 3, I found that checking up on teams during case prep 
 
 (talk about wrapping up recruitments fast to push tournaments early).
 
@@ -1952,11 +1952,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
-cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
-Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
-UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3
-NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0Nz
-U4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzBd
-fQ==
+c3RvcnkiOlsxNjM1MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4Nj
+Q3LDIwMTQ3NzI3MTAsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3
+OTI1NDM2LC0yODI4NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MT
+YsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1
+MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMT
+cwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNzQyNl19
+
 -->
