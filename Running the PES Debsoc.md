@@ -497,7 +497,11 @@ Why was this new model better?
 
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
+
+Detailed comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day. Personal feedback is more feasible in round 1 than round 2.
+
 In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these rules takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
+
 We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
 
 Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict.
@@ -595,7 +599,7 @@ This feedback form does contain some sensitive information, but since it's anony
 
 ## Recruitment Logistics
 
-make sure everyone is on the same page with respect to recruitments, last year we had a few random people suddenly change the format last minute.
+Make sure everyone is on the same page with respect to recruitments, last year we had a few random people suddenly change the format last minute.
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -659,7 +663,7 @@ End of forwards to Anirudh
 Multiple years, we had to fill a score for each speaker on the database. However this was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). I think it's better to just do away with it entirely.
 
 
-General comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day. Better in round 1 than round 2.
+
 
 
 
@@ -1954,11 +1958,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE3Nzk1NDExMCw3MTY5NjUzNywyMDEyMTc3MD
-c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
-MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
-cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
-Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
-UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
+c3RvcnkiOlstNTQ3Nzc5MDgzLDcxNjk2NTM3LDIwMTIxNzcwNz
+ksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYz
+NTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNz
+EwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgy
+ODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NT
+A0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzZdfQ==
 
 -->
