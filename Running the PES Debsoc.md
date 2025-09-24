@@ -205,13 +205,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 # Recruitments
 [Back to the Table of Contents](#table-of-contents)
 
-remember to add these pictures in recruitments later Srijan
-
-Everyone else, just skip past these pictures for now, skip the whole section and move onto the next section by clicking this link, ["Inside a Session"](#inside-a-session).
-
-
-
-  
+ 
 
 ![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
 
@@ -286,6 +280,8 @@ A few issues with the month long recruitment:
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
 
 This level of selectivity captured the most benefits, and I believe that aiming to be more selective gives diminishing marginal benefits and leads to more harms.
+
+A month-long recruitment might bore some people. I don't fully trust the followi
 
 Which takes us to, **why we should push hard for inclusivity**:
 
@@ -1965,11 +1961,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQyNjI3NjQ1OCw3MTY5NjUzNywyMDEyMTc3MD
-c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
-MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
-cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
-Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
-UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
+c3RvcnkiOlstMTg4MjIzODE4LDcxNjk2NTM3LDIwMTIxNzcwNz
+ksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYz
+NTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNz
+EwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgy
+ODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NT
+A0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzZdfQ==
 
 -->
