@@ -558,7 +558,8 @@ I was in awe. For a moment my eyes turned glassy, and I saw the far-sighted visi
 
 Some places I find worthy of bending the rules are:
 
-1. Explaining the 3 motions. 
+1. Explaining the 3 motions. Teams are clueless about a lot of debate words. Giving them extra information helps alleviate how lost they feel. 
+2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves.
 
 
 
@@ -1951,11 +1952,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYxNjE5ODI0MSwtMTE3OTI1NDM2LC0yODI4Nz
-Y4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQs
-ODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NT
-YzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQs
-MTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMz
-QwODI2OTYsMTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5
-XX0=
+c3RvcnkiOlstMTk5MjI5NDQ3LC0xMTc5MjU0MzYsLTI4Mjg3Nj
+gxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4
+MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1Nj
+MwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwx
+MDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzND
+A4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzld
+fQ==
 -->
