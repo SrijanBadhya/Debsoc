@@ -564,7 +564,7 @@ Some places I find worthy of bending the rules are:
 2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves.
 3. Doing like 3 minutes of case prep with each team if you feel like it, asking nuanced questions to stimulate their thoughts.
 
-The rebuttal is that you shouldn't 
+The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and also that you're holding their hand too much. I believe that senior involvement is still great at making the Debsoc feel like a club, and that this matters 
 
 
 (talk about wrapping up recruitments fast to push tournaments early).
@@ -1955,11 +1955,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0Mz
-YsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQz
-OTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NT
-c2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5
-NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1ND
-IzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2XX0=
+c3RvcnkiOls5ODQ2ODIwMjcsMjE1NDYzMDQxLDE0MjAyMzU1NS
+wtMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkxMDAyOTMxMywtOTEy
+NzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1Nj
+YsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUw
+NjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNz
+QyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyXX0=
 
 -->
