@@ -524,7 +524,7 @@ Round 3 had full-fledged APs. APs are simpler than BPs so we have always started
 
 Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
-<br>
+---
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
 I don't believe that making the bar seem high really encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
 
@@ -536,8 +536,7 @@ The issue with this, as I've mentioned elsewhere, is that people might just give
 
 In 2024-2025, we held way more Round 3 sessions than the previous year, and after looking at the distribution of attendance, we decided to make 3 debates the bar. (3 plus the 2 debates of round 1 and round 2.)
 
-
-
+---
 
 #### What wasn't implementable from the Round 3 model
 
@@ -547,12 +546,15 @@ Because of this, it wasn't possible for us to ensure that every junior got to pr
 The only thing that we could do was leave it to fate and 
 hope that people naturally tried out different roles themselves.
 
+---
 
 ### A few notes on recruitment debates
 
 [Back to the Table of Contents](#table-of-contents)
 
 I talk more about initial sessions later in [Session Concepts](#session-concepts), but here are some extra tips that are more applicable during recruitment debates than the debates once they've joined.
+
+---
 
 A slight detour:
 I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her in her speech. I was indignant that Yash wasn't doing anything, and thought he was a dumb chair. After the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut up her teammate she would feel more nervous and alone. I want to keep these schoolkids interested in debate, and scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
@@ -565,6 +567,9 @@ Some places I find worthy of bending the rules are:
 3. Doing like 3 minutes of case prep with each team if you feel like it, asking nuanced questions to stimulate their thoughts.
 
 The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and also that you're holding their hand too much. I believe that senior involvement is still great at making the Debsoc feel like a club, and that this matters more. 
+
+---
+
 
 
 (talk about wrapping up recruitments fast to push tournaments early).
@@ -1947,11 +1952,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjcyNDU4NjQ3LDIwMTQ3NzI3MTAsMjE1NDYzMD
-QxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkx
-MDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3Mz
-U3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1
-NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mz
-g1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTZd
+c3RvcnkiOlstNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
+cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
+Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
+UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3
+NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0Nz
+U4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzBd
 fQ==
 -->
