@@ -206,20 +206,6 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 [Back to the Table of Contents](#table-of-contents)
 
  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Recruitment Concepts
   
 This is the single most important activity of a club.
@@ -279,7 +265,7 @@ A few issues with the month long recruitment:
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
 ![image](https://i.ibb.co/6cGjwG4T/Screenshot-2025-09-06-182805.png)
 ![image](https://i.ibb.co/s95RnF86/Screenshot-2025-09-06-183012.png)
-(These 2 bar graphs are from people who dropped out early in round 3 and still filled the feedback form.)
+(These two bar graphs are from people who dropped out early in round 3 and still filled the [feedback form]().)
 
 A month-long recruitment might bore some people. I don't fully trust the following responses to the feedback form, even if they were anonymous, but I'm glad some people still enjoyed the month-long recruitment.
 
@@ -1967,7 +1953,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MjAxNDcxODEsNzE2OTY1MzcsMjAxMjE3NzA3OS
+c3RvcnkiOlsxMzQ3MjEwNjYsNzE2OTY1MzcsMjAxMjE3NzA3OS
 wxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1
 MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MT
 AsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4
