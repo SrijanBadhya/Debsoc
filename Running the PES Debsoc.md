@@ -512,7 +512,7 @@ I don't believe that making the bar seem high really encouraged debating post ro
 
 In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. We added these people to the recruitment list because they expressed interest. In reality we ended up setting the bar as 2 debates, and only made it look like the bar was 5. (So in the end even people who did 2 debates and didn't DM us got in.)
 
-In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
+In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non transparent, but I consider it more important to ge
 
 We held way more Round 3 sessions, and after looking at the distribution of attendance, we decided to make the bar 3. 
 
@@ -1924,11 +1924,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszMjc4MDM2MjgsLTI4Mjg3NjgxNCwxOTEwMDI5Mz
-EzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUw
-OTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MD
-gwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0x
-NzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mj
-k4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwXX0=
-
+c3RvcnkiOlstMTI0NzcwNzE3MywtMjgyODc2ODE0LDE5MTAwMj
+kzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1Nywt
+NTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0Mz
+UwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMs
+LTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzND
+cyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBd
+fQ==
 -->
