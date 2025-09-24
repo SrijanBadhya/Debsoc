@@ -505,10 +505,6 @@ Why was this new model better?
 
 (end of quoting from Nikhil)
 
-Also, I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), because it leads to a higher quality debate.
-
-![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
-
 
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
@@ -580,13 +576,16 @@ The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and 
 ---
 
 Since we follow the AP format in round 3, 3 member teams can be unbalanced sometimes.
-I found that checking up on teams during case prep was pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy, and the other 2 people just talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
+I found that checking up on team dynamics during case prep was pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy, and the other 2 people just talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
 
 A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent imbalance or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
+
+![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 ---
 
 It's important to alleviate anxiety and make people associate the soc with good feelings. Make it very very clear that there's no real winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is). 
+
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
 
@@ -1963,11 +1962,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc0NjIwOTg2OCw3MTY5NjUzNywyMDEyMTc3MD
-c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
-MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
-cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
-Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
-UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
+c3RvcnkiOlsxMTcwMjE0MTE5LDcxNjk2NTM3LDIwMTIxNzcwNz
+ksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYz
+NTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNz
+EwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgy
+ODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NT
+A0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzZdfQ==
 
 -->
