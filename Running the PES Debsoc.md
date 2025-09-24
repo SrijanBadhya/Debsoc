@@ -621,6 +621,9 @@ Your organizing team will have flawed incapable actors, who don't use excel prop
 
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
+talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
+
+Also talk about that random dude from Ahmedabad lmaooo.
 
 
 From the stuff I forwarded to Anirudh:
@@ -1960,11 +1963,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjg1MzcxNDM2LDE1MzkwODc1NTQsLTE5MTM2Nz
-Q0OTksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3
-NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5OD
-I3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MTAsMjE1NDYzMDQxLDE0
-MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkxMDAyOT
-MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3XX0=
+c3RvcnkiOlstMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNj
+c0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Niwz
+NzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OT
+gyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEwLDIxNTQ2MzA0MSwx
+NDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyODc2ODE0LDE5MTAwMj
+kzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1N119
 
 -->
