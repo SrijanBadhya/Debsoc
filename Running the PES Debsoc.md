@@ -612,7 +612,7 @@ End of forwards to Anirudh
 
 
 
-
+In the google forms we had to fill a score for each speaker too. However this was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). 
 
 
 General comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day. Better in round 1 than round 2.
@@ -1910,11 +1910,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTU5NzUzOCw4MDMyNjczNTcsLTUwOTMxMTU2Ni
-wxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2
-NTMxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MTM3ND
-I2LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2
-NjYxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3ND
-AsLTEzNzU2ODExMzQsLTI1MzI4NzM4OSwtMTM2MTc4MTI4Nl19
-
+c3RvcnkiOlstNTkxMTc3OTA5LDgwMzI2NzM1NywtNTA5MzExNT
+Y2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1
+MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
+c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Miwt
+MzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4ND
+c0MCwtMTM3NTY4MTEzNCwtMjUzMjg3Mzg5LC0xMzYxNzgxMjg2
+XX0=
 -->
