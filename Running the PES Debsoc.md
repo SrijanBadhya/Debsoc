@@ -504,6 +504,10 @@ Round 3 had full-fledged APs. APs are simpler than BPs so we have always started
 
 Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
+The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and also  while actually keeping it low. 
+
+
+
 #### What wasn't implementable from the Round 3 model
 
 You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after polls (and many don't vote).
@@ -1914,11 +1918,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0ND
-E2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1
-NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1Mz
-E3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYs
-MTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2Nj
-EyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MF19
+c3RvcnkiOls2Njg3ODkyOCwtMjgyODc2ODE0LDE5MTAwMjkzMT
+MsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5
+MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwOD
+AsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3
+NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOT
+g4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBdfQ==
 
 -->
