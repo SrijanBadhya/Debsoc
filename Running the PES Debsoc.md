@@ -209,15 +209,15 @@ remember to add these pictures in recruitments later Srijan
 
 Everyone else, just skip past these pictures for now, skip the whole section and move onto the next section by clicking this link, ["Inside a Session"](#inside-a-session).
 
-![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
+
 
   ![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
 
 ![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
 
 
-https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg
-(In the part about your effort and feeling sad about it)
+
+
 
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
@@ -421,7 +421,11 @@ So, how do you carry out breadth-wise inclusivity?
 - Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because round 1 isn't over is dumb, the bulk of round 1s should be finished in a maximum of 3 days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
 
 
-The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. You will feel frustrated about all the time and effort you put for these people, but remember:
+The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. 
+
+![](https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg)
+
+You will feel frustrated about all the time and effort you put for these people, but remember:
 - **Even if people were temporary, they still contributed to the activity of the club for the time that they were there, and that's enough.**
 - You did your part, you provided value to them, and your effort contributed towards the vision of the Debsoc.
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
@@ -1955,7 +1959,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MTI5NTk2MjksNzE2OTY1MzcsMjAxMjE3NzA3OS
+c3RvcnkiOls0NjE5Mzc4MDYsNzE2OTY1MzcsMjAxMjE3NzA3OS
 wxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1
 MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MT
 AsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4
