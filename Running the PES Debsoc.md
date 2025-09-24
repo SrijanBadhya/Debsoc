@@ -386,7 +386,9 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
+<br>
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
+
 - Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
@@ -531,6 +533,7 @@ Round 3 had full-fledged APs. APs are simpler than BPs so we have always started
 Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
 ---
+
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
 I don't believe that making the bar seem high really encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
 
@@ -584,6 +587,7 @@ A very similar situation is when 2 friends come together for recruitments. Other
 ---
 
 It's important to alleviate anxiety and make people associate the soc with good feelings. Make it very very clear that there's no real winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is). 
+![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
@@ -1959,10 +1963,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NjE5Mzc4MDYsNzE2OTY1MzcsMjAxMjE3NzA3OS
-wxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1
-MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MT
-AsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4
-NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MD
-QsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Nl19
+c3RvcnkiOlstMTc0NjIwOTg2OCw3MTY5NjUzNywyMDEyMTc3MD
+c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
+MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
+cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
+Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
+UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
+
 -->
