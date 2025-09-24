@@ -314,7 +314,7 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Extra days for the people who need it. Round 3 also needs to be open enough for even people with packed lives to be able to reach the minimum bar. 
 
-Absolutely do not aim to recruit a percentage of applicants, like deciding, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions). 
+Absolutely do not aim to recruit a percentage of applicants, like deciding, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions), and keep that as the threshold.
 
 
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility. Round 2 also usually is similarly over 3 other days. 
@@ -1964,11 +1964,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMD
-EwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywy
-MDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OT
-Q0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcs
-MjAxNDc3MjcxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5Mj
-U0MzYsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNl19
-
+c3RvcnkiOlsxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OT
+Q2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5
+LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMz
+I1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OTgyNzgs
+LTY3MjQ1ODY0NywyMDE0NzcyNzEwLDIxNTQ2MzA0MSwxNDIwMj
+M1NTUsLTExNzkyNTQzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTNd
+fQ==
 -->
