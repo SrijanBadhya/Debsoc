@@ -207,13 +207,13 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 
  
 
-![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
 
 
 
 
 
-![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
+
+
 
 
 
@@ -279,9 +279,13 @@ A few issues with the month long recruitment:
 
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
 
-This level of selectivity captured the most benefits, and I believe that aiming to be more selective gives diminishing marginal benefits and leads to more harms.
+A month-long recruitment might bore some people. I don't fully trust the following responses to the feedback form, even if they were anonymous, but I'm glad some people still enjoyed the month-long recruitment.
 
-A month-long recruitment might bore some people. I don't fully trust the followi
+![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
+
+![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
+
+This level of selectivity captured the most benefits, and I believe that aiming to be even more selective gives diminishing marginal benefits and leads to more harms.
 
 Which takes us to, **why we should push hard for inclusivity**:
 
@@ -1961,11 +1965,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg4MjIzODE4LDcxNjk2NTM3LDIwMTIxNzcwNz
-ksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYz
-NTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNz
-EwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgy
-ODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NT
-A0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzZdfQ==
-
+c3RvcnkiOlsyMzY4NzE1NDgsNzE2OTY1MzcsMjAxMjE3NzA3OS
+wxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1
+MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MT
+AsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4
+NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MD
+QsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Nl19
 -->
