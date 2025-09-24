@@ -586,7 +586,7 @@ This year 2025, round 3 got delayed for months (due to factors like IITB, tourna
 
 ---
 
-A week before the end of round 3, I posted this feedback form. Most of the screenshots that you'll see across this document are from this form.
+A week before the end of round 3, I posted this feedback form. Most of the screenshots that you'll see across this document are from this form's responses.
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
@@ -1953,11 +1953,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNT
-E1LC0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02
-NzI0NTg2NDcsMjAxNDc3MjcxMCwyMTU0NjMwNDEsMTQyMDIzNT
-U1LC0xMTc5MjU0MzYsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05
-MTI3NDQxNiwtMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMT
-U2NiwxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MDgwXX0=
-
+c3RvcnkiOls3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NT
+YsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4
+NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3MjcxMCwyMTU0NjMwND
+EsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4Mjg3NjgxNCwxOTEw
+MDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4MDMyNjczNT
+csLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1NjMwNF19
 -->
