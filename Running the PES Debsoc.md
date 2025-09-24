@@ -554,7 +554,7 @@ I talk more about initial sessions later in [Session Concepts](#session-concepts
 
 A slight detour:
 I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her in her speech. I was indignant that Yash wasn't doing anything, and thought he was a dumb chair. After the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut up her teammate she would feel more nervous and alone. I want to keep these schoolkids interested in debate, and scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
-I was in awe. For a moment my eyes turned glassy, and I saw the far-sighted vision Yash possessed. I saw that it was worthy to bend the rules sometimes, to keep the people winning in the infinite game.
+I was in awe. For a moment my eyes rolled back into my head, and I saw the far-sighted vision Yash possessed. I saw that it was worthy to bend the rules sometimes, to keep the people winning in the infinite game.
 
 Some places I find worthy of bending the rules are:
 
@@ -1953,11 +1953,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgyODc2OD
-E0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgw
-MzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
-A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEw
-NzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MD
-gyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OV19
+c3RvcnkiOlsxNzc4ODY3MDYzLDE0MjAyMzU1NSwtMTE3OTI1ND
+M2LC0yODI4NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0
+Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzND
+U3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1
+OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwxNTI2NT
+QyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyLC0zNjY2MTI4Nl19
 
 -->
