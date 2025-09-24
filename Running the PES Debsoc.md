@@ -506,7 +506,9 @@ Juniors are unaware that they even have the right to judge, so make sure you alw
 
 #### What wasn't implementable from the Round 3 model
 
-You can never accurately predict how many people 
+You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after polls (and many don't vote).
+
+Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. I
 Talk about what wasn't implementable from Nikhil's model either. 
 how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
 
@@ -1911,11 +1913,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MDcxNzY4NDcsMTkxMDAyOTMxMywtOTEyNzQ0MT
-YsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1
-MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMT
-cwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwx
-NTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyLC0zNjY2MT
-I4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMCwxMTQ5OTg0NzQwXX0=
-
+c3RvcnkiOlstMTk5Nzg3MDU3NSwxOTEwMDI5MzEzLC05MTI3ND
+QxNiwtMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2Niwx
+NTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NT
+MxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2
+LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2Nj
+YxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDBd
+fQ==
 -->
