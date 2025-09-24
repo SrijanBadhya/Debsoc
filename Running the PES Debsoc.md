@@ -493,21 +493,11 @@ Round 1 and 2 are usually quite rushed because you're processing large batches o
 In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
 We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
 
-Verdicts can be straight up demotivating, especially at a super early stage. It's more important to give
+Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict.
 
 ### Round 3 
 
-
-
-Talk about what wasn't implementable from Nikhil's model either. 
-how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
-
-
-
-explain why no pois.
-
-Why no win loss announcing in round 2
-needed in round 3 cuz it's hard to give a proper OA without it
+Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. 
 
 Scoring is not important.
 
@@ -516,6 +506,8 @@ Major benefit of self filtration and rounds is that 60% of the people drop out i
 juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
 
+Talk about what wasn't implementable from Nikhil's model either. 
+how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
 
 
 Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
@@ -1918,7 +1910,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODY3OTgyMDI3LDgwMzI2NzM1NywtNTA5MzExNT
+c3RvcnkiOlsxODMzODcxMDYyLDgwMzI2NzM1NywtNTA5MzExNT
 Y2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1
 MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
 c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Miwt
