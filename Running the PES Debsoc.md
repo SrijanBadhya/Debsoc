@@ -504,7 +504,7 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
-In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
+In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these rules takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
 We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
 
 Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict.
@@ -512,7 +512,7 @@ Verdicts can be straight up demotivating, especially at a super early stage. It'
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
 The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). So you can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
-When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly crati
+When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways, and they definitely are not worth the hassle in round 1 and round 2.
 
 ### Round 3 
 
@@ -1955,11 +1955,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI4ODM5ODM3NCwxNDIwMjM1NTUsLTExNzkyNT
-QzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0x
-NDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMz
-Q1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwx
-NTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNj
-U0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODZd
-fQ==
+c3RvcnkiOlsyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0Mz
+YsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQz
+OTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NT
+c2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5
+NTA0NzU4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1ND
+IzMzAsMTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2XX0=
+
 -->
