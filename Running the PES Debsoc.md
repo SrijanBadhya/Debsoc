@@ -490,7 +490,7 @@ Also, I would recommend checking up on both teams during case prep, and to ensur
 
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
-End of the recruitment section I have properly written, any readers please move on to [Inside a session](#inside-a-session) for now.
+
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
 In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
@@ -532,6 +532,8 @@ Because of this, it wasn't possible for us to ensure that every junior got to pr
 The only thing that we could do was leave it to fate and 
 hope that people naturally tried out different roles themselves.
 
+
+### A few notes on recruitment debates
 
 
 
@@ -1927,11 +1929,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkxMDAyOT
-MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01
-MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNT
-A4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1Mywt
-MTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0Nz
-I5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMF19
-
+c3RvcnkiOlstMjA1MTE5NjI4NywtMTE3OTI1NDM2LC0yODI4Nz
+Y4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQs
+ODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NT
+YzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQs
+MTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMz
+QwODI2OTYsMTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5
+XX0=
 -->
