@@ -553,7 +553,7 @@ hope that people naturally tried out different roles themselves.
 I talk more about initial sessions later in [Session Concepts](#session-concepts), but here are some extra tips that are more applicable during recruitment debates than the debates once they've joined.
 
 A slight detour:
-I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL
+I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. A 9th grader's teammate kep
 
 
 
@@ -1946,11 +1946,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTE5NDk2NzUyLC0xMTc5MjU0MzYsLTI4Mjg3Nj
-gxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4
-MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1Nj
-MwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwx
-MDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzND
-A4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzld
-fQ==
+c3RvcnkiOls3ODU1MzM5MTksLTExNzkyNTQzNiwtMjgyODc2OD
+E0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgw
+MzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2Mz
+A0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEw
+NzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MD
+gyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OV19
+
 -->
