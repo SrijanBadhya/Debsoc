@@ -562,7 +562,7 @@ Some places I find worthy of bending the rules are:
 2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves.
 3. Doing like 3 minutes of case prep with each team if you feel like it, asking nuanced questions to stimulate their thoughts.
 
-
+The rebuttal is that you shouldn't 
 
 
 (talk about wrapping up recruitments fast to push tournaments early).
@@ -1953,11 +1953,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzc4ODY3MDYzLDE0MjAyMzU1NSwtMTE3OTI1ND
-M2LC0yODI4NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0
-Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzND
-U3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1
-OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwxNTI2NT
-QyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyLC0zNjY2MTI4Nl19
-
+c3RvcnkiOlstMTY2MDc5MTUwMywxNDIwMjM1NTUsLTExNzkyNT
+QzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0x
+NDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMz
+Q1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1MzE3MCwx
+NTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYsMTUyNj
+U0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2NjEyODZd
+fQ==
 -->
