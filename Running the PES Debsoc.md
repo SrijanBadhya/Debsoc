@@ -554,7 +554,11 @@ I talk more about initial sessions later in [Session Concepts](#session-concepts
 
 A slight detour:
 I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her in her speech. I was indignant that Yash wasn't doing anything, and thought he was a dumb chair. After the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut up her teammate she would feel more nervous and alone. I want to keep these schoolkids interested in debate, and scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
-I was in awe. For a moment my eyes turned glassy, and I saw the far-sighted vision Yash possessed. 
+I was in awe. For a moment my eyes turned glassy, and I saw the far-sighted vision Yash possessed. I saw that it was worthy to bend the rules sometimes, to keep the people winning in the infinite game.
+
+Some places I find worthy of bending the rules are:
+
+1. Explaining the 3 motions. 
 
 
 
@@ -1947,11 +1951,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDc0NjQ0OTAxLC0xMTc5MjU0MzYsLTI4Mjg3Nj
-gxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4
-MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1Nj
-MwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwx
-MDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzND
-A4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzld
-fQ==
+c3RvcnkiOlstMTYxNjE5ODI0MSwtMTE3OTI1NDM2LC0yODI4Nz
+Y4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQs
+ODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NT
+YzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQs
+MTA3MTE5Mzg1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMz
+QwODI2OTYsMTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5
+XX0=
 -->
