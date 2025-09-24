@@ -564,7 +564,7 @@ Some places I find worthy of bending the rules are:
 2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves.
 3. Doing like 3 minutes of case prep with each team if you feel like it, asking nuanced questions to stimulate their thoughts.
 
-The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and also that you're holding their hand too much. I believe that senior involvement is still great at making the Debsoc feel like a club, and that this matters 
+The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and also that you're holding their hand too much. I believe that senior involvement is still great at making the Debsoc feel like a club, and that this matters more. 
 
 
 (talk about wrapping up recruitments fast to push tournaments early).
@@ -574,12 +574,6 @@ The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and 
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
 
-  
-
-Explain the 3 motions, don't let teams be clueless, it's fine if you're giving them information.
-
- 
-motion ranking good because of illusion of agency
 
 
 make sure case prep is balanced, and make sure it isn't one person talking over 2 other shy people.
@@ -1955,11 +1949,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5ODQ2ODIwMjcsMjE1NDYzMDQxLDE0MjAyMzU1NS
-wtMTE3OTI1NDM2LC0yODI4NzY4MTQsMTkxMDAyOTMxMywtOTEy
-NzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1Nj
-YsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUw
-NjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1MywtMTc1NjEzNz
-QyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0NzI5ODgyXX0=
+c3RvcnkiOlsyMDE0NzcyNzEwLDIxNTQ2MzA0MSwxNDIwMjM1NT
+UsLTExNzkyNTQzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkx
+Mjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNT
+Y2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1
+MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMz
+c0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4Ml19
 
 -->
