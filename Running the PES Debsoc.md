@@ -504,8 +504,6 @@ Round 3 had full-fledged APs. APs are simpler than BPs so we have always started
 
 
 
-Major benefit of self filtration and rounds is that 60% of the people drop out in round 1 and 2, so you're better able to handle the people who are left in round 3. You have better expectations of how many will show up.
-
 juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
 
 
@@ -1913,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3Mz
-U3LC01MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1
-NjQzNTA4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mz
-g1MywtMTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYs
-MTM0NzI5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOT
-cyMCwxMTQ5OTg0NzQwLC0xMzc1NjgxMTM0LC0yNTMyODczODld
+c3RvcnkiOlsxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
+UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3
+NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0Nz
+U4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAs
+MTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3Mz
+QyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzRd
 fQ==
 -->
