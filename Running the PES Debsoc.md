@@ -498,7 +498,7 @@ Why was this new model better?
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
 
-Detailed comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day (during round 2). Personal feedback is more feasible in round 1 than round 2. (The throughput per senior averaged to 4 recruits per hour.)
+Detailed comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day (during round 2). Personal feedback is more feasible in round 1 than round 2. 
 
 In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these rules takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
 
@@ -1958,10 +1958,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4ODkwMzAwODQsNzE2OTY1MzcsMjAxMjE3NzA3OS
-wxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1
-MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MT
-AsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1NDM2LC0yODI4
-NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MD
-QsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzNDU3Nl19
+c3RvcnkiOlstMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEyMTc3MD
+c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
+MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
+cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
+Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
+UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
+
 -->
