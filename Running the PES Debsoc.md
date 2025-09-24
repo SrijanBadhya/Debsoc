@@ -322,7 +322,9 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 **How are there always people who miss out?** What are the reasons that often happen?
 - When you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 9% likely, when you take a sample of 100 people, you get 9 people this event likely happens to.
 - This could be due to being sick, having some extracurricular class some day, having a high priority assignment one day, anything. Even if these same unlikely, likelihood scales up with people. 
+
 ![enter image description here](https://i.imgflip.com/a72pv2.jpg)
+
 - **Moreover, Recruitments are usually held in October November, many students go home for a whole week during Diwali or Dussehra, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
 - + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way. 
@@ -1965,7 +1967,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjQ0ODM0NDY5LDE1ODQzNzY0MDUsNTc5MzUzMT
+c3RvcnkiOlsxNDU4Mjk1MDY3LDE1ODQzNzY0MDUsNTc5MzUzMT
 AwLC0xNDc5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQs
 LTE5MTM2NzQ0OTksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mz
 c0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1MjM4MjIs
