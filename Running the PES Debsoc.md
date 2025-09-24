@@ -295,6 +295,7 @@ So the reasons for being inclusive regardless of 'skill' are:
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
 - - A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
 
+
 So there isn't much clear benefit of having a tight filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
 **Accidentally leaving an interested person out is more expensive than accidentally taking an uninterested person in.**
 
@@ -1963,11 +1964,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM3OTcxMTMwMiwtMTQ3OTE0OTQ2MywtMTM4MD
-AwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3
-LDIwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNj
-U5NDQ4MjQsMTYzNTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0
-NywyMDE0NzcyNzEwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNz
-kyNTQzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2
-XX0=
+c3RvcnkiOls1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMD
+EwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywy
+MDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OT
+Q0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcs
+MjAxNDc3MjcxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5Mj
+U0MzYsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNl19
+
 -->
