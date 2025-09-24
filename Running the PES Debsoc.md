@@ -499,7 +499,7 @@ We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to
 Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict.
 
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
-The massive issue here is that people who slip by due to administrative errors, believe that they actua
+The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). So you can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
 ### Round 3 
 
@@ -1929,11 +1929,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMjM1Nzk4OCwtMjgyODc2ODE0LDE5MTAwMjkzMT
-MsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5
-MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwOD
-AsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3
-NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOT
-g4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBdfQ==
-
+c3RvcnkiOlstMTQ3OTE0MDE2MCwtMjgyODc2ODE0LDE5MTAwMj
+kzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NTA0LDgwMzI2NzM1Nywt
+NTA5MzExNTY2LDE1NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0Mz
+UwODAsLTY1MDY1MzE3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMs
+LTE3NTYxMzc0MjYsMTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzND
+cyOTg4MiwtMzY2NjEyODYsLTc2NTczNDI3OSwtNzI3MTk3MjBd
+fQ==
 -->
