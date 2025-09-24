@@ -484,6 +484,8 @@ Why was this new model better?
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
 
+(end of quoting from Nikhil)
+
 Also, I would recommend checking up on both teams during case prep, and to ensure that there's a dynamic between all 3 of them (in case one person isn't speaking up as much as they should). It doesn't hurt to prompt them with a few questions (as long as you do it equally to both teams), because it leads to a higher quality debate.
 
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
@@ -512,7 +514,7 @@ In 2023-2024, on the last night of round 3 before releasing results, we asked pe
 
 In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
 
-We held way more Round 3 sessions, and after looking at the distribution of attendance, we decided to make the bar round 3. 
+We held way more Round 3 sessions, and after looking at the distribution of attendance, we decided to make the bar 3. 
 
 
 #### What wasn't implementable from the Round 3 model
@@ -1922,11 +1924,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzk1NzE3ODkxLC0yODI4NzY4MTQsMTkxMDAyOT
-MxMywtOTEyNzQ0MTYsLTE0Mzk5Njg1MDQsODAzMjY3MzU3LC01
-MDkzMTE1NjYsMTU1MjIzNDU3Niw3NzQ5NTYzMDQsMTA1NjQzNT
-A4MCwtNjUwNjUzMTcwLDE1OTUwNDc1ODQsMTA3MTE5Mzg1Mywt
-MTc1NjEzNzQyNiwxNTI2NTQyMzMwLDEyMzQwODI2OTYsMTM0Nz
-I5ODgyLC0zNjY2MTI4NiwtNzY1NzM0Mjc5LC03MjcxOTcyMF19
+c3RvcnkiOlszMjc4MDM2MjgsLTI4Mjg3NjgxNCwxOTEwMDI5Mz
+EzLC05MTI3NDQxNiwtMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUw
+OTMxMTU2NiwxNTUyMjM0NTc2LDc3NDk1NjMwNCwxMDU2NDM1MD
+gwLC02NTA2NTMxNzAsMTU5NTA0NzU4NCwxMDcxMTkzODUzLC0x
+NzU2MTM3NDI2LDE1MjY1NDIzMzAsMTIzNDA4MjY5NiwxMzQ3Mj
+k4ODIsLTM2NjYxMjg2LC03NjU3MzQyNzksLTcyNzE5NzIwXX0=
 
 -->
