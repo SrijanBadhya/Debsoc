@@ -508,11 +508,10 @@ Juniors are unaware that they even have the right to judge, so make sure you alw
 
 You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after polls (and many don't vote).
 
-Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track speaker positions, and in the future check their past speaker positions before assigning them new speaker positions (because the model had aimed to ensure that everyone had tried every speaker position). 
+Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track speaker positions, and then in the future check their past speaker positions before assigning them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
 The only thing that we could do was leave it to fate and 
 hope that people naturally tried out different roles themselves.
-Talk about what wasn't implementable from Nikhil's model either. 
-how making people pro-am, making people adj once, tracking if they've done all speaker positions once, didn't really come to fruition and it was more effort than it was worth. 
+
 
 
 Avoid disclosing the exact number of sessions the cutoff was, because people might think that that is the expectation for them, and be dissuaded from attending many.
@@ -1915,7 +1914,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjc2MTQ4MTA4LDE5MTAwMjkzMTMsLTkxMjc0ND
+c3RvcnkiOlstMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0ND
 E2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1
 NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1Mz
 E3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYs
