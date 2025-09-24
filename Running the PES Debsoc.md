@@ -211,7 +211,7 @@ Everyone else, just skip past these pictures for now, skip the whole section and
 
 
 
-  ![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
+  
 
 ![enter image description here](https://i.ibb.co/Y7WSCDXf/Screenshot-2025-09-06-165550.png)
 
@@ -540,6 +540,9 @@ In 2024-2025, when we were asked, "How many sessions are needed to get in the cl
 The issue with this, as I've mentioned elsewhere, is that people might just give up hope since they can't reach the false threshold, and also might be anxious about making it in. The anxiety might hold less weight since it translates to relief once they've gotten in, but it mildly feels dishonest to scare people.
 
 In 2024-2025, we held way more Round 3 sessions than the previous year, and after looking at the distribution of attendance, we decided to make 3 debates the bar. (3 plus the 2 debates of round 1 and round 2.)
+
+![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
+(A few of the Yes's and Maybe's came from people who had attended a bunch of debates.)
 
 ---
 
@@ -1962,11 +1965,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTcwMjE0MTE5LDcxNjk2NTM3LDIwMTIxNzcwNz
-ksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYz
-NTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNz
-EwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTExNzkyNTQzNiwtMjgy
-ODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0NDE2LC0xNDM5OTY4NT
-A0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1NTIyMzQ1NzZdfQ==
+c3RvcnkiOlstMTQyNjI3NjQ1OCw3MTY5NjUzNywyMDEyMTc3MD
+c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
+MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
+cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzYsLTI4
+Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
+UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2XX0=
 
 -->
