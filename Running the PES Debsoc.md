@@ -644,7 +644,7 @@ https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJ
   [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
   spamsrboy@gmail.com
  scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
- the password is debsocfuture
+The password is debsocfuture
 
 
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
@@ -1959,11 +1959,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk1MzM4NTM1OCwtMTkxMzY3NDQ5OSw3MTY5Nj
-UzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0x
-MzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NT
-g2NDcsMjAxNDc3MjcxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0x
-MTc5MjU0MzYsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3ND
-QxNiwtMTQzOTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2Nl19
+c3RvcnkiOlsxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NT
+M3LDIwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEz
+NjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1OD
+Y0NywyMDE0NzcyNzEwLDIxNTQ2MzA0MSwxNDIwMjM1NTUsLTEx
+NzkyNTQzNiwtMjgyODc2ODE0LDE5MTAwMjkzMTMsLTkxMjc0ND
+E2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2XX0=
 
 -->
