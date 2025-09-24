@@ -582,7 +582,7 @@ It's important to alleviate anxiety and make people associate the soc with good 
 
 The sneaky thing about our recruitment model is that what people will be doing before the end of round 3, is the same as what they'll be doing once they're recruited, which is coming to sessions every week. What difference do they feel then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
-This year 2025, the end of recruitments slightly overlapped with NLSD, and we had to awkwardly maneuver and invite the people with the highest attendance before they were even officially recruited. Wrapping 
+This year 2025, round 3 got delayed for months (due to factors like IITB, tournaments, exam schedules, and processing round 1 & round 2 results. The end of recruitments slightly overlapped with NLSD, and we had to awkwardly maneuver and invite the people with the highest attendance before they were even officially recruited. 
 
 [Feedback from recruits, halfway through the month of round 3](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059)
 This feedback form does contain some sensitive information, but since it's anonymous, the average person shouldn't be able to recognize anyone. And hopefully by the time relevant people read this, the people involved will either be dead, will have forgotten details, or will be able to laugh it off.
@@ -1949,11 +1949,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MDAxNzg3NjksMzc1MTMyNTE1LC0xMzY1OTQ0OD
-I0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAx
-NDc3MjcxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0Mz
-YsLTI4Mjg3NjgxNCwxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQz
-OTk2ODUwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NT
-c2LDc3NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzBdfQ==
+c3RvcnkiOlsxODE5Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0ND
+gyNCwxNjM1MjM4MjIsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIw
+MTQ3NzI3MTAsMjE1NDYzMDQxLDE0MjAyMzU1NSwtMTE3OTI1ND
+M2LC0yODI4NzY4MTQsMTkxMDAyOTMxMywtOTEyNzQ0MTYsLTE0
+Mzk5Njg1MDQsODAzMjY3MzU3LC01MDkzMTE1NjYsMTU1MjIzND
+U3Niw3NzQ5NTYzMDQsMTA1NjQzNTA4MCwtNjUwNjUzMTcwXX0=
 
 -->
