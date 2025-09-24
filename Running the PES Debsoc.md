@@ -1032,7 +1032,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 From the way my CUPD lore went down, it's clear that my initial bad impression of adjing just became worse after experiencing it. So most variations of 'compulsory' adjing are likely to be destructive. 
 
 
-The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have told me that they want to try adjing in the next session.)
+The ideal scenario is an organic shift to adjing. Maybe they'll want to try something new, try adjing, and end up liking it. (A handful of people have actually told me that they want to try adjing in the next session.)
 The ideal scenario of tournaments is if people voluntarily adj and power through all the disheartening parts of it. The Debsoc in 2023 was blessed to have multiple people voluntarily and passionately adj tournaments, removing one of the biggest burdens of tournaments. I had never seen this phenomenon in my 2 years of debate till then, and still mildly hold the belief today that this happened due to random chance.
 
 
@@ -1911,11 +1911,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTEwMDI5MzEzLC05MTI3NDQxNiwtMTQzOTk2OD
-UwNCw4MDMyNjczNTcsLTUwOTMxMTU2NiwxNTUyMjM0NTc2LDc3
-NDk1NjMwNCwxMDU2NDM1MDgwLC02NTA2NTMxNzAsMTU5NTA0Nz
-U4NCwxMDcxMTkzODUzLC0xNzU2MTM3NDI2LDE1MjY1NDIzMzAs
-MTIzNDA4MjY5NiwxMzQ3Mjk4ODIsLTM2NjYxMjg2LC03NjU3Mz
-QyNzksLTcyNzE5NzIwLDExNDk5ODQ3NDAsLTEzNzU2ODExMzRd
-fQ==
+c3RvcnkiOlsxMjA3Mjk3MDA4LDE5MTAwMjkzMTMsLTkxMjc0ND
+E2LC0xNDM5OTY4NTA0LDgwMzI2NzM1NywtNTA5MzExNTY2LDE1
+NTIyMzQ1NzYsNzc0OTU2MzA0LDEwNTY0MzUwODAsLTY1MDY1Mz
+E3MCwxNTk1MDQ3NTg0LDEwNzExOTM4NTMsLTE3NTYxMzc0MjYs
+MTUyNjU0MjMzMCwxMjM0MDgyNjk2LDEzNDcyOTg4MiwtMzY2Nj
+EyODYsLTc2NTczNDI3OSwtNzI3MTk3MjAsMTE0OTk4NDc0MF19
+
 -->
