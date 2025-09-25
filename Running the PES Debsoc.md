@@ -723,7 +723,9 @@ And even I messed up the end of round 3 by adding the wrong people to Shenanigan
 
   [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
   spamsrboy@gmail.com
- scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. [Tracking Debsoc attendance digitally - YouTube](https://www.youtube.com/watch?v=2L9hfdCo3ds)
+ scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
+ https://www.youtube.com/watch?v=2L9hfdCo3ds
+ 
 The password is debsocfuture (not the gmail password of course)
 You can use this account just to check out the exact data, but honestly the Youtube video is enough.
 I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
@@ -740,7 +742,8 @@ round 3 in 2023
 [Copy of Round 3 Attendance - Google Sheets](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit?gid=0#gid=0) 
 Fake names added at the bottom.
 
-End of forwards to Anirudh
+
+https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
 
 
 
@@ -2040,7 +2043,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgyOTQ4NzgxMSw4ODIxODI5NDYsLTEyMjczOD
+c3RvcnkiOlstMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczOD
 k3NzEsOTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3
 OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NS
 wyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMx
