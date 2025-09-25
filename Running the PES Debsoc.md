@@ -693,10 +693,12 @@ Last year we had a system of code words, unique to every debate. The code word w
 
 
 The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
-Moderators needed to be given 4 reminders everyday, and every time I gave a reminder I could see people filling the form with fresh names they had written in their books.
+Moderators needed to be given 4 reminders everyday, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books.
 
 One time a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over it until he found his notebook in another classmate's bag. 
 
+---
+One thing that we overlook is the fact that another campus exists xD. When you send a PES
 
 
 basement seminar hall hard to find and easy to confuse, also remember to specify rr campus vs ec campus
@@ -2043,11 +2045,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1OD
-IyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0
-OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5ND
-csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
-MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
-0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTldfQ==
+c3RvcnkiOlstMTI2OTY4MjM3NywtNjA0MTIzNDg0LC05ODk5Nj
+MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
+LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
+c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1
+MDMxMjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC
+0xNDc5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTRdfQ==
 
 -->
