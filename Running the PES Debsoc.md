@@ -659,6 +659,8 @@ Even the current system was not perfect, we missed out on phone numbers during a
 
 And even I messed up by adding the wrong people multiple times. System errors are real.
 
+Nikhil and his book missing thing.
+
 
 basement seminar hall hard to find and easy to confuse, also remember to specify rr campus vs ec campus
 
@@ -2013,10 +2015,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjIyMzkxMDUwLDc3NzkyNTc5OCw3MzM2MzM5ND
-csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
-MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
-0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
-OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNS
-wtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5ODI3OF19
+c3RvcnkiOls3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Ny
+w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUw
+ODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLT
+EzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5
+NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC
+0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4XX0=
 -->
