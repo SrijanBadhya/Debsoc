@@ -665,7 +665,7 @@ In 2022 and 2023, everyone input their data directly into an excel spreadsheet a
 https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
 This is how we did round 3 in 2023. 
 It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into a page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
-Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record.
+Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record. Excel's ease of use is low to anyone new to it, cause it has random keyboard shortcuts, and dragging a cell normally will copy its content to other cells.
 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
 https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
@@ -691,7 +691,6 @@ In round 3, just the name and phone number can suffice because you're more in co
 Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly improved trackability, because if people couldn't remember names, they could be identified by the code word. And you could also check if you had all 6 people involved in the debate. However, a lot of chairs forgot to give code words (including me). If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
 
 
-And even I messed up the end of round by adding the wrong people multiple times. System errors are real.
 
 The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
 Moderators needed to be given 4 reminders everyday, and every time I gave a reminder I could see people filling the form with fresh names they had written in their books.
@@ -713,15 +712,14 @@ Also talk about that random dude from Ahmedabad lmaooo.
 
 
 
+And even I messed up the end of round 3 by adding the wrong people to Shenanigans multiple times. System errors are real.
 
 
 
 
-Excel's ease of use is incredibly low cause it has random keybord shortcuts, and dragging a cell normally will copy its content to other cells
 
 
 
-https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
 
   [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
   spamsrboy@gmail.com
@@ -2042,7 +2040,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU4MzQwNTAwOSw4ODIxODI5NDYsLTEyMjczOD
+c3RvcnkiOlstMTgyOTQ4NzgxMSw4ODIxODI5NDYsLTEyMjczOD
 k3NzEsOTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3
 OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NS
 wyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMx
