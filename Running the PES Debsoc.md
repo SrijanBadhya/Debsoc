@@ -704,7 +704,7 @@ The basement seminar hall is difficult to find for first year students, especial
 One thing that we overlook is the fact that another campus exists xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation later. 
 
 This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed.
-Although this can't be avoided, and it _is_ important 
+Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and 
 
 
 
@@ -2048,10 +2048,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1OTQzMzc3NjIsLTYwNDEyMzQ4NCwtOTg5OTYzMj
-AxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5
-MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OT
-gsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAz
-MTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMT
-Q3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0XX0=
+c3RvcnkiOlstNTcwOTE2ODU1LC02MDQxMjM0ODQsLTk4OTk2Mz
+IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
+OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
+k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUw
+MzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLT
+E0NzkxNDk0NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NF19
 -->
