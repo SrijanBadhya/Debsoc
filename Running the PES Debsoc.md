@@ -621,7 +621,8 @@ Make sure everyone is on the same page with respect to recruitments. This may re
 
 Round 1 has a massive load, which we needed to distribute evenly. 
 But using a 'choose your slot' system is too complicated. 
-1. People almost never come at their exact slot time. And if your future slots depend on 
+1. If slots are tight and not adaptive to changes in de, people who expected to start their slot earlier will wait unnecessarily (If you've had a Capstone review you know what I'm talking about).
+2. People almost never come at their exact slot time. And if your future slots depend on 
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -1988,11 +1989,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg5NDAzMzk1Myw3Nzc5MjU3OTgsNzMzNjMzOT
-Q3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0
-NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2My
-wtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcx
-Njk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MT
-UsLTEzNjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OTgyNzhdfQ==
-
+c3RvcnkiOlsxMDcwMDgxNTQzLDc3NzkyNTc5OCw3MzM2MzM5ND
+csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
+MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
+0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
+OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNS
+wtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5ODI3OF19
 -->
