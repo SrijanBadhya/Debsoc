@@ -664,7 +664,10 @@ It was a nightmare getting a hold of the link because it was buried somewhere on
 Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record.
 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
+https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
 
+Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate, if you're quick enough and check the entered data everyday. In the spreadsheet, you can see chair's names missing often. 
+If you have a name but not a phone number, it
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
 In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row.
@@ -2040,10 +2043,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAzMjU0MTE0LC0xMjI3Mzg5NzcxLDkwMDI0MD
-UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
-MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
-cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
-NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
-ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
+c3RvcnkiOlstMTcxMzM0NjE3MiwtMTIyNzM4OTc3MSw5MDAyND
+A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
+NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
+w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
+OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
+k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
 -->
