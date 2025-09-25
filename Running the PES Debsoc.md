@@ -651,6 +651,11 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 
 ---
 
+### The Database
+
+In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
+https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
+This is how we did rou
 Talk about how system, data filling errors are so common, regardless of how careful you think you are
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
@@ -695,7 +700,7 @@ you'll notice human errors here like duplicated entries for gov and opp, usually
 
 Excel's ease of use is incredibly low cause it has random keybord shortcuts, and dragging a cell normally will copy its content to other cells
 
-https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 this is how we did round 3 last year btw
+
 
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
 
@@ -2018,10 +2023,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NS
-w3Nzc5MjU3OTgsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMy
-Nzc1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OT
-M1MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3
-NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzksMT
-gxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjRdfQ==
+c3RvcnkiOls5MjQzMTY4MzcsOTAwMjQwNTMzLDQ5MzA4NDgyMi
+w3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUw
+OTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4ND
+M3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEw
+NTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMD
+EyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1XX0=
 -->
