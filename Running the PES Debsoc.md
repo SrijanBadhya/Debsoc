@@ -689,7 +689,7 @@ Even the current system was not perfect, we missed out on phone numbers during a
 
 And even I messed up by adding the wrong people multiple times. System errors are real.
 
-The most effective method at minimizing errors, which should be obvious by now, is 
+The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
 Moderators needed to be given 4 reminders everyday, and everytime I gave a reminder I could see people filling the form.
 
 
@@ -710,9 +710,7 @@ Also talk about that random dude from Ahmedabad lmaooo.
 
 From the stuff I forwarded to Anirudh:
 
-Don't know if you got this already but here are the recruitment tabs of 2023-2024 if you want a reference 
 
-Just take a look at this to see how often people forgot to note a particular detail. 
 
 The reason why I'm advocating for a google form linked to sheets is because it can improve on some issues like missing chair slots and a lot of missing phone numbers. And pinging people on the whatsapp group is too much of a pain and sometimes it won't work out
 
@@ -2047,7 +2045,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzE4OTYyMjk2LC0xMjI3Mzg5NzcxLDkwMDI0MD
+c3RvcnkiOlsyMDQ2Nzk0Mzc5LC0xMjI3Mzg5NzcxLDkwMDI0MD
 UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
 MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
 cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
