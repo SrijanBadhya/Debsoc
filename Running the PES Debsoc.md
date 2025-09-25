@@ -655,7 +655,7 @@ Talk about how system, data filling errors are so common, regardless of how care
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
-Even the current system was not perfect, we missed out on phone numbers during attendance, and some wrong people were added because sometimes we relied on only WhatsApp numbers names that they put, and messed up with the people who put names like ~.
+Even the current system was not perfect, we missed out on phone numbers during attendance, and some wrong people were added because sometimes we relied on only WhatsApp numbers names that they put, and messed up with the people who put names like ~ or * or _.
 
 And even I messed up by adding the wrong people multiple times. System errors are real.
 
@@ -2018,10 +2018,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjI1NTkzNjc1LDc4MDc2MDQ2NSw3Nzc5MjU3OT
-gsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAz
-MTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMT
-Q3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEz
-Njc0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Ni
-wzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzODIyXX0=
+c3RvcnkiOls0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OC
+w3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMx
+MjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xND
+c5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2
+NzQ0OTksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LD
+M3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1MjM4MjJdfQ==
 -->
