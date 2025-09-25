@@ -619,7 +619,8 @@ Make sure everyone is on the same page with respect to recruitments. This may re
 
 ---
 
-Round 1 has a massive load, which we wanted to dis
+Round 1 has a massive load, which we needed to distribute evenly. 
+But using a 'choose your slot' system is too complicated. 
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -637,7 +638,7 @@ basement seminar hall hard to find and easy to confuse, also remember to specify
 
 Absolutely never input directly into excel, very easy to mess up, when you start inputting data after scrolling far right, you'll miss the person's name and input data into someone else's name entirely, it's very easy for people to put data in the wrong pages, annoying to create a page for everyday and maintain it because people might not click the new page and may just fill the page that opens up to them.
 
-Your organizing team will have flawed incapable actors, who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
+Your organizing team will have flawed incapable actors (srijan don't call people flawed this way, , who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
 
 
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
@@ -1986,7 +1987,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDgzNzI3MzQyLDczMzYzMzk0Nyw3MDk1NDUwOT
+c3RvcnkiOlsyMDU3OTk1OTA2LDczMzYzMzk0Nyw3MDk1NDUwOT
 UsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3
 NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNT
 MsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEy
