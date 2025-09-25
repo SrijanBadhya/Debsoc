@@ -663,9 +663,11 @@ This is how we did round 3 in 2023.
 It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged.
 I can't find the round 1 and round 2 database but I think they were worse.
 
-Regardless of how careful you are, data entry errors 
+Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
 
-Talk about how system, data filling errors are so common, regardless of how careful you think you are
+Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
+
+A few moderators miss out on people's surnames either due to forgetfulness or
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
@@ -2032,7 +2034,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3OTYwNjc2NDUsOTAwMjQwNTMzLDQ5MzA4NDgyMi
+c3RvcnkiOlsyNDY3MDAwNDksOTAwMjQwNTMzLDQ5MzA4NDgyMi
 w3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUw
 OTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4ND
 M3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEw
