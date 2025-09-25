@@ -638,19 +638,22 @@ basement seminar hall hard to find and easy to confuse, also remember to specify
 
 Absolutely never input directly into excel, very easy to mess up, when you start inputting data after scrolling far right, you'll miss the person's name and input data into someone else's name entirely, it's very easy for people to put data in the wrong pages, annoying to create a page for everyday and maintain it because people might not click the new page and may just fill the page that opens up to them.
 
-Your organizing team will have flawed incapable actors (srijan don't call people flawed this way, , who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
+Your organizing team will have flawed incapable actors (srijan don't call people flawed this way, call their actions flawed), who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
 
 
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
 
+A random anecdote:
 Also talk about that random dude from Ahmedabad lmaooo.
 
 
 From the stuff I forwarded to Anirudh:
 
 Don't know if you got this already but here are the recruitment tabs of 2023-2024 if you want a reference https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
+
+Just take a look at this to see how often people forgot to do something, or marked 
 
 The reason why I'm advocating for a google form linked to sheets is because it can improve on some issues like missing chair slots and a lot of missing phone numbers. And pinging people on the whatsapp group is too much of a pain and sometimes it won't work out
 
@@ -1987,11 +1990,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDU3OTk1OTA2LDczMzYzMzk0Nyw3MDk1NDUwOT
-UsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3
-NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNT
-MsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEy
-MTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0OD
-I0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDddfQ==
-
+c3RvcnkiOlsyODQ2NTU0ODksNzMzNjMzOTQ3LDcwOTU0NTA5NS
+wtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNTg0Mzc2
+NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAwMTA1My
+wxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LDIwMTIx
+NzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4Mj
+QsMTYzNTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1ODY0N119
 -->
