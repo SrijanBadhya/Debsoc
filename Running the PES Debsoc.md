@@ -653,6 +653,8 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 
 ### The Database
 
+People are way less reliable than you think. EVERYONE. Even you. When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are inc
+
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
 https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
 This is how we did round 3 in 2023. 
@@ -2026,10 +2028,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDI4MzAzNTY3LDkwMDI0MDUzMyw0OTMwODQ4Mj
-IsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5NDcsNzA5NTQ1
-MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1MDg0LDE1OD
-QzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC0xMzgwMDAx
-MDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2OTY1MzcsMj
-AxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNV19
+c3RvcnkiOlstMjEyNDM0NzQyOCw5MDAyNDA1MzMsNDkzMDg0OD
+IyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMzNjMzOTQ3LDcwOTU0
+NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNT
+g0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAw
+MTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LD
+IwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTVdfQ==
 -->
