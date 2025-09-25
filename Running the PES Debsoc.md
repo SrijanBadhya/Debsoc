@@ -524,7 +524,7 @@ When I allowed POIs, even after stating the rules thrice, people messed up POI r
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
 ---
-We also made 
+We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also allows the debsoc to change course if something has caused harm.
 
 ### Round 3
 
@@ -2043,10 +2043,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA5OTA3NDc2MywtMTIyNzM4OTc3MSw5MDAyND
-A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
-NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
-w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
-OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
-k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
+c3RvcnkiOlstMTc4OTA3NjI0LC0xMjI3Mzg5NzcxLDkwMDI0MD
+UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
+MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
+cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
+NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
+ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
 -->
