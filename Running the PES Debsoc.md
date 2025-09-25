@@ -667,7 +667,7 @@ Regardless of how careful you are, data entry errors are incredibly common. At t
 
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
-A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. 
+A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
@@ -2034,10 +2034,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIyNzM4OTc3MSw5MDAyNDA1MzMsNDkzMDg0OD
-IyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMzNjMzOTQ3LDcwOTU0
-NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNT
-g0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAw
-MTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LD
-IwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTVdfQ==
+c3RvcnkiOlstMTg4NjQ4NDc5NywtMTIyNzM4OTc3MSw5MDAyND
+A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
+NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
+w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
+OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
+k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
 -->
