@@ -654,7 +654,7 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 ### The Database
 
 People are way less reliable than you think. EVERYONE. Even you. When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
-The Debsoc constantly misses out on people due to system errors or people forgetting to add people. We've met peopl
+The Debsoc constantly misses out on people due to system errors or people forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked why. We sobbed internally and asked them to apply again this year. Ansh was a friend of mine, and when him and I texted, he found out that he wasn't on the list, and I rectified that. Nahush was missed out due to a system error and only because Nahush texted Bharath in sem 2 was Nahush able to come to informal recruitments. This 
 
 
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
@@ -2030,10 +2030,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2ODA3OTQxNDcsOTAwMjQwNTMzLDQ5MzA4NDgyMi
-w3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUw
-OTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4ND
-M3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEw
-NTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMD
-EyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1XX0=
+c3RvcnkiOlsxNjMyMTc4MDgxLDkwMDI0MDUzMyw0OTMwODQ4Mj
+IsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5NDcsNzA5NTQ1
+MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1MDg0LDE1OD
+QzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC0xMzgwMDAx
+MDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2OTY1MzcsMj
+AxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNV19
 -->
