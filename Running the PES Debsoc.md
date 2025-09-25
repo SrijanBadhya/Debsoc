@@ -698,7 +698,12 @@ Moderators needed to be given 4 reminders everyday, and each time I gave a remin
 One time a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over it until he found his notebook in another classmate's bag. 
 
 ---
-One thing that we overlook is the fact that another campus exists xD. When you send a PES
+
+The basement seminar hall is difficult to find for first year students, especially. Every year we have a dozen people calling us up or texting for help. Clear 
+
+One thing that we overlook is the fact that another campus exists xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation later. 
+
+This one time
 
 
 basement seminar hall hard to find and easy to confuse, also remember to specify rr campus vs ec campus
@@ -2045,11 +2050,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI2OTY4MjM3NywtNjA0MTIzNDg0LC05ODk5Nj
-MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
-LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
-c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1
-MDMxMjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC
-0xNDc5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTRdfQ==
-
+c3RvcnkiOlsxOTEzNjYzMDg4LC02MDQxMjM0ODQsLTk4OTk2Mz
+IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
+OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
+k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUw
+MzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLT
+E0NzkxNDk0NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NF19
 -->
