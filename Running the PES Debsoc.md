@@ -702,7 +702,7 @@ One time a friend of mine wrote names in a notebook but left the notebook in cla
 
 The basement seminar hall is difficult to find for first year students, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
 
-One thing that we overlook is the fact that another campus exists xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation later. 
+One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later shooing people away.
 
 This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad, he just liked debate.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
@@ -2049,10 +2049,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMj
-AxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5
-MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OT
-gsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAz
-MTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMT
-Q3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0XX0=
+c3RvcnkiOlsxNTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzND
+g0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0x
+MjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwND
+Y1LDc3NzkyNTc5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3
+MzI3NzUsMjY1MDMxMjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNT
+c5MzUzMTAwLC0xNDc5MTQ5NDYzLC0xMzgwMDAxMDUzXX0=
 -->
