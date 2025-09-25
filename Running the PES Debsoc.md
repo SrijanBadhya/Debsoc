@@ -622,6 +622,7 @@ Make sure everyone is on the same page with respect to recruitments. This may re
 Round 1 has a massive load, which we need to distribute evenly. 
 But using a 'choose your slot' system is too complicated. 
 (I'm talking about having 6 slots of 30 minutes each everyday, and asking people to choose one of the 18 slots of the 3 days.)
+Whether you have a single choice poll or a multi-choice poll
 
 If slots are tight and not adaptive to changes in the debates, people who expected to start their slot earlier will wait unnecessarily (If you've had a Capstone review you know what I'm talking about).
 Recruitments are very chaotic due to factors like:
@@ -630,12 +631,15 @@ Recruitments are very chaotic due to factors like:
 - Debates going on for varying lengths.
 - Sorting a lot of people's confusion like guiding them to the basement, clarifying doubts, dividing people into batches, etc.
 - Sometimes you have too many people for a debate, and sometimes you have too less people. Having fixed people for fixed slots won't work because a lot of people don't show up.
+- A lot of people would end up missing their slot entirely.
 
 Being dynamic is the way to go. The super early people can go to moderator 1. The bulk of people who show up can be handled by the moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people.
 
 But of course, we aim to be able to handle the loads in the first place, and that requires some planning. 
-So a bit more broad slots are recommended.
-And the way to do this is 
+So, a bit broader slots are recommended.
+And the way to do this is by first calculating the expected turnout.
+
+C
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -2002,11 +2006,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjExODg0NzU4MCw3Nzc5MjU3OTgsNzMzNjMzOT
-Q3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0
-NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2My
-wtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcx
-Njk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MT
-UsLTEzNjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OTgyNzhdfQ==
-
+c3RvcnkiOlstODg2OTgwOTQ0LDc3NzkyNTc5OCw3MzM2MzM5ND
+csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
+MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
+0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
+OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNS
+wtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5ODI3OF19
 -->
