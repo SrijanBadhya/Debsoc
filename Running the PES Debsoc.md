@@ -666,7 +666,7 @@ Absolutely never input directly into excel. It's very easy to mess up. When you 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
 https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
 
-Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate, if you're quick enough and check the entered data everyday. In the spreadsheet, you can see chair's names missing often. 
+Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate, if you're quick enough and check the entered data every night. In the spreadsheet, you can see chair's names missing often. 
 
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
@@ -678,7 +678,7 @@ Test out your form, because last year we couldn't submit multiple responses unti
 
 A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
-If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday?", but you're lucky if they even remember who you are.
+If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are.
 
 I believe 2 candidate keys should be used. Full name, phone number, and SRN/email addresss. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. The safety of having these candidate keys is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
@@ -687,7 +687,7 @@ In round 3, just the name and phone number can suffice because you're more in co
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
-Even the current system was not perfect, we missed out on phone numbers during attendance, and some wrong people were added because sometimes we relied on only WhatsApp numbers names that they put, and messed up with the people who put names like ~ or * or _.
+
 
 And even I messed up by adding the wrong people multiple times. System errors are real.
 
@@ -2047,10 +2047,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzU2NTkyMTU0LC0xMjI3Mzg5NzcxLDkwMDI0MD
-UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
-MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
-cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
-NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
-ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
+c3RvcnkiOls1MDM3MDY4ODcsLTEyMjczODk3NzEsOTAwMjQwNT
+MzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYz
+Mzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNz
+E4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0
+NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OS
+w3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTZdfQ==
 -->
