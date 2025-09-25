@@ -666,6 +666,7 @@ Absolutely never input directly into excel. It's very easy to mess up. When you 
 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
 https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
+You'll notice human errors here like duplicated entries for gov and opp, usually solved in a google form with compulsory questions for speaker 1 and 2.
 
 Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate, if you're quick enough and check the entered data every night. In the spreadsheet, you can see chair's names missing often. 
 
@@ -684,7 +685,7 @@ If you have a name but not a phone number, but need the phone number for verific
 I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to recruitments round 1 without even being a part of the WhatsApp group, and it's hopeless to find these people if you've missed out on their contact information. The safety of having these candidate keys is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
-Last year we had a system of 
+Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly i
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
@@ -711,17 +712,10 @@ A random anecdote:
 Also talk about that random dude from Ahmedabad lmaooo.
 
 
-From the stuff I forwarded to Anirudh:
 
 
 
-The reason why I'm advocating for a google form linked to sheets is because it can improve on some issues like missing chair slots and a lot of missing phone numbers. And pinging people on the whatsapp group is too much of a pain and sometimes it won't work out
 
-missing chair slots impact trackability on people
-
-and having only the phone number impacts trackability because people can mess up one digit, or forget to add the phone number. I think adding email is beneficial in case the phone number link to a student fails
-
-you'll notice human errors here like duplicated entries for gov and opp, usually solved in a google form with compulsory questions for speaker 1 and 2
 
 Excel's ease of use is incredibly low cause it has random keybord shortcuts, and dragging a cell normally will copy its content to other cells
 
@@ -2048,7 +2042,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTMwNzUxMzUzLC0xMjI3Mzg5NzcxLDkwMDI0MD
+c3RvcnkiOlstOTYyNzM3NDQ1LC0xMjI3Mzg5NzcxLDkwMDI0MD
 UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
 MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
 cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
