@@ -670,6 +670,7 @@ Absolutely never input directly into excel. It's very easy to mess up. When you 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
 https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
 You'll notice human errors here like duplicated entries for gov and opp, usually solved in a google form with compulsory questions for speaker 1 and 2.
+Multiple years, we had to fill a score for each speaker on the database. However this was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). I think it's better to just do away with it entirely.
 
 Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate, if you're quick enough and check the entered data every night. In the spreadsheet, you can see chair's names missing often. 
 
@@ -703,17 +704,16 @@ The basement seminar hall is difficult to find for first year students, especial
 
 One thing that we overlook is the fact that another campus exists xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation later. 
 
-This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed.
-Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and 
+This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad, he just liked debate.
+Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
 
-
+---
 
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
 
-A random anecdote:
-Also talk about that random dude from Ahmedabad lmaooo.
+
 
 
 
@@ -753,7 +753,7 @@ https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJ
 
 
 
-Multiple years, we had to fill a score for each speaker on the database. However this was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). I think it's better to just do away with it entirely.
+
 
 
 
@@ -2048,7 +2048,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTcwOTE2ODU1LC02MDQxMjM0ODQsLTk4OTk2Mz
+c3RvcnkiOlsyMTI3NDc2Nzc1LC02MDQxMjM0ODQsLTk4OTk2Mz
 IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
 OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
 k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUw
