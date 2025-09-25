@@ -611,7 +611,7 @@ This feedback form does contain some sensitive information, but since it's anony
 
 ## Recruitment Logistics
 
-Make sure everyone is on the same page with respect to recruitments, last year we had a few random people suddenly change the format last minute.
+Make sure everyone is on the same page with respect to recruitments, Last year we had a few random people suddenly change the format last minute, and it led to frustrations and a mismatch between the vision and implementation.
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -665,7 +665,8 @@ The password is debsocfuture
 
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
 
-(make a video of this too)
+If github is too complicated, you can download the files from the google drive folder here:
+https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=drive_link
 
 [Round 3 in 2023](https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135)
 round 3 in 2023
@@ -1976,11 +1977,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMT
-MsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0Nzkx
-NDk0NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3ND
-Q5OSw3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1
-MTMyNTE1LC0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mj
-c4LC02NzI0NTg2NDcsMjAxNDc3MjcxMCwyMTU0NjMwNDFdfQ==
+c3RvcnkiOlstMTI1NDgxNDA2Nyw3MDk1NDUwOTUsLTM2MzczMj
+c3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1Nzkz
+NTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNTMsMTUzOTA4Nz
+U1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEyMTc3MDc5LDE4
+MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2MzUyMz
+gyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3MjcxMF19
 
 -->
