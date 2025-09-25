@@ -643,7 +643,9 @@ Check to see how many people would come on the three days, and the timings they 
 A single response poll isn't reflective of people's real availability if they're available on multiple days, but a multiple response poll might look overwhelming even if it's basically a duplicate entry.
 So maybe you can first have a multiple response poll, and then a single response poll. This problem is too tricky to accurately tackle. Poll votes are inherently unreliable, but at least seeing expectations helps you strategize and be prepared.
 
+Even if it's a multiple response poll, it's too cumbersome to sit and compare days and calculate which people voted for both Tuesday and Wednesday, and can hence be moved from Wednesday to Tuesday. Hence the only way I can think of, is to send another poll and ask people to vote Wednesday only if they can't do Tuesday.
 
+If people miss a Tuesday or Wednesday slot, it 
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -2010,10 +2012,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDI0MTc1NTQsNzc3OTI1Nzk4LDczMzYzMzk0Ny
-w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUw
-ODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLT
-EzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5
-NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC
-0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4XX0=
+c3RvcnkiOlsxNTcxNDQxNTkxLDc3NzkyNTc5OCw3MzM2MzM5ND
+csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
+MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
+0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
+OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNS
+wtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5ODI3OF19
 -->
