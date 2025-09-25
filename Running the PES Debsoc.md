@@ -609,6 +609,8 @@ This feedback form does contain some sensitive information, but since it's anony
 
 ---
 
+
+
 ## Recruitment Logistics
 
 Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
@@ -691,9 +693,9 @@ scheduling, pains of us attending more sessions than recruits themselves
   
   
   ---
+
   last day of recruitments, meme day,
   you can also see how comfortable juniors have gotten with you, if they shit on you the way you've told them to.
-
 
 
 # Inside a session
@@ -1977,11 +1979,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkyMjQ5ODAxLDcwOTU0NTA5NSwtMzYzNzMyNz
-c1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1
-MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NT
-U0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgx
-OTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzOD
-IyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEwXX0=
+c3RvcnkiOls3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3Nz
+UsMjY1MDMxMjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUz
+MTAwLC0xNDc5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NT
+QsLTE5MTM2NzQ0OTksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5
+Mzc0ODU2LDM3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1MjM4Mj
+IsLTYwODU5ODI3OCwtNjcyNDU4NjQ3LDIwMTQ3NzI3MTBdfQ==
 
 -->
