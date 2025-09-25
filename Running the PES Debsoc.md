@@ -660,12 +660,13 @@ The Debsoc constantly misses out on people due to system errors or people forget
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
 https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
 This is how we did round 3 in 2023. 
-It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
-Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihoof you'll miss the person's name and instead input data into someone else's name entirely, it's very easy for people to put data in the wrong pages, annoying to create a page for everyday and maintain it because people might not click the new page and may just fill the page that opens up to them.
+It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into a page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
+Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record.
 
 I can't find the round 1 and round 2 database but I think they were worse.
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
+In the google form, having fields like, "
 
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
@@ -2041,10 +2042,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MTMxNTc3NjksLTEyMjczODk3NzEsOTAwMjQwNT
-MzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYz
-Mzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNz
-E4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0
-NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OS
-w3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTZdfQ==
+c3RvcnkiOlstMTEyODc4MDE1OCwtMTIyNzM4OTc3MSw5MDAyND
+A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
+NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
+w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
+OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
+k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
 -->
