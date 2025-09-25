@@ -663,10 +663,11 @@ This is how we did round 3 in 2023.
 It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into a page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
 Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record.
 
-I can't find the round 1 and round 2 database but I think they were worse.
+These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
+
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
-In the google form, having fields like, "
+In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row.
 
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
@@ -692,9 +693,6 @@ basement seminar hall hard to find and easy to confuse, also remember to specify
 
 
 
-Your organizing team will have flawed incapable actors (srijan don't call people flawed this way, call their actions flawed), who don't use excel properly, find a way to minimize their fuckups (like google forms with compulsory questions)
-
-
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
@@ -705,7 +703,7 @@ Also talk about that random dude from Ahmedabad lmaooo.
 
 From the stuff I forwarded to Anirudh:
 
-Don't know if you got this already but here are the recruitment tabs of 2023-2024 if you want a reference https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
+Don't know if you got this already but here are the recruitment tabs of 2023-2024 if you want a reference 
 
 Just take a look at this to see how often people forgot to note a particular detail. 
 
@@ -2042,10 +2040,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTEyODc4MDE1OCwtMTIyNzM4OTc3MSw5MDAyND
-A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
-NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
-w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
-OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
-k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
+c3RvcnkiOlstMTAzMjU0MTE0LC0xMjI3Mzg5NzcxLDkwMDI0MD
+UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
+MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
+cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
+NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
+ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
 -->
