@@ -733,6 +733,7 @@ And even I messed up the end of round 3 by adding the wrong people to Shenanigan
  
 The password is debsocfuture (not the gmail password of course).
 You can use this account just to check out the exact data, but honestly the Youtube video is enough.
+
 I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
 
 
@@ -740,6 +741,11 @@ https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d43646330
 
 If github is too complicated, you can download the files from the google drive folder here:
 https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=drive_link
+
+
+Doing this digitally saves time and effort at the end of recruitments, and minimizes compilation errors and errors throughout the process ho
+
+
 
 [Round 3 in 2023](https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135)
 round 3 in 2023
@@ -2048,7 +2054,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTI3NDc2Nzc1LC02MDQxMjM0ODQsLTk4OTk2Mz
+c3RvcnkiOlstNDM3MTkwODMwLC02MDQxMjM0ODQsLTk4OTk2Mz
 IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
 OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
 k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUw
