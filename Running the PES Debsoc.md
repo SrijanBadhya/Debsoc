@@ -685,7 +685,7 @@ If you have a name but not a phone number, but need the phone number for verific
 I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to recruitments round 1 without even being a part of the WhatsApp group, and it's hopeless to find these people if you've missed out on their contact information. The safety of having these candidate keys is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
-Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly i
+Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly improved trackability, because if people couldn't remember names, they could be identified by the code word. And you could also check if you had all 6 people involved in the debate. However, a lot of chairs forgot to give code words (including me). If you can ensure collection of p
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
@@ -2042,10 +2042,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTYyNzM3NDQ1LC0xMjI3Mzg5NzcxLDkwMDI0MD
-UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
-MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
-cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
-NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
-ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
+c3RvcnkiOls3Mzc3Nzg2ODAsLTEyMjczODk3NzEsOTAwMjQwNT
+MzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYz
+Mzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNz
+E4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0
+NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OS
+w3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTZdfQ==
 -->
