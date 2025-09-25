@@ -639,7 +639,8 @@ But of course, we aim to be able to handle the loads in the first place, and tha
 So, a bit broader slots are recommended.
 And the way to do this is by first calculating the expected turnout.
 
-C
+Check to see how many people would come on the three days, and the timings they are likely to come at, with a WhatsApp poll. If one particular day has a high demand and the other day has a low demand, (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
+A single choice poll isn't reflective of people's real availabilit
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -2006,10 +2007,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODg2OTgwOTQ0LDc3NzkyNTc5OCw3MzM2MzM5ND
-csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
-MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
-0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
-OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNS
-wtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5ODI3OF19
+c3RvcnkiOls2MjIyMTI1MDgsNzc3OTI1Nzk4LDczMzYzMzk0Ny
+w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUw
+ODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLT
+EzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5
+NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC
+0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4XX0=
 -->
