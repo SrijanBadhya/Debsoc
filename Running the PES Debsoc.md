@@ -669,6 +669,9 @@ Test out your form, because last year we couldn't submit multiple responses unti
 
 A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
+I believe 2 candidate keys should be used. Full name, phone number, and SRN/email addresss. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. More
+In round 3 just name and phone number can suffice because you're more in control of the world at that point.
+
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
 Even the current system was not perfect, we missed out on phone numbers during attendance, and some wrong people were added because sometimes we relied on only WhatsApp numbers names that they put, and messed up with the people who put names like ~ or * or _.
@@ -2034,10 +2037,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg4NjQ4NDc5NywtMTIyNzM4OTc3MSw5MDAyND
-A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
-NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
-w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
-OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
-k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
+c3RvcnkiOlstNTM4MTkwNDcwLC0xMjI3Mzg5NzcxLDkwMDI0MD
+UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
+MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
+cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
+NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
+ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
 -->
