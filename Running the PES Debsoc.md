@@ -645,7 +645,7 @@ So maybe you can first have a multiple response poll, and then a single response
 
 Even if it's a multiple response poll, it's too cumbersome to sit and compare days and calculate which people voted for both Tuesday and Wednesday, and can hence be moved from Wednesday to Tuesday. Hence the only way I can think of, is to send another poll and ask people to vote Wednesday only if they can't do Tuesday.
 
-If people miss a Tuesday or Wednesday slot, it 
+If people miss a Tuesday or Wednesday slot, it's somewhat easy to move them to Thursday since the rush subsides by the lat
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -2012,7 +2012,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTcxNDQxNTkxLDc3NzkyNTc5OCw3MzM2MzM5ND
+c3RvcnkiOlsxNzA3MzU2NjQ0LDc3NzkyNTc5OCw3MzM2MzM5ND
 csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
 MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
 0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
