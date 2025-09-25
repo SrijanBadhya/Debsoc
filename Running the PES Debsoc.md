@@ -504,13 +504,15 @@ Why was this new model better?
 
 (end of quoting from Nikhil)
 
-
+---
 
 Round 1 and 2 are usually quite rushed because you're processing large batches of people.
 
 Detailed comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day (during round 2). Personal feedback is more feasible in round 1 than round 2. 
 
 In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these rules takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
+
+![enter image description here](https://i.imgflip.com/a77jc5.jpg)
 
 We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
 
@@ -521,7 +523,7 @@ The massive issue here is that people who slip by due to administrative errors, 
 
 When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways, and they definitely are not worth the hassle in round 1 and round 2.
 
-![enter image description here](https://i.imgflip.com/a77jc5.jpg)
+
 
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
@@ -2051,10 +2053,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzU2Mzk3NjIsMTU5MzExMTkyNSw5MTI2NDI2Nz
-AsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4
-MjE4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyNDA1MzMsNDkzMDg0OD
-IyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMzNjMzOTQ3LDcwOTU0
-NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNT
-g0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2M119
+c3RvcnkiOlstMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0Mj
+Y3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcs
+ODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwOD
+Q4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5NDcsNzA5
+NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1MDg0LD
+E1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzXX0=
 -->
