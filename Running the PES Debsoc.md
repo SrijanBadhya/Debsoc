@@ -654,14 +654,16 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 ### The Database
 
 People are way less reliable than you think. EVERYONE. Even you. When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
-The Debsoc constantly misses out on people due to system errors or people forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked why. We sobbed internally and asked them to apply again this year. Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and I rectified that. Nahush was missed out due to a system error and only because Nahush texted Bharath in sem 2 was Nahush able to come to informal recruitments. This is unfortunately way more common than you may think. Errors scale with size. 
+The Debsoc constantly misses out on people due to system errors or people forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked why. We sobbed internally and asked them to apply again this year. Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and I rectified that. Nahush was missed out due to a system error and only because Nahush texted Bharath in sem 2 was Nahush able to come to informal recruitments. This is unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
 
 
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
 https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
 This is how we did round 3 in 2023. 
-It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. If you go through the link, you'll see a bunch of missing names 
+It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged.
+I can't find the round 1 and round 2 database but I think they were worse.
 
+Regardless of how careful you are, data entry errors 
 
 Talk about how system, data filling errors are so common, regardless of how careful you think you are
 
@@ -2030,10 +2032,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAyNDg5ODY1MSw5MDAyNDA1MzMsNDkzMDg0OD
-IyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMzNjMzOTQ3LDcwOTU0
-NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNT
-g0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAw
-MTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LD
-IwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTVdfQ==
+c3RvcnkiOls3OTYwNjc2NDUsOTAwMjQwNTMzLDQ5MzA4NDgyMi
+w3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUw
+OTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4ND
+M3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEw
+NTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMD
+EyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1XX0=
 -->
