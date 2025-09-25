@@ -611,7 +611,7 @@ This feedback form does contain some sensitive information, but since it's anony
 
 ## Recruitment Logistics
 
-Make sure everyone is on the same page with respect to recruitments, Last year we had a few random people suddenly change the format last minute, and it led to frustrations and a mismatch between the vision and implementation.
+Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -1977,11 +1977,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI1NDgxNDA2Nyw3MDk1NDUwOTUsLTM2MzczMj
-c3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1Nzkz
-NTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNTMsMTUzOTA4Nz
-U1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEyMTc3MDc5LDE4
-MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2MzUyMz
-gyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3MjcxMF19
+c3RvcnkiOlstMTkyMjQ5ODAxLDcwOTU0NTA5NSwtMzYzNzMyNz
+c1LDI2NTAzMTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1
+MzEwMCwtMTQ3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NT
+U0LC0xOTEzNjc0NDk5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgx
+OTM3NDg1NiwzNzUxMzI1MTUsLTEzNjU5NDQ4MjQsMTYzNTIzOD
+IyLC02MDg1OTgyNzgsLTY3MjQ1ODY0NywyMDE0NzcyNzEwXX0=
 
 -->
