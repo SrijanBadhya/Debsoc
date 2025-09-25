@@ -670,7 +670,9 @@ Sometimes when you notice something missing, you can track the missing data by a
 
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
-In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row.
+In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row. Chair names and phone numbers are much less likely to be missing now. 
+
+There are 2 ways to implement this. One is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. The drawback of the first one is that y
 
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
@@ -2045,7 +2047,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDQ2Nzk0Mzc5LC0xMjI3Mzg5NzcxLDkwMDI0MD
+c3RvcnkiOlsxODIyNzk4MDY0LC0xMjI3Mzg5NzcxLDkwMDI0MD
 UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
 MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
 cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
