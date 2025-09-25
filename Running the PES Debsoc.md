@@ -691,8 +691,7 @@ In round 3, just the name and phone number can suffice because you're more in co
 Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly improved trackability, because if people couldn't remember names, they could be identified by the code word. And you could also check if you had all 6 people involved in the debate. However, a lot of chairs forgot to give code words (including me). If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
 
 
-
-And even I messed up by adding the wrong people multiple times. System errors are real.
+And even I messed up the end of round by adding the wrong people multiple times. System errors are real.
 
 The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
 Moderators needed to be given 4 reminders everyday, and every time I gave a reminder I could see people filling the form with fresh names they had written in their books.
@@ -2043,10 +2042,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMjQwNT
-MzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYz
-Mzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNz
-E4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0
-NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OS
-w3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTZdfQ==
+c3RvcnkiOlstMTU4MzQwNTAwOSw4ODIxODI5NDYsLTEyMjczOD
+k3NzEsOTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3
+OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NS
+wyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMx
+MDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NC
+wtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEyMTc3MDc5XX0=
 -->
