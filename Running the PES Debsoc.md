@@ -743,7 +743,7 @@ If github is too complicated, you can download the files from the google drive f
 https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=drive_link
 
 
-Doing this digitally saves time and effort at the end of recruitments, and minimizes compilation errors and errors throughout the process honestly. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask everyone for a session report right 
+Doing this digitally saves time and effort at the end of recruitments, and minimizes compilation errors and errors throughout the process honestly. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session). 
 
 
 
@@ -755,11 +755,6 @@ Fake names added at the bottom.
 
 
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
-
-
-
-
-
 
 
 
@@ -2054,11 +2049,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ4ODQwMjA1NCwtNjA0MTIzNDg0LC05ODk5Nj
-MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
-LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
-c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1
-MDMxMjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC
-0xNDc5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTRdfQ==
-
+c3RvcnkiOls5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMj
+AxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5
+MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OT
+gsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAz
+MTIxMyw3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMT
+Q3OTE0OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0XX0=
 -->
