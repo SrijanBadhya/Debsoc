@@ -521,7 +521,9 @@ The massive issue here is that people who slip by due to administrative errors, 
 
 When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways, and they definitely are not worth the hassle in round 1 and round 2.
 
-### Round 3 
+![enter image description here](https://i.imgflip.com/a734qr.jpg)
+
+### Round 3
 
 [Back to the Table of Contents](#table-of-contents)
 
@@ -1973,11 +1975,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3NjQwNS
-w1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNTMsMTUz
-OTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEyMTc3MD
-c5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC0xMzY1OTQ0ODI0LDE2
-MzUyMzgyMiwtNjA4NTk4Mjc4LC02NzI0NTg2NDcsMjAxNDc3Mj
-cxMCwyMTU0NjMwNDEsMTQyMDIzNTU1LC0xMTc5MjU0MzZdfQ==
+c3RvcnkiOlstMzYzNzMyNzc1LDI2NTAzMTIxMyw3MTg0NTA4NC
+wxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0OTQ2MywtMTM4
+MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0NDk5LDcxNjk2NT
+M3LDIwMTIxNzcwNzksMTgxOTM3NDg1NiwzNzUxMzI1MTUsLTEz
+NjU5NDQ4MjQsMTYzNTIzODIyLC02MDg1OTgyNzgsLTY3MjQ1OD
+Y0NywyMDE0NzcyNzEwLDIxNTQ2MzA0MSwxNDIwMjM1NTVdfQ==
 
 -->
