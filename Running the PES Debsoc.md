@@ -625,8 +625,15 @@ But using a 'choose your slot' system is too complicated.
 If slots are tight and not adaptive to changes in the debates, people who expected to start their slot earlier will wait unnecessarily (If you've had a Capstone review you know what I'm talking about).
 Recruitments are very chaotic due to factors like:
 - Moderators coming at different times.
-- Recruits coming at different times. (
-- 
+- Recruits coming at different times. (90% of your recruits won't come sharply at their slot time.)
+- Debates going on for varying lengths.
+- Sorting a lot of people's confusion like guiding them to the basement, clarifying doubts, dividing people into batches, etc.
+- Sometimes you have too many people for a debate, and sometimes you have too less people. Having fixed people for fixed slots won't work because a lot of people don't show up.
+
+
+Being dynamic is the way to go.
+
+But of course, 
 
 Talk about how we thought about handling the load by having slots. But this is way too complicated and didn't work out (explain why), so the best way is actually to make careful polls, and if one day has a super high load, encourage people from that day to come on a low load day. 
 
@@ -1993,10 +2000,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODg3OTEyMjI2LDc3NzkyNTc5OCw3MzM2MzM5ND
-csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1
-MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC
-0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2
-OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNS
-wtMTM2NTk0NDgyNCwxNjM1MjM4MjIsLTYwODU5ODI3OF19
+c3RvcnkiOls0MjM3MTMwNzYsNzc3OTI1Nzk4LDczMzYzMzk0Ny
+w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUw
+ODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLT
+EzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5
+NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC
+0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4XX0=
 -->
