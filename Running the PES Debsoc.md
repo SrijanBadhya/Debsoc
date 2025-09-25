@@ -655,7 +655,10 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
 https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
-This is how we did rou
+This is how we did round 3 in 2023. 
+It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. 
+
+
 Talk about how system, data filling errors are so common, regardless of how careful you think you are
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
@@ -2023,10 +2026,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MjQzMTY4MzcsOTAwMjQwNTMzLDQ5MzA4NDgyMi
-w3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Nyw3MDk1NDUw
-OTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4ND
-M3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEw
-NTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMD
-EyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1XX0=
+c3RvcnkiOlsyMDI4MzAzNTY3LDkwMDI0MDUzMyw0OTMwODQ4Mj
+IsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5NDcsNzA5NTQ1
+MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1MDg0LDE1OD
+QzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzLC0xMzgwMDAx
+MDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OTksNzE2OTY1MzcsMj
+AxMjE3NzA3OSwxODE5Mzc0ODU2LDM3NTEzMjUxNV19
 -->
