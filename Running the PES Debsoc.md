@@ -700,8 +700,9 @@ https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJ
   [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
   spamsrboy@gmail.com
  scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
-The password is debsocfuture
-
+The password is debsocfuture (not the gmail password of course)
+You can use this account just to check out the exact data, but honestly the Youtube video is enough.
+I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
 
 
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
@@ -2015,10 +2016,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Ny
-w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUw
-ODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLT
-EzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5
-NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTYsMzc1MTMyNTE1LC
-0xMzY1OTQ0ODI0LDE2MzUyMzgyMiwtNjA4NTk4Mjc4XX0=
+c3RvcnkiOls3ODQwNzY2MDcsNzgwNzYwNDY1LDc3NzkyNTc5OC
+w3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMx
+MjEzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xND
+c5MTQ5NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2
+NzQ0OTksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2LD
+M3NTEzMjUxNSwtMTM2NTk0NDgyNCwxNjM1MjM4MjJdfQ==
 -->
