@@ -679,12 +679,12 @@ Test out your form, because last year we couldn't submit multiple responses unti
 
 A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
-If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. Very often people show up to recruitments without even bei
+If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. 
 
-I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. The safety of having these candidate keys is worth the effort.
+I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to recruitments round 1 without even being a part of the WhatsApp group, and it's hopeless to find these people if you've missed out on their contact information. The safety of having these candidate keys is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
-Last year we had a system 
+Last year we had a system of 
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
@@ -693,7 +693,7 @@ code word stuff in round 2, people talk about their teammates, they don't rememb
 And even I messed up by adding the wrong people multiple times. System errors are real.
 
 The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
-Moderators needed to be given 4 reminders everyday, and everytime I gave a reminder I could see people filling the form.
+Moderators needed to be given 4 reminders everyday, and every time I gave a reminder I could see people filling the form with fresh names they had written in their books.
 
 
 Nikhil and his book missing thing.
@@ -2048,10 +2048,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIxMzc4MjA2NywtMTIyNzM4OTc3MSw5MDAyND
-A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
-NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
-w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
-OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
-k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
+c3RvcnkiOlsxMTMwNzUxMzUzLC0xMjI3Mzg5NzcxLDkwMDI0MD
+UzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2
+MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLD
+cxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5
+NDYzLC0xMzgwMDAxMDUzLDE1MzkwODc1NTQsLTE5MTM2NzQ0OT
+ksNzE2OTY1MzcsMjAxMjE3NzA3OSwxODE5Mzc0ODU2XX0=
 -->
