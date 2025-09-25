@@ -612,7 +612,8 @@ This feedback form does contain some sensitive information, but since it's anony
 
 
 ## Recruitment Logistics
-This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence in our 
+
+This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence of our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year), since usually one mistake equates to one recruit missed entirely.
 
 Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
 
@@ -1982,7 +1983,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTQwMTM0Nzk0LDczMzYzMzk0Nyw3MDk1NDUwOT
+c3RvcnkiOlsyMDgwMjE5MjQ4LDczMzYzMzk0Nyw3MDk1NDUwOT
 UsLTM2MzczMjc3NSwyNjUwMzEyMTMsNzE4NDUwODQsMTU4NDM3
 NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0NjMsLTEzODAwMDEwNT
 MsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OSw3MTY5NjUzNywyMDEy
