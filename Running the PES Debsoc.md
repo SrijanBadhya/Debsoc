@@ -653,7 +653,8 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 
 ### The Database
 
-People are way less reliable than you think. EVERYONE. Even you. When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
+People are way less reliable than you think. EVERYONE. Even me. Even you. 
+When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
 The Debsoc constantly misses out on people due to system errors or people forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked why. We sobbed internally and asked them to apply again this year. Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and I rectified that. Nahush was missed out due to a system error and only because Nahush texted Bharath in sem 2 was Nahush able to come to informal recruitments. This is unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
 
 
@@ -678,12 +679,12 @@ Test out your form, because last year we couldn't submit multiple responses unti
 
 A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
-If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are.
+If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. Very often people show up to recruitments without even bei
 
-I believe 2 candidate keys should be used. Full name, phone number, and SRN/email addresss. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. The safety of having these candidate keys is worth the effort.
+I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. The safety of having these candidate keys is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
-
+Last year we had a system 
 
 code word stuff in round 2, people talk about their teammates, they don't remember names, etc.
 
@@ -2047,10 +2048,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MDM3MDY4ODcsLTEyMjczODk3NzEsOTAwMjQwNT
-MzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYz
-Mzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTMsNz
-E4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDAsLTE0NzkxNDk0
-NjMsLTEzODAwMDEwNTMsMTUzOTA4NzU1NCwtMTkxMzY3NDQ5OS
-w3MTY5NjUzNywyMDEyMTc3MDc5LDE4MTkzNzQ4NTZdfQ==
+c3RvcnkiOlstMTIxMzc4MjA2NywtMTIyNzM4OTc3MSw5MDAyND
+A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
+NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
+w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMCwtMTQ3OTE0
+OTQ2MywtMTM4MDAwMTA1MywxNTM5MDg3NTU0LC0xOTEzNjc0ND
+k5LDcxNjk2NTM3LDIwMTIxNzcwNzksMTgxOTM3NDg1Nl19
 -->
