@@ -1835,6 +1835,8 @@ https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/
 General PES Club Guide made by Write Angle senior in around 2019 and endorsed by VK sir:
 https://docs.google.com/document/d/1rZx2baiXZoMm4C36os6F0WCIkOovktgn92gU4cdoNfI/edit?usp=sharing
 
+Debso
+
 BPs with recorded OAs (Good practice for Adjudicators)
 https://youtube.com/playlist?list=PLdk7ZVs2HpVzn751xdVPbWB4axVxPlMUY&si=3kpq7UVUUhVVZnu0
 
@@ -2072,11 +2074,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1Mz
-I5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2Niwt
-Njc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMz
-M4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1
-LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MT
-Y1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUz
-M119
+c3RvcnkiOlstMjIxMDE3Njc0LDEzOTYzMzc2NTksLTEwMTEzOD
+kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
+NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
+c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
+LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OT
+k2MzIwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3
+NzFdfQ==
 -->
