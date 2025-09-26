@@ -718,7 +718,9 @@ Although this can't be avoided, and it _is_ important to make the link as access
 Parallel processing using multiple moderators greatly increases efficiency, but it often isn't enough for round 1 and round 2. 
 The extra technique which was very beneficial in 2024 was pipelining.
 
-When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we had ongoing debates, I gave a set of 6 people their motion, and started their case prep, to minimize their idle time. Around the time they were done, one moderator would get freed up and 
+When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we had ongoing debates, I would give a set of 6 people their motion, and started their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit.
+
+Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep.
 
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
@@ -2060,7 +2062,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MjQ5ODE2NDksNzgyNjc3Nzk0LDQ0MDIzMzg3My
+c3RvcnkiOlszNjgzNDQzODYsNzgyNjc3Nzk0LDQ0MDIzMzg3My
 wxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEy
 NjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4Mj
 IyNyw4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMjQwNTMzLDQ5
