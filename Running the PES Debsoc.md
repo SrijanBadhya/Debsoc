@@ -662,9 +662,9 @@ Recruitments are very chaotic due to factors like:
 
 Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people.
 
-What's better 
-So, a bit broader slots are recommended.
+To be able to handle people in the first place, planning is required.
 And the way to do this is by first calculating the expected turnout.
+Broader slots like, 'come anytime between 2pm and 4pm' are recommended over specific slots. This sy
 
 Check to see how many people would come on the three days, and the timings they are likely to come at, with a WhatsApp poll. If one particular day has a high demand and the other day has a low demand, (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
 A single response poll isn't reflective of people's real availability if they're available on multiple days, but a multiple response poll might look overwhelming even if it's basically a duplicate entry.
@@ -2116,7 +2116,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjYwNzQ0MDkzLDE2ODg3ODY2LC00NzY0OTI4MT
+c3RvcnkiOlsxMDk5OTk4ODc2LDE2ODg3ODY2LC00NzY0OTI4MT
 IsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2
 NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOT
 QzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEy
