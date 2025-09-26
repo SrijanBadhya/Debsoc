@@ -1832,7 +1832,8 @@ https://drive.google.com/file/d/1qAni64_JD4Uu6N00kryFs0j_W7q1Heeb/view
 List of debate motions with links to recordings from a few Majors Tournaments (we've used this to practice case prep with a teammate):
 https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0
 
-General PES Club Guide made by Write Angle se
+General PES Club Guide made by Write Angle senior in around 2019 and endorsed by VK sir:
+https://docs.google.com/document/d/1rZx2baiXZoMm4C36os6F0WCIkOovktgn92gU4cdoNfI/edit?usp=sharing
 
 BPs with recorded OAs (Good practice for Adjudicators)
 https://youtube.com/playlist?list=PLdk7ZVs2HpVzn751xdVPbWB4axVxPlMUY&si=3kpq7UVUUhVVZnu0
@@ -2071,11 +2072,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg1NjczNjUxNywtMTAxMTM4OTEyMCwtODc1NT
-MyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYs
-LTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMj
-MzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzExMTky
-NSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNz
-E2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyNDA1
-MzNdfQ==
+c3RvcnkiOlsxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1Mz
+I5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2Niwt
+Njc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMz
+M4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1
+LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MT
+Y1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUz
+M119
 -->
