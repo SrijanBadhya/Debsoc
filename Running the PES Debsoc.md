@@ -245,9 +245,9 @@ Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while 
 
 The first round remained the same. 
 _The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
-In 2024, we got rid of the group discussion round and replaced it with an AP round. I think the 2024 model is the best model we've had so far, and I'll later talk about why. 
+In 2024, we got rid of the group discussion round and replaced it with an AP round. I think the 2024 model is the best model we've had so far, and later I'll talk about why. 
 
-The third round was a month long, with sessions everyday, and people who attended the most sessions would be recruited.
+The third round was a month long, with sessions every day, and people who attended the most sessions were recruited.
 
 ---
  **The month-long recruitment was extremely useful** for a few reasons:
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjgyMzMyNDM2LC0xNjU2NDU5NzM1LC00NjU4NT
-QyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQz
-LDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1Nj
-E5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQy
-MDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNj
-c1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQy
-NjcwXX0=
+c3RvcnkiOlstMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1OD
+U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
+MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
+YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
+MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMT
+Y3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0
+MjY3MF19
 -->
