@@ -261,8 +261,8 @@ The third round was a month long, with sessions every day, and people who attend
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for just one debate, and later complained to me that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' instead could also be risky since it's a turn-off by reminding people of college.**
 
 (Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
-- People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3. (makes it easier to search for names and input data)
-- + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases.)
+- People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3. 
+- + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases too.)
 
 ---
 A few issues with the month long recruitment:
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4OTI2NTcxNjcsLTE4MjIwNTMzNDcsLTE2NTY0NT
-k3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1
-LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtOD
-c1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTky
-NjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsND
-QwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzEx
-MTkyNV19
+c3RvcnkiOlstMTcxMjgxNDk5MCwtMTgyMjA1MzM0NywtMTY1Nj
+Q1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMy
+NTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC
+04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1
+OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NC
+w0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkz
+MTExOTI1XX0=
 -->
