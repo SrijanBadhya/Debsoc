@@ -754,14 +754,8 @@ https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=dri
 Doing this digitally saves time and effort at the end of recruitments, and  honestly minimizes compilation errors and errors throughout the process. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session). 
 
 
-
-
-
-
-
-
-https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
-Fake names added at the bottom.
+I've sent this before in [Round 3](#round-3), and have talked about it in my Youtube video, but just to reiterate, this spreadsheet we used to track round 3 had 
+https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 
   
   
   ---
@@ -2052,11 +2046,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5Mj
-Y2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0
-MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMT
-E5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2MzIwMSwt
-MTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMj
-QwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4XX0=
+c3RvcnkiOlstODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMj
+UxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3
+ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNT
+IxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwt
+OTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNz
+M4OTc3MSw5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NV19
 
 -->
