@@ -759,6 +759,11 @@ Doing this digitally saves time and effort at the end of recruitments, and  hone
 
 My favorite tradition to continue on the last day of every recruitment season, has been meme day.
 
+Announcing that it was meme day led to a surge in attendance for this debate in 2024. 
+
+The speciality of meme day is that the motion is funny, you get unlimited speech time, no OA, and you are encouraged to be as funny as you can.
+
+
 
   you can also see how comfortable juniors have gotten with you, if they shit on you the way you've told them to.
 
@@ -2045,11 +2050,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NTY0NTExMzQsLTg3NTUzMjkyOCw1NjE5MzQyMD
-MsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4
-OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MT
-Y1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02
-MDQxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4MjIyNyw4ODIxOD
-I5NDYsLTEyMjczODk3NzEsOTAwMjQwNTMzLDQ5MzA4NDgyMl19
-
+c3RvcnkiOlstNzgwNzM3MDM0LC04NzU1MzI5MjgsNTYxOTM0Mj
+AzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0x
+ODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3Nj
+E2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwt
+NjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMT
+gyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjJd
+fQ==
 -->
