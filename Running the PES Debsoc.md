@@ -411,7 +411,6 @@ So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself.
-- Unfortu
 
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
@@ -1096,6 +1095,7 @@ Even if there already is someone, **more seniors are always needed.**
 
 
 Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions on the different days.
+It is a pain that having more juniors and less seniors means a
 
 When more than one room full of juniors pull up (6-8 people), there are a few ways to adjust.
 You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
@@ -2055,7 +2055,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwNjQ0MjE1OSwtMTg5OTIzOTkzMSw3ODI2Nz
+c3RvcnkiOlstMTAwNTg5NzE2MiwtMTg5OTIzOTkzMSw3ODI2Nz
 c3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcs
 MTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OT
 YzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3
