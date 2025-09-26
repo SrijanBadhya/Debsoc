@@ -232,7 +232,6 @@ Here we naturally arrive at the big question of inclusivity.
 
 How do you handle the trade-off between being inclusive/selective?
 
-
 Pros of being selective:
 - A few PES clubs (like ECell), try to be extremely selective with their members. This generates initial hype over being a 'member of ECell'.
 - People believe that less members means less dilution and you can focus more.
@@ -264,6 +263,7 @@ The third round was a month long, with sessions everyday, and people who attende
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3.
 - + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases.)
 
+---
 A few issues with the month long recruitment:
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks left in the semester in November, and hence round 3 got pushed to 2025.
 - First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (first years be like).
@@ -291,7 +291,7 @@ When you see 240ish people on the recruitments group, you might be intimidated b
 However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them will definitely drop out.
 And even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
 
-
+---
 ### Depth wise inclusivity
 
 [Back to the Table of Contents](#table-of-contents)
@@ -314,7 +314,7 @@ Taking a few points out of Nikhil's recruitment document:
 - + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
 - + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
 
-
+---
 ### ==Breadth wise inclusivity==
 
 [Back to the Table of Contents](#table-of-contents)
@@ -340,7 +340,7 @@ We usually conduct round 1 across 3 days, so that people can come on any day acc
 - + If you do send out a message asking for all the absentees to dm you, then you can use this as indication of interest. 
 It's extreme and unnecessary to initiate the text conversation yourself in the dms of everyone on the group you see. 
 
-
+---
 #### ==Addressing the criticism==
 1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
 2. _One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
@@ -382,6 +382,7 @@ It's unfair to judge people's initial interest in an activity if some of them di
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
+---
 Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
 - You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
 - Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
@@ -406,6 +407,7 @@ And nobody ever thinks this thought:
 
 I don't buy in to the logic of, "less people means less dilution which means more concentration of the activity", because people showing up, regardless of how passionate they are, made me feel warm about getting to have a full AP. 
 
+---
 Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
 - There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it, and that's why you're doing it for them. Different people might subscribe to different of these 2 beliefs, and so multiple options might even increase the value in their eyes. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits increases their like for the club, as shown in the picture earlier).
 - The initial poll of availability allows people to vote multiple options. Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment at all.
@@ -414,7 +416,7 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 - If there's a tradeoff to be made then sure, you can limit the options. If there's an actual harm of efficiency(delays), or preventing some other event, or consuming your time. There's just no trade-off of "interest in people/turnout", because there's more likelihood of losing interested people to this than gaining people on the fence.
 
 
-
+---
 So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
@@ -431,7 +433,7 @@ So, how do you carry out breadth-wise inclusivity?
 - You can choose the stance on transparency that fits you the best.
 - Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because round 1 isn't over is dumb, the bulk of round 1s should be finished in a maximum of 3 days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
 
-
+---
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. 
 
 ![](https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg)
@@ -2104,7 +2106,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDU2MDkwMTg5LC00NjU4NTQyMjcsLTE0OTYxMz
+c3RvcnkiOlstMjE2ODQyODEzLC00NjU4NTQyMjcsLTE0OTYxMz
 I0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTks
 LTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2ND
 A4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5
