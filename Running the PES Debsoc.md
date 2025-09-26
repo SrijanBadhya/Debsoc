@@ -264,7 +264,9 @@ A few issues with the month long recruitment:
 - People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to increase people's confidence that you will take them in).
 
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
+
 ![image](https://i.ibb.co/6cGjwG4T/Screenshot-2025-09-06-182805.png)
+
 ![image](https://i.ibb.co/s95RnF86/Screenshot-2025-09-06-183012.png)
 These two bar graphs are from people who dropped out early in round 3 and still filled the feedback form (whose responses can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).)
 
@@ -2080,11 +2082,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk5ODc2NDc5NSwxMzk2MzM3NjU5LC0xMDExMz
-g5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTEx
-LDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4Mj
-Y3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4
-NywxNTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05OD
-k5NjMyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5
-NzcxXX0=
+c3RvcnkiOlsxOTQwMjExMzA1LDEzOTYzMzc2NTksLTEwMTEzOD
+kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
+NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
+c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
+LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OT
+k2MzIwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3
+NzFdfQ==
 -->
