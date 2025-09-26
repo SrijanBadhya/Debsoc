@@ -1844,11 +1844,11 @@ _I also credit Google Gemini for informing me when my sentences didn't have the 
 
 [Back to the Table of Contents](#table-of-contents)
 
-Put the debsoc drive also here somewhere
-
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
 
+A cute folder worked on by Debsoc seniors from 2020 and before:
+https://drive.google.com/drive/folders/1H-Dco_i6JGxFpjFWRuA-diQ7pcMEMcgm
 
 Cool website recommended by Sayiram which has material and exercises to learn debate from during low turnout days:
 https://buildacase.ca/
@@ -2109,11 +2109,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1Mz
-M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
-LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
-ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
-NTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLD
-c4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1
-MjE4N119
+c3RvcnkiOlsxMTExMDMzNjQ5LDEwMTE2MDQ5MDQsMjk3OTA2Mz
+A0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcs
+LTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOT
+YzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQy
+MDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLT
+E4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2
+MTY1XX0=
 -->
