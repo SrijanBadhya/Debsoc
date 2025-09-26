@@ -62,7 +62,7 @@ II. [Recruitments](#recruitments)
 	     &emsp; &emsp;&emsp;i) [Round 1](#round-1)
 	     &emsp; &emsp;&emsp;ii) [Round 2](#round-2)
 	     &emsp; &emsp;&emsp;ii) [Round 3](#round-3)
-     &emsp;&emsp;e) Something later
+     &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recrui
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
 
 III. [Inside a session](#inside-a-session)
@@ -2085,11 +2085,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3OD
-I0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4
-LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3ND
-MzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODcz
-LDE2NzU0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MT
-I2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgy
-MjI3XX0=
+c3RvcnkiOlstMzg1OTUwOTQ1LC0xNDk2MTMyNDY1LDE1MjM5ND
+MyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIw
+LC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNz
+U1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5
+NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNT
+kzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMy
+MDFdfQ==
 -->
