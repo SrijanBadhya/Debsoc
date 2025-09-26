@@ -704,6 +704,8 @@ Moderators needed to be given 4 reminders everyday, and each time I gave a remin
 
 One time a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over it until he found his notebook in another classmate's bag. 
 
+I also messed up the end of round 3 by adding the wrong people to Shenanigans and then kicking them out multiple times. System errors are real. Even if the database administrator has the co
+
 ---
 
 The basement seminar hall is difficult to find for first year students, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
@@ -712,6 +714,7 @@ One thing that we overlook is the fact that other campuses named EC and HN exist
 
 This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad, he just liked debate.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
+
 
 ---
 
@@ -730,7 +733,7 @@ Starting case prep early like this is useful even when you expect a moderator to
 
 
 
-And even I messed up the end of round 3 by adding the wrong people to Shenanigans multiple times. System errors are real.
+
 
 
 
@@ -2062,7 +2065,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODcxMDY4MzY1LC0xODk5MjM5OTMxLDc4MjY3Nz
+c3RvcnkiOlstOTQyMzI5Njc2LC0xODk5MjM5OTMxLDc4MjY3Nz
 c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
 NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
 MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
