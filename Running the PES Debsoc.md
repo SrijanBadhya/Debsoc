@@ -718,13 +718,13 @@ Although this can't be avoided, and it _is_ important to make the link as access
 Parallel processing using multiple moderators greatly increases efficiency, but it often isn't enough for round 1 and round 2. 
 The extra technique which was very beneficial in 2024 was pipelining.
 
-When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we had ongoing debates, I would give a set of 6 people their motion, and started their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit.
+When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we all had ongoing debates, I would give a set of 6 people their motion and start their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit.
 
-Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep.
+Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
- srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
-talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
+
+
 
 
 
@@ -736,7 +736,7 @@ And even I messed up the end of round 3 by adding the wrong people to Shenanigan
 
 
 
-
+talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
 
 
   [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
@@ -2062,10 +2062,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNjgzNDQzODYsNzgyNjc3Nzk0LDQ0MDIzMzg3My
-wxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEy
-NjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4Mj
-IyNyw4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMjQwNTMzLDQ5
-MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Ny
-w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTNdfQ==
+c3RvcnkiOlstMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzOD
+czLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5
+MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NT
+gyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyNDA1MzMs
+NDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMzNjMzOT
+Q3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxM119
 -->
