@@ -322,14 +322,15 @@ Taking a few points out of Nikhil's recruitment document:
 
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
-By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to get their round 1 and round 2 finished. Adding extra days for the people who need them.  Making Round 3 open enough for even people with packed lives to be able to reach the minimum bar. 
+By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to finish their round 1 and round 2. Adding extra days for the people who need them.  Making Round 3 open enough for even people with packed lives to be able to reach the minimum bar. 
 
-Absolutely do not aim to recruit a percentage of applicants, like deciding, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions), and keep that as the threshold.
+Absolutely do not set a percentage of applicants as the bar, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions), and keep that as the threshold.
 
 
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility. Round 2 also usually is similarly over 3 other days. 
 
-**How are there always people who miss out?** What are the reasons that often happen?
+**How are there always people who miss out?** 
+
 - When you scale it up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30ish people unable to make it on one out of these 3 particular days. Even if something is just 9% likely, when you take a sample of 100 people, you get 9 people this event likely happens to.
 - This could be due to being sick, having some extracurricular class some day, having a high priority assignment one day, anything. Even if these same unlikely, likelihood scales up with people. 
 
@@ -2107,7 +2108,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjU0Nzk0Njc0LDI5NzkwNjMwNCwtMTgyMjA1Mz
+c3RvcnkiOlstOTA2Njc3ODI1LDI5NzkwNjMwNCwtMTgyMjA1Mz
 M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
 LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
 ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
