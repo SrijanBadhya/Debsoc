@@ -331,7 +331,7 @@ We usually conduct round 1 across 3 days so that people can come on any day acco
 
 **How are there always people who miss out?** 
 
-- When you scale probabilities up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30 people unable to make it on one out of these 3 particular days. Even if an incident is just 9% likely, when you take a sample of 100 people, you get 9 people this incident will likely affect.
+- When you scale probabilities up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30 people unable to make it any of these 3 particular days. Even if an incident is just 9% likely, when you take a sample of 100 people, you get 9 people this incident will likely affect.
 - This could be due to being sick, having some extracurricular class some day, having a high priority assignment one day, anything. Even if these same unlikely, likelihood scales up with people. 
 
 ![enter image description here](https://i.imgflip.com/a72pv2.jpg)
@@ -2108,11 +2108,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY5NjE3ODM3OSwyOTc5MDYzMDQsLTE4MjIwNT
-MzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2
-NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMT
-AxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgw
-MjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMS
-w3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAw
-NTIxODddfQ==
+c3RvcnkiOlsxOTAxODg0OTU0LDI5NzkwNjMwNCwtMTgyMjA1Mz
+M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
+LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
+ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
+NTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLD
+c4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1
+MjE4N119
 -->
