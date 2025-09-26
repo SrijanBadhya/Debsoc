@@ -626,6 +626,7 @@ This feedback form does contain some sensitive information, but since it's anony
 
 [Back to the Table of Contents](#table-of-contents)
 
+
 This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence of our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year), since usually one mistake equates to one recruit missed entirely.
 
 Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
@@ -735,6 +736,7 @@ When all the moderators have their hands full, at least one person still needs t
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
 ---
+The main principle behind DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system 
 
 Except for having to remember to save, I think this website discovered in late 2024 is ABSOLUTE GOLD, and made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
 
@@ -2082,11 +2084,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzOD
-kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
-NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
-c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
-LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OT
-k2MzIwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3
-NzFdfQ==
+c3RvcnkiOlstMTM5MzEwNzA0NywtNTQ4NzgyNDQzLDEzOTYzMz
+c2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMs
+LTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OT
+kyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1
+LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MD
+QxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4MjIyNyw4ODIxODI5
+NDZdfQ==
 -->
