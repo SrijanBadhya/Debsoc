@@ -284,11 +284,11 @@ A month-long recruitment might bore some people. I don't fully trust the followi
 
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
-This level of selectivity captured the most benefits, and I believe that aiming to be even more selective gives diminishing marginal benefits and leads to more harms.
+This level of selectivity captured the most benefits, and I believe that being even more selective gives diminishing marginal benefits and leads to more harms.
 
 Which takes us to, **why I believe we should continue to push hard for inclusivity**:
 
-When you see 240ish people on the recruitments group, you might be intimidated by how to run such a massive club. Early on in recruitments, we had thought, "How are we going to run the club if all of them join?!"
+When you see 240ish people on the recruitments group, you might be intimidated by how to run such a massive club. Early on d recruitments, we had thought, "How are we going to run the club if all of them join?!"
 However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them will definitely drop out.
 And even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
 
@@ -2107,7 +2107,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODExODM5Njk3LC0xODIyMDUzMzQ3LC0xNjU2ND
+c3RvcnkiOlsxMjkzODI0MDY2LC0xODIyMDUzMzQ3LC0xNjU2ND
 U5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1
 NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLT
 g3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5
