@@ -65,7 +65,7 @@ II. [Recruitments](#recruitments)
      &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recruitment-debates)
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
      &emsp;&emsp;a) [The Database](#the-database)
-     
+     &emsp;&emsp;a) [The Database](#the-database)
 III. [Inside a session](#inside-a-session)
 &emsp;1. [Session Concepts](#session-concepts)
 &emsp;2. [Time](#time)
@@ -2090,11 +2090,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5ND
-MyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIw
-LC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNz
-U1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5
-NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNT
-kzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMy
-MDFdfQ==
+c3RvcnkiOlsyNzA5ODE0MTQsLTQ2NTg1NDIyNywtMTQ5NjEzMj
+Q2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwt
+MTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MD
+gwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkz
+MSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2Nj
+AwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4
+NF19
 -->
