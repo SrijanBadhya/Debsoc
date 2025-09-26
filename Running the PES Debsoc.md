@@ -411,6 +411,7 @@ So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself.
+- Unfortu
 
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
@@ -754,15 +755,13 @@ Doing this digitally saves time and effort at the end of recruitments, and  hone
 
 
 
-[Round 3 in 2023](https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135)
-round 3 in 2023
 
-[Copy of Round 3 Attendance - Google Sheets](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit?gid=0#gid=0) 
-Fake names added at the bottom.
+
+
 
 
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
-
+Fake names added at the bottom.
 
 
 scheduling, pains of us attending more sessions than recruits themselves
@@ -2056,11 +2055,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjM0NDI4MzAwLC0xODk5MjM5OTMxLDc4MjY3Nz
-c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
-NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
-MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
-LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
-c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzVdfQ==
+c3RvcnkiOlstMTAwNjQ0MjE1OSwtMTg5OTIzOTkzMSw3ODI2Nz
+c3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcs
+MTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OT
+YzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3
+MSw5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5Mj
+U3OTgsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1XX0=
 
 -->
