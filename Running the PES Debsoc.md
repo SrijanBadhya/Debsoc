@@ -731,25 +731,26 @@ Except for having to remember to save, I think this website discovered in late 2
 
 https://myattendancetracker.com
 
-If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then select any of the 3 classes: 2:30 pm, 4 pm, or 9 pm.
-spamsrboy@gmail.com
-pdebsocfuture
-
 I won't type much about the pros and cons of this system because it's all included in the Youtube video I made:
+ https://www.youtube.com/watch?v=2L9hfdCo3ds
+
+If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then select any of the 3 classes: 2:30 pm, 4 pm, or 9 pm. But honestly the Youtube video is enough.
+spamsrboy@gmail.com
+password: debsocfuture
+
+
+I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
 
 
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
 
 
-  [MyAttendanceTracker :: Attendance]
-   scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
- https://www.youtube.com/watch?v=2L9hfdCo3ds
- 
-The password is debsocfuture (not the gmail password of course).
-You can use this account just to check out the exact data, but honestly the Youtube video is enough.
 
-I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
+ 
+
+
+
 
 
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
@@ -2064,10 +2065,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjMxNDA2MTQsLTE4OTkyMzk5MzEsNzgyNjc3Nz
-k0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1
-OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2Mz
-IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
-OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
-k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NV19
+c3RvcnkiOlsyMTA3NTMzNTkzLC0xODk5MjM5OTMxLDc4MjY3Nz
+c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
+NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
+MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
+LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
+c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzVdfQ==
+
 -->
