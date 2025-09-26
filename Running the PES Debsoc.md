@@ -410,8 +410,8 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
-- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself.
-
+- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself. Especially since during the recruitment period you'll already be attending mo
+- 
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
 - But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
@@ -759,10 +759,6 @@ Doing this digitally saves time and effort at the end of recruitments, and  hone
 
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 and we published this list showing who was accepted and who was rejected
 Fake names added at the bottom.
-
-
-scheduling, pains of us attending more sessions than recruits themselves
-
   
   
   ---
@@ -2053,10 +2049,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOT
-kzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2
-NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMz
-Q4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0Niwt
-MTIyNzM4OTc3MSw5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MD
-Q2NSw3Nzc5MjU3OTgsNzMzNjMzOTQ3LDcwOTU0NTA5NV19
+c3RvcnkiOlsxNjg0MDA1NjUyLDYzNzU1OTI2NiwtNjc0MzM0Mj
+A2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3
+NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0Mj
+Y3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcs
+ODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwOD
+Q4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5NDddfQ==
+
 -->
