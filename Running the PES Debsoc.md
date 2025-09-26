@@ -1835,10 +1835,12 @@ https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/
 General PES Club Guide made by Write Angle senior in around 2019 and endorsed by VK sir:
 https://docs.google.com/document/d/1rZx2baiXZoMm4C36os6F0WCIkOovktgn92gU4cdoNfI/edit?usp=sharing
 
-Debso
+Debsoc website which has fallen into decay
+https://swapnilnair.github.io/Debsite/
 
 BPs with recorded OAs (Good practice for Adjudicators)
 https://youtube.com/playlist?list=PLdk7ZVs2HpVzn751xdVPbWB4axVxPlMUY&si=3kpq7UVUUhVVZnu0
+
 
 Delivering OAs with Tin Puljic
 https://youtu.be/1aW74xUed-I?si=60PvmtPikNwSBvkB
@@ -2074,7 +2076,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjIxMDE3Njc0LDEzOTYzMzc2NTksLTEwMTEzOD
+c3RvcnkiOlstNTMyNTk2MjU5LDEzOTYzMzc2NTksLTEwMTEzOD
 kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
 NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
 c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
