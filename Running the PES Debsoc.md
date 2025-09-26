@@ -257,8 +257,8 @@ The third round was a month long, with sessions every day, and people who attend
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
 - Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them backstabbing by leaking info from the group later.
-- This was the best way to measure if someone could be an asset to the club in the future; if they would participate enthusiastically and be able to set aside time for debsoc.
-- **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for one debate, and complained to me later that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' is also risky cuz it's a turn-off like college.**
+- This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
+- **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for just one debate, and complained to me that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' is also risky cuz it's a turn-off like college.**
 
 (Having a round 1 and a round 2 before this month long recruitment is still useful because
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3.
@@ -2107,7 +2107,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTg0NDUwMDEzLC0xODIyMDUzMzQ3LC0xNjU2ND
+c3RvcnkiOlsxNTQ5NDE5OTAyLC0xODIyMDUzMzQ3LC0xNjU2ND
 U5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1
 NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLT
 g3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5
