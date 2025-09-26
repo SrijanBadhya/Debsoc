@@ -704,12 +704,12 @@ https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JF
 You'll notice human errors here like duplicate entries for gov and opp, usually solvable in a google form with compulsory questions for the names of the speakers.
 Multiple years, we had to fill a score for each speaker on the database. This was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). I think it's better to just do away with it entirely.
 
-Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate. This requires you to be quick enough and check the entered data every night. In the spreadsheet, you can see chair's names missing often. 
+Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate. This requires you to be quick enough and check the entered data every night. 
 
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
 In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row. Chair names and phone numbers are much less likely to be missing now. 
-When a Debsoc member acts as a swing, you just need to write (swing) in parentheses.
+When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. It's better than leaving it blank because blank names 
 
 There are 2 ways to implement this. One is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something might change dynamically, like recruits getting swapped or leaving before the debate, but you've already submitted the form. The drawbacks of the second is that it's too easy to forget to fill the form, or find where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
@@ -2120,11 +2120,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE3NTQxMTUyMiwtNDQyODU1MjI5LC0xOTEwMj
-M0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwy
-OTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NT
-g1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0
-NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LD
-U2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMz
-NDIwNl19
+c3RvcnkiOlstMTU1MDQ0NTY0LC00NDI4NTUyMjksLTE5MTAyMz
+Q3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5
+NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1OD
+U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
+MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
+YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
+MjA2XX0=
 -->
