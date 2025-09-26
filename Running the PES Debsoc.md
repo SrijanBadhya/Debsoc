@@ -704,7 +704,7 @@ Moderators needed to be given 4 reminders everyday, and each time I gave a remin
 
 One time a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over it until he found his notebook in another classmate's bag. 
 
-I also messed up the end of round 3 by adding the wrong people to Shenanigans and then kicking them out multiple times. System errors are real. Even if the database administrator has the co
+I also messed up the end of round 3 by adding the wrong people to Shenanigans and then kicking them out multiple times. System errors are real. Even if the database administrator has the contact information of everyone, most moderator's don't, and it can be quite a hassle to contact people and manage them.
 
 ---
 
@@ -725,18 +725,9 @@ When all the moderators have their hands full, at least one person still needs t
 
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
+Except for having to remember to save, I think this website discovered in 2024 is 
 
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
@@ -2065,11 +2056,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTQyMzI5Njc2LC0xODk5MjM5OTMxLDc4MjY3Nz
-c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
-NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
-MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
-LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
-c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzVdfQ==
-
+c3RvcnkiOls1NzU5ODcxMzksLTE4OTkyMzk5MzEsNzgyNjc3Nz
+k0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1
+OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2Mz
+IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
+OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
+k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NV19
 -->
