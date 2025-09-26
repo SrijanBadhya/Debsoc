@@ -229,13 +229,12 @@ _My batch (2021, but recruitments ended up happening in the January of 2022) had
 _The debsoc took in everyone who participated in this round. (Except for my opponent who was missed out on due to a system error.)
 _For my first juniors, we had a similar format but offline._ 
 
-Here we naturally arrive at the big question of inclusivity.
-
+When it comes to recruitments, we naturally arrive at the big question of inclusivity.
 How do you handle the trade-off between being inclusive/selective?
 
-Pros of being selective:
+A few pros of being selective:
 - A few PES clubs (like ECell), try to be extremely selective with their members. This generates initial hype over being a 'member of ECell'.
-- People believe that less members means less dilution and you can focus more.
+- People believe that less members means less dilution of spirit and hence you can focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of 100 members on a groupchat but nobody responding.
 - People feel comfortable to text their thoughts on the groupchat when they actually know the people, rather than when half of the people are people they have ever seen.
@@ -2108,7 +2107,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkwODc1ODMyOCwtMTY1NjQ1OTczNSwtNDY1OD
+c3RvcnkiOlstMTUzNDY4MjY3MiwtMTY1NjQ1OTczNSwtNDY1OD
 U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
 MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
 YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
