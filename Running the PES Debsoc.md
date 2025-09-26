@@ -771,11 +771,13 @@ The motion weirdly has the phrase, "Would NOT", which is weird for gov, but nece
 
 I heavily encouraged shitting on me personally, saying that it wouldn't affect their chances of getting in, and this led to the debates being incredibly entertaining and super fun for everyone involved (To the point where we rolled on the floor laughing.) This motion feels incredibly fitting for the last day of recruitments.
 
+Video recording is optional. It makes for great lore but decreases the chances of juniors being unhinged.
+
 It feels incredibly fulfilling because the extent to which the juniors shit on you shows how comfortable they've gotten with you.
 
-An alternate motion which makes more sense is THR participating in the Debsoc recruitment process. 
+An alternate motion which makes more sense is,  "THR participating in the Debsoc recruitment process."
 
-While being fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds 
+While being fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you up again. It's truly a wonderful experience.
 
 # Inside a session
 [Back to the Table of Contents](#table-of-contents)
@@ -2059,11 +2061,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU0ODE3NDc5OCwtODc1NTMyOTI4LDU2MTkzND
-IwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwt
-MTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0Nz
-YxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAs
-LTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4Mj
-E4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyNDA1MzMsNDkzMDg0ODIy
-XX0=
+c3RvcnkiOlsyMTIyMTY0MDc0LC04NzU1MzI5MjgsNTYxOTM0Mj
+AzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0x
+ODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3Nj
+E2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwt
+NjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMT
+gyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjJd
+fQ==
 -->
