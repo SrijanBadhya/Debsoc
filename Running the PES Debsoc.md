@@ -699,12 +699,12 @@ Absolutely never input directly into excel because it's very easy to mess up. Wh
 We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the recruits for them to check if their attendance had been accurately marked:
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 
 
-Below is the recruitment round 1 and 2 sheet. If you look properly, you can notice all the missing spots.
+Below is the recruitment round 1 and 2 sheet. If you look closely, you can notice all the missing spots.
 https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
-You'll notice human errors here like duplicated entries for gov and opp, usually solvable in a google form with compulsory questions for the names of the speakers.
-Multiple years, we had to fill a score for each speaker on the database. However this was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). I think it's better to just do away with it entirely.
+You'll notice human errors here like duplicate entries for gov and opp, usually solvable in a google form with compulsory questions for the names of the speakers.
+Multiple years, we had to fill a score for each speaker on the database. This was quite useless and a waste of brainpower because this was never considered as a factor to take recruits in (and I'm glad it wasn't). I think it's better to just do away with it entirely.
 
-Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate, if you're quick enough and check the entered data every night. In the spreadsheet, you can see chair's names missing often. 
+Sometimes when you notice something missing, you can track the missing data by asking the other people in the debate. This requires you to be quick enough and check the entered data every night. In the spreadsheet, you can see chair's names missing often. 
 
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
@@ -2120,11 +2120,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDQyODU1MjI5LC0xOTEwMjM0NzAyLDE2ODg3OD
-Y2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4
-MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5Nj
-EzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1
-OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMT
-Y0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIz
-OTkzMV19
+c3RvcnkiOlstMTE3NTQxMTUyMiwtNDQyODU1MjI5LC0xOTEwMj
+M0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwy
+OTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NT
+g1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0
+NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LD
+U2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMz
+NDIwNl19
 -->
