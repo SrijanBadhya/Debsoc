@@ -713,9 +713,9 @@ When a Debsoc member acts as a swing, you just need to write (swing) in parenthe
 
 There are 2 ways to implement this. One way is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. 
 The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something can change dynamically, like recruits getting swapped or leaving before the debate, but you can't adapt to this change since you may have already submitted the form. 
-The drawbacks of the second method are that it's too easy to end up forgetting to fill the form or end up searching where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
+The drawbacks of the second method are that it's common to end up forgetting to fill the form or end up searching where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
-It's quite easy to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
+It's quite commo to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
 
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
@@ -2122,11 +2122,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjQzMzY1NDkwLC00NDI4NTUyMjksLTE5MTAyMz
-Q3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5
-NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1OD
-U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
-MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
-YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
-MjA2XX0=
+c3RvcnkiOlstMTE4MzIwNjAzMCwtNDQyODU1MjI5LC0xOTEwMj
+M0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwy
+OTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NT
+g1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0
+NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LD
+U2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMz
+NDIwNl19
 -->
