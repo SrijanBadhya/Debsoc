@@ -352,7 +352,6 @@ Group 2 is already assumed to not take the Debsoc seriously, so if accommodating
 
 People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).
 
-
 ![enter image description here](https://i.postimg.cc/Z0twStBy/Interestovertime1.png)
 
 ![enter image description here](https://i.postimg.cc/h4zgcLQS/Interestovertime2.png)
@@ -411,7 +410,7 @@ So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
 - I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself. Especially since during the recruitment period you'll already be attending more debates than a recruit.
-- 
+
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
 - But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
@@ -677,7 +676,7 @@ https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWw
 This is how we did round 3 in 2023. 
 It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into a page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
 Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record. Excel's ease of use is low to anyone new to it, cause it has random keyboard shortcuts, and dragging a cell normally will copy its content to other cells.
-We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the recruits to check if their attendance had been accurately marked.
+We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the recruits for them to check if their attendance had been accurately marked.
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 
 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
@@ -2081,11 +2080,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTkyMjQxNjYzLDEzOTYzMzc2NTksLTEwMTEzOD
-kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
-NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
-c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
-LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OT
-k2MzIwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3
-NzFdfQ==
+c3RvcnkiOlstMTk5ODc2NDc5NSwxMzk2MzM3NjU5LC0xMDExMz
+g5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTEx
+LDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4Mj
+Y3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4
+NywxNTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05OD
+k5NjMyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5
+NzcxXX0=
 -->
