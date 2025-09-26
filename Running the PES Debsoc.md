@@ -698,7 +698,6 @@ In round 3, just the name and phone number can suffice because you're more in co
 Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly improved trackability, because if people couldn't remember names, they could be identified by the code word. And you could also check if you had all 6 people involved in the debate. However, a lot of chairs forgot to give code words (including me). If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
 
 
-
 The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
 Moderators needed to be given 4 reminders everyday, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books.
 
@@ -708,7 +707,7 @@ I also messed up the end of round 3 by adding the wrong people to Shenanigans an
 
 ---
 
-The basement seminar hall is difficult to find for first year students, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
+The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
 
 One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later shooing people away.
 
@@ -739,6 +738,9 @@ spamsrboy@gmail.com
 password: debsocfuture
 
 I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
+
+It might look complex initially, but I swear by everything I hold dear that it's absolutely worth it because I've seen how recruitments turned out without it.
+
 
 
 
@@ -2060,7 +2062,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODI2MDgzODI2LC0xODk5MjM5OTMxLDc4MjY3Nz
+c3RvcnkiOlsyMDgxNjUyMzQ5LC0xODk5MjM5OTMxLDc4MjY3Nz
 c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
 NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
 MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
