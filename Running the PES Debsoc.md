@@ -338,7 +338,7 @@ We usually conduct round 1 across 3 days so that people can come on any day acco
 ![enter image description here](https://i.imgflip.com/a72pv2.jpg)
 
 - **Moreover, Recruitments are usually held in October November. Many students go home for a whole week during Diwali or Dussehra, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
-- We get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
+- We do get swamped with requests from these people who were sick, or out of town, and care enough to text us because they want to join the club.
 - + However you cannot measure this texting as the only indication of interest to join the club, because there are people who would like to express interest, who are unaware that they can text the clubheads and beg to join this way. 
 - + If you do send out a message asking for all the absentees to dm you, then you can use this as indication of interest. 
 It's extreme and unnecessary to initiate the text conversation yourself in the dms of everyone on the group you see. 
@@ -2109,11 +2109,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszOTAwMTAzMDAsMjk3OTA2MzA0LC0xODIyMDUzMz
-Q3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUs
-MTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMT
-EzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1
-MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNz
-gyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUy
-MTg3XX0=
+c3RvcnkiOlsxOTIzNTM0MjExLDI5NzkwNjMwNCwtMTgyMjA1Mz
+M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
+LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
+ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
+NTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLD
+c4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1
+MjE4N119
 -->
