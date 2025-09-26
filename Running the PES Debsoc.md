@@ -208,7 +208,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
  
 ## Recruitment Concepts
 
-This is the single most important activity of a club.
+This is the single most essential activity of a club.
 
 This is the single place (besides arguably PESDT) where systems matter the most, because 
 1. You have an enormous scaled up load of people and documentation to handle.
@@ -2082,7 +2082,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQwMjExMzA1LDEzOTYzMzc2NTksLTEwMTEzOD
+c3RvcnkiOlstNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzOD
 kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
 NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
 c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
