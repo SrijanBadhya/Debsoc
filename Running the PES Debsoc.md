@@ -269,7 +269,7 @@ A few issues with the month long recruitment:
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
 - First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (oh the sweet summer first year children).
 - + Another issue this leads to is that if all the active seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
-- People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to increase people's confidence that you will take them in).
+- People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to reassure people that they are very likely to be taken in.)
 
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
 
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYxMzU3OTIzMCwtMTgyMjA1MzM0NywtMTY1Nj
-Q1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMy
-NTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC
-04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1
-OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NC
-w0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkz
-MTExOTI1XX0=
+c3RvcnkiOlsxODExODM5Njk3LC0xODIyMDUzMzQ3LC0xNjU2ND
+U5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1
+NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLT
+g3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5
+MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LD
+Q0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMx
+MTE5MjVdfQ==
 -->
