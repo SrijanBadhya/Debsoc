@@ -720,7 +720,10 @@ I also messed up the end of round 3 by adding the wrong people to Shenanigans an
 
 ---
 
-###
+### More Logistic Tips
+
+[Back to the Table of Contents](#table-of-contents)
+
 The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
 
 One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later shooing people away.
@@ -2087,7 +2090,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTA5MzM3NTY1LC0xNDk2MTMyNDY1LDE1MjM5ND
+c3RvcnkiOlstNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5ND
 MyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIw
 LC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNz
 U1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5
