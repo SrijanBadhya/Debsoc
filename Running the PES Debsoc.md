@@ -1859,6 +1859,9 @@ https://www.youtube.com/watch?v=3aTZKcS0tb8
 Debatekeeper, app that automatically rings bells so that you don't end up missing the 6th minute mark
 https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&hl=en-US
 
+Indian Debating spreadsheet
+https://docs.google.com/spreadsheets/d/1_LlgPi3rxGRpqr2AvP3Ngx1WjkDkarIkQqAn2itMceg/edit
+
 In case you've somehow forgotten the main site to get debate motions from
 https://debatedata.io/
 
@@ -2078,7 +2081,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzYxMjAxMDk2LDEzOTYzMzc2NTksLTEwMTEzOD
+c3RvcnkiOlsxMTkyMjQxNjYzLDEzOTYzMzc2NTksLTEwMTEzOD
 kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
 NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
 c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
