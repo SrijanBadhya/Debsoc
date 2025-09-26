@@ -686,7 +686,7 @@ People are way less reliable than you think. EVERYONE. Even me. Even you.
 
 When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
 The Debsoc constantly misses out on people due to system errors or forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked us why. We sobbed internally and asked them to apply again the next year. 
-Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and since I knew that he was supposed to pass, I rectified that. Nahush was missed out due to a system error. Only because Nahush texted Bharath in sem 2, was why Nahush able to come to informal recruitments. This is unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
+Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and since I knew that he was supposed to pass, I rectified that. Nahush was missed out due to a system error. Only because Nahush texted Bharath in sem 2, was why Nahush was able to come to informal recruitments. Situations like this are unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
 
 
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
@@ -2118,7 +2118,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcxMTc5NzgwOCwtMTkxMDIzNDcwMiwxNjg4Nz
+c3RvcnkiOlstMTQ0MjM0MjkxMSwtMTkxMDIzNDcwMiwxNjg4Nz
 g2NiwtNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OTA2MzA0LC0x
 ODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcsLTE0OT
 YxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2
