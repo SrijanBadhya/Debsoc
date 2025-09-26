@@ -736,7 +736,7 @@ When all the moderators have their hands full, at least one person still needs t
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
 ---
-The main principle behind DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system 
+The main principle behind DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system works better.
 
 Except for having to remember to save, I think this website discovered in late 2024 is ABSOLUTE GOLD, and made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
 
@@ -2084,11 +2084,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM5MzEwNzA0NywtNTQ4NzgyNDQzLDEzOTYzMz
-c2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMs
-LTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OT
-kyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1
-LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MD
-QxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4MjIyNyw4ODIxODI5
-NDZdfQ==
+c3RvcnkiOlsxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNz
+Y1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywt
+MTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OT
+IzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUs
+LTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwND
+EyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0
+Nl19
 -->
