@@ -447,7 +447,7 @@ You will feel frustrated about all the time and effort you put for these people,
 Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
 Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, still gives us like 80% of the benefits of selectivity that I talk about in [History](#history). And the best part is that when people stop showing up to debates during the month of round 3, that means they've lost interest and have filtered themselves out. And hence you don't need to add people to a group they don't want to be in.
 
-
+---
 ## The 2024 model
 
 [Back to the Table of Contents](#table-of-contents)
@@ -478,6 +478,7 @@ I'll just quote from Nikhil's document from here until round 3.
 I think these changes by Nikhil were absolutely amazing, they made the recruitment process so much more fun and engaging for both the moderators and recruits.
 - Avoid letting the question session go on too long if you have a queue of participants waiting for their turn.
 
+---
 ### Round 2
 
 [Back to the Table of Contents](#table-of-contents)
@@ -538,6 +539,7 @@ When I allowed POIs, even after stating the rules thrice, people messed up POI r
 ---
 We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also allows the Debsoc to change course if something has been quite a hindrance.
 
+---
 ### Round 3
 
 [Back to the Table of Contents](#table-of-contents)
@@ -806,6 +808,8 @@ It feels incredibly fulfilling because the extent to which the juniors shit on y
 An alternate motion which makes more sense is,  "THR participating in the Debsoc recruitment process."
 
 While being fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you up again. It's truly a wonderful experience.
+
+---
 
 # Inside a session
 [Back to the Table of Contents](#table-of-contents)
@@ -2100,11 +2104,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MDI5MTEwNTcsLTQ2NTg1NDIyNywtMTQ5NjEzMj
-Q2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwt
-MTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MD
-gwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkz
-MSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2Nj
-AwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4
-NF19
+c3RvcnkiOlstNDU2MDkwMTg5LC00NjU4NTQyMjcsLTE0OTYxMz
+I0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTks
+LTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2ND
+A4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5
+MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNj
+YwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0
+ODRdfQ==
 -->
