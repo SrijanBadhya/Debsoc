@@ -673,7 +673,7 @@ https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWw
 This is how we did round 3 in 2023. 
 It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into a page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
 Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record. Excel's ease of use is low to anyone new to it, cause it has random keyboard shortcuts, and dragging a cell normally will copy its content to other cells.
-We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the 
+We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the recruits to check if their attendance had been accurately marked.
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 
 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
@@ -753,16 +753,13 @@ If github is too complicated, you can download the files from the google drive f
 https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=drive_link
 
 
-Doing this digitally saves time and effort at the end of recruitments, and  honestly minimizes compilation errors and errors throughout the process. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session). 
-
-
-I've sent this before in [Round 3](#round-3), and have talked about it in my Youtube video, but just to reiterate, this spreadsheet we used to track round 3 had 
-
-  
+Doing this digitally saves time and effort at the end of recruitments, and  honestly minimizes compilation errors and errors throughout the process. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session).   
   
   ---
 
-  last day of recruitments, meme day,
+My favorite tradition to continue on the last day of every recruitment season, has been meme day.
+
+
   you can also see how comfortable juniors have gotten with you, if they shit on you the way you've told them to.
 
 
@@ -2048,11 +2045,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTEzMzY2OTE0LC04NzU1MzI5MjgsNTYxOTM0Mj
-AzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0x
-ODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3Nj
-E2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwt
-NjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMT
-gyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjJd
-fQ==
+c3RvcnkiOls4NTY0NTExMzQsLTg3NTUzMjkyOCw1NjE5MzQyMD
+MsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4
+OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MT
+Y1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02
+MDQxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4MjIyNyw4ODIxOD
+I5NDYsLTEyMjczODk3NzEsOTAwMjQwNTMzLDQ5MzA4NDgyMl19
+
 -->
