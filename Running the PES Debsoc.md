@@ -2,7 +2,7 @@
 
 [Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/hirac-delest.html)
 
-[Link to the Dropbox File where you can highlight portions of text and add comments for me to include later](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
+[Link to the Dropbox File where you can highlight portions of text and add comments for me to include into this document](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
 
 # This House Would...
 
@@ -1076,6 +1076,9 @@ It means the world to people if you dm them and check up on them and how they fe
 
 ---
 ### Cross Mocks
+
+[Back to the Table of Contents](#table-of-contents)
+
 Everyone goes on about how game-changing cross mocks are, and how they give you the tournament experience without needing to pay for it. 
 Here are some of my thoughts about the challenges, pros and cons of them.
 1. The groups Mixidea and 4crossmock are more bloated than ever, and the dead outnumber the living. It's no longer like our days where access was easy either. Sure, other groups always pop up, but their activity isn't as consistent.
@@ -2114,11 +2117,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NTQ0NzQ5NjAsMTAxMTYwNDkwNCwyOTc5MDYzMD
-QsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywt
-MTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5Nj
-MzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIw
-MywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMT
-g5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYx
-NjVdfQ==
+c3RvcnkiOlstNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OTA2Mz
+A0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcs
+LTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOT
+YzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQy
+MDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLT
+E4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2
+MTY1XX0=
 -->
