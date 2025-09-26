@@ -657,12 +657,12 @@ Recruitments are very chaotic due to factors like:
 - Recruits coming at different times. (90% of your recruits won't come sharply at their slot time.)
 - Debates going on for varying lengths of time.
 - Sorting out a lot of aspects like guiding confused people to the basement, clarifying doubts, dividing people into batches, etc.
-- Sometimes you'll have too many people for a debate, and sometimes you have too less. Having fixed people for fixed slots won't work because a lot of people don't show up.
+- Sometimes you'll have too many people for a debate, and sometimes you'll have too less. Having fixed people for fixed slots won't work because a lot of people won't show up.
 - A lot of people would end up missing their slot entirely.
 
-Being dynamic is the way to go. The super early people can go to moderator 1. The bulk of people who show up can be handled by the moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people.
+Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people.
 
-But of course, we aim to be able to handle the loads in the first place, and that requires some planning. 
+What's better 
 So, a bit broader slots are recommended.
 And the way to do this is by first calculating the expected turnout.
 
@@ -2116,11 +2116,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNTUwOTk3NjIsMTY4ODc4NjYsLTQ3NjQ5MjgxMi
-wxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1
-NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5ND
-MyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIw
-LC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNz
-U1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5
-NF19
+c3RvcnkiOlsxNjYwNzQ0MDkzLDE2ODg3ODY2LC00NzY0OTI4MT
+IsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2
+NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOT
+QzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEy
+MCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mz
+c1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3
+OTRdfQ==
 -->
