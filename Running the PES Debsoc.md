@@ -324,7 +324,7 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to finish their round 1 and round 2. Adding extra days for the people who need them.  Making Round 3 open enough for even people with packed lives to be able to reach the minimum bar. 
 
-Absolutely do not set a percentage of applicants as the bar, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb; just because someone was in the bottom 10% doesn't mean that they don't know how to solve math or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions), and keep that as the threshold.
+Absolutely do not set a percentage of applicants as the bar, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions), and keep that as the threshold instead. Choose people for being interested, not for being more interested than others.
 
 
 We usually conduct round 1 across 3 days, so that people can come on any day according to their flexibility. Round 2 also usually is similarly over 3 other days. 
@@ -2108,7 +2108,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTA2Njc3ODI1LDI5NzkwNjMwNCwtMTgyMjA1Mz
+c3RvcnkiOlsxNjQzMTk3MTA0LDI5NzkwNjMwNCwtMTgyMjA1Mz
 M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
 LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
 ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
