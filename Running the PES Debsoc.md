@@ -301,9 +301,9 @@ The reasons for being inclusive regardless of 'skill' are:
 
 - The point of the club is not to just have good debaters, but to help everyone who is interested pursue this interest and _make_ them good debaters. 
 - - The focus is not on who the people are now, they're just freshers. The focus is on who they can become. What matters is how the soc and the person will be able to contribute towards the growth of each other. 
-- Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, fill APs and BPs by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
-- Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
-- - A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
+- Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates, who fill APs and BPs by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
+- Debate is a weird activity where love can grow over time. Everyone who is lukewarm at first has the potential to grow love for it later. (I took 3 years to like debating.)
+- - A good debater can always end up stopping debate. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
 
 
 So there isn't much clear benefit of having a tight filter. A loose filter works good enough. To a large extent, it's better to start with more people than less.
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY0MDQwODYzNSwyOTc5MDYzMDQsLTE4MjIwNT
-MzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2
-NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMT
-AxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgw
-MjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMS
-w3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAw
-NTIxODddfQ==
+c3RvcnkiOls4MDY3MTY4NjMsMjk3OTA2MzA0LC0xODIyMDUzMz
+Q3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUs
+MTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMT
+EzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1
+MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNz
+gyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUy
+MTg3XX0=
 -->
