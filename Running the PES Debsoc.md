@@ -525,8 +525,6 @@ The massive issue here is that people who slip by due to administrative errors, 
 
 When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways, and they definitely are not worth the hassle in round 1 and round 2.
 
-
-
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
 ---
@@ -1095,7 +1093,7 @@ Even if there already is someone, **more seniors are always needed.**
 
 
 Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions on the different days.
-It is a pain that having more juniors and less seniors means a
+It is a pain that having more juniors and less seniors means that seniors generally have to do more sessions than an average junior, but I haven't seen any way around this.
 
 When more than one room full of juniors pull up (6-8 people), there are a few ways to adjust.
 You can make the extra person adj a handful of times, but make sure they don't feel like they didn't matter. Even if it's AP, do deliberation with them and ask them questions, make them feel like they're exercising their debate muscle. 
@@ -2055,11 +2053,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwNTg5NzE2MiwtMTg5OTIzOTkzMSw3ODI2Nz
-c3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcs
-MTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OT
-YzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3
-MSw5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5Mj
-U3OTgsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1XX0=
+c3RvcnkiOlstNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nz
+c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
+NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
+MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
+LDkwMDI0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNT
+c5OCw3MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzVdfQ==
 
 -->
