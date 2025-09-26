@@ -65,7 +65,9 @@ II. [Recruitments](#recruitments)
      &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recruitment-debates)
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
      &emsp;&emsp;a) [The Database](#the-database)
-     &emsp;&emsp;a) [The Database](#the-database)
+     &emsp;&emsp;b) [More Logistic Tips](#more-logistic-tips)
+     
+     
 III. [Inside a session](#inside-a-session)
 &emsp;1. [Session Concepts](#session-concepts)
 &emsp;2. [Time](#time)
@@ -742,6 +744,10 @@ When all the moderators have their hands full, at least one person still needs t
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
 ---
+### The Digital Attendance Tracker
+
+[Back to the Table of Contents](#table-of-contents)
+
 The main principle behind DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system works better.
 
 Except for having to remember to save, I think this website discovered in late 2024 is ABSOLUTE GOLD, and made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
@@ -2090,7 +2096,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNzA5ODE0MTQsLTQ2NTg1NDIyNywtMTQ5NjEzMj
+c3RvcnkiOls0NjQ1MzU0NTAsLTQ2NTg1NDIyNywtMTQ5NjEzMj
 Q2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwt
 MTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MD
 gwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkz
