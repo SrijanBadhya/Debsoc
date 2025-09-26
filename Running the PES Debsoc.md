@@ -245,16 +245,16 @@ Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while 
 
 The first round remained the same. 
 _The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
-In 2024, we got rid of the group discussion round and replaced it with an AP round. I think the 2024 model is the best model we've had so far, and later I'll talk about why. 
+In 2024, we got rid of the group discussion round and replaced it with an AP lite round. I think the 2024 model is the best model we've had so far, and later I'll talk about why. 
 
 The third round was a month long, with sessions every day, and people who attended the most sessions were recruited.
 
 ---
- **The month-long recruitment was extremely useful** for a few reasons:
+ **The month-long recruitment was highly effective** for a few reasons:
 
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
 - People could get a feel of debate before they committed.
-- People filtered themselves out, so by the end people who were still consistent were people who were genuinely interested.
+- People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
 - Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them backstabbing by leaking info from the group later.
 - This was the best way to measure if someone could be an asset to the club in the future; if they would participate enthusiastically and be able to set aside time for debsoc.
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1OD
-U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
-MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
-YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
-MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMT
-Y3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0
-MjY3MF19
+c3RvcnkiOlsxOTg0NDUwMDEzLC0xODIyMDUzMzQ3LC0xNjU2ND
+U5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1
+NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLT
+g3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5
+MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LD
+Q0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMx
+MTE5MjVdfQ==
 -->
