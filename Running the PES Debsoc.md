@@ -238,7 +238,7 @@ A few pros of being selective:
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding.
 - People feel more comfortable to text their thoughts on the group chat when they actually know the people, rather than when they have never seen half the people.
-- After a periomall clubs will have more club loyalty than big clubs, especially when in a big club you have random people reading group chats for entertainment, and passing on rumors about seniors to the point where it becomes damaging.
+- Small clubs may have more club loyalty than big clubs. In a big club you have random people who read group chats for entertainment and possibly pass on damaging rumors about seniors.
 
 <br>
 However, since 2023, the debsoc, with the idea of Harsha, found a way increase selectivity while being inclusive.
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MjQxMTY4NzIsLTE2NTY0NTk3MzUsLTQ2NTg1ND
-IyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMs
-MTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MT
-kzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIw
-NiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2Nz
-U0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2
-NzBdfQ==
+c3RvcnkiOlstMTI0NDY2NDYxNiwtMTY1NjQ1OTczNSwtNDY1OD
+U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
+MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
+YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
+MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMT
+Y3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0
+MjY3MF19
 -->
