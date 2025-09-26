@@ -651,12 +651,12 @@ Round 1 has a massive load which needs to distribute evenly.
 Using a 'choose your slot' system can easily lead to chaos due to how fragile this system is. 
 (I'm talking about having 6 slots everyday of 30 minutes each, and asking people to choose one of the 18 slots of the 3 days.)
 
-If slots are tight and not adaptive to changes in the debates, people who expected to start their slot earlier will wait unnecessarily (If you've had a Capstone review you know what I'm talking about).
+If slots are tight and not adaptive to changes, people who expected to start their slot earlier will wait unnecessarily. (If you've had a Capstone review you know what I'm talking about.)
 Recruitments are very chaotic due to factors like:
 - Moderators coming at different times.
 - Recruits coming at different times. (90% of your recruits won't come sharply at their slot time.)
-- Debates going on for varying lengths.
-- Sorting a lot of people's confusion like guiding them to the basement, clarifying doubts, dividing people into batches, etc.
+- Debates going on for varying lengths of time.
+- Sorting out a lot of people's confusion like guiding them to the basement, clarifying doubts, dividing people into batches, etc.
 - Sometimes you have too many people for a debate, and sometimes you have too less people. Having fixed people for fixed slots won't work because a lot of people don't show up.
 - A lot of people would end up missing their slot entirely.
 
@@ -2116,11 +2116,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMTE2MDQ5MD
-QsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00
-NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4Nz
-gyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjky
-OCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02Nz
-QzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3
-M119
+c3RvcnkiOlstNTMxMjgwNzA2LDE2ODg3ODY2LC00NzY0OTI4MT
+IsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2
+NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOT
+QzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEy
+MCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mz
+c1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3
+OTRdfQ==
 -->
