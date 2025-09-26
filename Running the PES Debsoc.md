@@ -299,8 +299,8 @@ Even among those who get recruited, 80% of people stop coming to sessions by the
 
 The reasons for being inclusive regardless of 'skill' are:
 
-- The point of the club is not to  skill, but to ke everyone who is interested, and help them pursue this interest. 
-- - The focus is not on who the people are now, they're freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
+- The point of the club is not to just have good debaters, but to help everyone who is interested pursue this interest and _make_ them good debaters. 
+- - The focus is not on who the people are now, they're just freshers. The focus is on who they can become. And how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates to happen, APs and even BPs to happen by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - Debate is a weird activity where love can grow over time, and everyone has potential to be lukewarm at first but grow love for it later (I took 3 years to like debating).
 - - A good debater can always end up stopping debating. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODYxNzQ0Mzg3LC0xODIyMDUzMzQ3LC0xNjU2ND
-U5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1
-NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLT
-g3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5
-MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LD
-Q0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMx
-MTE5MjVdfQ==
+c3RvcnkiOlsyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NT
+k3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1
+LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtOD
+c1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTky
+NjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsND
+QwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzEx
+MTkyNV19
 -->
