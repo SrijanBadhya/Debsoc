@@ -547,7 +547,7 @@ I don't believe that making the bar seem high really encouraged debating post ro
 
 In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. We added these people to the recruitment list because they expressed interest. In reality we ended up setting the bar as 2 debates, and only made it look like the bar was 5. (So in the end even people who did 2 debates and didn't DM us got in.)
 
-Since (for some reason) we cared about making the debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters from around India (at the time) lmaooo.
+Since (for some reason) we cared about making the debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo.
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0
 
 In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non-transparent, but I consider it more important to get juniors to debate as much as possible to increase the likelihood of them getting hooked (and also increase their skill). 
@@ -2052,11 +2052,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzYzNDI3MjM0LC0xNjQwODAyNTExLDYzNzU1OT
-I2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0
-NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMT
-ExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEs
-LTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMD
-I0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OF19
+c3RvcnkiOls1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5Mj
+Y2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0
+MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMT
+E5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2MzIwMSwt
+MTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMj
+QwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4XX0=
 
 -->
