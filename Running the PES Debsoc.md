@@ -731,23 +731,18 @@ Except for having to remember to save, I think this website discovered in late 2
 
 https://myattendancetracker.com
 
-I won't type much about the pros and cons of this system because it's all included in the Youtube video I made:
+I won't type much about the pros and cons of this system because they're all included in the Youtube video I made of how to use the website:
  https://www.youtube.com/watch?v=2L9hfdCo3ds
 
 If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then select any of the 3 classes: 2:30 pm, 4 pm, or 9 pm. But honestly the Youtube video is enough.
 spamsrboy@gmail.com
 password: debsocfuture
 
-
 I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
 
 
 
-talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
 
-
-
- 
 
 
 
@@ -2065,7 +2060,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTA3NTMzNTkzLC0xODk5MjM5OTMxLDc4MjY3Nz
+c3RvcnkiOlsxODI2MDgzODI2LC0xODk5MjM5OTMxLDc4MjY3Nz
 c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
 NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
 MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
