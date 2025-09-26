@@ -335,7 +335,7 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 #### ==Addressing the criticism==
 1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
 2. _One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
-3. _Scarcity leads to an increase in value, and hence inclusivity decreases the va._
+3. _Scarcity leads to an increase in value, and conversely inclusivity decreases the value._
 
 First, let's break the recruits into 2 groups of people:
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
@@ -392,9 +392,11 @@ The criticism of, "Scarcity leads to an increase in value" has been applied for 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 And nobody ever thinks this thought:
-"If we had taken lesser people, we could have had more people today". 
+"If we had taken in lesser people, we could have had more active people today". 
 
 ![enter image description here](https://i.imgflip.com/a72qei.jpg)
+
+I don't buy in to the logic of, "less people means less dilution which means more concentration of the activity", because people showing up, regardless of how passionate they are, 
 
 Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
 - There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it, and that's why you're doing it for them. Different people might subscribe to different of these 2 beliefs, and so multiple options might even increase the value in their eyes. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits increases their like for the club, as shown in the picture earlier).
@@ -2053,10 +2055,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NzM5NDc1OTUsLTE2NjAwNTIxODcsMTU5MzExMT
-kyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0x
-NzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyND
-A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
-NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
-w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMF19
+c3RvcnkiOlstMjExMDk3NjY0OCwtMTY2MDA1MjE4NywxNTkzMT
+ExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEs
+LTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMD
+I0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3
+MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMj
+EzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwXX0=
 -->
