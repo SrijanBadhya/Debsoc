@@ -666,8 +666,8 @@ To be able to handle people in the first place, planning is required.
 And the way to do this is by first calculating the expected turnout.
 Broader slots like, 'come anytime between 2pm and 4pm' are recommended over specific slots. This works fairly well to handle branches which are half an hour off, and people who dillydally for a while before reaching the basement.
 
-Check to see how many people would come on the three days and the timings they are likely to come at, with a WhatsApp poll. If one particular day has high demand and the other day has low demand, (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
-A single response poll isn't reflective of people's real availability if they're available on multiple days, but a multiple response poll might look overwhelming even if it's basically a duplicate entry.
+With a WhatsApp poll, check to see how many people would come on the three days and the timings they are likely to come at. If one particular day has high demand and the other day has low demand (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
+A single response poll isn't reflective of people's real availability if they're available on multiple days. A multiple response poll might look overwhelming even if it's basically a duplicate entry.
 So maybe you can first have a multiple response poll, and then a single response poll. This problem is too tricky to accurately tackle. Poll votes are inherently unreliable, but at least seeing expectations helps you strategize and be prepared.
 
 Even if it's a multiple response poll, it's too cumbersome to sit and compare days and calculate which people voted for both Tuesday and Wednesday, and can hence be moved from Wednesday to Tuesday. Hence the only way I can think of, is to send another poll and ask people to vote Wednesday only if they can't do Tuesday.
@@ -2116,11 +2116,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDA5MDE1NTczLDE2ODg3ODY2LC00NzY0OTI4MT
-IsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2
-NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOT
-QzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEy
-MCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mz
-c1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3
-OTRdfQ==
+c3RvcnkiOlstMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyOD
+EyLDEwMTE2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0x
+NjU2NDU5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMz
+k0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkx
+MjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNj
+M3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3
+Nzk0XX0=
 -->
