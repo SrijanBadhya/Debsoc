@@ -686,6 +686,8 @@ In the google form, having fields like, "PM's name, PM's phone number", is easie
 
 There are 2 ways to implement this. One is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something might change dynamically, like recruits getting swapped or leaving before the debate, but you've already submitted the form. The drawbacks of the second is that it's too easy to forget to fill the form, or find where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
+It's quite easy to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
+
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
 A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
@@ -741,15 +743,7 @@ I would recommend using a new account because otherwise the names of your new re
 
 It might look complex initially, but I swear by everything I hold dear that it's absolutely worth it because I've seen how recruitments turned out without it.
 
-
-
-
-
-
-
-
-
-
+The code used in the video and the data(which is unnecessary since your data will be different) can be accessed here:
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
 
 If github is too complicated, you can download the files from the google drive folder here:
@@ -2062,7 +2056,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDgxNjUyMzQ5LC0xODk5MjM5OTMxLDc4MjY3Nz
+c3RvcnkiOlsxNjM0NDI4MzAwLC0xODk5MjM5OTMxLDc4MjY3Nz
 c5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4Nywx
 NTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5Nj
 MyMDEsLTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5Nzcx
