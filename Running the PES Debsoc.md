@@ -761,7 +761,7 @@ My favorite tradition to continue on the last day of every recruitment season, h
 
 Announcing that it was meme day led to a surge in attendance for this debate in 2024. 
 
-The specialty of meme day is that the motion is funny, you get unlimited speech time to yap all your ideas, and you are encouraged to be as funny as you can, and there's no verdict OA.
+The specialty of meme day is that the motion is funny, you get unlimited speech time to yap all your ideas, and you are encouraged to be as funny as you can, there's no protected time, and there's no verdict or OA.
 
 And the motion I used both years was, "This House, as a first year at PES, Would choose to NOT join the Debsoc".
 
@@ -769,11 +769,13 @@ For a motion like this it makes sense to have no verdict or OA, to emphasize tha
 
 The motion weirdly has the phrase, "Would NOT", which is weird for gov, but necessary to ensure that the debate starts off with a bang.
 
-I heavily encouraged shitting on me personally, saying that it wouldn't affect their chances of getting in, and this led to the debates being incredibly entertaining and super fun for everyone involved (To the point where we rolled on the floor laughing.) This motion feels incredibly fitting for the last day of recruit
+I heavily encouraged shitting on me personally, saying that it wouldn't affect their chances of getting in, and this led to the debates being incredibly entertaining and super fun for everyone involved (To the point where we rolled on the floor laughing.) This motion feels incredibly fitting for the last day of recruitments.
 
 It feels incredibly fulfilling because the extent to which the juniors shit on you shows how comfortable they've gotten with you.
 
+An alternate motion which makes more sense is THR participating in the Debsoc recruitment process. 
 
+While being fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds 
 
 # Inside a session
 [Back to the Table of Contents](#table-of-contents)
@@ -2057,7 +2059,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE2MzU1NDI1MywtODc1NTMyOTI4LDU2MTkzND
+c3RvcnkiOlstMTU0ODE3NDc5OCwtODc1NTMyOTI4LDU2MTkzND
 IwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwt
 MTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0Nz
 YxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAs
