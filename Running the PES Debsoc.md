@@ -674,7 +674,7 @@ Even if it's a multiple response poll, it's too cumbersome to sit, compare days,
 
 If people miss a Tuesday or Wednesday slot, it's somewhat easy to move them to Thursday since the rush subsides by the latter days.
 
-Sometimes a high demand day like Wednesday, can also have a high supply of moderators, so sending a poll on the main Debsoc group to check moderator availability is crucial for calculations.
+Sometimes a high demand day like Wednesday can also have a high supply of moderators, so sending a poll on the main Debsoc group to check moderator availability is crucial to the calculations.
 
 ---
 
@@ -683,8 +683,10 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 [Back to the Table of Contents](#table-of-contents)
 
 People are way less reliable than you think. EVERYONE. Even me. Even you. 
+
 When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
-The Debsoc constantly misses out on people due to system errors or people forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked why. We sobbed internally and asked them to apply again this year. Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and I rectified that. Nahush was missed out due to a system error and only because Nahush texted Bharath in sem 2 was Nahush able to come to informal recruitments. This is unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
+The Debsoc constantly misses out on people due to system errors or forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked us why. We sobbed internally and asked them to apply again the next year. 
+Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and I rectified that. Nahush was missed out due to a system error and only because Nahush texted Bharath in sem 2 was Nahush able to come to informal recruitments. This is unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
 
 
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
@@ -2116,7 +2118,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTgyODY4ODIzLC0xOTEwMjM0NzAyLDE2ODg3OD
+c3RvcnkiOlsxMTY1NjUxMjMxLC0xOTEwMjM0NzAyLDE2ODg3OD
 Y2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4
 MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5Nj
 EzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1
