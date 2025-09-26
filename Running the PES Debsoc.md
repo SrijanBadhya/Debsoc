@@ -765,7 +765,7 @@ Except for having to remember to save, I think this website discovered in late 2
 
 https://myattendancetracker.com
 
-I won't type much about the pros and cons of this system because they're all included in the YouTube video I made of how to use the website:
+I won't type much about the pros and cons of this system because they're all included in the private (to be specific, unlisted) YouTube video I made of how to use the website:
  https://www.youtube.com/watch?v=2L9hfdCo3ds
 
 If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then select any of the 3 classes: 2:30 pm, 4 pm, or 9 pm. But honestly the Youtube video is enough.
@@ -2117,11 +2117,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OTA2Mz
-A0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcs
-LTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOT
-YzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQy
-MDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLT
-E4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2
-MTY1XX0=
+c3RvcnkiOls1NDYyOTk3MzQsLTQ3NjQ5MjgxMiwxMDExNjA0OT
+A0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwt
+NDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0OD
+c4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5
+MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNj
+c0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4
+NzNdfQ==
 -->
