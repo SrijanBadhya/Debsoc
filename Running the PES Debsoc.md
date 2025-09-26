@@ -341,11 +341,11 @@ We usually conduct round 1 across 3 days so that people can come on any day acco
 - We do get swamped with requests from these people who were sick or out of town, and care enough to text us because they want to join the club.
 - + You can't measure such texting as the only indication of interest to join the club, because there are people who would like to express interest, but are unaware that they can text the clubheads and beg for this. 
 - + If you do send out a message asking for all the absentees to dm you, then you can use this texting as indication of interest. 
-It's extreme and unnecessary to initiate the text conversation yourself in the dms of everyone on the group you see. 
+The third option, initiating the text conversation yourself in the dms of everyone on the group who's left, asking if they want an extra day, is extreme and unnecessary. 
 
 ---
 #### ==Addressing the criticism==
-1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
+1. _Criticism of 'being too inclusive' usugoes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
 2. _One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 3. _Scarcity leads to an increase in value, and conversely inclusivity decreases the value._
 
@@ -2109,11 +2109,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2MjcyNjUzNjUsMjk3OTA2MzA0LC0xODIyMDUzMz
-Q3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUs
-MTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMT
-EzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1
-MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNz
-gyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUy
-MTg3XX0=
+c3RvcnkiOlstMTU4NTY4NTc3NiwyOTc5MDYzMDQsLTE4MjIwNT
+MzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2
+NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMT
+AxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgw
+MjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMS
+w3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAw
+NTIxODddfQ==
 -->
