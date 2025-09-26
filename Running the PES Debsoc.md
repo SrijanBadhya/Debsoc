@@ -713,9 +713,9 @@ When a Debsoc member acts as a swing, you just need to write (swing) in parenthe
 
 There are 2 ways to implement this. One way is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. 
 The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something can change dynamically, like recruits getting swapped or leaving before the debate, but you can't adapt to this change since you may have already submitted the form. 
-The drawbacks of the second method are that it's common to end up forgetting to fill the form or end up searching where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
+The drawback of the second method is that people tend to end up forgetting to fill the form or end up searching where they've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
-It's quite commo to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
+It's quite common to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
 
 Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
 
@@ -1440,7 +1440,7 @@ I believe that it was better to prepare them for this possibility rather than be
 
 [Back to the Table of Contents](#table-of-contents)
 
-Due to different rooms ending at times, it's hard to execute this, getting everyone to congregate at a designated spot after every round to chill together is vital to tournament vibes. Without a contingent it's easy for people to feel lost and lonely. (I guess this hampers their ability to stay talking to new people, so this is vital primarily to people who are awkward with strangers.)
+Due to different rooms ending at times, it's hard to execute this, getting everyone to congregate at a designated spot after every round to chill together is vital to tournament vibes. Without a contingent people often end up feeling lost and lonely. (I guess this hampers their ability to stay talking to new people, so this is vital primarily to people who are awkward with strangers.)
 I've talked [earlier](#adjing-obstacles) about how judges feel extremely lonely at tournaments. Meeting them, asking about their round, and asking about how they felt they did, is doubly as impactful to judges who yearn for someone to listen to them (especially since speakers rarely do). 
 
 In groups that emerge, a few juniors are often left out of the conversation. Seniors usually know each other and have easy conversation, whereas juniors find it difficult to barge in, and hence feel left out. Seniors intentionally involving every junior into conversation goes a long way. Simply acknowledging their existence goes a long way. (I know I've had tournaments where I felt invisible and like my presence didn't matter.)
@@ -2122,7 +2122,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE4MzIwNjAzMCwtNDQyODU1MjI5LC0xOTEwMj
+c3RvcnkiOlstMTA2MjkwMTAyNywtNDQyODU1MjI5LC0xOTEwMj
 M0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwy
 OTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NT
 g1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0
