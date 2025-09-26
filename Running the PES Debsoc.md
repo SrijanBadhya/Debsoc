@@ -62,9 +62,10 @@ II. [Recruitments](#recruitments)
 	     &emsp; &emsp;&emsp;i) [Round 1](#round-1)
 	     &emsp; &emsp;&emsp;ii) [Round 2](#round-2)
 	     &emsp; &emsp;&emsp;ii) [Round 3](#round-3)
-     &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recrui
+     &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recruitment-debates)
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
-
+     &emsp;&emsp;a) [The Database](#the-database)
+     
 III. [Inside a session](#inside-a-session)
 &emsp;1. [Session Concepts](#session-concepts)
 &emsp;2. [Time](#time)
@@ -719,6 +720,7 @@ I also messed up the end of round 3 by adding the wrong people to Shenanigans an
 
 ---
 
+###
 The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
 
 One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later shooing people away.
@@ -2085,7 +2087,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzg1OTUwOTQ1LC0xNDk2MTMyNDY1LDE1MjM5ND
+c3RvcnkiOlstOTA5MzM3NTY1LC0xNDk2MTMyNDY1LDE1MjM5ND
 MyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIw
 LC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNz
 U1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5
