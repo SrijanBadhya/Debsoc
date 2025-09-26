@@ -708,8 +708,8 @@ Sometimes when you notice something missing, you can track the missing data by a
 
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
-In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row. Chair names and phone numbers are much less likely to be missing now. 
-When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. It's better than leaving it blank because blank names 
+Filling fields like, "PM's name, PM's phone number" of a google form are easier than having to click the right column and filling in the right row of an excel sheet. Chair names and phone numbers are much less likely to be missing with this. 
+When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. It's better than leaving it blank because blank names could cause confusion later about someone being missing.
 
 There are 2 ways to implement this. One is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something might change dynamically, like recruits getting swapped or leaving before the debate, but you've already submitted the form. The drawbacks of the second is that it's too easy to forget to fill the form, or find where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
@@ -2120,7 +2120,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU1MDQ0NTY0LC00NDI4NTUyMjksLTE5MTAyMz
+c3RvcnkiOlsxOTg0NjIyODQ4LC00NDI4NTUyMjksLTE5MTAyMz
 Q3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5
 NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1OD
 U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
