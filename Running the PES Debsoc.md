@@ -623,6 +623,8 @@ This feedback form does contain some sensitive information, but since it's anony
 
 ## Recruitment Logistics
 
+[Back to the Table of Contents](#table-of-contents)
+
 This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence of our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year), since usually one mistake equates to one recruit missed entirely.
 
 Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
@@ -662,6 +664,8 @@ Sometimes a high demand day like Wednesday, can also have a high supply of moder
 ---
 
 ### The Database
+
+[Back to the Table of Contents](#table-of-contents)
 
 People are way less reliable than you think. EVERYONE. Even me. Even you. 
 When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
@@ -754,8 +758,13 @@ https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=dri
 
 
 Doing this digitally saves time and effort at the end of recruitments, and  honestly minimizes compilation errors and errors throughout the process. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session).   
-  
+
+If you can find a way to access the benefits and overcome the flaws (like a better website), then that would be great.
+
   ---
+## Meme day
+
+[Back to the Table of Contents](#table-of-contents)
 
 My favorite tradition to continue on the last day of every recruitment season, has been meme day.
 
@@ -2061,11 +2070,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTIyMTY0MDc0LC04NzU1MzI5MjgsNTYxOTM0Mj
-AzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0x
-ODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3Nj
-E2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwt
-NjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMT
-gyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjJd
-fQ==
+c3RvcnkiOlstMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzND
+IwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwt
+MTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0Nz
+YxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAs
+LTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4Mj
+E4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyNDA1MzMsNDkzMDg0ODIy
+XX0=
 -->
