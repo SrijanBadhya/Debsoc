@@ -669,10 +669,12 @@ The Debsoc constantly misses out on people due to system errors or people forget
 
 
 In 2022 and 2023, everyone input their data directly into an excel spreadsheet and it was GARBAGE. 
-https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1#gid=1593421135 
+https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1&gid=1313600469#gid=1313600469
 This is how we did round 3 in 2023. 
 It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp and there were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into a page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair forgot who they judged, or couldn't find the notes where they had written the names of the people they judged. 
 Absolutely never input directly into excel. It's very easy to mess up. When you start inputting data after scrolling far right, day after day, the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record. Excel's ease of use is low to anyone new to it, cause it has random keyboard shortcuts, and dragging a cell normally will copy its content to other cells.
+We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the 
+https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 
 
 These are the recruitment round 1 and 2 sheets. If you look properly you can notice all the missing spots.
 https://docs.google.com/spreadsheets/d/1Dw2C0WZDU81iWJNsbwRixbpRiAfiQjuThH8jI7JFz64/edit#gid=538046766
@@ -755,7 +757,7 @@ Doing this digitally saves time and effort at the end of recruitments, and  hone
 
 
 I've sent this before in [Round 3](#round-3), and have talked about it in my Youtube video, but just to reiterate, this spreadsheet we used to track round 3 had 
-https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0 
+
   
   
   ---
@@ -2046,11 +2048,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMj
-UxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3
-ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNT
-IxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwt
-OTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNz
-M4OTc3MSw5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NV19
-
+c3RvcnkiOlstOTEzMzY2OTE0LC04NzU1MzI5MjgsNTYxOTM0Mj
+AzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0x
+ODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3Nj
+E2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwt
+NjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMT
+gyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjJd
+fQ==
 -->
