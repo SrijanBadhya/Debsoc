@@ -310,8 +310,8 @@ Hence, the benefit of having a tight filter isn't really clear. A loose filter w
 **Accidentally leaving an interested person out is more expensive than accidentally taking an uninterested person in.**
 
 Taking a few points out of Nikhil's recruitment document:
-- It would be unfair to judge candidates on their initial skill set without giving them a chance to improve.
-- "Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
+- "It would be unfair to judge candidates on their initial skill set without giving them a chance to improve.
+- Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
 - + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
 - + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
 
@@ -2107,7 +2107,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDI1NzU4NjAxLDI5NzkwNjMwNCwtMTgyMjA1Mz
+c3RvcnkiOlsxODgyMjM1OTc3LDI5NzkwNjMwNCwtMTgyMjA1Mz
 M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
 LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
 ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
