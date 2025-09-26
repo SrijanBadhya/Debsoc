@@ -345,8 +345,8 @@ The third option, initiating the text conversation yourself in the dms of everyo
 
 ---
 #### ==Addressing the criticism==
-1. _Criticism of 'being too inclusive' usugoes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
-2. _One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
+1. _Criticism of 'being too inclusive' usually goes along the lines of recruits becoming lazy and apathetic when they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the Debsoc needs to be prestigious._
+2. _One thing I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
 3. _Scarcity leads to an increase in value, and conversely inclusivity decreases the value._
 
 First, let's break the recruits into 2 groups of people:
@@ -2109,11 +2109,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTU4NTY4NTc3NiwyOTc5MDYzMDQsLTE4MjIwNT
-MzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2
-NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMT
-AxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgw
-MjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMS
-w3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAw
-NTIxODddfQ==
+c3RvcnkiOlsxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1Mz
+M0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1
+LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMD
+ExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAy
+NTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5OTMxLD
+c4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMTY2MDA1
+MjE4N119
 -->
