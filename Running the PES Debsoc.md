@@ -1042,7 +1042,7 @@ This variety of debate activities keeps debate fresh and fun.
 
 ---
 #### Game Night
-In early 2024, my batch of clubheads started online game nights. Popular games are the ones people have experience playing in class already, like Skribbl.io. 
+Online Game Nights existed during quarantine, and were revived by my batch of clubheads in 2024. Popular games are the ones people have experience playing in class already, like Skribbl.io. 
 
 If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played. It also makes it easier to get on Voice Chat alongside this, which adds to the fun.
 
@@ -1840,9 +1840,11 @@ And you, dear reader, for believing in the weight of my words enough to read thi
 _I also credit Google Gemini for informing me when my sentences didn't have the tone I intended, and also for giving me appropriate replacements for words and phrases when I asked for them._
 
 # Appendix I
+[Back to the Table of Contents](#table-of-contents)
+
 ## Resources
 
-[Back to the Table of Contents](#table-of-contents)
+
 
 Responses to the feedback form: 
 https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059
@@ -2109,7 +2111,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTExMDMzNjQ5LDEwMTE2MDQ5MDQsMjk3OTA2Mz
+c3RvcnkiOlsxMDY0Mzc5MzkyLDEwMTE2MDQ5MDQsMjk3OTA2Mz
 A0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcs
 LTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOT
 YzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQy
