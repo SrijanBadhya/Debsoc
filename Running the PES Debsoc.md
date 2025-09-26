@@ -335,7 +335,7 @@ It's extreme and unnecessary to initiate the text conversation yourself in the d
 #### ==Addressing the criticism==
 1. _Criticism of 'being too inclusive' goes along the lines of recruits becoming lazy and apathetic if they see a club 'desperately' going out of their way to pull in people. The prestige of a club is proportional to how selective it is, and the debsoc needs to be prestigious._
 2. _One thing that I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
-3. _Scarcity leads to an increase in value._
+3. _Scarcity leads to an increase in value, and hence inclusivity decreases the va._
 
 First, let's break the recruits into 2 groups of people:
 Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
@@ -2053,10 +2053,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0Mj
-Y3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcs
-ODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwOD
-Q4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5NDcsNzA5
-NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzLDcxODQ1MDg0LD
-E1ODQzNzY0MDUsNTc5MzUzMTAwLC0xNDc5MTQ5NDYzXX0=
+c3RvcnkiOls4NzM5NDc1OTUsLTE2NjAwNTIxODcsMTU5MzExMT
+kyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0x
+NzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyND
+A1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5MjU3OTgsNzMz
+NjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1LDI2NTAzMTIxMy
+w3MTg0NTA4NCwxNTg0Mzc2NDA1LDU3OTM1MzEwMF19
 -->
