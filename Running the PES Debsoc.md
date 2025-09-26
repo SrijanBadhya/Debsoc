@@ -761,17 +761,18 @@ My favorite tradition to continue on the last day of every recruitment season, h
 
 Announcing that it was meme day led to a surge in attendance for this debate in 2024. 
 
-The speciality of meme day is that the motion is funny, you get unlimited speech time to yap all your ideas, and you are encouraged to be as funny as you can, and there's no verdict OA.
+The specialty of meme day is that the motion is funny, you get unlimited speech time to yap all your ideas, and you are encouraged to be as funny as you can, and there's no verdict OA.
 
 And the motion I used both years was, "This House, as a first year at PES, Would choose to NOT join the Debsoc".
 
 For a motion like this it makes sense to have no verdict or OA, to emphasize that this motion is being debated for the fun of it. 
 
-I heavily encouraged shitting on me personally, saying that it wouldn't affect them, and this led to the debates being incredibly entertaining and super fun for everyone involved (To the point where we rolled on the floor laughing.)
+The motion weirdly has the phrase, "Would NOT", which is weird for gov, but necessary to ensure that the debate starts off with a bang.
+
+I heavily encouraged shitting on me personally, saying that it wouldn't affect their chances of getting in, and this led to the debates being incredibly entertaining and super fun for everyone involved (To the point where we rolled on the floor laughing.) This motion feels incredibly fitting for the last day of recruit
 
 It feels incredibly fulfilling because the extent to which the juniors shit on you shows how comfortable they've gotten with you.
 
-A friend was initia
 
 
 # Inside a session
@@ -2056,11 +2057,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDUyODkwMjQyLC04NzU1MzI5MjgsNTYxOTM0Mj
-AzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0x
-ODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3Nj
-E2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwt
-NjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1ODIyMjcsODgyMT
-gyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0OTMwODQ4MjJd
-fQ==
+c3RvcnkiOlstMTE2MzU1NDI1MywtODc1NTMyOTI4LDU2MTkzND
+IwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwt
+MTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0Nz
+YxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAs
+LTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4Mj
+E4Mjk0NiwtMTIyNzM4OTc3MSw5MDAyNDA1MzMsNDkzMDg0ODIy
+XX0=
 -->
