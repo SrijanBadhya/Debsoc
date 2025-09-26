@@ -221,6 +221,7 @@ This is the single place (besides arguably PESDT) where systems matter the most,
 1. You have an enormous scaled up load of people and documentation to handle.
 2. This is the first impression of the juniors of the soc and shapes whether they want to continue or not. A process that isn't smooth can be damaging.
 
+---
 ### History
 
 First, a brief view on how recruitments were done in the past:
@@ -249,6 +250,7 @@ In 2024, we got rid of the group discussion round and replaced it with an AP rou
 
 The third round was a month long, with sessions everyday, and people who attended the most sessions would be recruited.
 
+---
  **The month-long recruitment was extremely useful** for a few reasons:
 
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
@@ -2106,11 +2108,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjE2ODQyODEzLC00NjU4NTQyMjcsLTE0OTYxMz
-I0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTks
-LTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2ND
-A4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5
-MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNj
-YwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0
-ODRdfQ==
+c3RvcnkiOlstMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MT
+MyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5
+LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNj
+QwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0MjA2LC0xODk5MjM5
+OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMTY3NTQ3NjE2NSwtMT
+Y2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0MjY3MCwtNjA0MTIz
+NDg0XX0=
 -->
