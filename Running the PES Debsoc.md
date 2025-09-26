@@ -727,13 +727,16 @@ Starting case prep early like this is useful even when you expect a moderator to
 
 ---
 
-Except for having to remember to save, I think this website discovered in 2024 is 
+Except for having to remember to save, I think this website discovered in late 2024 is ABSOLUTE GOLD, and made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
 
+https://myattendancetracker.com
+
+If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then click any of the 3 classes, 2:30 p
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
 
 
-  [MyAttendanceTracker :: Attendance](https://myattendancetracker.com/dashboard)
+  [MyAttendanceTracker :: Attendance]
   spamsrboy@gmail.com
  scroll to March 2025, and then click any of the 3 classes, 2:30 pm, 4 pm, or 9 pm. 
  https://www.youtube.com/watch?v=2L9hfdCo3ds
@@ -2056,10 +2059,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NzU5ODcxMzksLTE4OTkyMzk5MzEsNzgyNjc3Nz
-k0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1
-OTMxMTE5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2Mz
-IwMSwtMTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEs
-OTAwMjQwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nz
-k4LDczMzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NV19
+c3RvcnkiOlstMTQ0OTI2ODE5NSwtMTg5OTIzOTkzMSw3ODI2Nz
+c3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUsLTE2NjAwNTIxODcs
+MTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OT
+YzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0NiwtMTIyNzM4OTc3
+MSw5MDAyNDA1MzMsNDkzMDg0ODIyLDc4MDc2MDQ2NSw3Nzc5Mj
+U3OTgsNzMzNjMzOTQ3LDcwOTU0NTA5NSwtMzYzNzMyNzc1XX0=
+
 -->
