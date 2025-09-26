@@ -641,7 +641,7 @@ This feedback form does contain some sensitive information, but since it's anony
 [Back to the Table of Contents](#table-of-contents)
 
 
-This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence of our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year), since usually one mistake equates to one recruit missed entirely.
+This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence in our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year), since usually one mistake equates to one recruit missed entirely.
 
 Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
 
@@ -2117,11 +2117,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1NDYyOTk3MzQsLTQ3NjQ5MjgxMiwxMDExNjA0OT
-A0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwt
-NDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0OD
-c4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5
-MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNj
-c0MzM0MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4
-NzNdfQ==
+c3RvcnkiOlsxMDc5NjYwMTA0LC00NzY0OTI4MTIsMTAxMTYwND
+kwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUs
+LTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01ND
+g3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMy
+OTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLT
+Y3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMz
+ODczXX0=
 -->
