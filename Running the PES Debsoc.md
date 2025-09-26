@@ -54,6 +54,7 @@ I. [Guiding Principles](#guiding-principles)
 &emsp;2. [Metrics](#metrics)
 
 II. [Recruitments](#recruitments)
+
 &emsp; 1. [Recruitment Concepts](#recruitment-concepts)
      &emsp;&emsp;a) [History](#history)
      &emsp;&emsp;b) [Depth wise inclusivity](#depth-wise-inclusivity)
@@ -63,10 +64,13 @@ II. [Recruitments](#recruitments)
 	     &emsp; &emsp;&emsp;ii) [Round 2](#round-2)
 	     &emsp; &emsp;&emsp;ii) [Round 3](#round-3)
      &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recruitment-debates)
+     
 &emsp; 2. [Recruitment Logistics](#recruitment-logistics)
      &emsp;&emsp;a) [The Database](#the-database)
      &emsp;&emsp;b) [More Logistic Tips](#more-logistic-tips)
+     &emsp;&emsp;c) [The Digital Attendance Tracker](#the-digital-attendance-tracker)
      
+&emsp; 3. [Meme Day](#meme-day)
      
 III. [Inside a session](#inside-a-session)
 &emsp;1. [Session Concepts](#session-concepts)
@@ -2096,7 +2100,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NjQ1MzU0NTAsLTQ2NTg1NDIyNywtMTQ5NjEzMj
+c3RvcnkiOls0MDI5MTEwNTcsLTQ2NTg1NDIyNywtMTQ5NjEzMj
 Q2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwt
 MTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MD
 gwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkz
