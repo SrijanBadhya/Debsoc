@@ -234,11 +234,11 @@ How do you handle the trade-off between being inclusive/selective?
 
 A few pros of being selective:
 - A few PES clubs (like ECell), try to be extremely selective with their members. This generates initial hype over being a 'member of ECell'.
-- People believe that less members means less dilution of spirit and hence you can focus more.
+- Less members may mean less dilution of spirit and hence you can focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding.
-- People feel comfortable to text their thoughts on the group chat when they actually know the people, rather than when half of the people are people they have ever seen.
-- Eventually small clubs will have more club loyalty than big clubs, especially when in a big club you have random people reading group chats for entertainment, and passing on rumors about seniors to the point where it becomes damaging.
+- People feel more comfortable to text their thoughts on the group chat when they actually know the people, rather than when they have never seen half the people.
+- After a periomall clubs will have more club loyalty than big clubs, especially when in a big club you have random people reading group chats for entertainment, and passing on rumors about seniors to the point where it becomes damaging.
 
 <br>
 However, since 2023, the debsoc, with the idea of Harsha, found a way increase selectivity while being inclusive.
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjYwODYzMDgzLC0xNjU2NDU5NzM1LC00NjU4NT
-QyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQz
-LDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1Nj
-E5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQy
-MDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNj
-c1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQy
-NjcwXX0=
+c3RvcnkiOls1MjQxMTY4NzIsLTE2NTY0NTk3MzUsLTQ2NTg1ND
+IyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMs
+MTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MT
+kzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIw
+NiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2Nz
+U0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2
+NzBdfQ==
 -->
