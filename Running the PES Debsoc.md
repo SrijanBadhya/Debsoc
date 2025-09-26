@@ -1048,6 +1048,9 @@ If you've successfully gotten everyone onto the PES discord (which is a feat of 
 
 ---
 ### Online Sessions
+
+[Back to Table of Contents](#table-of-contents)
+
 At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities from clubs.
 
 While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
@@ -2111,11 +2114,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDY0Mzc5MzkyLDEwMTE2MDQ5MDQsMjk3OTA2Mz
-A0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcs
-LTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOT
-YzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5MzQy
-MDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQyMDYsLT
-E4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2
-MTY1XX0=
+c3RvcnkiOls0NTQ0NzQ5NjAsMTAxMTYwNDkwNCwyOTc5MDYzMD
+QsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIyNywt
+MTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5Nj
+MzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIw
+MywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMT
+g5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYx
+NjVdfQ==
 -->
