@@ -715,6 +715,7 @@ Although this can't be avoided, and it _is_ important to make the link as access
 
 ---
 
+
  srijan, definitely talk about making sure that one set of people preps while the other debates. If a fellow senior adj will take 10 more minutes to show up, make sure that you get a party started with prep so that the delay of this adj is handled smoothly with no inconvenience to the recruits.
 
 talk about how easy it is to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance everytime a person comes in, so have a book open or something so that this helps remind you.
@@ -2055,10 +2056,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTM2MTkxNzE5LDc4MjY3Nzc5NCw0NDAyMzM4Nz
-MsMTY3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkx
-MjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEsLTE3MTY1OD
-IyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMDI0MDUzMyw0
-OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3MzM2MzM5ND
-csNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMjEzXX0=
+c3RvcnkiOls4NzcyOTYyNDksNzgyNjc3Nzk0LDQ0MDIzMzg3My
+wxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEy
+NjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2MzIwMSwtMTcxNjU4Mj
+IyNyw4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMjQwNTMzLDQ5
+MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDczMzYzMzk0Ny
+w3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMTNdfQ==
 -->
