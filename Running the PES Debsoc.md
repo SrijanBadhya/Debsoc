@@ -692,6 +692,7 @@ Sometimes when you notice something missing, you can track the missing data by a
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
 In the google form, having fields like, "PM's name, PM's phone number", is easier to fill than having to click the right column and filling in the right row. Chair names and phone numbers are much less likely to be missing now. 
+When a Debsoc member acts as a swing, you just need to write (swing) in parentheses.
 
 There are 2 ways to implement this. One is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something might change dynamically, like recruits getting swapped or leaving before the debate, but you've already submitted the form. The drawbacks of the second is that it's too easy to forget to fill the form, or find where you've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
@@ -2084,11 +2085,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTIzOTQzMjU1LC01NDg3ODI0NDMsMTM5NjMzNz
-Y1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkzNDIwMywt
-MTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OT
-IzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODczLDE2NzU0NzYxNjUs
-LTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MTI2NDI2NzAsLTYwND
-EyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgyMjI3LDg4MjE4Mjk0
-Nl19
+c3RvcnkiOlstMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3OD
+I0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4
+LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3ND
+MzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMzODcz
+LDE2NzU0NzYxNjUsLTE2NjAwNTIxODcsMTU5MzExMTkyNSw5MT
+I2NDI2NzAsLTYwNDEyMzQ4NCwtOTg5OTYzMjAxLC0xNzE2NTgy
+MjI3XX0=
 -->
