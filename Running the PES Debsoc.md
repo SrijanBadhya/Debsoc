@@ -648,9 +648,8 @@ Make sure everyone is on the same page with respect to recruitments. This may re
 ---
 
 Round 1 has a massive load which needs to distribute evenly. 
-Bsing a 'choose your slot' system is too complicated. 
+Using a 'choose your slot' system can easily lead to. 
 (I'm talking about having 6 slots of 30 minutes each everyday, and asking people to choose one of the 18 slots of the 3 days.)
-Whether you have a single choice poll or a multi-choice poll
 
 If slots are tight and not adaptive to changes in the debates, people who expected to start their slot earlier will wait unnecessarily (If you've had a Capstone review you know what I'm talking about).
 Recruitments are very chaotic due to factors like:
@@ -2117,11 +2116,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzc0NTE3Nzg1LC00NzY0OTI4MTIsMTAxMTYwND
-kwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUs
-LTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01ND
-g3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMy
-OTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLT
-Y3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3OTQsNDQwMjMz
-ODczXX0=
+c3RvcnkiOlstMTU0ODE0MDgwMiwtNDc2NDkyODEyLDEwMTE2MD
+Q5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1
+LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNT
+Q4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUz
+MjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC
+02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIz
+Mzg3M119
 -->
