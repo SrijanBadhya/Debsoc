@@ -241,11 +241,11 @@ A few pros of being selective:
 - Small clubs may have more club loyalty than big clubs. In a big club you have random people who read group chats for entertainment and possibly pass on damaging rumors about seniors.
 
 <br>
-Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while remaining inclusive, which was to check who retained interest at the end of a 3-round-recruitment.
+Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while remaining inclusive, which was to check who retained interest at the end of a 3-round-recruitment process.
 
 The first round remained the same. 
 _The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
-In 2024, we got rid of the group discussion round and replaced it with an AP round. I think the 2024 model is the best model we've had so far, and I'll say why when I come to it later. 
+In 2024, we got rid of the group discussion round and replaced it with an AP round. I think the 2024 model is the best model we've had so far, and I'll later talk about why. 
 
 The third round was a month long, with sessions everyday, and people who attended the most sessions would be recruited.
 
@@ -2107,7 +2107,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODgyMzYxMTI2LC0xNjU2NDU5NzM1LC00NjU4NT
+c3RvcnkiOlsxMjgyMzMyNDM2LC0xNjU2NDU5NzM1LC00NjU4NT
 QyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQz
 LDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1Nj
 E5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQy
