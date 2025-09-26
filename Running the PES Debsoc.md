@@ -396,7 +396,7 @@ And nobody ever thinks this thought:
 
 ![enter image description here](https://i.imgflip.com/a72qei.jpg)
 
-I don't buy in to the logic of, "less people means less dilution which means more concentration of the activity", because people showing up, regardless of how passionate they are, 
+I don't buy in to the logic of, "less people means less dilution which means more concentration of the activity", because people showing up, regardless of how passionate they are, made me feel warm about getting to have a full AP. 
 
 Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
 - There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it, and that's why you're doing it for them. Different people might subscribe to different of these 2 beliefs, and so multiple options might even increase the value in their eyes. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits increases their like for the club, as shown in the picture earlier).
@@ -2055,10 +2055,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjExMDk3NjY0OCwtMTY2MDA1MjE4NywxNTkzMT
-ExOTI1LDkxMjY0MjY3MCwtNjA0MTIzNDg0LC05ODk5NjMyMDEs
-LTE3MTY1ODIyMjcsODgyMTgyOTQ2LC0xMjI3Mzg5NzcxLDkwMD
-I0MDUzMyw0OTMwODQ4MjIsNzgwNzYwNDY1LDc3NzkyNTc5OCw3
-MzM2MzM5NDcsNzA5NTQ1MDk1LC0zNjM3MzI3NzUsMjY1MDMxMj
-EzLDcxODQ1MDg0LDE1ODQzNzY0MDUsNTc5MzUzMTAwXX0=
+c3RvcnkiOlsxNjc1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMT
+E5MjUsOTEyNjQyNjcwLC02MDQxMjM0ODQsLTk4OTk2MzIwMSwt
+MTcxNjU4MjIyNyw4ODIxODI5NDYsLTEyMjczODk3NzEsOTAwMj
+QwNTMzLDQ5MzA4NDgyMiw3ODA3NjA0NjUsNzc3OTI1Nzk4LDcz
+MzYzMzk0Nyw3MDk1NDUwOTUsLTM2MzczMjc3NSwyNjUwMzEyMT
+MsNzE4NDUwODQsMTU4NDM3NjQwNSw1NzkzNTMxMDBdfQ==
 -->
