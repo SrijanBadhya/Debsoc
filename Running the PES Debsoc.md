@@ -641,14 +641,14 @@ This feedback form does contain some sensitive information, but since it's anony
 [Back to the Table of Contents](#table-of-contents)
 
 
-This section is full of lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence in our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year), since usually one mistake equates to one recruit missed entirely.
+This section is packed with lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence in our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year) since one mistake results in one recruit missed entirely.
 
-Make sure everyone is on the same page with respect to recruitments. This may require a briefing text, or an in-person/virtual briefing session. Last year we had a few random people suddenly change the format at the last minute, and it led to frustration and a mismatch between the vision and implementation.
+Make sure everyone is on the same page with respect to recruitments. This may require a briefing text or an in-person/virtual briefing session. In late 2024 we had a few random people suddenly change the format at the last minute, and it led to a frustrating mismatch between the vision and implementation.
 
 ---
 
-Round 1 has a massive load, which we need to distribute evenly. 
-But using a 'choose your slot' system is too complicated. 
+Round 1 has a massive load which needs to distribute evenly. 
+Bsing a 'choose your slot' system is too complicated. 
 (I'm talking about having 6 slots of 30 minutes each everyday, and asking people to choose one of the 18 slots of the 3 days.)
 Whether you have a single choice poll or a multi-choice poll
 
@@ -2117,7 +2117,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDc5NjYwMTA0LC00NzY0OTI4MTIsMTAxMTYwND
+c3RvcnkiOlsxMzc0NTE3Nzg1LC00NzY0OTI4MTIsMTAxMTYwND
 kwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUs
 LTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01ND
 g3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMy
