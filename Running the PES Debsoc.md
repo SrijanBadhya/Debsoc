@@ -226,7 +226,7 @@ This is the single place (besides arguably PESDT) where systems matter the most,
 
 First, a brief view on how recruitments were done in the past:
 _My batch (2021, but recruitments ended up happening in the January of 2022) had one round of a quick 1v1 debate, which was online since this was the late covid era. The format was 3+1 minute speeches with one witness (like a silent round judge), and once the debate ended, we had no contact._
-_The debsoc took in everyone who participated in this round. (Except for my opponent who was missed out on due to a system error.)
+_The debsoc took in everyone who participated in this round. (Except for my opponent who was missed out on due to a system error.)_
 _For my first juniors, we had a similar format but offline._ 
 
 When it comes to recruitments, we naturally arrive at the big question of inclusivity.
@@ -241,7 +241,7 @@ A few pros of being selective:
 - Small clubs may have more club loyalty than big clubs. In a big club you have random people who read group chats for entertainment and possibly pass on damaging rumors about seniors.
 
 <br>
-However, since 2023, the debsoc, with the idea of Harsha, found a way increase selectivity while being inclusive.
+Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while remaining inclusive.
 The first round remained the same. 
 
 _The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0NDY2NDYxNiwtMTY1NjQ1OTczNSwtNDY1OD
-U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
-MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
-YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
-MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMT
-Y3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0
-MjY3MF19
+c3RvcnkiOlstOTY0OTM2MjgxLC0xNjU2NDU5NzM1LC00NjU4NT
+QyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQz
+LDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1Nj
+E5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQy
+MDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNj
+c1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQy
+NjcwXX0=
 -->
