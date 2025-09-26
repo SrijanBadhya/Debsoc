@@ -1841,6 +1841,8 @@ https://swapnilnair.github.io/Debsite/
 BPs with recorded OAs (Good practice for Adjudicators)
 https://youtube.com/playlist?list=PLdk7ZVs2HpVzn751xdVPbWB4axVxPlMUY&si=3kpq7UVUUhVVZnu0
 
+Open BP resources (recorded rounds and also categorized workshops on youtube)
+https://docs.google.com/spreadsheets/d/1crrb6ru8wu7S_aaY_EgZ7OKhoYs-wI145OpRJ--MyZ4/edit?usp=drivesdk
 
 Delivering OAs with Tin Puljic
 https://youtu.be/1aW74xUed-I?si=60PvmtPikNwSBvkB
@@ -2076,7 +2078,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTMyNTk2MjU5LDEzOTYzMzc2NTksLTEwMTEzOD
+c3RvcnkiOlsxNzYxMjAxMDk2LDEzOTYzMzc2NTksLTEwMTEzOD
 kxMjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEs
 NjM3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNj
 c3Nzk0LDQ0MDIzMzg3MywxNjc1NDc2MTY1LC0xNjYwMDUyMTg3
