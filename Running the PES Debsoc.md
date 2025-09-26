@@ -660,13 +660,13 @@ Recruitments are very chaotic due to factors like:
 - Sometimes you'll have too many people for a debate, and sometimes you'll have too less. Having fixed people for fixed slots won't work because a lot of people won't show up.
 - A lot of people would end up missing their slot entirely.
 
-Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people. If any recruit ends up waiting for more than 15 minutes, then i
+Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people. 
 
 To be able to handle people in the first place, planning is required.
 And the way to do this is by first calculating the expected turnout.
 Broader slots like, 'come anytime between 2pm and 4pm' are recommended over specific slots. This works fairly well to handle branches which are half an hour off, and people who dillydally for a while before reaching the basement.
 
-Check to see how many people would come on the three days, and the timings they are likely to come at, with a WhatsApp poll. If one particular day has a high demand and the other day has a low demand, (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
+Check to see how many people would come on the three days and the timings they are likely to come at, with a WhatsApp poll. If one particular day has high demand and the other day has low demand, (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
 A single response poll isn't reflective of people's real availability if they're available on multiple days, but a multiple response poll might look overwhelming even if it's basically a duplicate entry.
 So maybe you can first have a multiple response poll, and then a single response poll. This problem is too tricky to accurately tackle. Poll votes are inherently unreliable, but at least seeing expectations helps you strategize and be prepared.
 
@@ -749,7 +749,7 @@ Although this can't be avoided, and it _is_ important to make the link as access
 Parallel processing using multiple moderators greatly increases efficiency, but it often isn't enough for round 1 and round 2. 
 The extra technique which was very beneficial in 2024 was pipelining.
 
-When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we all had ongoing debates, I would give a set of 6 people their motion and start their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit.
+When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we all had ongoing debates, I would give a set of 6 people their motion and start their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed.
 
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
@@ -2116,11 +2116,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg1ODQ5MDE4MCwxNjg4Nzg2NiwtNDc2NDkyOD
-EyLDEwMTE2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0x
-NjU2NDU5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMz
-k0MzI1NSwtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkx
-MjAsLTg3NTUzMjkyOCw1NjE5MzQyMDMsLTE2NDA4MDI1MTEsNj
-M3NTU5MjY2LC02NzQzMzQyMDYsLTE4OTkyMzk5MzEsNzgyNjc3
-Nzk0XX0=
+c3RvcnkiOlstNDA5MDE1NTczLDE2ODg3ODY2LC00NzY0OTI4MT
+IsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2
+NTY0NTk3MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOT
+QzMjU1LC01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEy
+MCwtODc1NTMyOTI4LDU2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mz
+c1NTkyNjYsLTY3NDMzNDIwNiwtMTg5OTIzOTkzMSw3ODI2Nzc3
+OTRdfQ==
 -->
