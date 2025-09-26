@@ -236,8 +236,8 @@ A few pros of being selective:
 - A few PES clubs (like ECell), try to be extremely selective with their members. This generates initial hype over being a 'member of ECell'.
 - People believe that less members means less dilution of spirit and hence you can focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
-- You want to have people who actually care about debate so that you don't feel the emptiness of 100 members on a groupchat but nobody responding.
-- People feel comfortable to text their thoughts on the groupchat when they actually know the people, rather than when half of the people are people they have ever seen.
+- You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding.
+- People feel comfortable to text their thoughts on the group chat when they actually know the people, rather than when half of the people are people they have ever seen.
 - Eventually small clubs will have more club loyalty than big clubs, especially when in a big club you have random people reading group chats for entertainment, and passing on rumors about seniors to the point where it becomes damaging.
 
 <br>
@@ -2107,11 +2107,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUzNDY4MjY3MiwtMTY1NjQ1OTczNSwtNDY1OD
-U0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0
-MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNT
-YxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1OTI2NiwtNjc0MzM0
-MjA2LC0xODk5MjM5OTMxLDc4MjY3Nzc5NCw0NDAyMzM4NzMsMT
-Y3NTQ3NjE2NSwtMTY2MDA1MjE4NywxNTkzMTExOTI1LDkxMjY0
-MjY3MF19
+c3RvcnkiOlsxNjYwODYzMDgzLC0xNjU2NDU5NzM1LC00NjU4NT
+QyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQz
+LDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1Nj
+E5MzQyMDMsLTE2NDA4MDI1MTEsNjM3NTU5MjY2LC02NzQzMzQy
+MDYsLTE4OTkyMzk5MzEsNzgyNjc3Nzk0LDQ0MDIzMzg3MywxNj
+c1NDc2MTY1LC0xNjYwMDUyMTg3LDE1OTMxMTE5MjUsOTEyNjQy
+NjcwXX0=
 -->
