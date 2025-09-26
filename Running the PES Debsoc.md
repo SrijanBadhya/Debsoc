@@ -260,14 +260,14 @@ The third round was a month long, with sessions every day, and people who attend
 - This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for just one debate, and later complained to me that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' instead could also be risky since it's a turn-off by reminding people of college.**
 
-(Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
+Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3. 
-- + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases too.)
+- + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases too.
 
 ---
 A few issues with the month long recruitment:
-- You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks left in the semester in November, and hence round 3 got pushed to 2025.
-- First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (first years be like).
+- You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
+- First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (oh the sweet summer first year children).
 - + Another issue this leads to is that if all the active seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
 - People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to increase people's confidence that you will take them in).
 
@@ -2107,7 +2107,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcxMjgxNDk5MCwtMTgyMjA1MzM0NywtMTY1Nj
+c3RvcnkiOlstMTYxMzU3OTIzMCwtMTgyMjA1MzM0NywtMTY1Nj
 Q1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMy
 NTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC
 04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1
