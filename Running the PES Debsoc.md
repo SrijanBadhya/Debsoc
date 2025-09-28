@@ -693,7 +693,7 @@ In 2022 and 2023, everyone input their data directly into an excel spreadsheet a
 https://docs.google.com/spreadsheets/d/1M2WkJ_aRrPAt8rKpz8pQXULVlVxOX8AjUCiqUCWwl28/edit?pli=1&gid=1313600469#gid=1313600469
 This is how we did round 3 in 2023. 
 
-It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp. There were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We were constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still constantly input data into the page which the sheet opened with, instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair either forgot to write the names of who they judged or couldn't find the notes where they had written this.
+It was a nightmare getting a hold of the link because it was buried somewhere on WhatsApp. There were a million other links pinned too. Someone had to sit and create a template page, and we had to copy the template page and create a new page for every new day of round 3. We had to be constantly reminded not to input directly into the template page because then it couldn't be duplicated. People still did input data into the page which the sheet opened with instead of scrolling to the appropriate page. If you go through the link, you'll see a bunch of missing names because the chair either forgot to write the names of who they judged or couldn't find the notes where they had written these names.
  
 Absolutely never input directly into excel because it's very prone to mess ups. When you start inputting data after scrolling far right through the days (as seen in the below link), the person's name will no longer be visible. This increases the likelihood of inputting the data into someone else's record. Excel's ease of use is low to anyone new to it, because it has random keyboard shortcuts, and dragging a cell normally will copy its content to other cells.
 We had to pore over the above spreadsheet to create a separate spreadsheet to mark attendance, and it was hell. This was the spreadsheet we released to the recruits for them to check if their attendance had been accurately marked:
@@ -2122,11 +2122,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOTEwMj
-M0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwy
-OTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NT
-g1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0
-NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LD
-U2MTkzNDIwMywtMTY0MDgwMjUxMSw2Mzc1NTkyNjYsLTY3NDMz
-NDIwNl19
+c3RvcnkiOlstMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NT
+UyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwx
+MDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1Nj
+Q1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMy
+NTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC
+04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1
+OTI2Nl19
 -->
