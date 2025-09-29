@@ -727,10 +727,10 @@ If you have a name but not a phone number, and need the phone number for verific
 I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to round 1 of recruitments without even being a part of the WhatsApp group, and searching for these people is hopeless if you've missed out on their contact information before. The safety of having these backup details is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
-Last year we had a system of code words, assigned by the chair, which were unique to each debate. This mildly improved trackability, because if people couldn't remember names, they could still be identified by the code word. When one has 5 people accounted for but not the 6th person involved in the debate, a code word can help. However, a lot of chairs forgot to give code words (including me. If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
+Last year we had a system of code words, assigned by the chair, which were unique to each debate. This mildly improved trackability, because if people couldn't remember names, they could still be identified by the code word. When one has 5 people accounted for but not the 6th person involved in the debate, a code word can help. However, a lot of chairs (including me) forgot to give code words. If you can ensure the collection of phone numbers and another unique id, then code words are superfluous.
 
 
-The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
+The most effective step to minimize errors, which should be obvious by now, is to upload the data to the central database ASAP. The longer moderators delay, the higher chance that they either forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
 Moderators needed to be given 4 reminders everyday, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books.
 
 One time a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over it until he found his notebook in another classmate's bag. 
@@ -2123,11 +2123,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTMwNTI1MTYyLC0xNTg2MjQxMzk1LC0xMDYyNT
-kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
-OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
-E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
-NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NS
-wtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3
-NTUzMjkyOF19
+c3RvcnkiOls1ODk3MjE4OTAsLTE1ODYyNDEzOTUsLTEwNjI1OT
+AxOTgsLTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5
+LC0xOTEwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMT
+YwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3
+MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC
+01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1
+NTMyOTI4XX0=
 -->
