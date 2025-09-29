@@ -722,7 +722,7 @@ Test out your form, because last year we couldn't submit multiple responses unti
 
 A few moderators miss out on people's surnames either due to forgetfulness or due to believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
-If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. 
+If you have a name but not a phone number, and need the phone number for verification, searching the name up on the WhatsApp group won't always work. Even when it does, it might be misleading if you see a name like Sudhiksha and believe you've found your person. Some people save their WhatsApp names as ~ or * or .. instead of their real names. You might have to ask stuff to the whole group like like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. 
 
 I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to recruitments round 1 without even being a part of the WhatsApp group, and it's hopeless to find these people if you've missed out on their contact information. The safety of having these candidate keys is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
@@ -2123,7 +2123,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTI0ODQ5NDE1OSwtMTA2MjU5MDE5OCwtMjAwMD
+c3RvcnkiOlstMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMD
 E0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3
 MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5Nz
 kwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0
