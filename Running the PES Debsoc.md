@@ -731,11 +731,11 @@ Last year we had a system of code words, assigned by the chair, which were uniqu
 
 
 The most effective step to minimize errors, which should be obvious by now, is to upload the data to the central database ASAP. The longer moderators delay, the higher chance that they either forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
-Moderators needed to be given 4 reminders everyday, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books.
+Moderators needed to be given 3 reminders everyday, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books (which made me wonder if a 4th reminder would lead to more people remembering to fill names).
 
-One time a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over it until he found his notebook in another classmate's bag. 
+One time, a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over this until he found his notebook in another classmate's bag. 
 
-I also messed up the end of round 3 by adding the wrong people to Shenanigans and then kicking them out multiple times. System errors are real. Even if the database administrator has the contact information of everyone, most moderator's don't, and it can be quite a hassle to contact people and manage them.
+I also messed up multiple times at the end of round 3 by adding the wrong people to Shenanigans before kicking them out. System errors are real. Even if the database administrator has the contact information of everyone, most moderators don't, and it can be quite a hassle to contact people and manage them.
 
 ---
 
@@ -2123,11 +2123,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1ODk3MjE4OTAsLTE1ODYyNDEzOTUsLTEwNjI1OT
-AxOTgsLTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5
-LC0xOTEwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMT
-YwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3
-MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC
-01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1
-NTMyOTI4XX0=
+c3RvcnkiOlstMTcyMjQ4MzY0MCwtMTU4NjI0MTM5NSwtMTA2Mj
+U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
+MjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMD
+ExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1
+OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNT
+UsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04
+NzU1MzI5MjhdfQ==
 -->
