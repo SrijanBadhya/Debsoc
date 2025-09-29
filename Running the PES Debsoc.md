@@ -768,22 +768,22 @@ Starting case prep early like this is useful even when you expect a moderator to
 
 The core concept of DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system would work better.
 
-Except for the one issue of having to remember to click the save button, I think this website discovered in late 2024 is ABSOLUTE GOLD, and it made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
+I think this website discovered in late 2024 is ABSOLUTE GOLD, and it made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
 
 https://myattendancetracker.com
 
 I won't type much about the pros and cons of this system because they're all included in the private (to be specific, unlisted) YouTube video I made of how to use the website:
  https://www.youtube.com/watch?v=2L9hfdCo3ds
 
-If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then select any of the 3 classes: 2:30 pm, 4 pm, or 9 pm. But honestly the Youtube video is enough.
+If you want to check out the exact way we used it last year, log in with these credentials, scroll to March 2025, and then select any of the 3 classes: 2:30 pm, 4 pm, or 9 pm. But honestly the Youtube video is enough and you don't need to do this.
 spamsrboy@gmail.com
 password: debsocfuture
 
-I would recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
+I recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
 
 It might look complex initially, but I swear by everything I hold dear that it's absolutely worth it because I've seen how recruitments turned out without it.
 
-The code used in the video and the data(which is unnecessary since your data will be different) can be accessed here:
+The code used in the video and the data (which is unnecessary since your data will be different) can be accessed here:
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
 
 If github is too complicated, you can download the files from the google drive folder here:
@@ -2124,11 +2124,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE5MzA4Mzc4MSwtMTU4NjI0MTM5NSwtMTA2Mj
-U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
-MjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMD
-ExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1
-OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNT
-UsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04
-NzU1MzI5MjhdfQ==
+c3RvcnkiOlstNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
+kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
+OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
+E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
+NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NS
+wtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3
+NTUzMjkyOF19
 -->
