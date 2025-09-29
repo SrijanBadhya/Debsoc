@@ -747,13 +747,13 @@ The basement seminar hall is difficult for first year students to find, especial
 
 One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later where you shoo people away.
 
-This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad, he just liked debate.
+This one time I was texting a debater who was one week into round 3, during an online session. He told me that the Debsoc was doing a great job and that we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad. He just liked debate and was here.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
 
 
 ---
 
-Parallel processing using multiple moderators greatly increases efficiency, but it often isn't enough for round 1 and round 2. 
+Parallel processing using multiple moderators greatly improves efficiency, but it often isn't enough for round 1 and round 2. 
 The extra technique which was very beneficial in 2024 was pipelining.
 
 When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we all had ongoing debates, I would give a set of 6 people their motion and start their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed.
@@ -2123,11 +2123,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM4OTE1NzYwNywtMTU4NjI0MTM5NSwtMTA2Mj
-U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
-MjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMD
-ExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1
-OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNT
-UsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04
-NzU1MzI5MjhdfQ==
+c3RvcnkiOlsxNzIwMjYyNzExLC0xNTg2MjQxMzk1LC0xMDYyNT
+kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
+OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
+E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
+NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NS
+wtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3
+NTUzMjkyOF19
 -->
