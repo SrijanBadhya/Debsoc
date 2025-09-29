@@ -55,7 +55,7 @@ I. [Guiding Principles](#guiding-principles)
 
 II. [Recruitments](#recruitments)
 
-&emsp; 1. [Recruitment Concepts](#recruitment-concepts)
+&emsp; 2. [Recruitment Concepts](#recruitment-concepts)
      &emsp;&emsp;a) [History](#history)
      &emsp;&emsp;b) [Depth wise inclusivity](#depth-wise-inclusivity)
      &emsp;&emsp;c) [Breadth wise inclusivity](#breadth-wise-inclusivity)
@@ -65,12 +65,12 @@ II. [Recruitments](#recruitments)
 	     &emsp; &emsp;&emsp;ii) [Round 3](#round-3)
      &emsp;&emsp;e) [Notes on Recruitment Debates](#a-few-notes-on-recruitment-debates)
      
-&emsp; 2. [Recruitment Logistics](#recruitment-logistics)
+&emsp; 3. [Recruitment Logistics](#recruitment-logistics)
      &emsp;&emsp;a) [The Database](#the-database)
      &emsp;&emsp;b) [More Logistic Tips](#more-logistic-tips)
      &emsp;&emsp;c) [The Digital Attendance Tracker](#the-digital-attendance-tracker)
      
-&emsp; 3. [Meme Day](#meme-day)
+&emsp; 4. [Meme Day](#meme-day)
      
 III. [Inside a session](#inside-a-session)
 &emsp;1. [Session Concepts](#session-concepts)
@@ -212,6 +212,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 # Recruitments
 [Back to the Table of Contents](#table-of-contents)
 
+## Orientation
  
 ## Recruitment Concepts
 
@@ -2126,11 +2127,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNj
-A2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgs
-LTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOT
-EwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkw
-NCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLT
-Q2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3
-ODI0NDNdfQ==
+c3RvcnkiOlsxNDM3NDc2ODQsLTU0NzkzNzI3NSwtMTY1MDE3OT
+I3LDMxODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1LC0x
+MDYyNTkwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mj
+g1NTIyOSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEy
+LDEwMTE2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNj
+U2NDU5NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0
+MzI1NV19
 -->
