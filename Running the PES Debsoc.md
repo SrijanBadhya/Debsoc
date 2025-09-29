@@ -714,13 +714,13 @@ When a Debsoc member acts as a swing, you just need to write (swing) in parenthe
 There are 2 ways to implement this. One way is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere and uploading these later. 
 The drawback of the first one is that you may sometimes forget whether you've filled a person's details at all. Or something could change dynamically, like recruits getting swapped or leaving before the debate, but you can't adapt to this change since you may have already submitted the form. 
 The drawback of the second method is that people tend to either end up forgetting to fill the form or end up searching where they've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff. 
-I lean towa
+I lean towards the first method.
 
 It's quite common to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
 
-Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. 
+Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. Decide whether you want responses to be editable or not (only the last response on google forms is editable).
 
-A few moderators miss out on people's surnames either due to forgetfulness or believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
+A few moderators miss out on people's surnames either due to forgetfulness or due to believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
 If you have a name but not a phone number, but need the phone number for verification, searching the name up on WhatsApp won't always work, and even when it does, it might be misleading if you see a name like Sudhiksha and think you've found your person. Some people save their WhatsApp names as ~ or * or <> instead of their real names. You might have to ask stuff like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. 
 
@@ -2123,11 +2123,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NTMzMzE0NTcsLTEwNjI1OTAxOTgsLTIwMDAxND
-U4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOTEwMjM0NzAy
-LDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwyOTc5MD
-YzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLTQ2NTg1NDIy
-NywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3ODI0NDMsMT
-M5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1NTMyOTI4LDU2MTkz
-NDIwM119
+c3RvcnkiOlstMTI0ODQ5NDE1OSwtMTA2MjU5MDE5OCwtMjAwMD
+E0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3
+MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5Nz
+kwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0
+MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0My
+wxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04NzU1MzI5MjgsNTYx
+OTM0MjAzXX0=
 -->
