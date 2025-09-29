@@ -821,7 +821,7 @@ It feels incredibly fulfilling because the extent to which the juniors shit on y
 
 An alternate motion which does make more sense is, "THR participating in the Debsoc recruitment process." This however nudges people more towards likelihood analysis on getting in which could be boring, as opposed to the other motion which nudges people towards saying the club is a shit club to join.
 
-While fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you up agai. It's truly a wonderful experience.
+While fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
 
 ---
 
@@ -2126,11 +2126,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NzEwNDE0NDYsLTE2NTAxNzkyNywzMTg3ODA2MD
-YsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwt
-MjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUyMjksLTE5MT
-AyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0
-LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtND
-Y1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4
-MjQ0M119
+c3RvcnkiOlstNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNj
+A2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgs
+LTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOT
+EwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkw
+NCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3MzUsLT
+Q2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC01NDg3
+ODI0NDNdfQ==
 -->
