@@ -766,9 +766,9 @@ Starting case prep early like this is useful even when you expect a moderator to
 
 [Back to the Table of Contents](#table-of-contents)
 
-The main principle behind DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system works better.
+The core concept of DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system would work better.
 
-Except for having to remember to save, I think this website discovered in late 2024 is ABSOLUTE GOLD, and made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
+Except for the one issue of having to remember to click the save button, I think this website discovered in late 2024 is ABSOLUTE GOLD, and it made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
 
 https://myattendancetracker.com
 
@@ -2124,11 +2124,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTU2MTAzNDQzLC0xNTg2MjQxMzk1LC0xMDYyNT
-kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
-OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
-E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
-NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NS
-wtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3
-NTUzMjkyOF19
+c3RvcnkiOlstMTE5MzA4Mzc4MSwtMTU4NjI0MTM5NSwtMTA2Mj
+U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
+MjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMD
+ExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1
+OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMyNT
+UsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC04
+NzU1MzI5MjhdfQ==
 -->
