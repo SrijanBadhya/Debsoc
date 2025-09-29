@@ -790,7 +790,7 @@ If github is too complicated, you can download the files from the google drive f
 https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=drive_link
 
 
-Doing this digitally saves time and effort at the end of recruitments, and  honestly minimizes compilation errors and errors throughout the process. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session).   
+Tracking attendance digitally saves time and effort at the end of recruitments, and  honestly minimizes compilation errors and errors throughout the process. The highest chances for error are the parts which are dependent on humans, like collecting data, inputting it, not mixing up Jhanvi with Jahnavi, and communicating responsibilities with each other (last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session).   
 
 If you can find a way to access the benefits and overcome the flaws (like a better website), then that would be great.
 
@@ -2124,11 +2124,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
-kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
-OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
-E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
-NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NS
-wtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3
-NTUzMjkyOF19
+c3RvcnkiOlszMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MT
+M5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0
+LC00NDI4NTUyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3Nj
+Q5MjgxMiwxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0
+NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LD
+E1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDEx
+Mzg5MTIwXX0=
 -->
