@@ -800,11 +800,13 @@ If you can find a way (like a better website) to access the benefits and overcom
 
 [Back to the Table of Contents](#table-of-contents)
 
-My favorite tradition to continue on the last day of every recruitment season, has been meme day.
+My favorite tradition to continue on the last day of every recruitment season is meme day.
 
 Announcing that it was meme day led to a surge in attendance for this debate in 2024. 
 
 The specialty of meme day is that the motion is funny, you get unlimited speech time to yap all your ideas, and you are encouraged to be as funny as you can, there's no protected time, and there's no verdict or OA.
+
+A bunch of meme motions are empty, such as, "This house prefers pineapple on pizza."
 
 And the motion I used both years was, "This House, as a first year at PES, Would choose to NOT join the Debsoc".
 
@@ -2125,11 +2127,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDY1MTA2MzQzLDMxODc4MDYwNiwtNTY2NzczOD
-E1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1ODUs
-LTE2NzYyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIzNDcwMiwxNj
-g4Nzg2NiwtNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OTA2MzA0
-LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcsLT
-E0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYz
-Mzc2NTldfQ==
+c3RvcnkiOlszNjc5ODEwNCwzMTg3ODA2MDYsLTU2Njc3MzgxNS
+wtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0x
+Njc2MjU0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3MDIsMTY4OD
+c4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5NzkwNjMwNCwt
+MTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xND
+k2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3
+NjU5XX0=
 -->
