@@ -709,7 +709,7 @@ Sometimes when you notice something missing, you can track the missing data by a
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
 Filling fields like, "PM's name, PM's phone number" of a google form are easier than having to click the right column and filling in the right row of an excel sheet. Chair names and phone numbers are much less likely to be missing with this. 
-When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. It's better than leaving it blank because blank names could cause confusion later about someone being missing.
+When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. This is better than leaving it blank because blank names could cause confusion later about someone being missing.
 
 There are 2 ways to implement this. One way is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. 
 The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something can change dynamically, like recruits getting swapped or leaving before the debate, but you can't adapt to this change since you may have already submitted the form. 
@@ -2122,11 +2122,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NT
-UyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwx
-MDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1Nj
-Q1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMyNDY1LDE1MjM5NDMy
-NTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC0xMDExMzg5MTIwLC
-04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQwODAyNTExLDYzNzU1
-OTI2Nl19
+c3RvcnkiOlstMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2Mj
+U0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYs
+LTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMj
+A1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMy
+NDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC
+0xMDExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQw
+ODAyNTExXX0=
 -->
