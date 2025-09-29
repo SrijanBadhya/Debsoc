@@ -743,9 +743,9 @@ I also messed up multiple times at the end of round 3 by adding the wrong people
 
 [Back to the Table of Contents](#table-of-contents)
 
-The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even thought the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement, and we picked them up from there.
+The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
 
-One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later shooing people away.
+One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later where you shoo people away.
 
 This one time I was texting a debater who was one week into round 3. He told me that the Debsoc was doing a great job, and we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad, he just liked debate.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
@@ -2123,7 +2123,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcyMjQ4MzY0MCwtMTU4NjI0MTM5NSwtMTA2Mj
+c3RvcnkiOlstMTM4OTE1NzYwNywtMTU4NjI0MTM5NSwtMTA2Mj
 U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
 MjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5MjgxMiwxMD
 ExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMjA1MzM0NywtMTY1NjQ1
