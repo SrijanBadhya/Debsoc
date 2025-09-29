@@ -727,7 +727,7 @@ If you have a name but not a phone number, and need the phone number for verific
 I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to round 1 of recruitments without even being a part of the WhatsApp group, and searching for these people is hopeless if you've missed out on their contact information before. The safety of having these backup details is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
-Last year we had a system of code words, assigned by the chair, which were unique to each debate. This mildly improved trackability, because if people couldn't remember names, they could still be identified by the code word. And you could also check if you had all 6 people involved in the debate. However, a lot of chairs forgot to give code words (including me). If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
+Last year we had a system of code words, assigned by the chair, which were unique to each debate. This mildly improved trackability, because if people couldn't remember names, they could still be identified by the code word. When one has 5 people accounted for but not the 6th person involved in the debate, a code word can help. However, a lot of chairs forgot to give code words (including me. If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
 
 
 The most effective method at minimizing errors, which should be obvious by now, is uploading the data to the central database ASAP. The longer moderators delay, the higher chance that they forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
@@ -2123,7 +2123,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTQyMjcyNTQyLC0xNTg2MjQxMzk1LC0xMDYyNT
+c3RvcnkiOlsyMTMwNTI1MTYyLC0xNTg2MjQxMzk1LC0xMDYyNT
 kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
 OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
 E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
