@@ -708,10 +708,10 @@ Sometimes when you notice something missing, you can track the missing data by a
 
 
 Regardless of how careful you are, data entry errors are incredibly common. At the very least, I think having a google form linked to spreadsheets is much more reliable than typing directly into the spreadsheet. 
-Filling fields like, "PM's name, PM's phone number" of a google form are easier than having to click the right column and filling in the right row of an excel sheet. Chair names and phone numbers are much less likely to be missing with this. 
-When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. This is better than leaving it blank because blank names could cause confusion later about someone being missing.
+Filling fields like, "PM's name, PM's phone number" of a google form is easier than having to click the right column and filling in the precise row of an excel sheet. Chair names and phone numbers are much less likely to be missing with this. 
+When a Debsoc member acts as a swing, you just need to write (swing) in parentheses. This is better than leaving it blank because a blank name could cause confusion later about someone being missing.
 
-There are 2 ways to implement this. One way is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere, and uploading it later. 
+There are 2 ways to implement this. One way is making moderators directly fill the google form. The other is having moderators write down the names and contact details somewhere and uploading these later. 
 The drawback of the first one is that you may sometimes forget whether you've filled a person at all. Or something can change dynamically, like recruits getting swapped or leaving before the debate, but you can't adapt to this change since you may have already submitted the form. 
 The drawback of the second method is that people tend to end up forgetting to fill the form or end up searching where they've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff.
 
@@ -2122,11 +2122,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2Mj
-U0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYs
-LTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMj
-A1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMy
-NDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2MzM3NjU5LC
-0xMDExMzg5MTIwLC04NzU1MzI5MjgsNTYxOTM0MjAzLC0xNjQw
-ODAyNTExXX0=
+c3RvcnkiOlstOTAxODA0OTI3LC0xMDYyNTkwMTk4LC0yMDAwMT
+Q1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIzNDcw
+MiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OT
+A2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQy
+MjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLD
+EzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3NTUzMjkyOCw1NjE5
+MzQyMDNdfQ==
 -->
