@@ -791,9 +791,9 @@ https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=dri
 
 
 Tracking attendance digitally saves time and effort at the end of recruitments, and actually minimizes errors throughout the process (including compilation errors at the end). The highest chances for error are the parts which are dependent on humans, like collecting data from everyone, inputting it, not mixing up 'Jhanvi' with 'Jahnavi', and communicating responsibilities with each other. 
-Last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session.   
+Last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session. If you split the responsibility this time, there are possible data synchronization issues (like forgetting to upload names if you're used to someone else uploading them). 
 
-If you can find a way to access the benefits and overcome the flaws (like a better website), then that would be great.
+If you can find a way (like a better website) to access the benefits and overcome the flaws, then that would be great.
 
   ---
 ## Meme day
@@ -2125,11 +2125,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE1NzA3MDIwOSwzMTg3ODA2MDYsLTU2Njc3Mz
-gxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1
-LC0xNjc2MjU0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3MDIsMT
-Y4ODc4NjYsLTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5NzkwNjMw
-NCwtMTgyMjA1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC
-0xNDk2MTMyNDY1LDE1MjM5NDMyNTUsLTU0ODc4MjQ0MywxMzk2
-MzM3NjU5XX0=
+c3RvcnkiOlsyMDY1MTA2MzQzLDMxODc4MDYwNiwtNTY2NzczOD
+E1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1ODUs
+LTE2NzYyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIzNDcwMiwxNj
+g4Nzg2NiwtNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OTA2MzA0
+LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQyMjcsLT
+E0OTYxMzI0NjUsMTUyMzk0MzI1NSwtNTQ4NzgyNDQzLDEzOTYz
+Mzc2NTldfQ==
 -->
