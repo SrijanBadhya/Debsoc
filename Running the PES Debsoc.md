@@ -724,7 +724,7 @@ A few moderators miss out on people's surnames either due to forgetfulness or du
 
 If you have a name but not a phone number, and need the phone number for verification, searching the name up on the WhatsApp group won't always work. Even when it does, it might be misleading if you see a name like Sudhiksha and believe you've found your person. Some people save their WhatsApp names as ~ or * or .. instead of their real names. You might have to ask stuff to the whole group like like, "Who was the DPM in my room last Tuesday? Please give me your number," but you're lucky if they even remember who you are. 
 
-I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to round 1 of recruitments without even being a part of the WhatsApp group, and searching for these people is hopeless if you've missed out on their contact information. The safety of having these candidate keys is worth the effort.
+I believe 2 candidate keys should be used. Full name, phone number, and SRN/email address. People can mishear phone numbers. People can misunderstand phone numbers written by the recruits themselves. Very often people show up to round 1 of recruitments without even being a part of the WhatsApp group, and searching for these people is hopeless if you've missed out on their contact information before. The safety of having these backup details is worth the effort.
 In round 3, just the name and phone number can suffice because you're more in control of the world at that point.
 
 Last year we had a system of code words, unique to every debate. The code word was assigned by the chair, which mildly improved trackability, because if people couldn't remember names, they could be identified by the code word. And you could also check if you had all 6 people involved in the debate. However, a lot of chairs forgot to give code words (including me). If you can ensure collection of phone numbers and another unique id, then code words are superfluous.
@@ -2123,11 +2123,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzUxNzAwODYsLTE1ODYyNDEzOTUsLTEwNjI1OT
-AxOTgsLTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5
-LC0xOTEwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMT
-YwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3
-MzUsLTQ2NTg1NDIyNywtMTQ5NjEzMjQ2NSwxNTIzOTQzMjU1LC
-01NDg3ODI0NDMsMTM5NjMzNzY1OSwtMTAxMTM4OTEyMCwtODc1
-NTMyOTI4XX0=
+c3RvcnkiOlsxMTgzODAxMjM2LC0xNTg2MjQxMzk1LC0xMDYyNT
+kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
+OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
+E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
+NzM1LC00NjU4NTQyMjcsLTE0OTYxMzI0NjUsMTUyMzk0MzI1NS
+wtNTQ4NzgyNDQzLDEzOTYzMzc2NTksLTEwMTEzODkxMjAsLTg3
+NTUzMjkyOF19
 -->
