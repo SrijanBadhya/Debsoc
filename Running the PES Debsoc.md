@@ -756,9 +756,10 @@ Although this can't be avoided, and it _is_ important to make the link as access
 Parallel processing using multiple moderators greatly improves efficiency, but it often isn't enough for round 1 and round 2. 
 An extra technique which was very beneficial in 2024 was pipelining.
 
-When all the moderators have their hands full, at least one person still needs to keep an eye out for people streaming in. When all of us had ongoing debates, I would give a set of 6 people their motion and start their case prep to minimize their idle time. Around the time they got done with prep, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed. If someone has been waiting with 2 other people for 15 minutes, then you might as well 
+When all the moderators have their hands full, at least one person still needs to keep an eye out for people streaming in. When all of us had ongoing debates, I would give a set of 6 people their motion and start their case prep to minimize their idle time. Around the time they got done with prep, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed. 
+If someone has been waiting with 2 other people for 15 minutes, then you might as well get them started without waiting for more people.
 
-Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
+Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival will coincide with the end of the case prep of the recruits.
 
 ---
 ### The Digital Attendance Tracker
@@ -2123,7 +2124,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjMyOTk0NjQzLC0xNTg2MjQxMzk1LC0xMDYyNT
+c3RvcnkiOlsxMTU2MTAzNDQzLC0xNTg2MjQxMzk1LC0xMDYyNT
 kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
 OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
 E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
