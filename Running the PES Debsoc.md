@@ -537,7 +537,7 @@ In the interest of time and simplicity, it makes sense to drop a lot of procedur
 
 We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
 
-Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict. Quoting Nikhil, "People will get the false idea that the winner will proceed to the next round and will get the idea that debate is about winning and putting down the other side at any cost, so the incentive to act sus (cheat) is higher"
+Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict. Quoting Nikhil, "People will get the false idea that the winner will proceed to the next round and will get the idea that debate is about winning and putting down the other side at any cost, so the incentive to act sus (cheat) is higher."
 
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
 The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). So you can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
@@ -2131,11 +2131,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDIyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNz
-UsLTE2NTAxNzkyNywzMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4
-NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2Mj
-U0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYs
-LTQ3NjQ5MjgxMiwxMDExNjA0OTA0LDI5NzkwNjMwNCwtMTgyMj
-A1MzM0NywtMTY1NjQ1OTczNSwtNDY1ODU0MjI3LC0xNDk2MTMy
-NDY1XX0=
+c3RvcnkiOlsxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMD
+EsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2
+NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMT
+Q1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIzNDcw
+MiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMTE2MDQ5MDQsMjk3OT
+A2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5NzM1LC00NjU4NTQy
+MjddfQ==
 -->
