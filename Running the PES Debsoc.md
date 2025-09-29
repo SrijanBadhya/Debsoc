@@ -754,9 +754,9 @@ Although this can't be avoided, and it _is_ important to make the link as access
 ---
 
 Parallel processing using multiple moderators greatly improves efficiency, but it often isn't enough for round 1 and round 2. 
-The extra technique which was very beneficial in 2024 was pipelining.
+An extra technique which was very beneficial in 2024 was pipelining.
 
-When all the moderators have their hands full, at least one person still needs to remain alert about people streaming in. What I did last year was, even if we all had ongoing debates, I would give a set of 6 people their motion and start their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed.
+When all the moderators have their hands full, at least one person still needs to keep an eye out for people streaming in. What I did last year was, even if we all had ongoing debates, I would give a set of 6 people their motion and start their case prep, to minimize their idle time. Around the time they get done, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed.
 
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival would coincide with the end of case prep of recruits.
 
@@ -2123,7 +2123,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzIwMjYyNzExLC0xNTg2MjQxMzk1LC0xMDYyNT
+c3RvcnkiOlsxMjg5ODM3NTUwLC0xNTg2MjQxMzk1LC0xMDYyNT
 kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
 OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
 E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
