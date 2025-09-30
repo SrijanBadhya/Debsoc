@@ -435,10 +435,10 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 
 This criticism has been applied on doing multiple matter sessions as well. 
 
-- There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. Multiple options might even increase the value in the eyes of the juniors who believe this. (Even for people who already have attended the mattersession/recruitment, the debsoc showing care for its members improves their perception of the club, as shown in the picture earlier.)
+- There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. Multiple options might even increase the value in the eyes of the juniors who believe this. (Even for people who already have attended the matter session/recruitment round, the debsoc showing care for its members improves their perception of the club, as shown in the picture earlier.)
 - The initial poll of availability allows people to vote multiple options (all the days which they can possibly attend on). Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment round/matter session at all.
-- There are 3 groups of people, people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
-- The issue with limiting days is that you're quite likely to lose someone from even group 1 (and others from group 2 for whom this extension thing is _not_ the tipping point). Regardless of them being interested in debsoc, there are often clashing events, clashing plans, and other stuff explained before which forcefully prevents them from accessing the value of the matter session.
+- There are 3 groups of people: people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
+- The issue with limiting days is that you're quite likely to lose someone from even group 1 (or someone from group 2 for whom this extension thing is _not_ the tipping point) who is unable to attend on your particular day. Regardless of them being interested in debsoc, there are often clashing events, clashing plans, and other stuff explained before which forcefully prevents them from accessing the value of the matter session.
 - If there's a tradeoff to be made then sure, you can limit the options. If there's an actual harm of efficiency(delays), or preventing some other event, or consuming your time. There's just no trade-off of "interest in people/turnout", because there's more likelihood of losing interested people to this than gaining people on the fence.
 
 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlszNDg0MjA0NzksLTEyNDk1ODkxNjEsLTkwMTM0OD
-I3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1
-LC0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MT
-g1ODUzMzQsMTE0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1
-MDcsLTc1ODIzODk2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLT
-EwMjQ1NzYzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQz
-MDkyMDcyXX0=
+c3RvcnkiOlstMzg5NTQ5NzI5LC0xMjQ5NTg5MTYxLC05MDEzND
+gyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1
+NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOT
+E4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1
+NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC
+0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0
+MzA5MjA3Ml19
 -->
