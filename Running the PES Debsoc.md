@@ -414,7 +414,8 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 <br>
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
-- Moreover, the idea of a tarnished image is a speculative harm, which weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
+- Moreover, the idea of a tarnished image is a speculative harm, which weighs poorly against the real literal harm of people not being included even though they want to be. 
+It's hard to pinpoint the exact causes of people losing interest and dropping out. 
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
 - + It doesn't cause serious harm on the soc to take more people in. 
@@ -2146,11 +2147,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0NDQ3MTU1MDcsLTc1ODIzODk2MywtMTgzMjg3OD
-g1LDE2MzE1MTUwMzksLTEwMjQ1NzYzMzUsLTY3ODE2OTcwLC0x
-ODU3Mzc3ODU1LC0yMTQzMDkyMDcyLDE0OTU1MTE5MzIsMjA5OT
-A0NTYwLDE5MDAwNzc2NjcsLTQ4MDkzNDI3MiwtMTkwOTgxMDUx
-NCwxNDM5MTk4Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MTMzLDEyNj
-U0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1
-XX0=
+c3RvcnkiOlstMTIzODk5Mjc2Miw0NDQ3MTU1MDcsLTc1ODIzOD
+k2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYzMzUs
+LTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcyLDE0OT
+U1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MDkzNDI3
+MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4LC0yMT
+E1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOTIw
+MV19
 -->
