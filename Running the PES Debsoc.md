@@ -279,11 +279,11 @@ The third round was a month long, with sessions every day, and people who attend
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance' instead of 'high attendance.' One guy showed up for just one debate and later complained to me that he wasn't taken in 'even though he won 1/1 of his debates'. So being careful with phrasing is critical. Using the word 'attendance' instead is also risky since it could turn off people by reminding them of college.**
 
 Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
-- People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3. 
+- People filter themselves out after round 1 and round 2, so you'll have less data to handle in round 3. 
 - + Handling data consistently and accurately in recruitments is extremely challenging, since the more names you have, the time taken to perform all operations like searching, marking, and copying increases, and the chance for names to slip by increases too.
 
 ---
-A few issues with the month long recruitment:
+A few issues with the month-long recruitment:
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
 - First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (oh the sweet summer first year children).
 - + Another issue this leads to is that if all the active seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
@@ -2144,11 +2144,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMDc3Nj
-Y3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2
-NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4Mj
-QyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMx
-ODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
-kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
-OV19
+c3RvcnkiOlstNTg2OTM2NTAsMTQ5NTUxMTkzMiwyMDk5MDQ1Nj
+AsMTkwMDA3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0
+MzkxOTg3NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxND
+czNiwxMDIyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2
+NTAxNzkyNywzMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MT
+M5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0
+XX0=
 -->
