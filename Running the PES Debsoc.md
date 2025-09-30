@@ -344,7 +344,7 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth wise inclusivity, I mean making an effort to take more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
 
-Absolutely do not set a percentage of applicants as the bar like, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions) and mark the threshold on that instead. Choose people for being interested, not for being more interested than others.
+Absolutely do not set a percentage of applicants as the bar like, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to measure marks in an exam (or whatever you use as an indication of interest like the number of sessions) and mark the threshold on that instead. Choose people for being interested, not for being more interested than others.
 
 
 We usually conduct round 1 across 3 days so that people can come on any day according to their flexibility. Round 2 is also usually similarly over 3 days. 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDc2MzIyODU5LC0xODU3Mzc3ODU1LC0yMTQzMD
-kyMDcyLDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2Njcs
-LTQ4MDkzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MT
-Y2MDU4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIy
-LDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4Nz
-gwNjA2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAx
-OThdfQ==
+c3RvcnkiOlstNjc4MTY5NzAsLTE4NTczNzc4NTUsLTIxNDMwOT
+IwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2Nywt
+NDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNj
+YwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIs
+ODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3OD
+A2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5
+OF19
 -->
