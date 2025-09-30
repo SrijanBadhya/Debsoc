@@ -276,7 +276,7 @@ The third round was a month long, with sessions every day, and people who attend
 - Glaring issues could pop up, making us aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them backstabbing by leaking info from the group later.
 - This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
-- **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for just one debate and later complained to me that he wasn't taken in 'even though he won 1/1 of his debates. So be careful with your phrasing. Using the word 'attendance' instead is also risky since it could turn off people by reminding them of college.**
+- **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance' instead of 'high attendance.' One guy showed up for just one debate and later complained to me that he wasn't taken in 'even though he won 1/1 of his debates'. So being careful with phrasing is critical. Using the word 'attendance' instead is also risky since it could turn off people by reminding them of college.**
 
 Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
 - People filter themselves out after round 1 and round 2, and you'll have less data to handle in round 3. 
@@ -2144,11 +2144,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTY5NTgxODI1NSwyMDk5MDQ1NjAsMTkwMDA3Nz
-Y2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQs
-NjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyOD
-I0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywz
-MTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2Mj
-U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
-MjldfQ==
+c3RvcnkiOlsxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMDc3Nj
+Y3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2
+NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4Mj
+QyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMx
+ODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
+kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
+OV19
 -->
