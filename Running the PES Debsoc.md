@@ -416,15 +416,15 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 
 - Moreover, the idea of a tarnished image is a speculative harm, which weighs poorly against the real literal harm of people not being included even though they want to be. 
 
-- Addressing the other half of the statement, it is very valid to a high bar to get into a tourney instead, and keep a low bar of entry to the soc. 
+- Addressing the other half of the statement, it is very valid to have a high bar to get into a tourney instead, and keep a low bar of entry to the soc. 
 - + Having a high bar to get into the soc makes debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow possible growth in interest or consistency later. 
 - + Taking more people in is not a serious burden or harm for the soc.
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments," isn't something really caused by the low bar of entry to the soc.
 
-A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
-And nobody ever thinks this thought:
-"If we had taken in lesser people, we could have had more active people today". 
+A major problem of the soc is the lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
+And nobody ever thinks this:
+"If we had taken in lesser people, we would have had more active people today". 
 
 ![enter image description here](https://i.imgflip.com/a72qei.jpg)
 
@@ -2149,7 +2149,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDk4ODcxMzAyLDkxODU4NTMzNCwxMTQyOTcxMz
+c3RvcnkiOlstMjk0ODY1NDYyLDkxODU4NTMzNCwxMTQyOTcxMz
 kzLC0xNzE3MDc2MTU2LDQ0NDcxNTUwNywtNzU4MjM4OTYzLC0x
 ODMyODc4ODUsMTYzMTUxNTAzOSwtMTAyNDU3NjMzNSwtNjc4MT
 Y5NzAsLTE4NTczNzc4NTUsLTIxNDMwOTIwNzIsMTQ5NTUxMTkz
