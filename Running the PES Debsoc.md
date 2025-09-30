@@ -215,12 +215,14 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 
 ## Orientation
 
-The purposes of orientation are:
+The main purposes of orientation are:
 1. To paint a clear picture of what debating and the Debsoc are like.
 2. To increase interest in debating.
 3. To make people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
 
-In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" 
+I think a great feature of our Orientation has been our Demo Debate. Letting the audience pick the motion among the 3 motions 
+
+In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably since every other club filtered people based on skill.
 
 I believe talking too much about the AP and BP format would just feel like an overload because there are so many complicated things to remember. This would give people more confusion than meaningful information. 
 
@@ -2138,11 +2140,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4Mj
-QyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMx
-ODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
-kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
-OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
-E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
-NzM1XX0=
+c3RvcnkiOlsxNzE1NzQyNTAxLC0yMTE1NzQ2MTMzLDEyNjU0MT
+Q3MzYsMTAyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0x
+NjUwMTc5MjcsMzE4NzgwNjA2LC01NjY3NzM4MTUsLTE1ODYyND
+EzOTUsLTEwNjI1OTAxOTgsLTIwMDAxNDU4NSwtMTY3NjI1NDYy
+NCwtNDQyODU1MjI5LC0xOTEwMjM0NzAyLDE2ODg3ODY2LC00Nz
+Y0OTI4MTIsMTAxMTYwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMz
+NDddfQ==
 -->
