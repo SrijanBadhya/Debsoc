@@ -56,6 +56,7 @@ I. [Guiding Principles](#guiding-principles)
 II. [Recruitments](#recruitments)
 
 &emsp; 1. [Orientation](#orientation)
+
 &emsp; 2. [Recruitment Concepts](#recruitment-concepts)
      &emsp;&emsp;a) [History](#history)
      &emsp;&emsp;b) [Depth wise inclusivity](#depth-wise-inclusivity)
@@ -2142,11 +2143,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MD
-U4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgw
-MTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNj
-A2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgs
-LTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOT
-EwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkw
-NF19
+c3RvcnkiOlstNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOT
+g3NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwx
+MDIyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNz
+kyNywzMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwt
+MTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00ND
+I4NTUyMjksLTE5MTAyMzQ3MDIsMTY4ODc4NjYsLTQ3NjQ5Mjgx
+Ml19
 -->
