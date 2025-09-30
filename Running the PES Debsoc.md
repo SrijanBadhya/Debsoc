@@ -371,13 +371,13 @@ A third option, initiating the text conversation yourself in the dms of everyone
 
 First, let's break the recruits into 2 groups of people:
 Group 1: the people that you'd recruit by having a 3-day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
-Group 2: the extra people that you'll get by putting extra effort to be extra accommodating of people. 
+Group 2: the extra people that you get by putting extra effort to be extra accommodating of people. 
 
 _The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 has the lazy people who barely made it into the club._
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
 
-(I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the Debsoc tells me I could have come tomorrow, a sudden 'extra day'. This is solved by group 2 people having to put extra effort, like having to dm a club head, or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of the peace of mind of completing their task, which they earned by being there on the right days.)
+(I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well, a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of the peace of mind of completing their task, which they earned by being there on the right days.)
 
 Group 2 is already assumed to not take the Debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAyNDU3NjMzNSwtNjc4MTY5NzAsLTE4NTczNz
-c4NTUsLTIxNDMwOTIwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAs
-MTkwMDA3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0Mz
-kxOTg3NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDcz
-NiwxMDIyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NT
-AxNzkyNywzMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5
-NV19
+c3RvcnkiOlsxNjMxNTE1MDM5LC0xMDI0NTc2MzM1LC02NzgxNj
+k3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3MiwxNDk1NTExOTMy
+LDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MD
+k4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEz
+MywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0Nz
+kzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1
+XX0=
 -->
