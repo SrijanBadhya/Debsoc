@@ -397,8 +397,8 @@ This blue box touches upon a very complicated problem: the challenge seeming so 
 ![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
 
 A lot of people in group 1 will drop out due to **falling interest**. 
-However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** instead because debate turned out to be more fun than they had thought. 
-Losing people who lose interest over time is fine, but we can't afford to have lost people whose interest grows over time.
+However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** when debate turns out to be more fun than they had thought. 
+Losing people who lose interest over time is fine, but we can't afford to lose people whose interest would have grown.
 
 It's unfair to judge people's initial interest in an activity if some of them didn't even know that it was as exciting as it is. A few people don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), but come more often in the last 2 weeks because they're more interested in it and debsoc people are fun to be with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTIxMDAxOTg4LDE2MzE1MTUwMzksLTEwMjQ1Nz
-YzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcy
-LDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MD
-kzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4
-LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMT
-gwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2
-XX0=
+c3RvcnkiOlstMTA1MTc5ODMyNCwxNjMxNTE1MDM5LC0xMDI0NT
+c2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3
+MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00OD
+A5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1
+OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MD
+E4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYw
+Nl19
 -->
