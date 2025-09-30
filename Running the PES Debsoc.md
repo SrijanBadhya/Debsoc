@@ -375,7 +375,7 @@ Group 2: the extra people that you get by putting extra effort to be extra accom
 
 _The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 has the lazy people who barely made it into the club._
 
-The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
+The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. People in group 1 do end up dropping out a year later, but it's hard to pinpoint the exact cause of this.
 
 (I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well, a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of peace of mind which they earned by being there on the right days.)
 
@@ -415,7 +415,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
 - Moreover, the idea of a tarnished image is a speculative harm, which weighs poorly against the real literal harm of people not being included even though they want to be. 
-It's hard to pinpoint the exact causes of people losing interest and dropping out. 
+
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
 - + It doesn't cause serious harm on the soc to take more people in. 
@@ -2147,11 +2147,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIzODk5Mjc2Miw0NDQ3MTU1MDcsLTc1ODIzOD
-k2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYzMzUs
-LTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcyLDE0OT
-U1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MDkzNDI3
-MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4LC0yMT
-E1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOTIw
-MV19
+c3RvcnkiOls3NjcyNTQ2MjMsNDQ0NzE1NTA3LC03NTgyMzg5Nj
+MsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC0xMDI0NTc2MzM1LC02
+NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3MiwxNDk1NT
+ExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIs
+LTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNT
+c0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDFd
+fQ==
 -->
