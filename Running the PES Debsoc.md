@@ -473,7 +473,7 @@ You will feel frustrated about all the time and effort you put for these people,
 
 
 Alright then, why have a recruitment in the first place? Why not just take everyone that wants to join the club, into the club?
-Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, still gives us like 80% of the benefits of selectivity that I talk about in [History](#history). And the best part is that when people stop showing up to debates during the month of round 3, that means they've lost interest and have filtered themselves out. And hence you don't need to add people to a group they don't want to be in.
+Having an inclusive round 1, round 2, and round 3, while having a low bar for selectivity, still gives us like 80% of the benefits of selectivity that I talk about in [History](#history). When people stop showing up to debates during the month of round 3, that means they've lost interest and have filtered themselves out. Hence you don't need to add people to a group they don't want to be in.
 
 ---
 ## The 2024 model
@@ -2149,7 +2149,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTczMDg2MzI4LC0xMjQ5NTg5MTYxLC05MDEzND
+c3RvcnkiOlstNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzND
 gyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1
 NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOT
 E4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1
