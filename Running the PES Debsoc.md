@@ -303,14 +303,14 @@ A month-long recruitment might bore some people. I don't fully trust the followi
 
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
-This level of selectivity captured the most benefits, and I believe that being even more selective gives diminishing marginal benefits and leads to more harms.
+This level of selectivity captured the most benefits. I believe that being even more selective gives diminishing marginal benefits and leads to more harms.
 
 Which takes us to **why I believe we should continue to push hard for inclusivity**:
 
 When you see 240ish people on the recruitments group, you might get intimidated. Early on during recruitments, we had thought, "How are we going to run the club if all of them join?!"
-However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them will definitely drop out.
+However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them definitely will still drop out.
 Even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
-A wide net translates to more people who stay.
+A wider net translates to more people who stay.
 
 ---
 ### Depth wise inclusivity
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk0MjMwNjQ4OCwtMjE0MzA5MjA3MiwxNDk1NT
-ExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIs
-LTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNT
-c0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEs
-LTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2Nz
-czODE1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1
-ODVdfQ==
+c3RvcnkiOls0MjIxNjUyMTMsLTIxNDMwOTIwNzIsMTQ5NTUxMT
+kzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2NywtNDgwOTM0MjcyLC0x
+OTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNjYwNTgsLTIxMTU3ND
+YxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIsODAxODA5MjAxLC01
+NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3ODA2MDYsLTU2Njc3Mz
+gxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1
+XX0=
 -->
