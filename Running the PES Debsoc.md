@@ -359,8 +359,8 @@ We usually conduct round 1 across 3 days so that people can come on any day acco
 
 - **Moreover, Recruitments are usually held in October November. Many students go home for a whole week during Diwali or Dussehra, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We do get swamped with requests from these people who were sick or out of town, and care enough to text us because they want to join the club.
-- + You can't measure such texting as the only indication of interest to join the club, because there are people who would like to express interest, but are unaware that they can text the clubheads and beg for this. 
-- + If you do send out a message asking for all the absentees to dm you, then you can use this texting as indication of interest. 
+- + You still can't measure such texting as the only indication of interest to join the club. There are people who would like to express interest but are unaware that they can text the clubheads and beg for this. 
+- + If you do send out a message asking for all the absentees to dm you, then you can use this texting as indication of interest. This
 The third option, initiating the text conversation yourself in the dms of everyone on the group who's left, asking if they want an extra day, is extreme and unnecessary. 
 
 ---
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjc4MTY5NzAsLTE4NTczNzc4NTUsLTIxNDMwOT
-IwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2Nywt
-NDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNj
-YwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIs
-ODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3OD
-A2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5
-OF19
+c3RvcnkiOlszMDYxMzAzNjIsLTY3ODE2OTcwLC0xODU3Mzc3OD
+U1LC0yMTQzMDkyMDcyLDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5
+MDAwNzc2NjcsLTQ4MDkzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MT
+k4Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYs
+MTAyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMT
+c5MjcsMzE4NzgwNjA2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTVd
+fQ==
 -->
