@@ -243,8 +243,8 @@ This is the single place (besides arguably PESDT) where systems matter the most,
 
 First, a brief view on how recruitments were done in the past:
 _My batch (2021, but recruitments ended up happening in the January of 2022) had one round of a quick 1v1 debate, which was online since this was the late Covidian era. The format was 3+1 minute speeches with one witness (like a silent round judge) and once the debate ended, we had no contact._
-_The debsoc took in everyone who participated in this round. (Except for my opponent who was missed out on due to a system error.)_
-_For my first juniors, we had a similar format but offline._ 
+_The Debsoc took in everyone who participated in this round (except for my opponent who was missed out on due to a system error.)_
+_For my first juniors, we had a similar format, just offline._ 
 
 When it comes to recruitments, we naturally arrive at the big question of inclusivity.
 How do you handle the trade-off between being inclusive/selective?
@@ -2143,11 +2143,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAyMTM1ODczNSwxOTAwMDc3NjY3LC00ODA5Mz
-QyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwt
-MjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MD
-kyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwt
-NTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMD
-AwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIz
-NDcwMl19
+c3RvcnkiOlsxMTcyMzUzMjM0LDE5MDAwNzc2NjcsLTQ4MDkzND
+I3MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4LC0y
+MTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOT
+IwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2LC01
+NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgsLTIwMD
+AxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOTEwMjM0
+NzAyXX0=
 -->
