@@ -428,7 +428,7 @@ And nobody ever thinks this:
 
 ![enter image description here](https://i.imgflip.com/a72qei.jpg)
 
-I don't buy in to the logic of, "less people means less dilution which means more concentration of the activity", because people showing up, regardless of how passionate they are, made me feel warm about getting to have a full AP. 
+People just need to care enough about debate to sho
 
 ---
 Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0Mz
-cyMTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMs
-LTE3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4Mz
-I4Nzg4NSwxNjMxNTE1MDM5LC0xMDI0NTc2MzM1LC02NzgxNjk3
-MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3MiwxNDk1NTExOTMyLD
-IwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4
-MTA1MTRdfQ==
+c3RvcnkiOlsxMjI5MjY2MTM5LC0xNjExMjAwNTU1LC0xMjg3OT
+k2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQs
+MTE0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1OD
+IzODk2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYz
+MzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcyLD
+E0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MDkz
+NDI3Ml19
 -->
