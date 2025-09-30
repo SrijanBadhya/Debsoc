@@ -342,7 +342,7 @@ Taking a few points out of Nikhil's recruitment document:
 
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
-By breadth wise inclusivity, I mean providing multiple slots and multiple days for people to finish their round 1 and round 2. Adding extra days for the people who need them.  Making Round 3 open enough for even people with packed lives to be able to reach the minimum bar. 
+By breadth wise inclusivity, I mean making effort for more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
 
 Absolutely do not set a percentage of applicants as the bar, "The top 90% will be recruited". This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like doing math. It's better to measure marks in an exam (or whatever you use as an indication of interest like sessions), and mark the threshold on that instead. Choose people for being interested, not for being more interested than others.
 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg1NzM3Nzg1NSwtMjE0MzA5MjA3MiwxNDk1NT
-ExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIs
-LTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNT
-c0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEs
-LTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2Nz
-czODE1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1
-ODVdfQ==
+c3RvcnkiOlszODQ3NzAxMDcsLTE4NTczNzc4NTUsLTIxNDMwOT
+IwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2Nywt
+NDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNj
+YwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIs
+ODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3OD
+A2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5
+OF19
 -->
