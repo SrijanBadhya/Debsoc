@@ -418,7 +418,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 
 - Addressing the other half of the statement, it is very valid to a high bar to get into a tourney instead, and keep a low bar of entry to the soc. 
 - + Having a high bar to get into the soc makes debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow possible growth in interest or consistency later. 
-- + It's not a serious burden or harm for the soc to take more people in.
+- + Taking more people in is not a serious burden or harm for the soc.
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
 The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
@@ -2147,11 +2147,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTcxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzOD
-k2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYzMzUs
-LTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcyLDE0OT
-U1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MDkzNDI3
-MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4LC0yMT
-E1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOTIw
-MV19
+c3RvcnkiOlsxMTQyOTcxMzkzLC0xNzE3MDc2MTU2LDQ0NDcxNT
+UwNywtNzU4MjM4OTYzLC0xODMyODc4ODUsMTYzMTUxNTAzOSwt
+MTAyNDU3NjMzNSwtNjc4MTY5NzAsLTE4NTczNzc4NTUsLTIxND
+MwOTIwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2
+NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQsNj
+YxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyODI0
+MjJdfQ==
 -->
