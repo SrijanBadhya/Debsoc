@@ -403,12 +403,12 @@ Losing people who lose interest over time is fine, but we can't afford to lose p
 It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later on because it took time for them to really enjoy the soc.)
 
 
-If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the clubheads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the spreadsheet(https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
+If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the clubheads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the [spreadsheet](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0). I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
 ---
 Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
-- You won't look like bad planners since the reason for the extension is not you, but rather them, the recruits who didn't make it to the round 1 yet. 
-- Prestige isn't some tangible value. You don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
+- You won't look like bad planners since the reason for the extension is not you, but actually them, the recruits who didn't make it to the regular round 1. 
+- Prestige isn't some tangible value. The debsoc  don't need to be a prestigious club. You need to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige, hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in", than for people to bitch, "This club was so easy and they took nearly everybody in". The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
 - In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
 <br>
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTk3MjIwMzU1LC0xODMyODc4ODUsMTYzMTUxNT
-AzOSwtMTAyNDU3NjMzNSwtNjc4MTY5NzAsLTE4NTczNzc4NTUs
-LTIxNDMwOTIwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMD
-A3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3
-NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMD
-IyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzky
-N119
+c3RvcnkiOlstMTExNzI5NDk4MSwtMTgzMjg3ODg1LDE2MzE1MT
+UwMzksLTEwMjQ1NzYzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1
+LC0yMTQzMDkyMDcyLDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MD
+AwNzc2NjcsLTQ4MDkzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MTk4
+Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMT
+AyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5
+MjddfQ==
 -->
