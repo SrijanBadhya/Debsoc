@@ -366,14 +366,14 @@ A third option, initiating the text conversation yourself in the dms of everyone
 ---
 #### ==Addressing the criticism==
 1. _Criticism of 'being too inclusive' usually goes along the lines of recruits becoming lazy and apathetic when they see a club 'desperately' going out of their way to pull in people. 'The prestige of a club is proportional to how selective it is, and the Debsoc needs to be prestigious.'_
-2. _One thing I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc"._
+2. _One thing I've heard is, "it definitely makes us look unstructured, unorganised, and bad planners which means people won't take debsoc seriously and feel they will get away with not coming for sessions and when we tell them they can't go to tourneys without sessions, automatically they'll leave the soc."_
 3. _Scarcity leads to an increase in value, and conversely inclusivity decreases the value._
 
 First, let's break the recruits into 2 groups of people:
-Group 1, the people that you'd recruit by having a 3 day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
-Group 2, the extra people that you'll get by putting extra effort to be extra accommodating of people. 
+Group 1: the people that you'd recruit by having a 3-day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
+Group 2: the extra people that you'll get by putting extra effort to be extra accommodating of people. 
 
-_The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 is the lazy people who barely made it into the club._
+_The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 has the lazy people who barely made it into the club._
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
 
@@ -2146,7 +2146,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzEzNTA3OTUzLC02NzgxNjk3MCwtMTg1NzM3Nz
+c3RvcnkiOlsyMDkwOTY4OTUwLC02NzgxNjk3MCwtMTg1NzM3Nz
 g1NSwtMjE0MzA5MjA3MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwx
 OTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOT
 E5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2
