@@ -201,7 +201,7 @@ I personally say don't judge the club at all.
 
 _Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
 - Unfortunately, even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
-- 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor, because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
+- 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
 Sure, there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed towards results instead of enjoying the process.
 (Like me being proud of studying more this month than last month, before having my spirits crushed by my father who informs me that my score has dipped. ~~He doesn't know that this chapter was way harder than the last chapter,~~ so I feel unfairly judged, because my knowledge and work ethic have actually grown). 
@@ -2142,11 +2142,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDM5MTk4Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MT
-MzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3
-OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2LC01NjY3NzM4MT
-UsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgsLTIwMDAxNDU4NSwt
-MTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOTEwMjM0NzAyLDE2OD
-g3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwyOTc5MDYzMDRd
-fQ==
+c3RvcnkiOlstMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MD
+U4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgw
+MTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNj
+A2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgs
+LTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOT
+EwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkw
+NF19
 -->
