@@ -250,10 +250,11 @@ When it comes to recruitments, we naturally arrive at the big question of inclus
 How do you handle the trade-off between being inclusive/selective?
 
 A few pros of being selective:
-- A few PES clubs (like ECell), try to be extremely selective with their members. This generates initial hype over being a 'member of ECell'.
+
+- A few PES clubs (like ECell) try to be extremely selective with their members. This generates initial hype over being a 'member of ECell.'
 - Less members may mean less dilution of spirit and hence you can focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
-- You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding.
+- You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding to your texts.
 - People feel more comfortable to text their thoughts on the group chat when they actually know the people, rather than when they have never seen half the people.
 - Small clubs may have more club loyalty than big clubs. In a big club you have random people who read group chats for entertainment and possibly pass on damaging rumors about seniors.
 
@@ -2143,11 +2144,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTcyMzUzMjM0LDE5MDAwNzc2NjcsLTQ4MDkzND
-I3MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4LC0y
-MTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOT
-IwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2LC01
-NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgsLTIwMD
-AxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOTEwMjM0
-NzAyXX0=
+c3RvcnkiOlsyMDk5MDQ1NjAsMTkwMDA3NzY2NywtNDgwOTM0Mj
+cyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNjYwNTgsLTIx
+MTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIsODAxODA5Mj
+AxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3ODA2MDYsLTU2
+Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMD
+E0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3
+MDJdfQ==
 -->
