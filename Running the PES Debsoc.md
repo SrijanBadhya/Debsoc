@@ -286,7 +286,7 @@ Having a round 1 and a round 2 before this month-long recruitment is still advan
 A few issues with the month-long recruitment:
 
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
-- First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come the week of exams and the week before (oh the sweet summer first year children).
+- First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come on the week of exams and the week before (oh the sweet summer first year children).
 - + Another issue this leads to is that if all the active seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
 - People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to reassure people that they are very likely to be taken in.)
 
@@ -295,7 +295,7 @@ A few issues with the month-long recruitment:
 ![image](https://i.ibb.co/6cGjwG4T/Screenshot-2025-09-06-182805.png)
 
 ![image](https://i.ibb.co/s95RnF86/Screenshot-2025-09-06-183012.png)
-These two bar graphs are from people who dropped out early in round 3 and still filled the feedback form (whose responses can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).)
+These two bar graphs are from people who dropped out early in round 3 yet still filled the feedback form (whose responses can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).)
 
 A month-long recruitment might bore some people. I don't fully trust the following positive responses to the feedback form, even if they were anonymous, but I'm glad some people still enjoyed the month-long recruitment.
 
@@ -305,7 +305,7 @@ A month-long recruitment might bore some people. I don't fully trust the followi
 
 This level of selectivity captured the most benefits, and I believe that being even more selective gives diminishing marginal benefits and leads to more harms.
 
-Which takes us to, **why I believe we should continue to push hard for inclusivity**:
+Which takes us to **why I believe we should continue to push hard for inclusivity**:
 
 When you see 240ish people on the recruitments group, you might get intimidated by the prospect of running such a massive club. Early on during recruitments, we had thought, "How are we going to run the club if all of them join?!"
 However, the pattern I've seen across the years is that, 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them will definitely drop out.
@@ -2145,11 +2145,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjMwODAzOTIsMTQ5NTUxMTkzMiwyMDk5MDQ1Nj
-AsMTkwMDA3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0
-MzkxOTg3NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxND
-czNiwxMDIyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2
-NTAxNzkyNywzMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MT
-M5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0
-XX0=
+c3RvcnkiOlstMjE0MzA5MjA3MiwxNDk1NTExOTMyLDIwOTkwND
+U2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQs
+MTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1ND
+E0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwt
+MTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1LC0xNTg2Mj
+QxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2
+MjRdfQ==
 -->
