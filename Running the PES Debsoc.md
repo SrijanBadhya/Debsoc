@@ -227,7 +227,7 @@ What I find very effective is to tell your own story, talk about how debating ha
 
 In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably since every other club filtered people based on skill.
 
-I believe talking too much about the AP and BP format would just feel like an overload because there are so many complicated things to remember. This would give people more confusion than meaningful information. 
+I believe talking too much about the AP and BP format would just feel like an overload because there are so many complicated things to remember. This would give people more confusion than meaningful information.
  
 ## Recruitment Concepts
 
@@ -2142,11 +2142,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0Nz
-M2LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1
-MDE3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMz
-k1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQs
-LTQ0Mjg1NTIyOSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2ND
-kyODEyLDEwMTE2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3
-XX0=
+c3RvcnkiOlsxNDM5MTk4Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MT
+MzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3
+OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2LC01NjY3NzM4MT
+UsLTE1ODYyNDEzOTUsLTEwNjI1OTAxOTgsLTIwMDAxNDU4NSwt
+MTY3NjI1NDYyNCwtNDQyODU1MjI5LC0xOTEwMjM0NzAyLDE2OD
+g3ODY2LC00NzY0OTI4MTIsMTAxMTYwNDkwNCwyOTc5MDYzMDRd
+fQ==
 -->
