@@ -421,7 +421,6 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 - + Taking more people in is not a serious burden or harm for the soc.
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments," isn't something really caused by the low bar of entry to the soc.
-The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
 
 A major problem of the soc is lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 And nobody ever thinks this thought:
@@ -433,6 +432,9 @@ I don't buy in to the logic of, "less people means less dilution which means mor
 
 ---
 Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
+
+This criticism has been applied on doing multiple matter sessions as well. 
+
 - There are already 2 conflicting ideas. If you're doing it even for a few people on a particular day, it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it, and that's why you're doing it for them. Different people might subscribe to different of these 2 beliefs, and so multiple options might even increase the value in their eyes. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits increases their like for the club, as shown in the picture earlier).
 - The initial poll of availability allows people to vote multiple options. Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment at all.
 - There are 3 groups of people, people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
@@ -2147,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMTcxNzA3Nj
-E1Niw0NDQ3MTU1MDcsLTc1ODIzODk2MywtMTgzMjg3ODg1LDE2
-MzE1MTUwMzksLTEwMjQ1NzYzMzUsLTY3ODE2OTcwLC0xODU3Mz
-c3ODU1LC0yMTQzMDkyMDcyLDE0OTU1MTE5MzIsMjA5OTA0NTYw
-LDE5MDAwNzc2NjcsLTQ4MDkzNDI3MiwtMTkwOTgxMDUxNCwxND
-M5MTk4Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3
-MzZdfQ==
+c3RvcnkiOlsxNDk4ODcxMzAyLDkxODU4NTMzNCwxMTQyOTcxMz
+kzLC0xNzE3MDc2MTU2LDQ0NDcxNTUwNywtNzU4MjM4OTYzLC0x
+ODMyODc4ODUsMTYzMTUxNTAzOSwtMTAyNDU3NjMzNSwtNjc4MT
+Y5NzAsLTE4NTczNzc4NTUsLTIxNDMwOTIwNzIsMTQ5NTUxMTkz
+MiwyMDk5MDQ1NjAsMTkwMDA3NzY2NywtNDgwOTM0MjcyLC0xOT
+A5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNjYwNTgsLTIxMTU3NDYx
+MzNdfQ==
 -->
