@@ -418,7 +418,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 
 - Addressing the other half of the statement, it is very valid to have a high bar to get into a tourney instead, and keep a low bar of entry to the soc. 
 - + Having a high bar to get into the soc makes debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow possible growth in interest or consistency later. 
-- + Taking more people in is not a serious burden or harm for the soc.
+- + Taking more people is not a serious burden or harm for the soc.
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments," isn't something really caused by the low bar of entry to the soc.
 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOTE4NTg1Mz
-M0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1NTA3LC03
-NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC0xMDI0NT
-c2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3
-MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00OD
-A5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1
-OF19
+c3RvcnkiOlstMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4Nj
+U0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYs
+NDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNT
+E1MDM5LC0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1
+NSwtMjE0MzA5MjA3MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwxOT
+AwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5
+ODc3NF19
 -->
