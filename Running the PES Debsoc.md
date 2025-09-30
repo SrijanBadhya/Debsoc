@@ -216,6 +216,11 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 ## Orientation
 
 The purposes of orientation are:
+1. To paint a clear picture of what debating and the Debsoc are like.
+2. To increase interest in debating.
+3. To make people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
+
+I engaged in some crowd work while the orie
 
 I believe talking too much about the AP and BP format would just feel like an overload because there are so many complicated things to remember. This would give people more confusion than meaningful information. 
 
@@ -2133,11 +2138,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjMxNzg0MTM1LDEyNjU0MTQ3MzYsMTAyMjgyND
-IyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4
-NzgwNjA2LC01NjY3NzM4MTUsLTE1ODYyNDEzOTUsLTEwNjI1OT
-AxOTgsLTIwMDAxNDU4NSwtMTY3NjI1NDYyNCwtNDQyODU1MjI5
-LC0xOTEwMjM0NzAyLDE2ODg3ODY2LC00NzY0OTI4MTIsMTAxMT
-YwNDkwNCwyOTc5MDYzMDQsLTE4MjIwNTMzNDcsLTE2NTY0NTk3
-MzVdfQ==
+c3RvcnkiOlstMTczMjk2OTg5NCwxMjY1NDE0NzM2LDEwMjI4Mj
+QyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMx
+ODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
+kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
+OSwtMTkxMDIzNDcwMiwxNjg4Nzg2NiwtNDc2NDkyODEyLDEwMT
+E2MDQ5MDQsMjk3OTA2MzA0LC0xODIyMDUzMzQ3LC0xNjU2NDU5
+NzM1XX0=
 -->
