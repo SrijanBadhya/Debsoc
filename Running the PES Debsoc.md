@@ -317,10 +317,10 @@ A wider net translates to more people who stay.
 
 [Back to the Table of Contents](#table-of-contents)
 
-The reasons for being inclusive regardless of 'skill' are:
+Reasons for being inclusive regardless of 'skill' are:
 
 - The point of the club is not to just have good debaters, but to help everyone who is interested pursue this interest and _make_ them good debaters. 
-- - Who the people are now, is immaterial, they're just freshers. It's about who they can become. What matters is how the soc and the person will be able to contribute towards the growth of each other. 
+- - Who the people are today is immaterial, they're just freshers. It's about who they can become. What matters is how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates, who fill APs and BPs by just being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - Debate is a weird activity where love can grow over time. Everyone who is lukewarm at first has the potential to grow love for it later. (I took 3 years to like debating.)
 - - A good debater can always end up quitting. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0MjIxNjUyMTMsLTIxNDMwOTIwNzIsMTQ5NTUxMT
-kzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2NywtNDgwOTM0MjcyLC0x
-OTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNjYwNTgsLTIxMTU3ND
-YxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIsODAxODA5MjAxLC01
-NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3ODA2MDYsLTU2Njc3Mz
-gxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMDE0NTg1
-XX0=
+c3RvcnkiOlstMTg1NzM3Nzg1NSwtMjE0MzA5MjA3MiwxNDk1NT
+ExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIs
+LTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNT
+c0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEs
+LTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2Nz
+czODE1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1
+ODVdfQ==
 -->
