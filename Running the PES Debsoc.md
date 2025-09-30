@@ -428,7 +428,7 @@ And nobody ever thinks this:
 
 ![enter image description here](https://i.imgflip.com/a72qei.jpg)
 
-People just need to care enough about debate to sho
+People just need to care enough about debate to show up. Having enough people for an AP makes me feel warm inside.
 
 ---
 Continuing the response to criticism (point [3.](#addressing-the-criticism)) (scarcity is proportional to value): 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjI5MjY2MTM5LC0xNjExMjAwNTU1LC0xMjg3OT
-k2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQs
-MTE0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1OD
-IzODk2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYz
-MzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcyLD
-E0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MDkz
-NDI3Ml19
+c3RvcnkiOlstMTU4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nz
+k5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0
+LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NT
+gyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC0xMDI0NTc2
+MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3Mi
+wxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5
+MzQyNzJdfQ==
 -->
