@@ -446,11 +446,11 @@ This criticism has been applied on doing multiple matter sessions as well.
 So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
-- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the people who had asked me. I don't recommend going the extra mile to this extreme without having the bandwidth yourself. Especially since during the recruitment period you'll already be attending more debates than a recruit.
+- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the juniors who had asked me to. I don't recommend going the extra mile to this extreme without having the bandwidth yourself. Especially since during the recruitment period you'll already be attending more debates than a recruit.
 
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
-- But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time the next week.
+- But if you have 4 people left to do their rounds even the next week, I advocate for trying to do their round 1 in your free time this next week.
 - There are always people who are unaware of debsoc because our marketing didn't reach them, and want to join only after their friends who have completed round 1, tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 and then a round 1 for them later.
 - I believe that everyone the debsoc can possibly reach, should be reached. But if you don't have the capacity to do so, then your capacity is a fine place to draw the line.
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls2NjgwMjkzNzgsLTEyNDk1ODkxNjEsLTkwMTM0OD
-I3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1
-LC0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MT
-g1ODUzMzQsMTE0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1
-MDcsLTc1ODIzODk2MywtMTgzMjg3ODg1LDE2MzE1MTUwMzksLT
-EwMjQ1NzYzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQz
-MDkyMDcyXX0=
+c3RvcnkiOlsxODgzMzA1NjE5LC0xMjQ5NTg5MTYxLC05MDEzND
+gyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1
+NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOT
+E4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1
+NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC
+0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0
+MzA5MjA3Ml19
 -->
