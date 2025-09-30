@@ -409,12 +409,12 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
 - You won't look like bad planners since the reason for the extension is not you, but actually them, the recruits who didn't make it to the regular round 1. 
 - Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
-- It's way easier for people to bitch, "This club was so unfair and I couldn't get in," than it is for them to bitch, "This club was so easy and they took nearly everybody in." The image of the club won't be ruined if you aren't strict, in fact, it'll be better.
-- In feedback forms people have been very appreciative of our inclusivity and flexibility, which makes them feel cared for.
+- It's way easier for people to bitch, "This club was so unfair and I couldn't get in," than it is for them to bitch, "This club was so easy and they took nearly everybody in." The image of the club won't be ruined if you aren't strict. It might actually be better.
+- In feedback forms, people have been very appreciative of our inclusivity and flexibility which makes them feel cared for.
 <br>
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
-- Moreover, image like this is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
+- Moreover, image is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
 - + It doesn't cause serious harm on the soc to take more people in. 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAxMzM1MTQ2NywtMTgzMjg3ODg1LDE2MzE1MT
-UwMzksLTEwMjQ1NzYzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1
-LC0yMTQzMDkyMDcyLDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MD
-AwNzc2NjcsLTQ4MDkzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MTk4
-Nzc0LDY2MTY2MDU4LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMT
-AyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5
-MjddfQ==
+c3RvcnkiOls5NDUwNzg1NTYsLTE4MzI4Nzg4NSwxNjMxNTE1MD
+M5LC0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwt
+MjE0MzA5MjA3MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMD
+c3NjY3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3
+NCw2NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMj
+I4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3
+XX0=
 -->
