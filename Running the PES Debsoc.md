@@ -435,7 +435,7 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 
 This criticism has been applied on doing multiple matter sessions as well. 
 
-- There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. it could also mean that the matter session is so valuable that you know these people can't afford to miss out on it. Different people might subscribe to different of these 2 beliefs, and so multiple options might even increase the value in their eyes. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits increases their like for the club, as shown in the picture earlier.)
+- There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. Multiple options might even increase the value in the eyes of the juniors who believe this. (Even for people who already have attended the session/recruitment, the debsoc showing that they care for its recruits improves their perception of the club, as shown in the picture earlier.)
 - The initial poll of availability allows people to vote multiple options. Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment at all.
 - There are 3 groups of people, people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
 - The issue with limiting days is that you're quite likely to lose someone from even group 1 (and others from group 2 for whom this extension thing is _not_ the tipping point). Regardless of them being interested in debsoc, there are often clashing events, clashing plans, and other stuff explained before which forcefully prevents them from accessing the value of the matter session.
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDk5NDE5ODExLC0xMjQ5NTg5MTYxLC05MDEzND
-gyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1
-NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOT
-E4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1
-NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC
-0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0
-MzA5MjA3Ml19
+c3RvcnkiOlstMTE5MDM1OTk3OCwtMTI0OTU4OTE2MSwtOTAxMz
+Q4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEyMDA1
+NTUsLTEyODc5OTY2ODksLTMyNDM3MjEyOCwtMjk0ODY1NDYyLD
+kxODU4NTMzNCwxMTQyOTcxMzkzLC0xNzE3MDc2MTU2LDQ0NDcx
+NTUwNywtNzU4MjM4OTYzLC0xODMyODc4ODUsMTYzMTUxNTAzOS
+wtMTAyNDU3NjMzNSwtNjc4MTY5NzAsLTE4NTczNzc4NTUsLTIx
+NDMwOTIwNzJdfQ==
 -->
