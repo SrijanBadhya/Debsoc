@@ -400,7 +400,7 @@ A year later, you'll see lot of people in group 1 drop out due to **falling inte
 However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** when debate turned out to be more fun than they had thought. 
 Losing people who lose interest over time is fine, but we can't afford to lose people whose interest would have grown.
 
-It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more as time passed because only later did they really start to enjoy debsoc).
+It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later because it took time for them to really enjoy the soc).
 
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters. Harsha didn't get in through round 1, and he pestered the clubheads to take him in at the time. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
@@ -2146,7 +2146,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwMDEyODM2OCwxNjMxNTE1MDM5LC0xMDI0NT
+c3RvcnkiOlstMTUwNzg4NzczOCwxNjMxNTE1MDM5LC0xMDI0NT
 c2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3
 MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00OD
 A5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1
