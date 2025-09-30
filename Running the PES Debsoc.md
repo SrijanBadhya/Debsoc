@@ -457,7 +457,7 @@ So, how do you carry out breadth-wise inclusivity?
 - One issue is that extending recruitments like this can cause transparency issues, like when you try to pressure people to come saying, "Last day guys!", but still proceed to accommodate people who need it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads," and the people who dmed were told that they can get recruited under the table.
 - You can choose the stance on transparency that fits you the best.
-- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because round 1 isn't over is dumb, the bulk of round 1s should be finished in a maximum of 3 days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
+- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because the extended round 1 isn't over is dumb. The bulk of round 1s should be finished in a maximum of 3 days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
 
 ---
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. 
@@ -2149,7 +2149,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjc1NDg1OTI2LC0xMjQ5NTg5MTYxLC05MDEzND
+c3RvcnkiOlsxOTczMDg2MzI4LC0xMjQ5NTg5MTYxLC05MDEzND
 gyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1
 NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOT
 E4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1
