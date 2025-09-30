@@ -400,10 +400,10 @@ A year later, you'll see lot of people in group 1 drop out due to **falling inte
 However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** when debate turned out to be more fun than they had thought. 
 Losing people who lose interest over time is fine, but we can't afford to lose people whose interest would have grown.
 
-It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later on because it took time for them to really enjoy the soc).
+It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later on because it took time for them to really enjoy the soc.)
 
 
-If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1, and he pestered the clubheads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the spreadsheet. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
+If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the clubheads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the spreadsheet(https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0. I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
 ---
 Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1Nz
-YzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcy
-LDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MD
-kzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4
-LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMT
-gwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2
-XX0=
+c3RvcnkiOlstNTk3MjIwMzU1LC0xODMyODc4ODUsMTYzMTUxNT
+AzOSwtMTAyNDU3NjMzNSwtNjc4MTY5NzAsLTE4NTczNzc4NTUs
+LTIxNDMwOTIwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMD
+A3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3
+NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMD
+IyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzky
+N119
 -->
