@@ -242,7 +242,7 @@ This is the single place (besides arguably PESDT) where systems matter the most,
 ### History
 
 First, a brief view on how recruitments were done in the past:
-_My batch (2021, but recruitments ended up happening in the January of 2022) had one round of a quick 1v1 debate, which was online since this was the late covid era. The format was 3+1 minute speeches with one witness (like a silent round judge), and once the debate ended, we had no contact._
+_My batch (2021, but recruitments ended up happening in the January of 2022) had one round of a quick 1v1 debate, which was online since this was the late Covidian era. The format was 3+1 minute speeches with one witness (like a silent round judge) and once the debate ended, we had no contact._
 _The debsoc took in everyone who participated in this round. (Except for my opponent who was missed out on due to a system error.)_
 _For my first juniors, we had a similar format but offline._ 
 
@@ -2143,11 +2143,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4MT
-A1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEzMywx
-MjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNz
-I3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1LC0x
-NTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMDAwMTQ1ODUsLTE2Nz
-YyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIzNDcwMiwxNjg4Nzg2
-Nl19
+c3RvcnkiOlstMTAyMTM1ODczNSwxOTAwMDc3NjY3LC00ODA5Mz
+QyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwt
+MjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MD
+kyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwt
+NTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNTkwMTk4LC0yMD
+AwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIyOSwtMTkxMDIz
+NDcwMl19
 -->
