@@ -419,7 +419,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 - Addressing the other half of the statement, it is very valid to a high bar to get into a tourney instead, and keep a low bar of entry to the soc. 
 - + Having a high bar to get into the soc makes debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow possible growth in interest or consistency later. 
 - + It doesn't cause serious harm on the soc to take more people in. 
-- + However, with a tournament, reimbursed slots are limited because PES management applies pressure to us to reduce the number of people going, and it's hard to push back against this. Reimbursement of a tournament is a very valid people to give to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
+- + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments", isn't something really caused by the low bar to enter the soc.
 The criticism of, "Scarcity leads to an increase in value" has been applied for taking multiple matter sessions as well. 
 
@@ -2147,7 +2147,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTk4ODA4ODQzLDQ0NDcxNTUwNywtNzU4MjM4OT
+c3RvcnkiOlsxODIyOTE3Mjk2LDQ0NDcxNTUwNywtNzU4MjM4OT
 YzLC0xODMyODc4ODUsMTYzMTUxNTAzOSwtMTAyNDU3NjMzNSwt
 Njc4MTY5NzAsLTE4NTczNzc4NTUsLTIxNDMwOTIwNzIsMTQ5NT
 UxMTkzMiwyMDk5MDQ1NjAsMTkwMDA3NzY2NywtNDgwOTM0Mjcy
