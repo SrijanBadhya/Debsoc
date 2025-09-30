@@ -377,12 +377,12 @@ _The assumption behind the criticism is that group 1 is filled with people who c
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
 
-(I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well, a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of the peace of mind of completing their task, which they earned by being there on the right days.)
+(I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well, a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of peace of mind which they earned by being there on the right days.)
 
-Group 2 is already assumed to not take the Debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
+Group 2 is already assumed to not take the Debsoc seriously, so even if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had otherwise.
 
 
-People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(From the feedback form)](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).
+People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(from the feedback form)](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).
 
 ![enter image description here](https://i.postimg.cc/Z0twStBy/Interestovertime1.png)
 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjMxNTE1MDM5LC0xMDI0NTc2MzM1LC02NzgxNj
-k3MCwtMTg1NzM3Nzg1NSwtMjE0MzA5MjA3MiwxNDk1NTExOTMy
-LDIwOTkwNDU2MCwxOTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MD
-k4MTA1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEz
-MywxMjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0Nz
-kzNzI3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1
+c3RvcnkiOlstODUzODEyMjA2LDE2MzE1MTUwMzksLTEwMjQ1Nz
+YzMzUsLTY3ODE2OTcwLC0xODU3Mzc3ODU1LC0yMTQzMDkyMDcy
+LDE0OTU1MTE5MzIsMjA5OTA0NTYwLDE5MDAwNzc2NjcsLTQ4MD
+kzNDI3MiwtMTkwOTgxMDUxNCwxNDM5MTk4Nzc0LDY2MTY2MDU4
+LC0yMTE1NzQ2MTMzLDEyNjU0MTQ3MzYsMTAyMjgyNDIyLDgwMT
+gwOTIwMSwtNTQ3OTM3Mjc1LC0xNjUwMTc5MjcsMzE4NzgwNjA2
 XX0=
 -->
