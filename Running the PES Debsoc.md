@@ -375,9 +375,9 @@ Group 2: the extra people that you'll get by putting extra effort to be extra ac
 
 _The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 has the lazy people who barely made it into the club._
 
-The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
+The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. 
 
-(I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the Debsoc tells me I could have come tomorrow, a sudden 'extra day'. This is solved by group 2 people having to put extra effort anyway, like having to dm a club head, or having to hope that they make it through the 'unofficial recruitments' (something we did in 2025 which I'll mention later)). Group 1 people still get the benefit of peace of mind of completing their task, which they earned by being there on time.
+(I'm only impacted if there was a lack of transparency, like if I missed my mom's birthday to be at the session on day 3, and now suddenly the Debsoc tells me I could have come tomorrow, a sudden 'extra day'. This is solved by group 2 people having to put extra effort, like having to dm a club head, or having to hope that they make it through the 'unofficial recruitments' (something which I'll mention later)). Group 1 people still get the benefit of peace of mind of completing their task, which they earned by being there on time.
 
 Group 2 is already assumed to not take the Debsoc seriously, so if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had to begin with.
 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTU5ODA4MjE0LC02NzgxNjk3MCwtMTg1NzM3Nz
-g1NSwtMjE0MzA5MjA3MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwx
-OTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOT
-E5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2
-LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MD
-E3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1
-XX0=
+c3RvcnkiOlstMjA0MTg0NDY4MCwtNjc4MTY5NzAsLTE4NTczNz
+c4NTUsLTIxNDMwOTIwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAs
+MTkwMDA3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0Mz
+kxOTg3NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDcz
+NiwxMDIyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NT
+AxNzkyNywzMTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5
+NV19
 -->
