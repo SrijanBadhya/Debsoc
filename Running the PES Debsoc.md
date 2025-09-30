@@ -414,7 +414,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 <br>
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
-- Moreover, image is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
+- Moreover, the tarnishment of image is a speculative harm, and it weighs poorly against the real literal harm of people not being included even though they want to be. The principle of accessibility and inclusivity weighs over this speculative future. It's hard to pinpoint the exact causes of people losing interest and dropping out. 
 - However, it is very valid to have a low bar to get into the soc, but a high bar to get into a tourney. 
 - + Having a high bar to get into the soc is making debate itself completely inaccessible to the recruit, blocks away all mutual contribution that could have ensued from their entry, and doesn't even allow for a growth in interest or consistency later because that isn't measured. 
 - + It doesn't cause serious harm on the soc to take more people in. 
@@ -2146,11 +2146,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NDUwNzg1NTYsLTE4MzI4Nzg4NSwxNjMxNTE1MD
-M5LC0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwt
-MjE0MzA5MjA3MiwxNDk1NTExOTMyLDIwOTkwNDU2MCwxOTAwMD
-c3NjY3LC00ODA5MzQyNzIsLTE5MDk4MTA1MTQsMTQzOTE5ODc3
-NCw2NjE2NjA1OCwtMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMj
-I4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3
-XX0=
+c3RvcnkiOlstNzU4MjM4OTYzLC0xODMyODc4ODUsMTYzMTUxNT
+AzOSwtMTAyNDU3NjMzNSwtNjc4MTY5NzAsLTE4NTczNzc4NTUs
+LTIxNDMwOTIwNzIsMTQ5NTUxMTkzMiwyMDk5MDQ1NjAsMTkwMD
+A3NzY2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3
+NzQsNjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMD
+IyODI0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzky
+N119
 -->
