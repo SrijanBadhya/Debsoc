@@ -273,7 +273,7 @@ The third round was a month long, with sessions every day, and people who attend
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
 - People could get a feel of debate before they committed.
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
-- Glaring issues could pop up and we could be aware of problematic people before taking them into the club.
+- Glaring issues could pop up, making us aware of problematic people before taking them into the club.
 - Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them backstabbing by leaking info from the group later.
 - This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance', instead of 'high attendance'. One guy showed up for just one debate, and later complained to me that he wasn't taken in even though he won 1/1 debates. So be careful with your phrasing. Using the word 'attendance' instead could also be risky since it's a turn-off by reminding people of college.**
@@ -2144,11 +2144,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDk5MDQ1NjAsMTkwMDA3NzY2NywtNDgwOTM0Mj
-cyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQsNjYxNjYwNTgsLTIx
-MTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyODI0MjIsODAxODA5Mj
-AxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywzMTg3ODA2MDYsLTU2
-Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2MjU5MDE5OCwtMjAwMD
-E0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUyMjksLTE5MTAyMzQ3
-MDJdfQ==
+c3RvcnkiOlstMTE0ODAxNjMyNiwyMDk5MDQ1NjAsMTkwMDA3Nz
+Y2NywtNDgwOTM0MjcyLC0xOTA5ODEwNTE0LDE0MzkxOTg3NzQs
+NjYxNjYwNTgsLTIxMTU3NDYxMzMsMTI2NTQxNDczNiwxMDIyOD
+I0MjIsODAxODA5MjAxLC01NDc5MzcyNzUsLTE2NTAxNzkyNywz
+MTg3ODA2MDYsLTU2Njc3MzgxNSwtMTU4NjI0MTM5NSwtMTA2Mj
+U5MDE5OCwtMjAwMDE0NTg1LC0xNjc2MjU0NjI0LC00NDI4NTUy
+MjldfQ==
 -->
