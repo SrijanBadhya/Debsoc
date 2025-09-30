@@ -220,7 +220,7 @@ The main purposes of orientation are:
 2. To increase interest in debating.
 3. To make people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
 
-I think a great feature of our Orientation has been our Demo Debate. Letting the audience pick the motion among the 3 motions 
+I think a great feature of our Orientation has been our Demo Debate. Letting the audience pick the motion among the 3 motions displayed on screen made the audience feel more involved. We continued the orientation during the prep time of the debaters to 
 
 In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably since every other club filtered people based on skill.
 
@@ -2140,7 +2140,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzE1NzQyNTAxLC0yMTE1NzQ2MTMzLDEyNjU0MT
+c3RvcnkiOlstMTg5MjE0OTY4LC0yMTE1NzQ2MTMzLDEyNjU0MT
 Q3MzYsMTAyMjgyNDIyLDgwMTgwOTIwMSwtNTQ3OTM3Mjc1LC0x
 NjUwMTc5MjcsMzE4NzgwNjA2LC01NjY3NzM4MTUsLTE1ODYyND
 EzOTUsLTEwNjI1OTAxOTgsLTIwMDAxNDU4NSwtMTY3NjI1NDYy
