@@ -220,7 +220,7 @@ The purposes of orientation are:
 2. To increase interest in debating.
 3. To make people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
 
-I engaged in some crowd work while the orie
+In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" 
 
 I believe talking too much about the AP and BP format would just feel like an overload because there are so many complicated things to remember. This would give people more confusion than meaningful information. 
 
@@ -2138,7 +2138,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTczMjk2OTg5NCwxMjY1NDE0NzM2LDEwMjI4Mj
+c3RvcnkiOlstMjExNTc0NjEzMywxMjY1NDE0NzM2LDEwMjI4Mj
 QyMiw4MDE4MDkyMDEsLTU0NzkzNzI3NSwtMTY1MDE3OTI3LDMx
 ODc4MDYwNiwtNTY2NzczODE1LC0xNTg2MjQxMzk1LC0xMDYyNT
 kwMTk4LC0yMDAwMTQ1ODUsLTE2NzYyNTQ2MjQsLTQ0Mjg1NTIy
