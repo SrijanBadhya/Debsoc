@@ -236,7 +236,7 @@ This is the single most essential activity of a club.
 
 This is the single place (besides arguably PESDT) where systems matter the most, because 
 1. You have an enormous scaled up load of both people and documentation to handle.
-2. This first impression juniors have of the soc shapes whether they want to continue or not. A process that isn't smooth can be damaging.
+2. This first impression juniors have of the soc shapes whether they want to continue or not. A process that isn't smooth can be damaging to their perspective.
 
 ---
 ### History
@@ -2143,7 +2143,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDc0MzYwNDM4LC00ODA5MzQyNzIsLTE5MDk4MT
+c3RvcnkiOlsxOTAwMDc3NjY3LC00ODA5MzQyNzIsLTE5MDk4MT
 A1MTQsMTQzOTE5ODc3NCw2NjE2NjA1OCwtMjExNTc0NjEzMywx
 MjY1NDE0NzM2LDEwMjI4MjQyMiw4MDE4MDkyMDEsLTU0NzkzNz
 I3NSwtMTY1MDE3OTI3LDMxODc4MDYwNiwtNTY2NzczODE1LC0x
