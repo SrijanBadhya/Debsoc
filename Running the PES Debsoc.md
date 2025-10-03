@@ -483,7 +483,7 @@ Having an inclusive round 1, round 2, and round 3, while having a low bar for se
 ### Round 1
 Further developments from the 2023 model designed in 2024 by Nikhil:
 
-I'll just quote from Nikhil's document from here until round 3. 
+I'll just quote from Nikhil's document from here until Round 3. 
 
  - Round 1 now has 2 speeches of 4 minutes each from each person (like a half BP, no POIs).
  - 10 minute prep time.
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzND
-gyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1
-NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOT
-E4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1
-NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC
-0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1NzM3Nzg1NSwtMjE0
-MzA5MjA3Ml19
+c3RvcnkiOlstMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NT
+g5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5
+MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC
+0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcw
+NzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NS
+wxNjMxNTE1MDM5LC0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1
+NzM3Nzg1NV19
 -->
