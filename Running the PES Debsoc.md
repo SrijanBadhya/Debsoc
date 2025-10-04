@@ -286,7 +286,7 @@ Having a round 1 and a round 2 before this month-long recruitment is still advan
 A few issues with the month-long recruitment:
 
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
-- First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come on the week of exams and the week before (oh the sweet summer first year children).
+- First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come on the week of exams and the week before (oh the sweet summer first-year children).
 - + Another issue this leads to is that if all active seniors are from B. Tech, then there's nobody to conduct sessions when B. Tech students have exams.
 - People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to reassure people that they are very likely to be taken in.)
 
@@ -646,7 +646,7 @@ It's important to alleviate anxiety and make people associate the soc with good 
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
 
-The sneaky thing about our recruitment model is that the club activity (debate) isn't gatekept from recruits and continues the same way after recruitments. What difference does joining the club make then? To make them feel like there's a difference, you can say that now that they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
+The sneaky thing about our recruitment model is that the club activity (debate) isn't gatekept from recruits and continues the same way after recruitments. What difference does joining the club make, then? To make them feel like there's a difference, you can emphasize that now, as club members, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
 This year 2025, round 3 got delayed for months (due to factors like IITB, tournaments, exam schedules, and processing round 1 & round 2 results). The end of recruitments slightly overlapped with NLSD in March, and we had to awkwardly maneuver and invite the people with the highest attendance before they were even officially recruited. 
 
@@ -767,7 +767,7 @@ I also messed up multiple times at the end of round 3 by adding the wrong people
 
 [Back to the Table of Contents](#table-of-contents)
 
-The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
+The basement seminar hall is difficult for first-year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
 
 One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for the RR campus, to avoid an awkward conversation on the group later where you shoo people away.
 
@@ -845,7 +845,7 @@ It feels incredibly fulfilling because the extent to which the juniors shit on y
 
 An alternate motion which does make more sense is, "THR participating in the Debsoc recruitment process." This however nudges people more towards likelihood analysis on getting in which could be boring, as opposed to the other motion which nudges people towards saying the club is a shit club to join.
 
-While fun, these motions double as a raw insight into the lives of first years and their feelings about the Debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
+While fun, these motions double as a raw insight into the lives of first-years and their feelings about the Debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
 
 ---
 
@@ -1652,7 +1652,7 @@ Every year there are people initially anxious about speaking in front of strange
 ---
 #### How do we usually carry out informal recruitments?
 - (What we usually _don't_ do, is inform people that this is even possible. Hence, we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the club head and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
-Most people don't even know this is possible because the natural assumption of an ignorant first year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
+Most people don't even know this is possible because the natural assumption of an ignorant first-year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
 - Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
 - We may still need to make sure people feel like they earned their way into the club, so a bar to get in may be necessary.
@@ -1843,7 +1843,7 @@ When you see signs of this in a junior, you know you've done it. It's the greate
 
 It's not easy or quick. For 2 years I hadn’t felt like a true debater. In my head, my seniors were the ones who were debaters, and I wasn't in their vicinity.
 
-But to my surprise, I see signs of this in a few first years now. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about their future in the soc without uncertainty. It's lovely.
+But to my surprise, I see signs of this in a few first-years now. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about their future in the soc without uncertainty. It's lovely.
 
 When something is a part of your identity, you no longer feel like you're making an effort to change yourself, because this already is your natural state.
 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODU2MTIyNDY1LC01MTAyODY0NzEsMTg3MTY1MD
+c3RvcnkiOlstMTE1NTUxMTYxLC01MTAyODY0NzEsMTg3MTY1MD
 c2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEw
 ODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0Nj
 M3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMs
