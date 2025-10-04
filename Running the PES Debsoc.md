@@ -985,7 +985,7 @@ One thing I found handy was to write down my feedback as the speeches were happe
 Ideally the judges who conduct sessions, are ones who've read and understood the manual, since 
 - Their feedback is far more likely to be valid.
 - Reading the manual also gives the judge conviction behind their feedback because they know it to be correct, rather than saying, "I'm not sure about this but I don't think you're allowed to edit your model in the second speech, I'm still not sure though".
-- Wrong feedback can set debaters back quite a bit and it's hard for them to ever realize that this is wrong later. They are likely to approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "these tourney adjes don't know what they're talking about, I trust my senior more". 
+- Wrong feedback can set debaters back quite a bit and it's hard for them to ever realize that this is wrong later. They are likely to approach future debates believing this is right, and also ignore tourney adjes who contradict this feedback because "These tourney adjes don't know what they're talking about, I trust my senior more."
 
 --- 
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjM0MDgzMTU4LC0xNzY3NDIyMjA1LC0xNDMzNz
-E4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2Mjgy
-LC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MT
-Y1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2
-LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLT
-E0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4
-NjNdfQ==
+c3RvcnkiOlsxMTk1MjgzNzQsLTE3Njc0MjIyMDUsLTE0MzM3MT
+g2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIs
+LTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNj
+UwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYs
+MTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMT
+Q2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2
+M119
 -->
