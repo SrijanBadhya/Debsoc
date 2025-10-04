@@ -620,7 +620,7 @@ I talk more about initial sessions later in [Session Concepts](#session-concepts
 ---
 
 A slight detour:
-I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
+I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
 I was in awe. For a moment my eyes rolled back into my head, and I tapped into the far-sighted vision Yash possessed. I saw that it was worth bending the rules sometimes to keep people winning in the infinite game.
 
 Some places I find worthy of bending the rules are:
@@ -769,7 +769,7 @@ I also messed up multiple times at the end of round 3 by adding the wrong people
 
 The basement seminar hall is difficult for first year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
 
-One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for RR campus, to avoid an awkward conversation on the group later where you shoo people away.
+One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for the RR campus, to avoid an awkward conversation on the group later where you shoo people away.
 
 This one time I was texting a debater who was one week into round 3, during an online session. He told me that the Debsoc was doing a great job and that we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad. He just liked debate and was here.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNT
-Y0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5
-MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3Nz
-E4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkx
-NjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC
-0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5
-NDg2NTQ2Ml19
+c3RvcnkiOlsxOTI5OTQ3NTExLDE1ODQwODc1MDEsMjEzNjEyMj
+c4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUx
+LC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4Mj
+kxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQx
+OSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLT
+E1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMy
+NDM3MjEyOF19
 -->
