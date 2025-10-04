@@ -633,7 +633,7 @@ The rebuttal to this is that you shouldn't teach juniors the wrong rules of deba
 
 ---
 
-Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. I found that checking up on team dynamics during case prep was vital to nipping unhealthy behaviors in the bud. Sometimes one person will be shy, and the other 2 people just talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
+Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy while the other 2 people just talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
 
 A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent imbalance or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2Mz
-cyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2Mywx
-ODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyND
-k1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0
-NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIxMj
-gsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMTcx
-NzA3NjE1Nl19
+c3RvcnkiOlsxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MT
+UzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQs
+MTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMj
+cxNzQxOSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYy
+NTgsLTE1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2OD
+ksLTMyNDM3MjEyOCwtMjk0ODY1NDYyLDkxODU4NTMzNCwxMTQy
+OTcxMzkzXX0=
 -->
