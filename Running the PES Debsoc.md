@@ -1273,7 +1273,9 @@ How do we make sure this trend continues?
 - + Some more positive reasons to judge are because people like the way their brain is use during judging, and how challenging it is.
 - + **The interesting thing about the narrative of freshers early on before they judge, is that judging looks like a position of authority.** Freshers believe that you need to be highly qualified to be a judge, and that being a judge is a sign of you being great (They're unaware that anyone can judge at a tournament). 
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone "adjing is nice, do try it out", it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) If judging is actually fun, everybody should be trying to do it, so promotion of judging looks suspicious.
+<br>
 ![enter image description here](https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg)
+
 - However, I have a few possible [ideas](#elevating-the-judging-experience) on how you might improve a fresher's enjoyment of judging mocks. 
 - Even if you can't safely encourage adjing, what is definitely important, is to avoid _discouraging_ adjing. Members of the soc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
@@ -2150,7 +2152,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MTQ3NDU3MDAsLTE3Njc0MjIyMDUsLTE0MzM3MT
+c3RvcnkiOls5MzM3OTQ0ODIsLTE3Njc0MjIyMDUsLTE0MzM3MT
 g2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIs
 LTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNj
 UwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYs
