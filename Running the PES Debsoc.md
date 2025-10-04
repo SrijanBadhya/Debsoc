@@ -623,11 +623,11 @@ A slight detour:
 I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
 I was in awe. For a moment my eyes rolled back into my head, and I tapped into the far-sighted vision Yash possessed. I saw that it was worth bending the rules sometimes to keep people winning in the infinite game.
 
-Some plac I find worthy of bending the rules are:
+Some places I find worthy of bending the rules are:
 
-1. Explaining the 3 motions. Teams are clueless about a lot of debate words. Giving them extra information helps alleviate how lost they feel. 
-2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves.
-3. Doing like 3 minutes of case prep with each team if you feel like it, asking nuanced questions to stimulate their thoughts.
+1. Explaining the 3 motions. Teams are clueless about a lot of debate words. Giving them extra information, even if it feels like the beginning of a case, helps alleviate how lost they feel. 
+2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves, so they do
+3. Doing like 3 minutes of case prep with each team if you feel like it, by asking nuanced questions to stimulate their thoughts.
 
 The rebuttal is that you shouldn't teach juniors the wrong rules of debate, and also that you're holding their hand too much. I believe that senior involvement is still great at making the Debsoc feel like a club, and that this matters more. 
 
@@ -2151,7 +2151,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjEwMjQxOTQ2LC0xNjA3MTUzMzUxLC0xNDYzNz
+c3RvcnkiOlstNTExMjMzOTMyLC0xNjA3MTUzMzUxLC0xNDYzNz
 I1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4
 NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OT
 U4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2
