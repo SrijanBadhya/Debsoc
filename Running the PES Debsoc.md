@@ -303,7 +303,7 @@ A month-long recruitment might bore some people. I don't fully trust the followi
 
 ![enter image description here](https://i.ibb.co/RkCMh2f4/Screenshot-2025-09-06-165811.png)
 
-This level of selectivity captured the most benefits. I believe that being even more selective gives diminishing marginal benefits and leads to more harms.
+This level of selectivity captured the most benefits. I believe that being even more selective gives diminishing marginal benefits and leads to more harm.
 
 Which takes us to **why I believe we should continue to push hard for inclusivity**:
 
@@ -319,7 +319,7 @@ Casting a wider net translates to more people who stay.
 
 Reasons for being inclusive regardless of 'skill' are:
 
-- The point of the club is not to just have good debaters, but to help everyone who is interested pursue this interest and _make_ them good debaters. 
+- The point of the club is not just to have good debaters, but to help everyone who is interested pursue this interest and _make_ them good debaters. 
 - - Who these individuals are today is immaterial; they're just freshers. It's about who they can become. What matters is how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates, who fill APs and BPs simply by being there. Every person is precious. Without people there is no debate. Without people there is no soc.
 - Debate is a weird activity where love can grow over time. Everyone who is lukewarm at first has the potential to grow love for it later. (I took 3 years to enjoy debating.)
@@ -2154,11 +2154,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNz
-gsLTQxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTEx
-OTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxOD
-YxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4Miwt
-MzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NT
-A3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4Nl19
+c3RvcnkiOlstNjQ5NTQ1MzQ5LDkwMzUzMDA4LDEyMTAzOTExNz
+UsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LDYxODA5NjEsLTEzNTQ4
+MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMj
+A1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwt
+NTEzMzc2MjgyLC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyOD
+Y0NzEsMTg3MTY1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMV19
 
 -->
