@@ -633,7 +633,7 @@ The rebuttal to this is that you shouldn't teach juniors the wrong rules of deba
 
 ---
 
-Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy while the other 2 people simply talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
+Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. **Sometimes one person will be shy while the other 2 people simply talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
 
 A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent this rift or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTEzMzc2MjgyLC0zNDM3NjU4ODMsMjc5NTI5OD
-E4LC01MTAyODY0NzEsMTg3MTY1MDc2NSwtODMyNDMyNzUsMTU4
-NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIwNTAzOT
-IxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyODYxMzIz
-LDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5ND
-k1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgy
-NzNdfQ==
+c3RvcnkiOlsxNjM4NjM5NzE4LC01MTMzNzYyODIsLTM0Mzc2NT
+g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04
+MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNT
+Y0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5
+MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3Nz
+E4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkx
+NjFdfQ==
 -->
