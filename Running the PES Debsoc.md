@@ -604,9 +604,9 @@ There should be a better way to set the threshold and publicize it but we haven'
 
 #### What wasn't implementable from the Round 3 model
 
-You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after they vote (and many don't even vote).
+You can never accurately predict how many people will show up to a session, who will show up, or which days they will show up, because people change their minds even after they vote (and many don't even vote).
 
-Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track speaker positions, and then in the future check their past speaker positions before assigning them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
+Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track speaker positions, check their past speaker positions, and assign them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
 The only thing that we could do was leave it to fate and 
 hope that people naturally tried out different roles themselves.
 
@@ -2152,11 +2152,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjA4Mzc2ODQ1LDUwMjg2MTMyMyw1Njg0ODAzOT
-QsMTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYy
-MjcxNzQxOSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNz
-YyNTgsLTE1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2
-ODksLTMyNDM3MjEyOCwtMjk0ODY1NDYyLDkxODU4NTMzNCwxMT
-QyOTcxMzkzLC0xNzE3MDc2MTU2LDQ0NDcxNTUwNywtNzU4MjM4
-OTYzXX0=
+c3RvcnkiOls3MjQ3MzA1OTYsNTAyODYxMzIzLDU2ODQ4MDM5NC
+wxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIy
+NzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3Nj
+I1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4
+OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExND
+I5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5
+NjNdfQ==
 -->
