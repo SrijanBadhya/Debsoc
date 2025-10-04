@@ -158,7 +158,7 @@ The needs are heavily disagreed upon, and the methods even more so.
 _**Some have believed that the point of the debate club is to win tournaments and get accolades.**_
 
 - _This does initially make sense since our tournament results are what our PES management gets to see._
-- _And the debsoc cares about getting funded by PES because that's how we get to go to more fun tournaments._
+- _And the bsoc cares about getting funded by PES because that's how we get to go to more fun tournaments._
 
 **However, some of us believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
 
@@ -1818,10 +1818,10 @@ Since quite a few people try out both clubs, it's unwise to alienate MUN people.
 
 ![image](https://i.ibb.co/rfNNY5sw/debsocmunsoc.png)
 
-Across the year, a few people do switch from debsoc to munsoc, and munsoc to debsoc. This happens naturally and you don't have much power to prevent this by directly targeting MUN. There's no guarantee that your effort will bear fruit instead of backfiring.
+Across the year, a few people do switch from Debsoc to Munsoc, and Munsoc to Debsoc. This happens naturally and you don't have much power to prevent this by directly targeting MUN. There's no guarantee that your effort will bear fruit instead of backfiring.
 It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to be persuasive to anyone who's interested in MUN. 
 
-There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the debsoc spewing hate, and think worse of the debsoc. I myself would lose respect for a debsoc member who needed to hate on MUN to make debate look valuable (already happened this last year).
+There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the Debsoc spewing hate, and think worse of the soc. I myself would lose respect for a Debsoc member who needed to hate on MUN to make debate look valuable (already happened this last year).
 
 ![enter image description here](https://i.ibb.co/fVRDB8ph/munsoc.jpg)
 
@@ -1843,7 +1843,7 @@ When you see signs of this in a junior, you know you've done it. It's the greate
 
 It's not easy or quick. For 2 years I hadn’t felt like a true debater. In my head, my seniors were the ones who were debaters, and I wasn't in their vicinity.
 
-But to my surprise, I see signs of this in a few first years now. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about their future in the debsoc without uncertainty. It's lovely.
+But to my surprise, I see signs of this in a few first years now. I see them talking about the club in such a possessive way. I see Debsoc being such a natural part of their weekly routine. They talk about their future in the soc without uncertainty. It's lovely.
 
 When something is a part of your identity, you no longer feel like you're making an effort to change yourself, because this already is your natural state.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNz
-g2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEs
-LTE0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOT
-E4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5
-LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMT
-U4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0
-MzcyMTI4XX0=
+c3RvcnkiOlstMTg0ODc0OTg3NCwtODMyNDMyNzUsMTU4NDA4Nz
+UwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMs
+LTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyODYxMzIzLDU2OD
+Q4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUz
+MSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLT
+UwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4
+Nzk5NjY4OV19
 -->
