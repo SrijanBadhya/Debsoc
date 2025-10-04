@@ -1575,7 +1575,7 @@ The question the Debsoc will forever grapple with is, "How do we get people to c
 ![enter image description here](https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg)
 
 School teachers get to be strict to get results out of students because the students can't really quit school. Being strict in the Debsoc and causing bad vibes just pushes people to avoid it all.
-The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (well, actually fill a google form because Whatsapp didn't have the poll feature at the time). If they were missing out on that session, they had to "DM one of the heads with a very valid reason". 
+The stance my seniors adopted in 2022 was one involving fear. Everyone was supposed to vote on the poll (well, actually fill a google form because WhatsApp didn't have the poll feature at the time). If they were missing out on that session, they had to "DM one of the heads with a very valid reason."
 One night on a discord voice call, our seniors tested our debate knowledge. We got shit on for not knowing the full form of THP even after a year in the club. 
 When numbers of attendees dropped, we were called to serious meetings. The constant threat we heard was that if we didn't attend enough sessions, we'd be kicked out of the club. 
 
@@ -1586,9 +1586,10 @@ Fear is an ineffective motivator, especially when the consequence is simply an o
 By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always mull about coming, but they never bring themselves to come. Other things take priority.
 2. They want to be in a club for the sake of it because it's cool. (There are people who get excited about buying Debsoc merch even though they don't debate anymore or even feel like even a part of the club.)
+<br>
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
-3. They have issues on weekdays but not weekends.
-4. They want to do tournaments because they are super fun, but don't want to attend sessions which aren't that fun. (Surprisingly a very common scenario I've observed).
+4. They have issues on weekdays but not weekends.
+5. They want to do tournaments because they are super fun, but don't want to attend sessions which aren't that fun. (Surprisingly a very common scenario I've observed).
 
 It's hard to entirely solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
 
@@ -2152,11 +2153,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2Mz
-U3MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5
-NjIsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNz
-k1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3
-NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMj
-A1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4
-NjEzMjNdfQ==
+c3RvcnkiOls4MDU4NTUyNDQsLTEzNTQ4MDUxNjgsLTgxMTE5NT
+Q1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEw
+LC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zND
+M3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2
+NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwOD
+QzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3
+MjU1OTFdfQ==
 -->
