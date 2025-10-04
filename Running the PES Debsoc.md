@@ -558,9 +558,9 @@ We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to
 Verdicts can be straight up demotivating especially at a super early stage. It's more important to let people focus on speeches rather than the verdict. Quoting Nikhil, "People will get the false idea that the winner will proceed to the next round and will get the idea that debate is about winning and putting down the other side at any cost, so the incentive to act sus (cheat) is higher."
 
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
-The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). So you can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
+The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). You can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
-When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways, and they definitely are not worth the hassle in round 1 and round 2.
+When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways. POIs definitely are not worth the hassle in round 1 and round 2.
 
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0ODI3NjEzNjksNTY4NDgwMzk0LDE3ODI5MTg2My
-wxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEy
-NDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOT
-g0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIx
-MjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMT
-cxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzODk2MywtMTgzMjg3
-ODg1XX0=
+c3RvcnkiOlsxNjk1ODg1MjE5LDU2ODQ4MDM5NCwxNzgyOTE4Nj
+MsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0x
+MjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MD
+k4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0Mzcy
+MTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLT
+E3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4
+Nzg4NV19
 -->
