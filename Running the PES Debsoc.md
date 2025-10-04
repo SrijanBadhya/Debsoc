@@ -1635,8 +1635,8 @@ Every year there are people initially anxious about speaking in front of strange
 ---
 #### What causes the need of informal recruitments?
 
-- A lot of people may not have heard of the debsoc at the start of recruitments, or even if they had, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
-- Most such people get interested in the debsoc because their friend sings them praises of the Debsoc.
+- A lot of people may not have heard of the Debsoc at the start of recruitments, or even if they had, they may not have felt that it was a good club worth pursuing. They may have been too wrapped up with the start of college and now have clarity on how they want to pursue clubs.
+- Most such people get interested after hearing their friend sing them praises of the Debsoc.
 - If these people are made to wait until the official recruitments next year, it might be too late to hook them into debating (because a majority of freshers drop out of the club when the academic grind steepens in the 3rd sem). By the next sem, maybe even their friend drops out, and they aren't invested enough in debating to care to continue without this friend.
 
 ---
@@ -1678,7 +1678,7 @@ As I mention later, the opportunities for Cubbon Park sessions are rare so you s
 Every Cubbon, there have been 2 groups of people who show up to Cubbon sessions: people who want to debate, and people who want to play. The needs of one group get compromised. We end up playing eventually anyway, but we usually precede this with a debate.
 We've played kabaddi, dog and the bone, mafia, and card games.
 
-The most frustrating part of Cubbon has been the arrival. People at their first Cubbon session won't know the usual debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon, so maybe a video walkthrough could help. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start the debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up.)
+The most frustrating part of Cubbon has been the arrival. People at their first Cubbon session won't know the usual Debsoc spot. Clear instructions like, "Get off at BR Ambedkar station" are crucial because most people assume that the proximate station is Cubbon Park. The best landmark, more than the dog park, is the Library, because it's a building that can be seen from afar. Even with all these instructions, people get lost all the time because it's Cubbon, so maybe a video walkthrough could help. Session delay at PES is nothing compared to Cubbon sessions. People come late because it's a weekend too. Deciding when to start the debate/activity, and how long you're ready to wait, is crucial to minimize the frustration of people who come with certain expectations and time constraints. (People often feel frustrated when they put effort to come early but no activity starts until the latecomers show up.)
 
 ---
 ### Beyond The Debates
@@ -1700,7 +1700,7 @@ A good way to make people feel valued is to remember them by their name, call th
 By the end of a year, the most rigorous debaters are the ones for whom debate friends are their closest friends. Other people usually hangout with their own friends in the evening or on weekends, but these people have their debate friends at the forefront of their brain. 
 - Some of these people are the ones who have shifted from their regular friend group, to having the soc as their primary friend group, due to various external factors. (PES changes sections, friends don't consistently meet, or people change their short break routine, but Debsoc sessions consistently happen so you constantly meet these people.) 
 - Some of these people are the ones who were unable to form many friends at college to begin with. Either they didn't actively talk to people, they didn't have people who actively talked to them, or they didn't have much to talk about.
-- - At debsoc, these people have seniors who actively talk to them. conversation feels natural since they've gotten used to speaking (for at least 7 minutes a day) and there is already content to discuss during post-debate relaxation.
+- - At the Debsoc, these people have seniors who actively talk to them. conversation feels natural since they've gotten used to speaking (for at least 7 minutes a day) and there is already content to discuss during post-debate relaxation.
 
 This is perhaps the club's most beautiful legacy: for years, it has offered a community and friendship to members who yearn for it.
 
@@ -1762,7 +1762,7 @@ On a similar note, weighing is a tricky concept to talk about. What I found to b
 ---
 ### Pranks
 
-My rule of thumb was to not play pranks, at least in the initial days, because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
+My rule of thumb was to not play pranks, at least in the initial days, because it erodes trust in the club and its seniors. I abhor pranks like, "You won't get into Debsoc," during recruitment time. I didn't want recruits to associate a feeling of anxiety with the Debsoc. Freshers who have only confusion when it comes to PES and how things work at PES, are more intimidated than one would expect. You may think they know for sure that they're getting in, but freshers without a grip on how things work are still quite paranoid.
 Light fun might ruin the experience of a few people. But if you can get people smiling and laughing out of it, convert it into lore, or talk about how you went through the same thing (like the prank of making people wear formals at their first tournament), then it can be beneficial.
 The main use of the old WhatsApp groups of seniors, has now become organizing pranks on the juniors lmao.
 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzI5NDQ2OTcxLDE1ODQwODc1MDEsMjEzNjEyMj
+c3RvcnkiOlsyMDE2MzUyOTgxLDE1ODQwODc1MDEsMjEzNjEyMj
 c4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUx
 LC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4Mj
 kxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQx
