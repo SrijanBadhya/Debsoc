@@ -310,7 +310,7 @@ Which takes us to **why I believe we should continue to push hard for inclusivit
 When you see 240ish people on the recruitments group, you might get intimidated. Early on during recruitments, we had thought, "How are we going to run the club if all of them join?!"
 However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them definitely will still drop out.
 Even among those who get recruited, 80% of people stop coming to sessions by the time second year begins.
-A wider net translates to more people who stay.
+Casting a wider net translates to more people who stay.
 
 ---
 ### Depth wise inclusivity
@@ -377,7 +377,7 @@ _The assumption behind the criticism is that group 1 is filled with people who c
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. People in group 1 do end up dropping out a year later, but it's hard to pinpoint the exact cause of this.
 
-(I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well, a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of peace of mind which they earned by being there on the right days.)
+(I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well—a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of peace of mind which they earned by being there on the right days.)
 
 Group 2 is already assumed to not take the Debsoc seriously, so even if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had otherwise.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjMyNzg2NDA0LDE4NzE2NTA3NjUsLTgzMjQzMj
-c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
-MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
-g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
-LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
-AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
-MDA1NTVdfQ==
+c3RvcnkiOlsyMTI0NDA3NzMsMTg3MTY1MDc2NSwtODMyNDMyNz
+UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
+NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
+YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
+MTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MD
+EzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIw
+MDU1NV19
 -->
