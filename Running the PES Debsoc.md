@@ -158,7 +158,7 @@ The needs are heavily disagreed upon, and the methods even more so.
 _**Some have believed that the point of the debate club is to win tournaments and get accolades.**_
 
 - _This does initially make sense since our tournament results are what our PES management gets to see._
-- _And the bsoc cares about getting funded by PES because that's how we get to go to more fun tournaments._
+- _And the soc cares about getting funded by PES because that's how we get to go to more fun tournaments._
 
 **However, some of us believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
 
@@ -180,7 +180,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 - A bit of extra seriousness might lead to better 'results', but this can significantly take away from joy and the community, so be careful what extent you're doing it to.
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.**
 
-_Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The debsoc did reach this point in 2020 I believe.)_
+_Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The Debsoc did reach this point in 2020 I believe.)_
 Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
 
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that having enjoyable chill time goes a long way in getting people to stay, and also motivates them to debate more. 
@@ -197,7 +197,7 @@ So if not tournament wins, what metric _do_ you judge the club by?
 I personally say don't judge the club at all. 
 
 - In theory, metrics are useful to judge a club to see whether the systemic change you implemented had any positive effect or not.
-- However, unfortunately, Debsoc is not like a machine learning model where you can instantly see the result of one tweak. You usually can't even clearly pinpoint the cause of a change in the state of the soc that you see. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
+- However, unfortunately, the soc is not like a machine learning model where you can instantly see the result of one tweak. You usually can't even clearly pinpoint the cause of a change in the state of the soc that you see. A million different factors affect everything, and the only way to retrospectively decide whether a change was good or bad, is if you can somehow derive that the change directly caused certain impacts.
 - Sure, you can ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
 
 _Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
@@ -373,7 +373,7 @@ First, let's break the recruits into 2 groups of people:
 Group 1: the people that you'd recruit by having a 3-day recruitment, a fairly strict round 1 and round 2, and also a medium-high bar to pass through round 3. 
 Group 2: the extra people that you get by putting extra effort to be extra accommodating of people. 
 
-_The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES debsoc. And that group 2 has the lazy people who barely made it into the club._
+_The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES Debsoc. And that group 2 has the lazy people who barely made it into the club._
 
 The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. People in group 1 do end up dropping out a year later, but it's hard to pinpoint the exact cause of this.
 
@@ -400,7 +400,7 @@ A year later, you'll see lot of people in group 1 drop out due to **falling inte
 However, if you hadn't been extra accommodating, you'd never have gotten members from group 2 whose interest would have **risen over time** when debate turned out to be more fun than they had thought. 
 Losing people who lose interest over time is fine, but we can't afford to lose people whose interest would have grown.
 
-It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later on because it took time for them to really enjoy the soc.)
+It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of Debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find soc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later on because it took time for them to really enjoy the soc.)
 
 
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the club heads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the [spreadsheet](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0). I didn't really like debating for my first 2 years in the Debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTg0ODc0OTg3NCwtODMyNDMyNzUsMTU4NDA4Nz
-UwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMs
-LTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyODYxMzIzLDU2OD
-Q4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUz
-MSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLT
-UwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4
-Nzk5NjY4OV19
+c3RvcnkiOlsxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NT
+AxLDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywt
+MTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4ND
+gwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0xMDk0OTU1NTMx
+LC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNT
+AxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3
+OTk2Njg5XX0=
 -->
