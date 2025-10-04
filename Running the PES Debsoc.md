@@ -270,7 +270,7 @@ The third round was a month long, with sessions every day, and people who attend
 ---
  **The month-long recruitment was highly effective** for a few reasons:
 
-- Since it wasn't confined to a particular few days, people could come according to their own schedules. 
+- Since it wasn't confined to a particular few days, people could attend based on their own schedules. 
 - People could get a feel of debate before they committed.
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
 - Glaring issues could surface, making us aware of problematic individuals before admitting them into the club.
@@ -280,7 +280,7 @@ The third round was a month long, with sessions every day, and people who attend
 
 Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
 - People filter themselves out after round 1 and round 2, so you'll have less data to handle in round 3. 
-- + Handling data consistently and accurately in recruitments is extremely challenging since the more names you have, the more time it takes to perform all the operations like searching, marking, and copying. The chance for names to slip by increases as well.
+- + Handling data consistently and accurately during recruitments is extremely challenging. The more names you have, the more time it takes to perform operations like searching, marking, and copying. The chance for names to slip by increases as well.
 
 ---
 A few issues with the month-long recruitment:
@@ -2154,11 +2154,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MS
-wtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3
-Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NT
-Y2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgs
-LTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MD
-g3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjEx
-M119
+c3RvcnkiOlsxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEzND
+k5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLTc3
+MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MT
+k3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1ODgz
+LDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgzMj
+QzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQy
+XX0=
 -->
