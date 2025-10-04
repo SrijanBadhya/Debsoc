@@ -528,7 +528,7 @@ Round 2 in 2024 had the following features:
 - It was a 3v3 AP lite with 4-minute speeches instead of 7.
 - Participants prepped together while the speaker positions are kept a mystery by the judge.
 - The PM and LO positions were announced at the end of prep time.
-- After the first 2 speeches, both teams were given 5 minutes to discuss among themselves for the next 2 speeches.
+- After the first two speeches, both teams were given 5 minutes to discuss among themselves for the next 2 speeches.
 - At the end of this time, the DPM and DLO were announced.
 - After these 2 speeches, there were 5 minutes of discussion time before the Gov whip and Opp whip.
 - There were still no POIs in this format.
@@ -536,7 +536,7 @@ Round 2 in 2024 had the following features:
 Why was this new model better?
 - It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
 - Group discussion portrays the wrong picture of what Debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
-- Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
+- Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally among themselves. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready, since they could be the first speaker for their team.
 - Mid-Debate Strategy Sessions: This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive to discuss thoroughly from the previous step continues.
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. The participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
 - We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone and helped us keep a note of signs of equity issues.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgzMjQzMj
-c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
-MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
-g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
-LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
-AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
-MDA1NTVdfQ==
+c3RvcnkiOlstNjQ2NzEzMjE2LC01MTAyODY0NzEsMTg3MTY1MD
+c2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEw
+ODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0Nj
+M3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMs
+MTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMj
+Q5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4
+NDY5MF19
 -->
