@@ -492,9 +492,9 @@ I'll just quote from Nikhil's document from here until Round 3.
  - The moderator later asks them retrospective questions on what they could have done better and how they would have argued for the other side.
  - + Previously, the moderator used to be passive in adjudicating the debate. Participants would leave after the speeches, and the moderator would note their inputs. In the new system, the moderator becomes more involved and "enters the debate," interacting with the speakers and questioning them about various aspects of the debate. Here are a few reasons for this change:
  - + + Without 'active moderation', there is a feeling of mystery and anxiety after the speeches are over. The moderator passively tracks the debate, and participants are unsure about the metrics they are being judged on.
- - + + Most participants may have an intuitive understanding of the case, but it might not have come out in the speeches due to the new format and general anxiety of a recruitment round. The questions by the moderators are meant to allow speakers to explain themselves in a more conversational manner while allowing them to retrospectively analyze their case. The questions are aimed at understanding how well a participant responds to an issue in the debate that the moderator has pointed out.
+ - + + Most participants may have an intuitive understanding of the case, but it might not have come out in the speeches due to the new format and general anxiety of a recruitment round. The questions by the moderators are meant to allow speakers to explain themselves in a more conversational manner while allowing them to retrospectively analyze their case. The questions are aimed at understanding how well a participant responds to an issue in the debate which the moderator has pointed out.
  - + + From the participant's point of view, they feel that the process is more personal and feels like an interview of sorts. The questions assess them over multiple metrics, and they are also able to understand their performances better in retrospect.
- - + + In practice, this conversation is usually fun and leaves the freshers with the impression of, "Wow these seniors are so cool, nice and fun!" (as per what we've seen in the feedback form). This interaction is where freshers usually have fun, and this makes them want to keep coming back.
+ - + + In practice, this conversation is usually fun and leaves the freshers with the impression of, "Wow these seniors are so cool, nice and fun!" (as per what we've seen in the feedback form). This interaction is where freshers usually have fun, and this makes them want to keep coming. (-Srijan)
  - Example questions moderators could ask:
  - + "You mentioned point X and explained how that leads to impact Y. Could you provide more reasons how X leads to Y? Is X the only reason Y happens?"
  - + "Regarding point X brought out by the other speaker, you responded by saying Y. Do you think this effectively countered point X? How could you have responded better?"
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MT
-c0MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4
-LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC
-0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3
-MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzODk2My
-wtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYzMzUsLTY3
-ODE2OTcwXX0=
+c3RvcnkiOlsxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5NDk1NT
+UzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMs
+LTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMT
+I4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOTE4NTg1
+MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1NTA3LC
+03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC0xMDI0
+NTc2MzM1XX0=
 -->
