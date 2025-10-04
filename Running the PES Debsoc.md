@@ -494,7 +494,7 @@ I'll just quote from Nikhil's document from here until Round 3.
  - + + Without 'active moderation', there is a feeling of mystery and anxiety after the speeches are over. The moderator passively tracks the debate, and participants are unsure about the metrics they are being judged on.
  - + + Most participants may have an intuitive understanding of the case, but it might not have come out in the speeches due to the new format and general anxiety of a recruitment round. The questions by the moderators are meant to allow speakers to explain themselves in a more conversational manner while allowing them to retrospectively analyze their case. The questions are aimed at understanding how well a participant responds to an issue in the debate which the moderator has pointed out.
  - + + From the participant's point of view, they feel that the process is more personal and feels like an interview of sorts. The questions assess them over multiple metrics, and they are also able to understand their performances better in retrospect.
- - + + In practice, this conversation is usually fun and leaves the freshers with the impression of, "Wow these seniors are so cool, nice and fun!" (as per what we've seen in the feedback form). This interaction is where freshers usually have fun, and this makes them want to keep coming. (-Srijan)
+ - + + In practice, this conversation is usually fun and leaves the freshers with the impression of, "Wow these seniors are so cool, nice and fun!" (as per what we've seen in the feedback form). This interaction is where freshers usually have fun, and this makes them want to keep coming. (from Srijan)
  - Example questions moderators could ask:
  - + "You mentioned point X and explained how that leads to impact Y. Could you provide more reasons how X leads to Y? Is X the only reason Y happens?"
  - + "Regarding point X brought out by the other speaker, you responded by saying Y. Do you think this effectively countered point X? How could you have responded better?"
@@ -521,10 +521,10 @@ Why is this bad?
 - Except maybe for panel deliberation, the skills tested in the group discussion round are never explicitly used in parliamentary debating. Sure, skills like quick thinking and being adaptive are transferable, but there are other methods to assess this.
 - Participants might leave with the impression that cutting through the noise and voicing out their opinion is rewarded, and those who cannot do this will be dissuaded. This is bad because it goes against the fundamental aspects of debating, which are to carefully listen to other arguments and present yours without the fear of interruption.
 - Many participants, including myself, felt left out of the conversation due to the social dynamics of the discussion. The moderator did try to include all participants manually, but this did not solve the fundamental problem with the method of testing.
-- (From Srijan) A huge chunk of our loyal debaterbase comes from people who struggle with social anxiety who commit to the debsoc in hopes of getting better at public speaking. One bad (misleading) experience like this can be enough for them to give up hope.
+- (From Srijan) A huge chunk of our loyal debaterbase comes from people who struggle with social anxiety who commit to the debsoc in the hopes of getting better at public speaking. One bad (misleading) experience like this can be enough for them to give up hope.
 
 
-Nikhil's round 2 in 2024 had the following features:
+Round 2 in 2024 had the following features:
 - It was a 3v3 AP lite with 4-minute speeches instead of 7.
 - Participants prepped together while the speaker positions are kept a mystery by the judge.
 - The PM and LO positions were announced at the end of prep time.
@@ -535,7 +535,7 @@ Nikhil's round 2 in 2024 had the following features:
 
 Why was this new model better?
 - It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
-- Group discussion portrays the wrong picture of what debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
+- Group discussion portrays the wrong picture of what Debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
 - Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
 - Mid-Debate Strategy Sessions: This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive process from the previous step continues.
 - Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5NDk1NT
-UzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMs
-LTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMT
-I4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOTE4NTg1
-MzM0LDExNDI5NzEzOTMsLTE3MTcwNzYxNTYsNDQ0NzE1NTA3LC
-03NTgyMzg5NjMsLTE4MzI4Nzg4NSwxNjMxNTE1MDM5LC0xMDI0
-NTc2MzM1XX0=
+c3RvcnkiOls1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNz
+ksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwt
+OTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MT
+EyMDA1NTUsLTEyODc5OTY2ODksLTMyNDM3MjEyOCwtMjk0ODY1
+NDYyLDkxODU4NTMzNCwxMTQyOTcxMzkzLC0xNzE3MDc2MTU2LD
+Q0NDcxNTUwNywtNzU4MjM4OTYzLC0xODMyODc4ODUsMTYzMTUx
+NTAzOV19
 -->
