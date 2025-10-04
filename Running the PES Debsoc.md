@@ -1454,13 +1454,13 @@ For newcomers, the reality of a debate tournament often differs starkly from the
 - They might expect the tournament to provide food so they wouldn't have made their own food plans like lunch boxes.
 - And most of all, won't know the meaning of the word imminent.
 
-One briefing session before their first tournament where you talk about the logistics and equity can go a long way. It's also nice to drive hard the point that the experience, the learning, and the fun matter far more than points. 
+One briefing session before their first tournament where you talk about the logistics and equity can go a long way. It's also nice to drive hard that the **experience, the learning, and the fun matter far more than points.** 
 
 ---
-The biggest difference between expectations and reality is of course, that juniors are used to interschool science quizzes (where most people score high) and they won't have really comprehended that this is a national level tournament with people years elder to them.
-"Most novices go into their first tournament assuming they'll only face other beginners, only to get ripped apart by dinos in the first round.
+The biggest difference between expectations and reality is that juniors are used to interschool science quizzes (where most people score high) and they won't have really comprehended that this is a national level tournament with people years elder to them.
+Most novices go into their first tournament assuming they'll only face other beginners, only to get ripped apart by dinos in the first round.
 
-Tournaments are very draining physically, mentally, and emotionally. Juniors have no idea how likely it is to go back home with 0 points or 1 point. This has happened multiple times before and has left them absolutely devastated (to be fair it has happened in APs not BPs). I think they deserve a fair warning.
+Tournaments are very draining physically, mentally, and emotionally. **Juniors have no idea how likely it is to go back home with 0 points or 1 point.** This has happened multiple times before and has left them absolutely devastated (to be fair it has happened in APs not BPs). I think they deserve a fair warning.
 I believe that it was better to prepare them for this possibility rather than being blindly optimistic about their results. However, this is something specific to my beliefs and the way I see the world, so I'm unsure whether it's better to act like you have low expectations of them, or high. If your expectations are high, people will feel like their performance was far lower than what it should have been, and that they disappointed you. But if your expectations are low then that could affect their self-esteem from the start since that makes them, "hopeless".
 
 ![enter image description here](https://i.ibb.co/RGQ2g8q9/tournaments-are-very-draining.jpg)
@@ -2152,11 +2152,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNz
-E4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2Mjgy
-LC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MT
-Y1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2
-LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLT
-E0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4
-NjNdfQ==
+c3RvcnkiOlstODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0Mj
+IyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0
+LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMD
+I4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAx
+LDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMT
+YwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgw
+Mzk0XX0=
 -->
