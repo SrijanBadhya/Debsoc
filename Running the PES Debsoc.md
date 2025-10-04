@@ -646,9 +646,9 @@ It's important to alleviate anxiety and make people associate the soc with good 
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
 
-The sneaky thing about our recruitment model is that the club activity (debate sessions) isn't gatekept from recruits and continues the same way after recruitments. What difference does joining the club make then? To make them feel like there's a difference, you can say that now they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
+The sneaky thing about our recruitment model is that the club activity (debate) isn't gatekept from recruits and continues the same way after recruitments. What difference does joining the club make then? To make them feel like there's a difference, you can say that now that they're in the club, they have access to tournaments, merchandise, and the 'super exciting' exclusive WhatsApp group.
 
-This year 2025, round 3 got delayed for months (due to factors like IITB, tournaments, exam schedules, and processing round 1 & round 2 results. The end of recruitments slightly overlapped with NLSD, and we had to awkwardly maneuver and invite the people with the highest attendance before they were even officially recruited. 
+This year 2025, round 3 got delayed for months (due to factors like IITB, tournaments, exam schedules, and processing round 1 & round 2 results). The end of recruitments slightly overlapped with NLSD in March, and we had to awkwardly maneuver and invite the people with the highest attendance before they were even officially recruited. 
 
 ---
 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODg4NjMwNDE1LDEwODQzMDU2NDIsLTIwNTAzOT
+c3RvcnkiOlstNjQ4NDQyNTc4LDEwODQzMDU2NDIsLTIwNTAzOT
 IxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyODYxMzIz
 LDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5ND
 k1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgy
