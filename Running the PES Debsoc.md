@@ -583,7 +583,7 @@ Juniors are unaware that they even have the right to judge (since judging is for
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
 I don't believe that making the recruitment bar seem high was really able to encourage debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
 
-In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. Because these people expressed interest (, we added them to the recruitment list. In reality we ended up setting the bar at 2 debates, keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
+In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. Because these people expressed interest (even if they had just done 1 debate), we added those who messaged us to the recruitment list. For everyone else we ended up setting the real bar at 2 debates, while still keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
 
 Since (for some reason) we cared about making the debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo.
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0
@@ -2149,7 +2149,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTk4OTI1Mzg2NSw1Njg0ODAzOTQsMTc4MjkxOD
+c3RvcnkiOlstMTUwMDA1MDcyNyw1Njg0ODAzOTQsMTc4MjkxOD
 YzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwt
 MTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1OD
 A5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMyNDM3
