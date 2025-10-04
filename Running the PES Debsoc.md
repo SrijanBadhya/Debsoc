@@ -549,11 +549,11 @@ Round 1 and 2 are usually quite rushed because you're processing large batches o
 
 Detailed comments about each speaker are nice, but they're too much work for an organizer who is going through around 12 people per day (during round 2). Personal feedback is more feasible in round 1 than round 2. 
 
-In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these rules takes quite sometime and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
+In the interest of time and simplicity, it makes sense to drop a lot of procedures of debate. Explaining these rules takes quite some time and can be overwhelming to someone new to debate who's already having a hard time remembering who the "Deputy Leader of Opposition" is supposed to be.
 
 ![enter image description here](https://i.imgflip.com/a77jc5.jpg)
 
-We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
+We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to recruits in round 2 because they expect it to decide their entry into the club (even after all the times we told them ). We did give everyone a bit of feedback (which does feel a bit awkward without an OA or verdict), but it worked well enough to convince people that there was value (opportunity for growth) in the club.
 
 Verdicts can be straight up demotivating, especially at a super early stage. It's more important to let people focus on speeches rather than the verdict. Quoting Nikhil, "People will get the false idea that the winner will proceed to the next round and will get the idea that debate is about winning and putting down the other side at any cost, so the incentive to act sus (cheat) is higher."
 
@@ -2149,7 +2149,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMjc3OTM3MjYsNTY4NDgwMzk0LDE3ODI5MTg2My
+c3RvcnkiOlsxMTI2OTU2MjAsNTY4NDgwMzk0LDE3ODI5MTg2My
 wxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEy
 NDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOT
 g0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIx
