@@ -201,7 +201,7 @@ I personally say don't judge the club at all.
 - Sure, you can ask people how they felt about a certain change, and take this feeling as a metric. The priority is the happiness of the members, more than any results.
 
 _Common metrics people often take are tournament wins, number of active members, or number of active members in sessions, etc._
-- Unfortunately, even the result from such a metric can be misleading. Just because you have less members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
+- Unfortunately, even the result from such a metric can be misleading. Just because you have fewer members this year doesn't mean you were shit at running the club. There are more factors out of your control than you can imagine.
 - 'How skilled juniors are' shouldn't be the metric of whether you are a good mentor because everyone has different starting points. It's about whether they're getting better. It's about whether they feel happy in this club.
 
 Sure, there aren't any provable 'harms' of using inaccurate metrics, except for the long-term culture of the club where juniors feel themselves being pushed towards results instead of enjoying the process.
@@ -252,7 +252,7 @@ How do you handle the trade-off between being inclusive/selective?
 A few pros of being selective:
 
 - A few PES clubs (like ECell) try to be extremely selective with their members. This generates initial hype over being a 'member of ECell.'
-- Less members may mean less dilution of spirit and hence you can focus more.
+- Fewer members may mean less dilution of spirit allowing you to focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding to your texts.
 - People feel more comfortable to text their thoughts on the group chat when they actually know the people, rather than when they have never seen half the people.
@@ -408,7 +408,7 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 ---
 Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
 - You won't look like bad planners since the reason for the extension is not you, but actually them, the recruits who didn't make it to the regular round 1. 
-- Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige hampers your 3 main goals: growth, community, and enjoyment of the people, since you have less people to provide value to.
+- Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige hampers your 3 main goals: growth, community, and enjoyment of the people, since you have fewer people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in," than it is for them to bitch, "This club was so easy and they took nearly everybody in." The image of the club won't be ruined if you aren't strict. It might actually be better.
 - In feedback forms, people have been very appreciative of our inclusivity and flexibility which makes them feel cared for.
 <br>
@@ -424,7 +424,7 @@ Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (p
 
 A major problem of the soc is the lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
 And nobody ever thinks this:
-"If we had taken in lesser people, we would have had more active people today". 
+"If we had taken in fewer people, we would have had more active people today". 
 
 ![enter image description here](https://i.imgflip.com/a72qei.jpg)
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NDI3ODEzMjgsMTg3MTY1MDc2NSwtODMyNDMyNz
-UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
-NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
-YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
-MTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MD
-EzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIw
-MDU1NV19
+c3RvcnkiOlsxNTk5NTg2Njg3LDE4NzE2NTA3NjUsLTgzMjQzMj
+c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
+MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
+g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
+LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
+AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
+MDA1NTVdfQ==
 -->
