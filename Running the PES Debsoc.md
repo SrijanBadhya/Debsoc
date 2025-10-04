@@ -565,7 +565,7 @@ When I allowed POIs, even after stating the rules thrice, people messed up POI r
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
 ---
-We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also allows the Debsoc to change course if something has been quite a hindrance.
+We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also because it allows the Debsoc to change course if something is shown to be a hindrance.
 
 ---
 ### Round 3
@@ -2149,7 +2149,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjk1ODg1MjE5LDU2ODQ4MDM5NCwxNzgyOTE4Nj
+c3RvcnkiOlsxMzgyNDMzMzU3LDU2ODQ4MDM5NCwxNzgyOTE4Nj
 MsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0x
 MjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MD
 k4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0Mzcy
