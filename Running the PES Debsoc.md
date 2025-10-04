@@ -1588,16 +1588,16 @@ By the way, there are actually a few possible answers to this question
 2. They want to be in a club for the sake of it because it's cool. (There are people who get excited about buying Debsoc merch even though they don't debate anymore or even feel like even a part of the club.)
 <br>
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
-4. They have issues on weekdays but not weekends.
-5. They want to do tournaments because they are super fun, but don't want to attend sessions which aren't that fun. (Surprisingly a very common scenario I've observed).
+3. They have issues on weekdays but not weekends.
+4. They want to do tournaments because they are super fun, but don't want to attend sessions which aren't that fun. (Surprisingly a very common scenario I've observed).
 
 It's hard to entirely solve these problems. The best you can do is keep the value of sessions high, and also do things like Cubbon Park sessions.
 
 ---
 A few random concepts that I've learned the hard way:
-- A lot of people, in their head, will feel guilty about coming to debate, because they 'should be studying instead'. During a banal session they may think that they 'could have been studying instead'. People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people do end up passing the time anyway on their short days, the fantasy of this productivity is enough to discourage them from walking to a debate session. 
-- Regardless of how much value debate adds to life, nobody thinks that it's more productive than studying. Second year onwards, the main reason people still find the drive to come is because of the community. Debate culture is a testament to the community you've built. People should be _tempted_ to come debate. 
-- The only reason college students do anything besides studies is when something feels fun, or if it's what they visualized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of, "having a fun college life", the same way that people hang out with their friends regardless of their academic commitments.
+- A lot of people, in their head, will **feel guilty** about coming to debate, because they 'should be studying instead'. During a banal session they may think that they 'could have been studying instead.' People always imagine that if they got 2 hours extra in a day, they would spend those hours studying. Even if people do end up passing the time anyway on their short days, the **fantasy of this productivity** is enough to discourage them from walking to a debate session. 
+- Regardless of how much value debate adds to life, nobody thinks that it's more productive than studying. From the second year onwards, the **main reason people still find the drive to come is because of the community.** Debate culture is a testament to the community you've built. People should be _tempted_ to come debate. 
+- The only reason college students do anything besides studies is when something feels fun or if it's what they visualized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of "having a fun college life," the same way that people hang out with their friends regardless of their academic commitments.
 
 The activity of the Debsoc should be kept visible and fresh, even in the minds of the people who don't come debate. From my experience sitting at home these last few months, session polls don't give me a sense of how alive the soc is. Only other conversation about the session does.
 Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. This really makes people feel like they're missing out and that there's something thriving which other people are enjoying.
@@ -2153,11 +2153,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4MDU4NTUyNDQsLTEzNTQ4MDUxNjgsLTgxMTE5NT
-Q1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEw
-LC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zND
-M3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2
-NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwOD
-QzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3
-MjU1OTFdfQ==
+c3RvcnkiOlsxNjM1NDgwNzMzLC0xMzU0ODA1MTY4LC04MTExOT
+U0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYx
+MCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMz
+QzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3
+NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMD
+g0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYz
+NzI1NTkxXX0=
 -->
