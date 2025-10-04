@@ -585,10 +585,11 @@ I don't believe that making the recruitment bar seem high was really able to enc
 
 In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. Because these people expressed interest (even if they had just done 1 debate), we added those who messaged us to the recruitment list. For everyone else we ended up setting the real bar at 2 debates, while still keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
 
-Since (for some reason) we cared about making the debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo.
+Since (for some reason) we cared about making the debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo. This is the list we published:
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0
 
-In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non-transparent, but I consider it more important to get juniors to debate as much as possible to increase the likelihood of them getting hooked (and also increase their skill). 
+In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
+Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non-transparent, but I consider it more important to get juniors to debate as much as possible to increase the likelihood of them getting hooked (and also increase their skill). 
 
 The issue with this, as I've mentioned elsewhere, is that people might just give up hope since they can't reach the false threshold, and also might be anxious about making it in. The anxiety might hold less weight since it translates to relief once they've gotten in, but it mildly feels dishonest to scare people.
 
@@ -2149,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUwMDA1MDcyNyw1Njg0ODAzOTQsMTc4MjkxOD
-YzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwt
-MTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1OD
-A5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMyNDM3
-MjEyOCwtMjk0ODY1NDYyLDkxODU4NTMzNCwxMTQyOTcxMzkzLC
-0xNzE3MDc2MTU2LDQ0NDcxNTUwNywtNzU4MjM4OTYzLC0xODMy
-ODc4ODVdfQ==
+c3RvcnkiOlsxMDYxMDMxNzMyLDU2ODQ4MDM5NCwxNzgyOTE4Nj
+MsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0x
+MjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MD
+k4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0Mzcy
+MTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLT
+E3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4
+Nzg4NV19
 -->
