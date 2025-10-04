@@ -340,7 +340,7 @@ Taking a few points out of Nikhil's recruitment document:
 
 [Back to the Table of Contents](#table-of-contents)
 
-This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
+This has, somehow, become one of the society's most controversial practices. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
 By breadth-wise inclusivity, I mean making an effort to take more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
 
@@ -2155,11 +2155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MDMwMDQxOSwtNTUzODYxNzY5LDQ5NjA0MzE1My
-w5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEz
-NDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLT
-c3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3
-MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1OD
-gzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjVdfQ==
+c3RvcnkiOlsxNjY4OTA3MzQ3LC01NTM4NjE3NjksNDk2MDQzMT
+UzLDkwMzUzMDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4
+MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1Mi
+wtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0x
+NjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3Nj
+U4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2NV19
 
 -->
