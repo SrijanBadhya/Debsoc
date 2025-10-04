@@ -408,9 +408,9 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 ---
 **Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)**
 - You won't look like bad planners since the reason for the extension is not you, but actually them, the recruits who didn't make it to the regular round 1. 
-- Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige hampers your 3 main goals: growth, community, and enjoyment of the people, since you have fewer people to provide value to.
+- Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige **hampers your 3 main goals:** growth, community, and enjoyment of the people, since you have fewer people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in," than it is for them to bitch, "This club was so easy and they took nearly everybody in." The image of the club won't be ruined if you aren't strict. It might actually be better.
-- In feedback forms, people have been very appreciative of our inclusivity and flexibility which makes them feel cared for.
+- In feedback forms, **people have been very appreciative of our inclusivity and flexibility which makes them feel cared for.**
 <br>
 ![enter image description here](https://i.ibb.co/rGyg39VV/Inclusivity.png)
 
@@ -422,7 +422,7 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments," isn't something really caused by the low bar of entry to the soc.
 
-A major problem of the soc is the lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments, only has a very short-term effect in how much they show up for sessions. 
+A major problem of the soc is the lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments', **only has a very short-term effect in how much they show up for sessions.** 
 And nobody ever thinks this:
 "If we had taken in fewer people, we would have had more active people today". 
 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTUzMzAzNTE0LDI3OTUyOTgxOCwtNTEwMjg2ND
+c3RvcnkiOlstOTg1NTI0NjY3LDI3OTUyOTgxOCwtNTEwMjg2ND
 cxLDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEz
 NjEyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MT
 UzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQs
