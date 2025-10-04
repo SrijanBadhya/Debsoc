@@ -625,9 +625,9 @@ I was in awe. For a moment my eyes rolled back into my head, and I tapped into t
 
 Some moments I find worthy of bending the rules are:
 
-1. Explaining the 3 motions. Teams are clueless about a lot of debate words. Giving them extra information, even if it feels like the beginning of a case, helps alleviate how lost they feel. 
+1. Explaining the three motions. Teams are clueless about a lot of debate words. Giving them extra information, even if it feels like the beginning of a case, helps alleviate how lost they feel. 
 2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves, so they don't feel like they were doomed from the start with just one motion.
-3. Doing like 3 minutes of case prep with each team if you feel like it, by asking nuanced questions to stimulate their thoughts.
+3. Doing like three minutes of case prep with each team if you feel like it, by asking nuanced questions to stimulate their thoughts.
 
 The rebuttal to this is that you shouldn't teach juniors the wrong rules of debate and shouldn't hold their hand too much. I still believe that senior involvement is crucial to make the Debsoc feel like a club, and this matters more. 
 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDY5MzgyODU3LC01MTAyODY0NzEsMTg3MTY1MD
+c3RvcnkiOlstODU2MTIyNDY1LC01MTAyODY0NzEsMTg3MTY1MD
 c2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEw
 ODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0Nj
 M3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMs
