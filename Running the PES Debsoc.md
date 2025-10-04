@@ -228,13 +228,13 @@ What I find very effective is to tell your own story, how debating has improved 
 
 In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably because every other club filtered people based on skill.
 
-I believe talking too much about the AP and BP format would just feel like an overload as there a so many complicated things to remember. This would give people more confusion than meaningful information.
+I believe talking too much about the AP and BP format would just feel like an overload as there are so many complicated things to remember. This would give people more confusion than meaningful information.
  
 ## Recruitment Concepts
 
 This is the single most essential activity of a club.
 
-This is the single place (besides arguably PESDT) where systems matter the most, because 
+This is the single area (besides arguably PESDT) where systems matter the most, because 
 1. You have an enormous scaled up load of both people and documentation to handle.
 2. This first impression juniors have of the soc shapes whether they want to continue or not. A process that isn't smooth can be damaging to their perspective.
 
@@ -623,7 +623,7 @@ A slight detour:
 I once judged a debate tournament for school kids, and my chair was Yash Alva from RCL. The PM, a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are school kids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these school kids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
 I was in awe. For a moment my eyes rolled back into my head, and I tapped into the far-sighted vision Yash possessed. I saw that it was worth bending the rules sometimes to keep people winning in the infinite game.
 
-Some places I find worthy of bending the rules are:
+Some moments I find worthy of bending the rules are:
 
 1. Explaining the 3 motions. Teams are clueless about a lot of debate words. Giving them extra information, even if it feels like the beginning of a case, helps alleviate how lost they feel. 
 2. Keeping motion ranking even if it's a half BP. Motion ranking is quite useful because it gives people the illusion of agency. If a debate turns out difficult, they still 'chose' it themselves, so they don't feel like they were doomed from the start with just one motion.
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MTE0MjEwNTQsMTg3MTY1MDc2NSwtODMyNDMyNz
+c3RvcnkiOls5NDI3ODEzMjgsMTg3MTY1MDc2NSwtODMyNDMyNz
 UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
 NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
 YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
