@@ -606,7 +606,7 @@ There should be a better way to set the threshold and publicize it but we haven'
 
 You can never accurately predict how many people will show up to a session, who will show up, or which days they will show up on, because people change their minds even after they vote (and many don't even vote).
 
-Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track people's speaker positions, check their past speaker positions, and assign them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
+Because of this, it wasn't possible for us to ensure that every junior got to Pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track people's speaker positions, check their past speaker positions, and assign them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
 The only thing that we could do was leave it to fate and hope that people would naturally try out different roles themselves.
 
 ---
@@ -1168,7 +1168,7 @@ We've had seniors take up voluntary adjing slots using an excel sheet before, bu
 I don't know if this is due to the bystander effect caused by there always being someone already conducting the session. 
 Even if there already is someone, **more seniors are always needed.**
 - The person who 'conducts' the session usually ends up judging, which can tire them out. Taking over their judging shifts and letting them speak gives them a chance to refresh.
-- My conversation with Akshat Saxena taught me that pro-ams are one of the most crucial ways to fast-track debate progress. Pro-ams help juniors understand what the right debate habits are. 
+- My conversation with Akshat Saxena taught me that Pro-Ams are one of the most crucial ways to fast-track debate progress. Teaming up with a senior helps juniors understand what the right debate habits are. 
 - Case prep with a senior you've teamed up with by itself is an incredible learning experience, and a very cool fascinating experience for the juniors that I've spoken to.
 <br>
 ![enter image description here](https://i.ibb.co/CsvVJk5s/Screenshot-2025-09-06-170630.png)
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NT
-AxLDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywt
-MTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4ND
-gwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0xMDk0OTU1NTMx
-LC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNT
-AxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3
-OTk2Njg5XX0=
+c3RvcnkiOlstNjQzMTEzMjEyLDE4NzE2NTA3NjUsLTgzMjQzMj
+c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
+MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
+g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
+LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
+AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
+MDA1NTVdfQ==
 -->
