@@ -740,9 +740,9 @@ The drawback of the first one is that you may sometimes forget whether you've fi
 The drawback of the second method is that people tend to either end up forgetting to fill the form or end up searching where they've written names. Over the huge period of recruitments, moderators write details in multiple pages of random notebooks and it's hard to keep track of all of this stuff. 
 I lean towards the first method.
 
-It's quite common to get caught up in the debate once you've taken attendance at the start. Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
+**It's quite common to get caught up in the debate once you've taken attendance at the start.** Extra focus is needed to remember to take attendance every time a person comes in, so have a book open or something so that this helps remind you.
 
-Test out your form, because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. Decide whether you want responses to be editable or not (only the last response on google forms is editable).
+**Test out your form,** because last year we couldn't submit multiple responses until we fixed that a few minutes into recruitments. Decide whether you want responses to be editable or not (only the last response on google forms is editable).
 
 A few moderators miss out on people's surnames either due to forgetfulness or due to believing that the surname for someone named something like Sudiksha wasn't required. Well, we ended up having 2 Sudikshas, and who knows which Sudhiksha stole the attendance of the other. 
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1OD
-gzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgz
-MjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1Nj
-QyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkx
-LDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MT
-gyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2
-MV19
+c3RvcnkiOlstMTY4OTE1NTMzNCw4NjY1NjYzOTQsLTUxMzM3Nj
+I4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4
+NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMj
+c4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUx
+LC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4Mj
+kxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQx
+OV19
 -->
