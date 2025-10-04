@@ -393,7 +393,7 @@ People's interest in debate can fall or rise over time, based on what they disco
 
 ![enter image description here](https://i.postimg.cc/SsPZgzmd/Interestovertime4.png)
 
-This blue box touches upon a very complicated problem: the challenge seeming so massive that you give up on it, unaware that the real bar is lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible," and "You just need to do 2 sessions in the whole month of round 3 to get into the club."
+This blue box touches upon a very complicated problem: the challenge seeming so massive that you give up on it, unaware that the real bar is lower. I don't know how to solve this without the contradictory messaging of "Guys come to as many sessions as possible," alongside, "You just need to do 2 sessions in the whole month of round 3 to get into the club."
 
 ![enter image description here](https://i.postimg.cc/ZYGmRW66/Interestovertime5-with-bonus.png)
 
@@ -2155,11 +2155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDU3NjU5MjA1LC01NTM4NjE3NjksNDk2MDQzMT
-UzLDkwMzUzMDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4
-MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1Mi
-wtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0x
-NjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3Nj
-U4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2NV19
+c3RvcnkiOls5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNT
+MsOTAzNTMwMDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgx
+MzQ5OTgsNjE4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC
+03NzM2MzU3MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2
+NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NT
+g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1XX0=
 
 -->
