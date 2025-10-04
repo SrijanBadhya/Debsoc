@@ -353,7 +353,7 @@ We usually conduct round 1 across 3 days so that people can come on any day acco
 
 - When you scale probabilities up to 250ish recruits, 100 have a chance of being available 2 out of the 3 days, 120 have a chance of being available 1 out of 3 days, and there are usually 30 people unable to make it on any of these 3 particular days. Even if an incident is just 9% likely, in a sample of 100 people, this incident will likely affect 9 people. 
 
-- This could be due to being sick, having some extracurricular class one day, having a high priority assignment another day, anything. Even if these seem unlikely, likelihood scales up with people. 
+- This could be due to being sick, having some extracurricular class one day, having a high priority assignment another day, anything. **Even if these seem unlikely, likelihood scales up with people.** 
 
 ![enter image description here](https://i.imgflip.com/a72pv2.jpg)
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNz
-Y1LC04MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4
-NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2Mz
-cyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2Mywx
-ODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyND
-k1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0
-NjkwXX0=
+c3RvcnkiOlstNDE3ODYwMjYyLDI3OTUyOTgxOCwtNTEwMjg2ND
+cxLDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEz
+NjEyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MT
+UzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQs
+MTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMj
+cxNzQxOSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYy
+NThdfQ==
 -->
