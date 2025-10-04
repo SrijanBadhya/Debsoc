@@ -1055,7 +1055,7 @@ We used this to market the Debsoc during the club showcase at Aarohi too, back i
 
 ---
 #### Alley Debating
-I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in Desoc sessions.
+I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in Debsoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cause of how goofy it was, and very time efficient too.
 
@@ -1141,7 +1141,7 @@ Sure, online sessions mitigate these issues to quite some extent, but they prett
 
 With NLS, I've held one online cross mock, 2 offline cross mocks at NLS, and one offline cross mock at PES (I adjed them all).
 
-The first offline mock had a few interested NLS students and a few PES students. NLS people spend all day in the library, so to get enough debaters, my NLS friends had to beg their debsoc friends and drag them from the study zone of the library to the zone where we were debating.
+The first offline mock had a few interested NLS students and a few PES students. NLS people spend all day in the library, so to get enough debaters, my NLS friends had to beg their Debsoc friends and drag them from the study zone of the library to the zone where we were debating.
 Clearly such people couldn't be dragged all the way to PES if a mock happened there.
 
 The second offline mock at NLS was when three friends called me since they wanted to practice for a tournament, and I brought two people from PES along.
@@ -1176,7 +1176,7 @@ Even if there already is someone, **more seniors are always needed.**
 - Having too many seniors is always better than having too few seniors. In the worst case if you have a debate room full of juniors, and 2 extra seniors, these seniors can always at least guide the case prep of the juniors and cheer them on, even if they don't speak themselves.
 
 
-Senior judge: junior participant ratio is a big deal. Often the debsoc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions on the different days.
+Senior judge: junior participant ratio is a big deal. Often the soc doesn't even have 1 available senior for 6 juniors. Early on there are often too many juniors. One way to combat this is having more seniors. Another way is spreading out sessions even more (scheduling sessions according to the availability of the seniors rather than juniors), such that the juniors are spread out across different sessions, but the senior is available to repeat sessions on the different days.
 It is a pain that having more juniors and less seniors means that seniors generally have to do more sessions than an average junior, but I haven't seen any way around this.
 
 When more than one room full of juniors pull up (6-8 people), there are a few ways to adjust.
@@ -1186,7 +1186,7 @@ When we had 8 people pull up to a session before we taught them BPs, I made two 
 When there were 7 people,  we just worked around with what we had, even if there was a reply speaker from one side but not the other side.
 
 b) Choosing the optimal frequency of sessions. 
-Adaptive sessions are more robust to spontaneity and the PES schedule. Having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
+Adaptive sessions are more robust to spontaneity and the PES schedule. Having fixed sessions encourages the formation of a routine, and for people to fit it into their lifestyle, instead of consciously making the decision to go to Debsoc every session. (Like how people don't even think about brushing their teeth as a burden anymore and just do it.)
 Three days a week is what we usually go for once recruitments have ended. More sessions are usually too much work for the senior without proportional returns, and having less votes on the polls sort of sends a message that the debsoc is a deadsoc. 
 I talk more about debate turnout as a whole in [Push to come to sessions](#push-to-come-to-sessions).
 
@@ -1201,7 +1201,7 @@ c) Another issue is the complications of adjing. This was initially a section un
 
 [Link back to the 'Time' subsection if you came from the link there](#time)
 ### My Story
-The debsoc controversy I am the most infamous for is my history with Adjudication. This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
+The Debsoc controversy I am the most infamous for is my history with Adjudication. This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 
 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?" As we freshers had never been to a tournament before, I expected our seniors to assign roles for us, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving freshers clueless since there's no authority to back up a decision.)
 The 4 of us continued to remain silent about which 3 would form a team and who would adj.
@@ -1243,7 +1243,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 - _Freshers will get to speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucked._ 
 - _This also distributes adjes evenly among multiple tournaments._
 - However, later I realized this was bad for the [narrative of adjing](#the-adj-narrative), and hence it was a bad idea. (The only way to still execute this is to equally say that _speaking_ twice in 3 tourneys is also 'compulsory', but this is too delicate and weird, and one slip-up ruins the narrative of adjing).
-6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge to decide a winner, or how to analyze clashes. The thrill of speaking is way more than the thrill of listening, so to bait them into the debsoc they initially are made to speak.
+6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge to decide a winner, or how to analyze clashes. The thrill of speaking is way more than the thrill of listening, so to bait them into the Debsoc they initially are made to speak.
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
 ---
@@ -1263,7 +1263,7 @@ The ideal scenario of tournaments is if people voluntarily adj and power through
 
 
 How do we make sure this trend continues?
-- Already having the trend is a good start. My seniors lacking adjes and avoiding judging themselves was what pushed the narrative that adjing was undesirable. Currently there is a nice trend of debsoc seniors voluntarily judging, which makes it look desirable.
+- Already having the trend is a good start. My seniors lacking adjes and avoiding judging themselves was what pushed the narrative that adjing was undesirable. Currently there is a nice trend of soc seniors voluntarily judging, which makes it look desirable.
 - The target audience of people who may like adjing more than speaking, needs to be aware of the full benefits of adjing. What are the reasons these people get into adjing in the first place?
 - + I know someone who got into adjing because they were too afraid to speak.
 - + I know someone who judges when they're too exhausted to speak.
@@ -1275,7 +1275,7 @@ How do we make sure this trend continues?
 - I don't know how exactly to encourage adjing (because if you start outright telling everyone "adjing is nice, do try it out", it looks like you're a scamster. Anything that is actually good doesn't need explicit endorsement.) If judging is actually fun, everybody should be trying to do it, so promotion of judging looks suspicious.
 ![enter image description here](https://i.ibb.co/xSwn9pdD/Whats-App-Image-2025-09-09-at-23-10-53.jpg)
 - However, I have a few possible [ideas](#elevating-the-judging-experience) on how you might improve a fresher's enjoyment of judging mocks. 
-- Even if you can't safely encourage adjing, what is definitely important, is to avoid _discouraging_ adjing. Members of the debsoc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
+- Even if you can't safely encourage adjing, what is definitely important, is to avoid _discouraging_ adjing. Members of the soc have often made statements which ruin the narrative of adjing (me included), and we need to be careful.
 
 ---
 Samuel, my senior, once said this to encourage judging,
@@ -1353,7 +1353,7 @@ You're cooked. I'm just as clueless as you.
 
 [Back to the Table of Contents](#table-of-contents)
 
-When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the debsoc was weird for engaging in some weird format of debate. I wondered if the debsoc just blindly followed 'rituals'. 
+When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the Debsoc was weird for engaging in some weird format of debate. I wondered if the Debsoc just blindly followed 'rituals'. 
 
 Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid. Parliamentary debate no longer felt like a made-up game with arbitrary rules.
 
@@ -1366,13 +1366,13 @@ Aaaaaand the money.
 
 ## Freeloaders
 
-By freeloaders I mean people who don't participate in the debsoc much yet want to join reimbursements.
-For quite a few years, the debsoc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
+By freeloaders I mean people who don't participate in the Debsoc much yet want to join reimbursements.
+For quite a few years, the soc has tried to prevent freeloaders, but sometimes we've found it hard to say no to people. 
 
 ![enter image description here](https://i.ibb.co/rKY6GKfn/Whats-App-Image-2025-09-09-at-23-25-35.jpg)
 
 
-When the debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the soc to cut names. 
+When the Debsoc tries to send a lot of people to a tournament and asks for reimbursements, the management sometimes makes it an issue and asks the soc to cut names. 
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely. Sometimes they reject tournaments if you've gone to other tournaments recently.
 I don't have experience communicating between students and the management, so I can't really tell how to work with the management (but Stuthi has, and she has words for you in the next section).
 
@@ -1568,7 +1568,7 @@ I like how it's still able to simulate the fun chill vibe of acco(hotels) at off
 
 ## Push to come to sessions
 
-The question the debsoc will forever grapple with is, "How do we get people to come to sessions?"
+The question the Debsoc will forever grapple with is, "How do we get people to come to sessions?"
 
 ![enter image description here](https://www.davelabowitz.com/wp-content/uploads/Sisyphus-e1557869810488.jpg)
 
@@ -1583,7 +1583,7 @@ At the time I was apathetic about late night online sessions, and I adopted the 
 Fear is an ineffective motivator, especially when the consequence is simply an outcome their inaction is already causing. This 'punishment' intuitively doesn't make sense. The intuitive assumption is that anyone who cares about being in the club would also care enough to attend debates, because that's the point. Why would people want to be in a club without enjoying the activity and wanting to participate in the core activity of the club? 
 By the way, there are actually a few possible answers to this question
 1. It's in the back of their mind, and they always mull about coming, but they never bring themselves to come. Other things take priority.
-2. They want to be in a club for the sake of it because it's cool. (There are people who get excited about buying debsoc merch even though they don't debate anymore or even feel like even a part of the club.)
+2. They want to be in a club for the sake of it because it's cool. (There are people who get excited about buying Debsoc merch even though they don't debate anymore or even feel like even a part of the club.)
 ![image](https://i.ibb.co/Y929MpB/Screenshot-2025-09-06-162019.png)
 3. They have issues on weekdays but not weekends.
 4. They want to do tournaments because they are super fun, but don't want to attend sessions which aren't that fun. (Surprisingly a very common scenario I've observed).
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYwMTc0NjE4OSwxNTg0MDg3NTAxLDIxMzYxMj
-I3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1
-MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3OD
-I5MTg2MywxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0
-MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC
-0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0z
-MjQzNzIxMjhdfQ==
+c3RvcnkiOlsxMzI5NDQ2OTcxLDE1ODQwODc1MDEsMjEzNjEyMj
+c4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUx
+LC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4Mj
+kxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQx
+OSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLT
+E1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMy
+NDM3MjEyOF19
 -->
