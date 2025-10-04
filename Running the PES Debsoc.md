@@ -528,9 +528,9 @@ Round 2 in 2024 had the following features:
 - It was a 3v3 AP lite with 4-minute speeches instead of 7.
 - Participants prepped together while the speaker positions are kept a mystery by the judge.
 - The PM and LO positions were announced at the end of prep time.
-- After the first two speeches, both teams were given 5 minutes to discuss among themselves for the next 2 speeches.
+- After the first two speeches, both teams were given five minutes to discuss among themselves for the next two speeches.
 - At the end of this time, the DPM and DLO were announced.
-- After these 2 speeches, there were 5 minutes of discussion time before the Gov whip and Opp whip.
+- After these two speeches, there were five minutes of discussion time before the Gov whip and Opp whip.
 - There were still no POIs in this format.
 
 Why was this new model better?
@@ -560,7 +560,7 @@ Verdicts can be straight up demotivating especially at a super early stage. It's
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
 The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). You can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
-When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly chaotic creative ways. POIs definitely are not worth the hassle in round 1 and round 2.
+When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly creative and chaotic ways. POIs definitely are not worth the hassle in round 1 and round 2.
 
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjQ2NzEzMjE2LC01MTAyODY0NzEsMTg3MTY1MD
-c2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEw
-ODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0Nj
-M3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMs
-MTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMj
-Q5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4
-NDY5MF19
+c3RvcnkiOlstMTUyMjAyMTYyNSwtNTEwMjg2NDcxLDE4NzE2NT
+A3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4Niwx
+MDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xND
+YzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYz
+LDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMT
+I0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5
+ODQ2OTBdfQ==
 -->
