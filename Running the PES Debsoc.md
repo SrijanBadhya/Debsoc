@@ -359,7 +359,7 @@ We usually conduct round 1 across 3 days so that people can come on any day acco
 
 - **Moreover, Recruitments are usually held in October November. Many students go home for a whole week during Diwali or Dussehra, or have a one-week PESU IO course, which can't be changed regardless of how interested they are in the Debsoc.**
 - We do get swamped with requests from these people who were sick or out of town, and care enough to text us because they want to join the club.
-- + You still can't measure such texting as the only indication of interest to join the club. There are people who would like to express interest but are unaware that they can text the clubheads and beg for this. 
+- + You still can't measure such texting as the only indication of interest to join the club. There are people who would like to express interest but are unaware that they can text the club heads and beg for this. 
 - + If you do send out a message asking for all the absentees to dm you, then you can use this texting as indication of interest. This solves the aforementioned issue of people being unaware of their options.
 A third option, initiating the text conversation yourself in the dms of everyone on the group who's left, asking if they want an extra day, is extreme and unnecessary. 
 
@@ -403,7 +403,7 @@ Losing people who lose interest over time is fine, but we can't afford to lose p
 It's unfair to judge people's initial interest in an activity if some of them don't even know how exciting it can be. A few people who don't come to the initial days of round 3 (because they'd rather hang out with their friends after classes instead of debsoc strangers), come more often in the last 2 weeks when they've become more interested in it and find debsoc people to be fun to hang out with. (Sure, the last-minute worried grind effect does take place, but certain people have casually told me that they showed up more later on because it took time for them to really enjoy the soc.)
 
 
-If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the clubheads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the [spreadsheet](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0). I didn't really like debating for my first 2 years in the debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
+If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the club heads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the [spreadsheet](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0). I didn't really like debating for my first 2 years in the Debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
 ---
 Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
@@ -435,10 +435,10 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 
 This criticism has been applied on doing multiple matter sessions as well. 
 
-- There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. Multiple options might even increase the value in the eyes of the juniors who believe this. (Even for people who already have attended the matter session/recruitment round, the debsoc showing care for its members improves their perception of the club, as shown in the picture earlier.)
+- There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. Multiple options might even increase the value in the eyes of the juniors who believe this. (Even for people who already have attended the matter session/recruitment round, the Debsoc showing care for its members improves their perception of the club, as shown in the picture earlier.)
 - The initial poll of availability allows people to vote multiple options (all the days which they can possibly attend on). Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment round/matter session at all.
 - There are 3 groups of people: people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
-- The issue with limiting days is that you're quite likely to lose someone from even group 1 (or someone from group 2 for whom this extension thing is _not_ the tipping point) who is unable to attend on your particular day. Regardless of them being interested in debsoc, there are often clashing events, clashing plans, and other stuff explained before which forcefully prevents them from accessing the value of the matter session.
+- The issue with limiting days is that you're quite likely to lose someone from even group 1 (or someone from group 2 for whom this extension thing is _not_ the tipping point) who is unable to attend on your particular day. Regardless of them being interested in Debsoc, there are often clashing events, clashing plans, and other stuff explained before which forcefully prevents them from accessing the value of the matter session.
 - If there's a tradeoff to be made, then sure, you can limit the options. If there's an actual harm of efficiency (delays), or preventing some other event, or consuming your time, then this harm should be avoided. I just believe that "interest in people/turnout" is not a valid reason to reduce the sessions because there's more likelihood of losing interested people by cutting their option, than gaining people on the fence.
 
 
@@ -451,7 +451,7 @@ So, how do you carry out breadth-wise inclusivity?
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
 - But if you have 4 people left to do their rounds even after the real week of the round, I advocate for trying to do their round in your free time the next week.
-- There are always people who are unaware of debsoc because our marketing didn't reach them, who want to join only after their friends (who have completed round 1) tell them about it. 
+- There are always people who are unaware of Debsoc because our marketing didn't reach them, who want to join only after their friends (who have completed round 1) tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 right then, and a round 1 for them later some other day.
 - I believe that everyone the debsoc _can_ possibly reach, should be reached. But if you don't have the capacity to do so, then your capacity is a fine place to draw the line.
 - One issue is that extending recruitments like this can cause transparency issues, like when you try to pressure people to come saying, "Last day guys!", but still proceed to accommodate people who need it after that. 
@@ -633,7 +633,7 @@ The rebuttal to this is that you shouldn't teach juniors the wrong rules of deba
 
 ---
 
-Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy while the other 2 people just talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
+Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy while the other 2 people simply talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
 
 A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent this rift or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
 
@@ -1075,7 +1075,7 @@ This variety of debate activities keeps debate fresh and fun.
 
 ---
 #### Game Night
-Online Game Nights existed during quarantine, and were revived by my batch of clubheads in 2024. Popular games are the ones people have experience playing in class already, like Skribbl.io. 
+Online Game Nights existed during quarantine, and were revived by my batch of club heads in 2024. Popular games are the ones people have experience playing in class already, like Skribbl.io. 
 
 If you've successfully gotten everyone onto the PES discord (which is a feat of its own), then discord has a lot of inbuilt games in the 'activity' feature, like PuttParty, which we once played. It also makes it easier to get on Voice Chat alongside this, which adds to the fun.
 
@@ -1084,7 +1084,7 @@ If you've successfully gotten everyone onto the PES discord (which is a feat of 
 
 [Back to Table of Contents](#table-of-contents)
 
-At the beginning of his clubhead term, Nikhil and I walked around during breaks and asked random 2nd years how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities from clubs.
+At the beginning of his club head term, Nikhil and I walked around during breaks and asked random 2nd years how they felt about clubs. A surprising number of them said that the factor keeping them away from clubs was accessibility, because they had to travel home and couldn't stay at PES. They wished there were more online activities from clubs.
 
 While Nikhil and I understood this exclusive benefit, we're still certified haters of online sessions.
 - The community aspect doesn't feel natural because someone has to initiate conversation during OA prep time (and the responsible senior is usually busy prepping their OA). This cannot be just a, 'cross over shake hands' initiation, but an actual mention of some topic. You have to ask someone a particular question. 
@@ -1376,7 +1376,7 @@ When the debsoc tries to send a lot of people to a tournament and asks for reimb
 Sometimes while applying for reimbursements, we try to limit people in the application because we fear that if we initially have too many people, instead of telling us to cut people, they might reject reimbursement for the tournament entirely. Sometimes they reject tournaments if you've gone to other tournaments recently.
 I don't have experience communicating between students and the management, so I can't really tell how to work with the management (but Stuthi has, and she has words for you in the next section).
 
-Basically, tournament reimbursement slots are kind of limited. Every slot is hard-earned by the clubheads or whoever communicates to the management. 
+Basically, tournament reimbursement slots are kind of limited. Every slot is hard-earned by the club heads or whoever communicates to the management. 
 
 You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
 It's awkward to tell people you know, your friends, that they don't meet the bar to attain reimbursement. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
@@ -1525,7 +1525,7 @@ The most memorable online tournament for me has been SBS from early 2024. We all
 
 PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when discord is unblocked, voice calls on discord are blocked (but voice calls on Google Meet aren't blocked). So try to test everyone's systems early at the tournament.
 
-The major accessible spots at PES with Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our clubhead was the CCBD head, we once sat in the CCBD lab and debated.)
+The major accessible spots at PES with Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our club head was the CCBD head, we once sat in the CCBD lab and debated.)
 The places you can debate in the GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
 The GJB cafeteria has like 3 power sockets. I'd recommend this place only as a last resort. It's usually deserted on Saturdays and Sundays, so you can enter and turn the lights on yourself.  
@@ -1651,7 +1651,7 @@ Every year there are people initially anxious about speaking in front of strange
 
 ---
 #### How do we usually carry out informal recruitments?
-- (What we usually _don't_ do, is inform people that this is even possible. Hence, we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the clubhead and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
+- (What we usually _don't_ do, is inform people that this is even possible. Hence, we only get a small number of people who have either pushed their request through their friends or have gotten their hands on the contact number of the club head and pestered them.) This is enormous work on their part, and it should become way easier than this for someone to opt in. 
 Most people don't even know this is possible because the natural assumption of an ignorant first year is that people can only get recruited during recruitments. Even if they want to reach out, they don't, because they don't see the point of the attempt. 
 - Please be one step better than us and announce to everyone that their friends can get recruited into the soc. **Being proactive instead of reactive is pretty much the theme of this document.**
 - This doesn't require a whole dedicated phase of recruitments because there won't be that many people to cater to. 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTI5OTQ3NTExLDE1ODQwODc1MDEsMjEzNjEyMj
-c4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUx
-LC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4Mj
-kxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQx
-OSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLT
-E1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMy
-NDM3MjEyOF19
+c3RvcnkiOls3MTgzMDM2ODcsMTU4NDA4NzUwMSwyMTM2MTIyNz
+g2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEs
+LTE0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOT
+E4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5
+LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMT
+U4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0
+MzcyMTI4XX0=
 -->
