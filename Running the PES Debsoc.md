@@ -844,7 +844,7 @@ Video recording is optional. It makes for great lore but decreases the chances o
 
 It feels incredibly fulfilling because the extent to which the juniors shit on you shows how comfortable they've gotten with you.
 
-An alternate motion which does make more sense is, "THR participating in the Debsoc recruitment process." This however nudges people toward boring likelihood analysis on getting in, as opposed to the other motion which nudges people towards saying the club is a shit club to join.
+An alternate motion which does make more sense is, "THR participating in the Debsoc recruitment process." This however nudges people toward boring likelihood analysis on getting in, as opposed to the other motion which nudges people to creatively argue that the club is a shit club to join.
 
 While fun, these motions double as a raw insight into the lives of first-years and their feelings about the Debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
 
@@ -2155,11 +2155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTM2NzgwOTUyLC01NTM4NjE3NjksNDk2MDQzMT
-UzLDkwMzUzMDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4
-MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1Mi
-wtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0x
-NjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3Nj
-U4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2NV19
+c3RvcnkiOls1MDIxNDU3OTUsLTU1Mzg2MTc2OSw0OTYwNDMxNT
+MsOTAzNTMwMDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgx
+MzQ5OTgsNjE4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC
+03NzM2MzU3MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2
+NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NT
+g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1XX0=
 
 -->
