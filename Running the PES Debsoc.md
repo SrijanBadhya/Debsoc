@@ -1600,10 +1600,10 @@ A few random concepts that I've learned the hard way:
 - The only reason college students do anything besides studies is when something feels fun or if it's what they visualized themselves doing in their college life. People may come to debate sessions because it helps them pursue their dream of "having a fun college life," the same way that people hang out with their friends regardless of their academic commitments.
 
 The activity of the Debsoc should be kept visible and fresh, even in the minds of the people who don't come debate. From my experience sitting at home these last few months, session polls don't give me a sense of how alive the soc is. Only other conversation about the session does.
-Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are quite a few people. This really makes people feel like they're missing out and that there's something thriving which other people are enjoying.
+Share the motion on the WhatsApp group (not the Sessions group because that prevents free-flowing conversation since people cannot reply to it), share random fun pictures of the people at the session, maybe share the names of the people at the session if there are numerous people. This really makes people feel like they're missing out and that there's something vibrant which other people are enjoying.
 
 ---
-Akshat Saxena once told me, "To ignite passion in the juniors, seniors need to show their own passion and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to enjoy debate. On the flip side, seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually." Making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
+Akshat Saxena once told me, "To ignite passion in the juniors, **seniors need to show their own passion** and how debate obsessed they are." This shows that debate is something people find fun enough, valuable enough, to spend their time in, even when they have other priorities. Seeing other people with an opinion of debate being valuable makes juniors feel like the right opinion, the normal opinion, the socially validated opinion is to enjoy debate. On the flip side, seniors avoiding sessions pushes the narrative that, "Debate is something everyone stops eventually." Making something feel temporary gives less reason for a junior to invest time and energy to work towards a long-term debate goal.
 
 ---
 We learned the hard way that inertia is a powerful force, and a sustained period of inactivity can be detrimental. People get comfortable with patterns and routines. Try to have some debate scene in vacations like online sessions or Cubbon park, and try to start debating the moment a new academic semester starts. The first 2 weeks  of college are crucial to break the inertia, because once assignments start rolling in, it's really hard to break the routine of 'not debating'. On the flip side, if people have started debating every Tuesday and Wednesday, they'll find it easy to continue this routine.
@@ -2153,7 +2153,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjM1NDgwNzMzLC0xMzU0ODA1MTY4LC04MTExOT
+c3RvcnkiOlstOTg1MzA4NzM5LC0xMzU0ODA1MTY4LC04MTExOT
 U0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYx
 MCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMz
 QzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3
