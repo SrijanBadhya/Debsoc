@@ -342,9 +342,9 @@ Taking a few points out of Nikhil's recruitment document:
 
 This has somehow become one of the most controversial practices of the society. **If you're against being too accommodating of people, please bear with me as I yap in support of it so that you're aware of the trade-off.**
 
-By breadth wise inclusivity, I mean making an effort to take more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
+By breadth-wise inclusivity, I mean making an effort to take more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
 
-Absolutely do not set a percentage of applicants as the bar like, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to measure marks in an exam (or whatever you use as an indication of interest like the number of sessions) and mark the threshold on that instead. Choose people for being interested, not for being more interested than others.
+Absolutely do not set a percentage of applicants as the bar, for example, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to measure marks in an exam (or whatever you use as an indication of interest like the number of sessions) and mark the threshold on that instead. Choose people for being interested, not for being more interested than others.
 
 
 We usually conduct round 1 across 3 days so that people can come on any day according to their flexibility. Round 2 is also usually similarly over 3 days. 
@@ -436,7 +436,7 @@ Continuing the response to criticism (point [3.](#addressing-the-criticism)) (sc
 This criticism has been applied on doing multiple matter sessions as well. 
 
 - There's a possible flip here for what a junior might think if you repeat matter sessions on multiple days even when there is low turnout per day. You could be going to this length because you know it's too valuable for any junior to miss out on. Multiple options might even increase the value in the eyes of the juniors who believe this. (Even for people who already have attended the matter session/recruitment round, the Debsoc showing care for its members improves their perception of the club, as shown in the picture earlier.)
-- The initial poll of availability allows people to vote multiple options (all the days which they can possibly attend on). Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), then how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment round/matter session at all.
+- The initial poll of availability allows people to vote multiple options (all the days which they can possibly attend on). Why would someone lie on a poll like this? If someone is available only on Friday (as explained earlier), how would limiting the days to Tuesday and Wednesday convince this person to opt in? Missing out on this person is a real tangible harm, rather than the speculative harm of this being the tipping point to give them enough disinterest to not participate in the recruitment round/matter session at all.
 - There are 3 groups of people: people who really _do_ want to come to recruitments/a matter session, people who really _don't_ want to come to recruitments/a matter session, and people on the fence. Most people belong to groups 1 and 2. Even for people in group 3, to me it's quite far-fetched for me to think that increasing the matter session days from 2 days to 6 days will be THE major factor (the tipping point) which deters them from showing up to the matter session. 
 - The issue with limiting days is that you're quite likely to lose someone from even group 1 (or someone from group 2 for whom this extension thing is _not_ the tipping point) who is unable to attend on your particular day. Regardless of them being interested in Debsoc, there are often clashing events, clashing plans, and other stuff explained before which forcefully prevents them from accessing the value of the matter session.
 - If there's a tradeoff to be made, then sure, you can limit the options. If there's an actual harm of efficiency (delays), or preventing some other event, or consuming your time, then this harm should be avoided. I just believe that "interest in people/turnout" is not a valid reason to reduce the sessions because there's more likelihood of losing interested people by cutting their option, than gaining people on the fence.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDU0ODkxNzQsMTg3MTY1MDc2NSwtODMyNDMyNz
-UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
-NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
-YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
-MTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MD
-EzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIw
-MDU1NV19
+c3RvcnkiOlsxMjMyNzg2NDA0LDE4NzE2NTA3NjUsLTgzMjQzMj
+c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
+MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
+g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
+LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
+AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
+MDA1NTVdfQ==
 -->
