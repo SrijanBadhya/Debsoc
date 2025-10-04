@@ -829,7 +829,7 @@ My favorite tradition to continue on the last day of every recruitment season is
 
 Announcing that it was meme day led to a surge in attendance for this debate in 2024. 
 
-The specialties of meme day are that the motion is funny, you are encouraged to be as funny as you can, you get unlimited speech time to yap all your ideas, there's no protected time, and there's no verdict or OA.
+The specialties of Meme Day are: the motion is funny, you are encouraged to be as funny as you can, you get unlimited speech time to yap all your ideas, there's no protected time, and there's no verdict or OA.
 
 Sam and I hunted for meme motions but a bunch of meme motions such as, "This house prefers pineapple on pizza" were pretty empty
 The motion I used both years was, "This House, as a first year at PES, Would choose to NOT join the Debsoc."
@@ -2155,7 +2155,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNzUzMzgyOTE2LDQ5NjA0MzE1Myw5MDM1MzAwOC
+c3RvcnkiOlstNTUzODYxNzY5LDQ5NjA0MzE1Myw5MDM1MzAwOC
 wxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OCw2MTgw
 OTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYzNTcxMy
 wtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4
