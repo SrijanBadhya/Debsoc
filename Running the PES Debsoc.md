@@ -754,8 +754,8 @@ In round 3, just the name and phone number can suffice because you're more in co
 Last year we had a system of code words, assigned by the chair, which were unique to each debate. This mildly improved trackability, because if people couldn't remember names, they could still be identified by the code word. When one has 5 people accounted for but not the 6th person involved in the debate, a code word can help. However, a lot of chairs (including me) forgot to give code words. If you can ensure the collection of phone numbers and another unique id, then code words are superfluous.
 
 
-The most effective step to minimize errors, which should be obvious by now, is to upload the data to the central database ASAP. The longer moderators delay, the higher chance that they either forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
-Moderators needed to be given 3 reminders everyday, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books (which made me wonder if a 4th reminder would lead to more people remembering to fill names).
+The most effective step to minimize errors, which should be obvious, is to upload the data to the central database ASAP. The longer moderators delay, the higher chance that they either forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
+Moderators needed to be given 3 reminders every day, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books (which made me wonder if a 4th reminder would lead to more people remembering to fill names).
 
 One time, a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over this until he found his notebook in another classmate's bag. 
 
@@ -767,9 +767,9 @@ I also messed up multiple times at the end of round 3 by adding the wrong people
 
 [Back to the Table of Contents](#table-of-contents)
 
-The basement seminar hall is difficult for first-year students to find, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
+**The basement seminar hall is difficult for first-year students to find**, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
 
-One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, specify that this is for the RR campus, to avoid an awkward conversation on the group later where you shoo people away.
+One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, **specify that this is for the RR campus**, to avoid an awkward conversation on the group later where you shoo people away.
 
 This one time I was texting a debater who was one week into round 3, during an online session. He told me that the Debsoc was doing a great job and that we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad. He just liked debate and was here.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
@@ -780,7 +780,7 @@ Although this can't be avoided, and it _is_ important to make the link as access
 Parallel processing using multiple moderators greatly improves efficiency, but it often isn't enough for round 1 and round 2. 
 An extra technique which was very beneficial in 2024 was pipelining.
 
-When all the moderators have their hands full, at least one person still needs to keep an eye out for people streaming in. When all of us had ongoing debates, I would give a set of 6 people their motion and start their case prep to minimize their idle time. Around the time they got done with prep, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. If a recruit ends up waiting for more than 15 minutes, then the system is flawed. 
+When all the moderators have their hands full, **at least one person still needs to keep an eye out for people streaming in.** When all of us had ongoing debates, I would give a set of 6 people their motion and start their case prep to minimize their idle time. Around the time they got done with prep, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. **If a recruit ends up waiting for more than 15 minutes, then the system is flawed.** 
 If someone has been waiting with 2 other people for 15 minutes, then you might as well get them started without waiting for more people.
 
 Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival will coincide with the end of the case prep of the recruits.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1Nj
-YzOTQsLTUxMzM3NjI4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwt
-NTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwOD
-c1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEz
-LC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Nj
-g0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1
-MzFdfQ==
+c3RvcnkiOlsxMzE5NTgyOTE1LC0xNDMzNzE4NjEwLC0xNjcxOT
+cwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3NjU4ODMs
+Mjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2NSwtODMyND
+MyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIs
+LTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNT
+AyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3
+OV19
 -->
