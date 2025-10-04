@@ -691,7 +691,7 @@ And the way to do this is by first calculating the expected turnout.
 Broader slots like, 'come anytime between 2pm and 4pm' are recommended over specific slots. This works fairly well to handle branches which are half an hour off, and people who dillydally for a while before reaching the basement.
 
 With a WhatsApp poll, check to see how many people would come on the three days and the timings they are likely to come at. If one particular day has high demand and the other day has low demand (and if you don't have enough moderators on the high demand day), then you can ask people to shift from the high demand day to the low demand day if possible.
-If people available on multiple days, a single response poll can't reflec this real ability. On the other hand, a multiple response poll might look overwhelming even if it's basically a duplicate entry.
+If people available on multiple days, a single response poll can't reflect this real ability. On the other hand, a multiple response poll might look overwhelming even if it's basically a duplicate entry.
 So maybe you can first have a multiple response poll, and then a single response poll. This problem is too tricky to accurately tackle. Poll votes are inherently unreliable, but at least seeing expectations helps you to strategize and be prepared.
 
 Even if it's a multiple response poll, it's too cumbersome to sit, compare days, and calculate which people voted for both Tuesday and Wednesday, and can hence be moved from Wednesday to Tuesday. Hence the only solution I can think of, is to send another poll later and ask people to vote Wednesday only if they can't do Tuesday.
@@ -708,7 +708,7 @@ Sometimes a high demand day like Wednesday can also have a high supply of modera
 
 People are way less reliable than you think. EVERYONE. Even me. Even you. 
 
-When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the Debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
+When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. **I've seen this happen every single year of my 4 years in the Debsoc.** Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
 The Debsoc constantly misses out on people due to system errors or forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked us why. We sobbed internally and asked them to apply again the next year. 
 Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and since I knew that he was supposed to pass, I rectified that. Nahush was missed out due to a system error. Only because Nahush texted Bharath in sem 2, was why Nahush was able to come to informal recruitments. Situations like this are unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDMxODQ2NDYxLC01MTMzNzYyODIsLTM0Mzc2NT
-g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04
-MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNT
-Y0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5
-MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3Nz
-E4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkx
-NjFdfQ==
+c3RvcnkiOls5NDc4ODEzNTksLTUxMzM3NjI4MiwtMzQzNzY1OD
+gzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgz
+MjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1Nj
+QyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkx
+LDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MT
+gyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2
+MV19
 -->
