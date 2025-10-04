@@ -375,11 +375,11 @@ Group 2: the extra people that you get by putting extra effort to be extra accom
 
 _The assumption behind the criticism is that group 1 is filled with people who care, will continue to be hardworking, and will contribute a lot to the PES Debsoc. And that group 2 has the lazy people who barely made it into the club._
 
-The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. I don't lose interest in debate just because lazier people got in. People in group 1 do end up dropping out a year later, but it's hard to pinpoint the exact cause of this.
+The thing is, simply taking group 2 into the club isn't going to significantly impact the people of group 1, since group 1 already cares about debate. If I'm already a consistent debater and did my round 1 on time and round 2 on time, I don't feel harmed by the Debsoc letting more people in later. **I don't lose interest in debate just because lazier people got in.** People in group 1 do end up dropping out a year later, but it's hard to pinpoint the exact cause of this.
 
 (I'm only impacted if there was a lack of transparency, like if I missed the birth of my first child to be at the session on day 3, and now suddenly the Debsoc tells me I could have come the next day as well—a sudden 'extra day'. This is solved by the group 2 people having to put extra effort like having to dm a club head or having to hope that they make it through the 'unofficial recruitments' (something which I'll discuss [later](#informal-recruitments). Group 1 people still get the benefit of peace of mind which they earned by being there on the right days.)
 
-Group 2 is already assumed to not take the Debsoc seriously, so even if accommodating them makes them lazier and causes half of them to drop out soon, it's still a net positive because these are people you wouldn't have had otherwise.
+Group 2 is already assumed to not take the Debsoc seriously, so even if accommodating them makes them lazier and causes half of them to drop out soon, **it's still a net positive** because these are people you wouldn't have had otherwise.
 
 
 People's interest in debate can fall or rise over time, based on what they discover about debate as time passes, and whether they like what they discover [(from the feedback form)](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059).
@@ -406,7 +406,7 @@ It's unfair to judge people's initial interest in an activity if some of them do
 If it still looks speculative that you can find valuable people in group 2, I'll name drop a few major contributory debaters from it. Harsha didn't get in through round 1 and he pestered the club heads to take him in. Sarah had lukewarm interest in debate for the first few weeks before she spammed sessions. Shreya was absent for most of round 3 due to health issues and can be seen having just one entry in the [spreadsheet](https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0). I didn't really like debating for my first 2 years in the Debsoc. The bottom line is that it's easy to miss out on good people if you have a high attendance criterion for round 3.
 
 ---
-Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)
+**Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)**
 - You won't look like bad planners since the reason for the extension is not you, but actually them, the recruits who didn't make it to the regular round 1. 
 - Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige hampers your 3 main goals: growth, community, and enjoyment of the people, since you have fewer people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in," than it is for them to bitch, "This club was so easy and they took nearly everybody in." The image of the club won't be ruined if you aren't strict. It might actually be better.
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE3ODYwMjYyLDI3OTUyOTgxOCwtNTEwMjg2ND
+c3RvcnkiOlsxNTUzMzAzNTE0LDI3OTUyOTgxOCwtNTEwMjg2ND
 cxLDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEz
 NjEyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MT
 UzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQs
