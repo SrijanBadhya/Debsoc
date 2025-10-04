@@ -1812,7 +1812,7 @@ The default stance assumed by juniors is that you can send anything you want (es
 (The cause of this decision was the Debsoc getting pissed by MUN marketing one day, but we couldn't announce that we were banning mun posts, so we said we were banning all posts). 
 
 I think this was rather dumb, 
-- especially since the we later need to do marketing in other groups ourselves. It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group (which affects the marketing itself, obviously).
+- especially since **we later need to do marketing in other groups ourselves.** It makes us look hypocritical and shitty when the Debsoc markets itself in a Write Angle group but doesn't allow Write Angle events to be marketed in the Debsoc group (which affects the marketing itself, obviously).
 - We should be able to tolerate MUN marketing. Most people who have been recruited into Debsoc are loyal enough to not leave anyway. A little bit of MUN marketing won't convince them, and we shouldn't display our fragile egos by saying, "Don't join, MUN is trash".
 - If someone is actually destined for MUNsoc, then it's evil of us to prevent MUNsoc marketing from reaching them for the sake of keeping them in our club. We are then basically the witch who keeps Rapunzel locked in a tower to prevent her from leaving and following her destiny, just so that we can extract more value out of her and her hair.
 
@@ -1825,7 +1825,7 @@ Since quite a few people try out both clubs, it's unwise to alienate MUN people.
 Across the year, a few people do switch from Debsoc to Munsoc, and Munsoc to Debsoc. This happens naturally and you don't have much power to prevent this by directly targeting MUN. There's no guarantee that your effort will bear fruit instead of backfiring.
 It's more dignified to just take the high road. As mentioned earlier, any insults at MUN are unlikely to be persuasive to anyone who's interested in MUN. 
 
-There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the Debsoc spewing hate, and think worse of the soc. I myself would lose respect for a Debsoc member who needed to hate on MUN to make debate look valuable (already happened this last year).
+There's no real benefit, but harm still does arise of this action. Even people who never even cared about MUN, will still see the Debsoc spewing hate, and think worse of the soc. I myself would lose respect for a Debsoc member who needed to hate on MUN to make debate look valuable (already happened in 2025).
 
 ![enter image description here](https://i.ibb.co/fVRDB8ph/munsoc.jpg)
 
@@ -1868,7 +1868,7 @@ Carrying out any of this is easier said than done. Every bit of it takes Hercule
 
 I would like to express my deepest gratitude to 
 
-Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt about many topics, and supported me throughout my journeys of both debate and writing this.
+Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I fel, and supported me throughout my journeys of both debate and writing.
 
 Stuthi, an ex-club head, who proofread this book and gave me the very contributions I was missing.
 
@@ -2154,11 +2154,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MTUzMzM0NTUsNjE4MDk2MSwtMTM1NDgwNTE2OC
-wtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0MjIyMDUsLTE0
-MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNz
-YyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwx
-ODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMj
-I3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1
-MV19
+c3RvcnkiOlstMTQwNTI3NzYzMyw2MTgwOTYxLC0xMzU0ODA1MT
+Y4LC04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwt
+MTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMz
+M3NjI4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcx
+LDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNj
+EyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUz
+MzUxXX0=
 -->
