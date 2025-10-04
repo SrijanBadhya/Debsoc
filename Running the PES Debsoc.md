@@ -591,7 +591,7 @@ https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJ
 In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
 Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non-transparent, but I consider it more important to get juniors to debate as much as possible to increase the likelihood of them getting hooked (and also increase their skill). 
 
-The issue with this, as I've mentioned before, is that a fe people might just give up hope since they can't reach the false threshold. Nearly everyone will be anxious about making it in. The anxiety might hold low weight since it translates to relief once they've gotten in (more anxiety -> more pride over making it in), but it mildly feels dishonest to scare people.
+The issue with this, as I've mentioned before, is that a few people might just give up hope since they can't reach the false threshold. Nearly everyone will be anxious about making it in. The anxiety might hold low weight since it translates to relief once they've gotten in (more anxiety -> more pride over making it in), but it mildly feels dishonest to scare people.
 
 In 2024-2025, we held way more Round 3 sessions than the previous year, and after looking at the distribution of attendance, we decided to make 3 debates the bar. (3 plus the 2 debates of round 1 and round 2.)
 
@@ -604,7 +604,7 @@ There should be a better way to set the threshold and publicize it but we haven'
 
 #### What wasn't implementable from the Round 3 model
 
-You can never accurately predict how many people will show up to a session, who will show up, or which days they will show up, because people change their minds even after they vote (and many don't even vote).
+You can never accurately predict how many people will show up to a session, who will show up, or which days they will show up on, because people change their minds even after they vote (and many don't even vote).
 
 Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track people's speaker positions, check their past speaker positions, and assign them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
 The only thing that we could do was leave it to fate and hope that people would naturally try out different roles themselves.
@@ -2151,7 +2151,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTAwNDYzNzQxMSwtMTQ2MzcyNTU5MSw1MDI4Nj
+c3RvcnkiOlstMTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4Nj
 EzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0x
 MDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMT
 M0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAw
