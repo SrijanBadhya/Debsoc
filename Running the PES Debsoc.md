@@ -262,7 +262,7 @@ A few pros of being selective:
 Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while remaining inclusive, which was to check who retained interest at the end of a 3-round-recruitment process.
 
 The first round remained the same. 
-_The second round was a 'group discussion', with one moderator and 6 recruits. The person who scored more 'points' was the one who engaged more._
+_The second round was a 'group discussion', with one moderator and 6 recruits. The person who scored the most 'points' was the one who engaged the most._
 In 2024, we got rid of the group discussion round and replaced it with an AP lite round. I think the 2024 model is the best model we've had so far, and later I'll talk about why. 
 
 The third round was a month long, with sessions every day, and people who attended the most sessions were recruited.
@@ -275,7 +275,7 @@ The third round was a month long, with sessions every day, and people who attend
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
 - Glaring issues could surface, making us aware of problematic individuals before admitting them into the club.
 - Recruits would form bonds and build loyalty, reducing the chances of them leaking information from the group later.
-- This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
+- This was the best way to gauge if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance' instead of 'high attendance.' One guy showed up for just one debate and later complained to me that he wasn't taken in 'even though he won 1/1 of his debates'. So being careful with phrasing is critical. Using the word 'attendance' instead is also risky since it could turn off people by reminding them of college.**
 
 Having a round 1 and a round 2 before this month-long recruitment is still advantageous because
@@ -2155,7 +2155,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTQwMjMwNjEzLC01NTM4NjE3NjksNDk2MDQzMT
+c3RvcnkiOlsxMTc2ODI1MDY2LC01NTM4NjE3NjksNDk2MDQzMT
 UzLDkwMzUzMDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4
 MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1Mi
 wtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0x
