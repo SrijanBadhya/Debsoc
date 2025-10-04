@@ -1227,7 +1227,7 @@ Anyway, this highlights a couple problems with adjing.
 - - they feel they have no presence in the tournament because their vote doesn't matter. 
 -  They don't get any numerical result from the tournament either.
 - Same things for BP except that they do the gruelling work of tracking 4 teams, only have 60 seconds to make a case, and they don't get the thrill of standing and giving a speech either.
-- There's so much fun in debate with a teammate, and as an adj you feel lonely. There will never be people from PES in your room.
+- There's so much fun in debate with a teammate, and **as an adj you feel very lonely**. There will never be people from PES in your room.
  - There's no real opportunity to talk to anyone either. You have your lunch alone during case prep time for the speakers. At least speaking teams get to chill with each other when judges are preparing their OA.
  - Adjing is boring and challenging with no thrilling payoff every round.(If you're a panelist one round and get panelist next round, you have no idea whether you judged well or not. At least speakers get their results instantly.)
  <br>![enter image description here](https://i.ibb.co/svJgvW5V/early-in-adjing-obstacles.jpg)
@@ -2152,11 +2152,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0Mj
-IyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0
-LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMD
-I4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAx
-LDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMT
-YwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgw
-Mzk0XX0=
+c3RvcnkiOlstMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2Mz
+U3MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5
+NjIsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNz
+k1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3
+NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMj
+A1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4
+NjEzMjNdfQ==
 -->
