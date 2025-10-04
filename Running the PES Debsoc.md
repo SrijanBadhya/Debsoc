@@ -219,7 +219,7 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 The main purposes of orientation are:
 1. To paint a clear picture of what debating and the Debsoc are like.
 2. To increase interest in debating.
-3. To make people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
+3. To ensure people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
 
 I think a great feature of our Orientation has been our Demo Debate. In the interest of time, we usually have a 2 vs 2. 
 Letting the audience pick the motion among the 3 motions displayed on screen made the audience feel more involved. To use time efficiently, we continued the orientation during the prep time of the debaters. Efficiency is quite important because as the orientation stretches people lose focus and interest.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIwNTAzOT
-IxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyODYxMzIz
-LDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5ND
-k1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgy
-NzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIwMDU1NS
-wtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0yOTQ4NjU0NjIsOTE4
-NTg1MzM0XX0=
+c3RvcnkiOlstMTIzMjA4Mzg4NiwyMTM2MTIyNzg2LDEwODQzMD
+U2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1
+OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1Nz
+cxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5
+MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MC
+wtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0y
+OTQ4NjU0NjJdfQ==
 -->
