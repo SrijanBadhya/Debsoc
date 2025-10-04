@@ -560,12 +560,12 @@ Verdicts can be straight up demotivating especially at a super early stage. It's
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
 The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). You can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
-When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly creative and chaotic ways. POIs definitely are not worth the hassle in round 1 and round 2.
+When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly creative and chaotic ways. **POIs definitely are not worth the hassle in round 1 and round 2.**
 
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
 ---
-We also made everyone fill feedback forms where they talked about their moderator, their teammates (whose names they often forgot or never found out), and their overall experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also because it allows the Debsoc to change course if something is shown to be a hindrance.
+We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their overall experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also because it allows the Debsoc to change course if something is shown to be a hindrance.
 
 ---
 ### Round 3
@@ -576,7 +576,7 @@ By the time round 3 starts, around 60% of the recruits will have dropped out, an
 
 Round 3 in 2023 & 2025 (the 24-25 batch's r3 got pushed to march) had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last four years. If eight people show up one day and all of them have considerable experience debating, then you can try out a BP, but in all other cases, I believe AP is the way to go.
 
-Juniors are unaware that they even have the right to judge (since judging is for big big people), so make sure you always inform them of this option.
+**Juniors are unaware that they even have the right to judge (since judging is for big big people), so make sure you always inform them of this option.**
 
 ---
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2ND
-cxLDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEz
-NjEyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MT
-UzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQs
-MTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMj
-cxNzQxOSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYy
-NThdfQ==
+c3RvcnkiOlstNTEzMzc2MjgyLC0zNDM3NjU4ODMsMjc5NTI5OD
+E4LC01MTAyODY0NzEsMTg3MTY1MDc2NSwtODMyNDMyNzUsMTU4
+NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIwNTAzOT
+IxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyODYxMzIz
+LDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwtMTA5ND
+k1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MDEzNDgy
+NzNdfQ==
 -->
