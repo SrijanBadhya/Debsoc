@@ -333,7 +333,7 @@ Taking a few points out of Nikhil's recruitment document:
 - "It would be unfair to judge candidates on their initial skill set without giving them a chance to improve.
 - Even in the ‘worst case’ - if a participant still does not show any significant improvement debate-wise, if the person has put in the effort and work to show up for the sessions consistently, they deserve a place in the society for the following reasons:
 - + Improvement is usually imminent. People improve at different rates; some people are slow learners (including myself), and some people struggle with other things outside their control. But the fact that these people are consistent is a good indicator of their work ethic and willingness to learn.
-- + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric that a person can be judged by is their consistency and effort into the activity, and regardless of ability, these traits must be appreciated."
+- + On a principle level, we cannot dissuade people from being members of the society except for equity reasons. The only absolute metric by which a person can be judged is their consistency and effort in the activity; regardless of ability, these traits must be appreciated."
 
 ---
 ### ==Breadth wise inclusivity==
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstOTI4NDY3MDgsMTg3MTY1MDc2NSwtODMyNDMyNz
-UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
-NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
-YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
-MTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MD
-EzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIw
-MDU1NV19
+c3RvcnkiOlstNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgzMjQzMj
+c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
+MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
+g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
+LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
+AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
+MDA1NTVdfQ==
 -->
