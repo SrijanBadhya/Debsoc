@@ -453,7 +453,7 @@ So, how do you carry out breadth-wise inclusivity?
 - But if you have 4 people left to do their rounds even after the real week of the round, I advocate for trying to do their round in your free time the next week.
 - There are always people who are unaware of Debsoc because our marketing didn't reach them, who want to join only after their friends (who have completed round 1) tell them about it. 
 - New people show up for round 2 all the time, and I believe that we should accommodate them by conducting their round 2 right then, and a round 1 for them later some other day.
-- I believe that everyone the debsoc _can_ possibly reach, should be reached. But if you don't have the capacity to do so, then your capacity is a fine place to draw the line.
+- I believe that everyone the Debsoc _can_ possibly reach, should be reached. But if you don't have the capacity to do so, then your capacity is a fine place to draw the line.
 - One issue is that extending recruitments like this can cause transparency issues, like when you try to pressure people to come saying, "Last day guys!", but still proceed to accommodate people who need it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads," and the people who dmed were told that they can get recruited under the table.
 - You can choose the stance on transparency that fits you the best.
@@ -521,7 +521,7 @@ Why is this bad?
 - Except maybe for panel deliberation, the skills tested in the group discussion round are never explicitly used in parliamentary debating. Sure, skills like quick thinking and being adaptive are transferable, but there are other methods to assess this.
 - Participants might leave with the impression that cutting through the noise and voicing out their opinion is rewarded, and those who cannot do this will be dissuaded. This is bad because it goes against the fundamental aspects of debating, which are to carefully listen to other arguments and present yours without the fear of interruption.
 - Many participants, including myself, felt left out of the conversation due to the social dynamics of the discussion. The moderator did try to include all participants manually, but this did not solve the fundamental problem with the method of testing.
-- (From Srijan) A huge chunk of our loyal debaterbase comes from people who struggle with social anxiety who commit to the debsoc in the hopes of getting better at public speaking. One bad (misleading) experience like this can be enough for them to give up hope.
+- (From Srijan) A huge chunk of our loyal debater base comes from people who struggle with social anxiety who commit to the Debsoc in the hopes of getting better at public speaking. One bad (misleading) experience like this can be enough for them to give up hope.
 
 
 Round 2 in 2024 had the following features:
@@ -585,7 +585,7 @@ I don't believe that making the recruitment bar seem high was really able to enc
 
 In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. Because these people expressed interest (even if they had just done 1 debate), we added those who messaged us to the recruitment list. For everyone else we ended up setting the real bar at 2 debates, while still keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
 
-Since (for some reason) we cared about making the debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo. This is the list we published:
+Since (for some reason) we cared about making the Debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo. This is the list we published:
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0
 
 In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
@@ -708,7 +708,7 @@ Sometimes a high demand day like Wednesday can also have a high supply of modera
 
 People are way less reliable than you think. EVERYONE. Even me. Even you. 
 
-When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
+When everyone's running around in a flurry, and dealing with dozens of people a week, things get messed up all the time. I've seen this happen every single year of my 4 years in the Debsoc. Errors are incredibly common, and it's incredibly challenging to build a resilient, fault-tolerant system with multiple checks.
 The Debsoc constantly misses out on people due to system errors or forgetting to add people. We've met people months after recruitments who told us they weren't on the round 2 list and asked us why. We sobbed internally and asked them to apply again the next year. 
 Ansh was a friend of mine even before Debsoc. When he and I texted, he found out that he wasn't on the list, and since I knew that he was supposed to pass, I rectified that. Nahush was missed out due to a system error. Only because Nahush texted Bharath in sem 2, was why Nahush was able to come to informal recruitments. Situations like this are unfortunately way more common than you may think. Errors scale with size. I don't know how many more times I'll repeat myself because I get very emotionally heated when talking about this stuff.
 
@@ -845,7 +845,7 @@ It feels incredibly fulfilling because the extent to which the juniors shit on y
 
 An alternate motion which does make more sense is, "THR participating in the Debsoc recruitment process." This however nudges people more towards likelihood analysis on getting in which could be boring, as opposed to the other motion which nudges people towards saying the club is a shit club to join.
 
-While fun, these motions double as a raw insight into the lives of first years and their feelings about the debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
+While fun, these motions double as a raw insight into the lives of first years and their feelings about the Debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
 
 ---
 
@@ -917,7 +917,7 @@ Multiple delays in each process add up and lead to juniors starting late and goi
 
 The obvious solutions to this are:
 1. To do whatever it takes to show up as early as possible or have someone else there to get things going.
-2. To engage in conversation with the first person. It can be about what brought them to the debsoc, what interests they have (and you can even make a motion related to their interests and get them speaking on it until others arrive).
+2. To engage in conversation with the first person. It can be about what brought them to the Debsoc, what interests they have (and you can even make a motion related to their interests and get them speaking on it until others arrive).
 3. **To start prep time even when you have only 2 or 3 people, even if you expect more people to come. This is okay because:**
  + You can't always rely on the people who voted to arrive, and this could result in waiting unnecessarily for nobody. (I learned this the hard way.)
 + Having extra prep time isn't much of a harm. At least people don't feel like they're sitting idle since they're doing all they can to come up with a case.
@@ -994,7 +994,7 @@ But I think **consciously trying to tell people what they got right** as well is
 
 - Freshers come with various styles and experiment a lot. They sometimes demonstrate untaught genius, like surprise weighing. It's a positive reinforcement loop if you give them a signal that this is something good which they should keep doing. 
 - If juniors just change their approach constantly, they won't really know what to keep.
-- Just like tournaments, speakers feel understood and cared for when their ideas were received by the judge. The more positive emotions people associate with the debsoc, the more they'll want to keep coming.
+- Just like tournaments, speakers feel understood and cared for when their ideas were received by the judge. The more positive emotions people associate with the Debsoc, the more they'll want to keep coming.
 - From the [feedback form](https://docs.google.com/forms/d/e/1FAIpQLSdKTWmg4VqlNQVXDcwTQ2-JSK5x-3oWyVtDS4VwnxN1Qpoytw/viewform?usp=sharing&ouid=115888508141230211059), something juniors feel is, "I'm working hard every day but get the same brutal feedback all the time, am I just unable to grow at all? Is there any point to this?"
 <br>
 ![image](https://i.ibb.co/27VvCzRf/feedback-reaction.png)
@@ -1043,8 +1043,8 @@ Don't be afraid to sprinkle in stuff like Harry Potter motions, PES related moti
 There isn't much 'risk'.
 - People won't care enough to straight up complain to the PES management about this.
 - It can't possibly be sensational enough for a mass forward unless there's a video recording or something, and that's easily preventable.
-- The worst that could happen is people joking about it with their friends from out of debsoc, and that's just free marketing.
-- Through the debates so far, people already know that the debsoc usually debates serious topics, so this won't make the entire soc look unserious.
+- The worst that could happen is people joking about it with their friends from out of Debsoc, and that's just free marketing.
+- Through the debates so far, people already know that the Debsoc usually debates serious topics, so this won't make the entire soc look unserious.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give us serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier, but we're desensitized to them.
 ---
 #### Turncoat
@@ -1055,7 +1055,7 @@ We used this to market the Debsoc during the club showcase at Aarohi too, back i
 
 ---
 #### Alley Debating
-I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in debsoc sessions.
+I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in Desoc sessions.
 The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cause of how goofy it was, and very time efficient too.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3MTgzMDM2ODcsMTU4NDA4NzUwMSwyMTM2MTIyNz
-g2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEs
-LTE0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOT
-E4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5
-LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMT
-U4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0
-MzcyMTI4XX0=
+c3RvcnkiOlstMTYwMTc0NjE4OSwxNTg0MDg3NTAxLDIxMzYxMj
+I3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1
+MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3OD
+I5MTg2MywxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0
+MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC
+0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0z
+MjQzNzIxMjhdfQ==
 -->
