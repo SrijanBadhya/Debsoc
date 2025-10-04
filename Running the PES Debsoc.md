@@ -1781,7 +1781,7 @@ Allowing people to join sessions late does mitigate this, but this is really har
 Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence it defects between the minority and majority.
 
 2. The weekly timing which gives different people different combinations of half days. This further segregates the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these to hold debates weekly. This calculation involves somehow balancing 'maximization of people' along with, 'making sure every recruit has at least one day a week they can debate.'
-The benefit of having a fixed 3 days per week is that it allows people to assimilate debsoc into their routine, which leads to the benefits mentioned earlier.
+The benefit of having a fixed 3 days per week is that it allows people to assimilate Debsoc into their routine, which leads to the benefits mentioned earlier.
 
 3. The alternate exam timing. A significant portion of the semester is consumed by exams, and different branches have them on different weeks (seniors usually have different dates from juniors). Since all seniors are usually occupied together, juniors have no one to conduct any debate activity that week. When juniors have exams, the available seniors now sit idle. This is often severely overlooked in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible, even if not all factors seem favorable to you. I'd advise against holding out hope for a better opportunity, as the chances of one appearing are often slimmer than they seem. The window of opportunity is very limited and precious.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDE2MzUyOTgxLDE1ODQwODc1MDEsMjEzNjEyMj
-c4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUx
-LC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4Mj
-kxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQx
-OSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLT
-E1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMy
-NDM3MjEyOF19
+c3RvcnkiOlstODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNz
+g2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEs
+LTE0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOT
+E4NjMsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5
+LC0xMjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMT
+U4MDk4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0
+MzcyMTI4XX0=
 -->
