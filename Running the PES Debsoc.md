@@ -574,7 +574,7 @@ We also made everyone fill feedback forms where they talked about their moderato
 
 By the time round 3 starts, around 60% of the recruits will have dropped out, and the challenge of conducting sessions shifts from having the energy to handle one intensive day, to having the stamina to retain energy for a month.
 
-Round 3 in 2023 & 2025 (the 24-25 batch's r3 got pushed to march) had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
+Round 3 in 2023 & 2025 (the 24-25 batch's r3 got pushed to march) had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last four years. If eight people show up one day and all of them have considerable experience debating, then you can try out a BP, but in all other cases, I believe AP is the way to go.
 
 Juniors are unaware that they even have the right to judge (since judging is for big big people), so make sure you always inform them of this option.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTUyMjAyMTYyNSwtNTEwMjg2NDcxLDE4NzE2NT
-A3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4Niwx
-MDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xND
-YzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYz
-LDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMT
-I0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5
-ODQ2OTBdfQ==
+c3RvcnkiOlsxNDY5MzgyODU3LC01MTAyODY0NzEsMTg3MTY1MD
+c2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEw
+ODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0Nj
+M3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMs
+MTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMj
+Q5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4
+NDY5MF19
 -->
