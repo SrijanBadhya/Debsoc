@@ -226,9 +226,9 @@ Allowing the audience to pick from the three motions displayed on screen made th
 
 What I find very effective is to tell your own story, how debating has improved your own life, and showing the freshers what they can become.
 
-In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably since every other club filtered people based on skill.
+In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably because every other club filtered people based on skill.
 
-I believe talking too much about the AP and BP format would just feel like an overload because there are so many complicated things to remember. This would give people more confusion than meaningful information.
+I believe talking too much about the AP and BP format would just feel like an overload as there a so many complicated things to remember. This would give people more confusion than meaningful information.
  
 ## Recruitment Concepts
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDg4NjcyNDMzLDE4NzE2NTA3NjUsLTgzMjQzMj
-c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
-MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
-g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
-LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
-AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
-MDA1NTVdfQ==
+c3RvcnkiOls3MTE0MjEwNTQsMTg3MTY1MDc2NSwtODMyNDMyNz
+UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
+NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
+YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
+MTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5MTYxLC05MD
+EzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MCwtMTYxMTIw
+MDU1NV19
 -->
