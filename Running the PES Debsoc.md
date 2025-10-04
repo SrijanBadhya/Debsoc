@@ -677,7 +677,7 @@ Round 1 has a massive load which needs to be distributed evenly.
 (I'm talking about having 6 slots everyday of 30 minutes each, and asking people to choose one of the 18 slots of the 3 days.)
 
 If slots are rigid and not adaptive to changes, people who expected to start their slot earlier will wait unnecessarily. (If you've had a Capstone review you know what I'm talking about.)
-Recruitments are very chaotic due to factors like:
+Recruitments are inherently chaotic due to factors such as:
 - Moderators coming at different times.
 - Recruits coming at different times. (90% of your recruits won't come sharply at their slot time.)
 - Debates going on for varying lengths of time.
@@ -2155,7 +2155,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTgzNTkzNzA4LDQ5NjA0MzE1Myw5MDM1MzAwOC
+c3RvcnkiOlsxNzUzMzgyOTE2LDQ5NjA0MzE1Myw5MDM1MzAwOC
 wxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OCw2MTgw
 OTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYzNTcxMy
 wtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4
