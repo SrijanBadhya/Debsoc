@@ -273,7 +273,7 @@ The third round was a month long, with sessions every day, and people who attend
 - Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
 - People could get a feel of debate before they committed.
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
-- Glaring issues could pop up, making us aware of problematic people before taking them into the club.
+- Glaring issues could surface, making us aware of problematic individuals before admitting them into the club.
 - Recruits would form bonds and build loyalty, reducing the chances of them leaking information from the group later.
 - This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance' instead of 'high attendance.' One guy showed up for just one debate and later complained to me that he wasn't taken in 'even though he won 1/1 of his debates'. So being careful with phrasing is critical. Using the word 'attendance' instead is also risky since it could turn off people by reminding them of college.**
@@ -287,7 +287,7 @@ A few issues with the month-long recruitment:
 
 - You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
 - First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come on the week of exams and the week before (oh the sweet summer first year children).
-- + Another issue this leads to is that if all the active seniors belong to B. Tech, then there's nobody to conduct sessions when B. Tech has exams.
+- + Another issue this leads to is that if all active seniors are from B. Tech, then there's nobody to conduct sessions when B. Tech students have exams.
 - People feel like a month is too much commitment for a club they might not get selected into anyway. (To solve this, you may have to try to reassure people that they are very likely to be taken in.)
 
 ![enter image description here](https://i.ibb.co/N6PpM10X/FEAR-OF-ATTENDING-BUT-STILL-NOT-MAKING-IT-IN.png)
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDA2MjM2NjU0LDE4NzE2NTA3NjUsLTgzMjQzMj
-c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
-MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
-g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
-LTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwtOT
-AxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MTEy
-MDA1NTVdfQ==
+c3RvcnkiOlstMTgxMjUxNjE4OCwxODcxNjUwNzY1LC04MzI0Mz
+I3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNTY0Miwt
+MjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MD
+I4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5
+LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLT
+kwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjEx
+MjAwNTU1XX0=
 -->
