@@ -559,7 +559,7 @@ We dropped POIs and proper OAs. A verdict is unnecessary and often misleading to
 Verdicts can be straight up demotivating especially at a super early stage. It's more important to let people focus on speeches rather than the verdict. Quoting Nikhil, "People will get the false idea that the winner will proceed to the next round and will get the idea that debate is about winning and putting down the other side at any cost, so the incentive to act sus (cheat) is higher."
 
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
-The massive issue here is that people who slip by due to administrative errors, believe that they actually got filtered out, and hence don't reach out to correct us (because they're unaware that we're letting everyone through). You can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
+The massive issue here is that people who are missed due to administrative errors assume they were filtered out. As a result, they don't reach out for clarification, unaware that we intended to let everyone through. You can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
 When I allowed POIs, even after stating the rules thrice, people messed up POI rules in increasingly creative and chaotic ways. **POIs definitely are not worth the hassle in round 1 and round 2.**
 
@@ -2155,11 +2155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls0OTYwNDMxNTMsOTAzNTMwMDgsMTIxMDM5MTE3NS
-wxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MSwtMTM1NDgw
-NTE2OCwtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0MjIyMD
-UsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01
-MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4Nj
-Q3MSwxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAxXX0=
+c3RvcnkiOlstMTQ4OTgzMTg0Myw0OTYwNDMxNTMsOTAzNTMwMD
+gsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4
+MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3MT
+MsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIs
+ODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mj
+k4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3NV19
 
 -->
