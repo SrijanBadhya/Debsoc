@@ -1334,8 +1334,8 @@ The two ways juniors judge are:
 
 I think there are primarily 2 ways to replicate a portion of this feeling that I had:
 1. **If you're the chair, make the junior feel like their thoughts are heard.** 
-2. **If you're a speaker, ask this junior judge for feedback. This isn't something we do normally because we don't see much gain for ourselves. However, it can still help to know how an ordinary person would interpret your speech. 
-It works wonders for a junior's enjoyment of judging, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them regardless, by saying that you value their words, you value the fact that they sat through your 1 hour yap, a judge is a judge, etc.**
+2. **If you're a speaker, ask this junior judge for feedback.** This isn't something we do normally because we don't see much gain for ourselves. However, it can still help to know how an ordinary person would interpret your speech. 
+It works wonders for a junior's enjoyment of judging, because they feel proud about their opinion being valued by a senior. They might say things like, "I don't know how to judge, this is my first time, don't ask me", but get it out of them regardless, by saying that you value their words, you value the fact that they sat through your 1-hour yap, a judge is a judge, etc.
 
 Unlike speakers whose words are paid attention to and talked about in an OA, Trainees often feel insignificant. Make sure they enjoy judging, and make sure they feel that they're contributing, and they matter. 
 
@@ -1357,7 +1357,7 @@ You're cooked. I'm just as clueless as you.
 
 When I joined the Debsoc, parliamentary debate was starkly different from what I considered debates to be. It seemed quite formal for no reason, and adding 'characterization, mechanization, weighing' seemed like unnecessary 'formalities'. I didn't see how this made cases more persuasive, and I thought the Debsoc was weird for engaging in some weird format of debate. I wondered if the Debsoc just blindly followed 'rituals'. 
 
-Going to a tournament finally made all of this feel 'real'. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid. Parliamentary debate no longer felt like a made-up game with arbitrary rules.
+Going to a tournament finally made all of this **feel 'real'**. The reason why we stuck to APs and BPs instead of other fun debate formats, is because these were the formats which the world used for tournaments. Seeing judges from different colleges talk about mechanization and weighing made me realize that the techniques my club seniors followed were actually valid. Parliamentary debate no longer felt like a made-up game with arbitrary rules.
 
 Once you do a tournament, you often get motivation by having a milestone to work for, rather than an abstract aim like, "speaking better".
 
@@ -1383,7 +1383,7 @@ Basically, tournament reimbursement slots are kind of limited. Every slot is har
 You might want to use tournaments to incentivize people to come to sessions. Whatever stance you take on 'freeloaders,' the hardest part is sticking to it.
 It's awkward to tell people you know, your friends, that they don't meet the bar to attain reimbursement. But standing your ground sets a precedent for the future that your actions are in line with your words, and this affects how seriously your future words are taken as well.
 
-If it's an official rule you will publicize, make sure you know the answers to all the clauses. 
+If it's an official rule you will publicize, make sure you **know the answers to all the clauses.** 
 What if someone was active earlier but is inactive now? What if there's a tournament with only a few interested people, so slots aren't really limited then, can this person benefit from reimbursement? What if this person met the bar to go to previous tournaments yet isn't active enough for this one? What if someone interacts on the group and helps the community, but doesn't debate at sessions? What if the person is a skilled debater and is your best chance at getting a title?
 
 Are you banning freeloaders, deprioritizing them, or letting everyone in? 
@@ -2152,11 +2152,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5MzM3OTQ0ODIsLTE3Njc0MjIyMDUsLTE0MzM3MT
-g2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIs
-LTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNj
-UwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYs
-MTA4NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMT
-Q2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2
-M119
+c3RvcnkiOlstNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNz
+E4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2Mjgy
+LC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MT
+Y1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2
+LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLT
+E0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4
+NjNdfQ==
 -->
