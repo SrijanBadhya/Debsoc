@@ -815,7 +815,7 @@ https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=dri
 
 
 Tracking attendance digitally saves time and effort at the end of recruitments, and actually minimizes errors throughout the process (including compilation errors at the end). The highest chances for error are the parts which are dependent on humans, like collecting data from everyone, inputting it, not mixing up 'Jhanvi' with 'Jahnavi', and communicating responsibilities with each other. 
-Last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session. If you split the responsibility among multiple people this time, there are possible data synchronization issues (like forgetting to upload names if you're used to someone else uploading them). 
+Last year I handled the website alone, so everything went smoothly for me, I just had to ask every chair for a session report after their session. If you split the responsibility among multiple people this time, there are possible data synchronization issues (like forgetting to upload names if you're used to someone else uploading them). 
 
 If you can find a way (like a better website) to access the benefits and overcome the flaws, then that would be great. Otherwise, this is pretty solid.
 
@@ -962,7 +962,7 @@ Since debates usually involve 6-8 freshers and 1 senior, what naturally happens 
 You will be quite busy as an organizer and a judge, and when OA preparation time consumes you, it's hard to give people individual attention.
 **At that moment, it can be crucial to tell at least people, to cross over, shake hands, and chill.** 
 - It's detrimental if people are sitting in their own seats scrolling their phones during your OA prep time. 
-- After people cross over, conversation on the debate usually gets going. There are unresponded POIs and other thoughts on the debate that people are often bursting to say, but too hesitant to break the silence.
+- After people cross over, conversation on the debate usually gets going. There are unanswered POIs and other thoughts on the debate that people are often bursting to say, but too hesitant to break the silence.
 - This initial conversation gets the community vibe started, and freshers usually carry the conversation themselves after that.
 
 ![enter image description here](https://i.ibb.co/shr6VfN/just-before-Feedback.jpg)
@@ -973,7 +973,7 @@ You will be quite busy as an organizer and a judge, and when OA preparation time
 
 [Back to the Table of Contents](#table-of-contents)
 
-Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now". I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likely to value it more.
+Unsolicited advice is annoying to anyone. You can either choose the consent approach of meeting each speaker and saying, "Do you want feedback", or you can say, "Anyone who wants feedback can ask me now." I prefer the latter approach because it sort of puts social pressure on them to _ask_ for feedback lmao. And when people ask for advice, they're likely to value it more.
 
 
 Feedback is often tricky once your brain has shut down after the debate. I remember when I sometimes just tried to make up something from my own notes or defaulted to something generic.
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MT
-k3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1ODgz
-LDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgzMj
-QzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQy
-LC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLD
-UwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgy
-NzldfQ==
+c3RvcnkiOlsxMjM0MDgzMTU4LC0xNzY3NDIyMjA1LC0xNDMzNz
+E4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2Mjgy
+LC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MT
+Y1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2
+LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLT
+E0NjM3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4
+NjNdfQ==
 -->
