@@ -344,8 +344,8 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth-wise inclusivity, I mean making an effort to take more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
 
-Absolutely do not set a percentage of applicants as the bar, for example, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to measure marks in an exam (or whatever you use as an indication of interest like the number of sessions) and mark the threshold on that instead.
-Instead, it's better to use a direct metric of interest (like the number of sessions attended) and set the threshold based on that. Choose people for being interested, not for being more interested than others.
+Absolutely do not set a percentage of applicants as the bar, for example, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to use marks in an exam as the metric to measure the grasp that people have on a subject.
+Similarly, it's better to use a direct metric of interest (like the number of sessions attended) and set the threshold based on that. Choose people for being interested, not for being more interested than others.
 
 
 We usually conduct round 1 across 3 days so that people can come on any day according to their flexibility. Round 2 is also usually similarly over 3 days. 
@@ -2155,7 +2155,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTc1MjI1NjQ2LDkwMzUzMDA4LDEyMTAzOTExNz
+c3RvcnkiOlsxOTM1NTA4MTk0LDkwMzUzMDA4LDEyMTAzOTExNz
 UsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LDYxODA5NjEsLTEzNTQ4
 MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMj
 A1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwt
