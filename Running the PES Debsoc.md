@@ -620,7 +620,7 @@ I talk more about initial sessions later in [Session Concepts](#session-concepts
 ---
 
 A slight detour:
-I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her in her speech. I was indignant that Yash wasn't doing anything, and thought he was a dumb chair. After the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut up her teammate she would feel more nervous and alone. I want to keep these schoolkids interested in debate, and scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
+I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate, and scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
 I was in awe. For a moment my eyes rolled back into my head, and I saw the far-sighted vision Yash possessed. I saw that it was worthy to bend the rules sometimes, to keep the people winning in the infinite game.
 
 Some places I find worthy of bending the rules are:
@@ -2151,11 +2151,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4Nj
-EzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0x
-MDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMT
-M0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAw
-NTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Mi
-w5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3
-MTU1MDddfQ==
+c3RvcnkiOlstODM1OTk4NzQ5LC0xNjA3MTUzMzUxLC0xNDYzNz
+I1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4
+NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OT
+U4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2
+OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMyNDM3MjEyOC
+wtMjk0ODY1NDYyLDkxODU4NTMzNCwxMTQyOTcxMzkzLC0xNzE3
+MDc2MTU2XX0=
 -->
