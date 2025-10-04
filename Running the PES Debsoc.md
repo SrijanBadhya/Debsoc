@@ -537,9 +537,9 @@ Why was this new model better?
 - It is important for participants to experience the team aspect of parliamentary debating before progressing to future rounds. Most debating involves collaborating with people to build and deconstruct arguments together, so it is essential to ensure that potential candidates are willing to work in a team. The group discussion format does not test this and rewards individualism.
 - Group discussion portrays the wrong picture of what Debsoc activities will be like. People who might like debating but dislike group discussion will be dissuaded from joining the soc. People who like group discussion but not the rest of debate will also be mismatched.
 - Unknown Speaker Position: This incentivizes teammates to prep together and distribute the content they prepare equally across speakers. This prevents preparation from being focused on one speaker while others are just focused on responsive speeches. It emphasizes building the case and adds incentives for everyone to contribute and be ready since they could be the first speaker for their team.
-- Mid-Debate Strategy Sessions: This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive process from the previous step continues.
-- Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. And the participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
-- We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone, and helped us keep a note of signs of equity issues.
+- Mid-Debate Strategy Sessions: This helps teammates assess their performance in real time and plan their strategy accordingly. The first speaker gives inputs on what they couldn’t cover, and the team plans on rebuttals and the direction to take the debate in. The second speaker is not fixed yet, so the incentive to discuss thoroughly from the previous step continues.
+- Focus on Teamwork: This process won’t be perfect - speakers may not fulfill their roles perfectly, and there might be analytical gaps in their speeches. This is alright. The point is to test how well speakers can work together as a team. The participant also finds out how much they enjoy working in a team, and can better assess whether they want to join the soc.
+- We also had a feedback form post round 2 for recruits to talk about the attitudes of their teammates, which helped us judge everyone and helped us keep a note of signs of equity issues.
 
 (end of quoting from Nikhil)
 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNz
-ksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OTU4OTE2MSwt
-OTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2OTAsLTE2MT
-EyMDA1NTUsLTEyODc5OTY2ODksLTMyNDM3MjEyOCwtMjk0ODY1
-NDYyLDkxODU4NTMzNCwxMTQyOTcxMzkzLC0xNzE3MDc2MTU2LD
-Q0NDcxNTUwNywtNzU4MjM4OTYzLC0xODMyODc4ODUsMTYzMTUx
-NTAzOV19
+c3RvcnkiOlsxMjc3OTM3MjYsNTY4NDgwMzk0LDE3ODI5MTg2My
+wxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEy
+NDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOT
+g0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIx
+MjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMT
+cxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzODk2MywtMTgzMjg3
+ODg1XX0=
 -->
