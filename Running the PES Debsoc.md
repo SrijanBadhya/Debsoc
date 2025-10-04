@@ -635,7 +635,7 @@ The rebuttal to this is that you shouldn't teach juniors the wrong rules of deba
 
 Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy while the other 2 people just talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
 
-A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent imbalance or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
+A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent this rift or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
 
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MT
-UzMzUxLC0xNDYzNzI1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQs
-MTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMj
-cxNzQxOSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYy
-NTgsLTE1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2OD
-ksLTMyNDM3MjEyOCwtMjk0ODY1NDYyLDkxODU4NTMzNCwxMTQy
-OTcxMzkzXX0=
+c3RvcnkiOlstMzU4MDQwMzksMTA4NDMwNTY0MiwtMjA1MDM5Mj
+ExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5MSw1MDI4NjEzMjMs
+NTY4NDgwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0xMDk0OT
+U1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3
+MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC
+0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MTg1
+ODUzMzRdfQ==
 -->
