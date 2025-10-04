@@ -783,7 +783,7 @@ An extra technique which was very beneficial in 2024 was pipelining.
 When all the moderators have their hands full, **at least one person still needs to keep an eye out for people streaming in.** When all of us had ongoing debates, I would give a set of 6 people their motion and start their case prep to minimize their idle time. Around the time they got done with prep, one moderator would get freed up and ready to judge. Reducing inconvenience greatly enhances the quality of experience of a recruit. **If a recruit ends up waiting for more than 15 minutes, then the system is flawed.** 
 If someone has been waiting with 2 other people for 15 minutes, then you might as well get them started without waiting for more people.
 
-Starting case prep early like this is useful even when you expect a moderator to show up in 10 minutes, because their arrival will coincide with the end of the case prep of the recruits.
+Starting case prep early like this is useful **even when you expect a moderator to show up in 10 minutes, because their arrival will coincide with the end of the case prep of the recruits.**
 
 ---
 ### The Digital Attendance Tracker
@@ -805,7 +805,7 @@ password: debsocfuture
 
 I recommend using a new account because otherwise the names of your new recruits will be buried among our old recruits.
 
-It might look complex initially, but I swear by everything I hold dear that it's absolutely worth it because I've seen how recruitments turned out without it.
+It might look complex initially, but **I swear by everything I hold dear that it's absolutely worth it** because I've seen how recruitments turned out without it.
 
 The code used in the video and the data (which is unnecessary since your data will be different) can be accessed here:
 https://github.com/SrijanBadhya/Debsoc/tree/ed0d5f52bb7d4581572d96c8d29d436463303617
@@ -815,9 +815,9 @@ https://drive.google.com/drive/folders/1df_Uj1Gv3KbeVLcosL4qO-7g97mXSBZN?usp=dri
 
 
 Tracking attendance digitally saves time and effort at the end of recruitments, and actually minimizes errors throughout the process (including compilation errors at the end). The highest chances for error are the parts which are dependent on humans, like collecting data from everyone, inputting it, not mixing up 'Jhanvi' with 'Jahnavi', and communicating responsibilities with each other. 
-Last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session. If you split the responsibility this time, there are possible data synchronization issues (like forgetting to upload names if you're used to someone else uploading them). 
+Last year I handled the website alone so everything went smoothly for me, I just had to ask every chair for a session report after their session. If you split the responsibility among multiple people this time, there are possible data synchronization issues (like forgetting to upload names if you're used to someone else uploading them). 
 
-If you can find a way (like a better website) to access the benefits and overcome the flaws, then that would be great.
+If you can find a way (like a better website) to access the benefits and overcome the flaws, then that would be great. Otherwise, this is pretty solid.
 
   ---
 ## Meme day
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMzE5NTgyOTE1LC0xNDMzNzE4NjEwLC0xNjcxOT
-cwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3NjU4ODMs
-Mjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2NSwtODMyND
-MyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIs
-LTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNT
-AyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3
-OV19
+c3RvcnkiOlstMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MT
+k3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1ODgz
+LDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjUsLTgzMj
+QzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQy
+LC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLD
+UwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgy
+NzldfQ==
 -->
