@@ -591,12 +591,14 @@ https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJ
 In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
 Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non-transparent, but I consider it more important to get juniors to debate as much as possible to increase the likelihood of them getting hooked (and also increase their skill). 
 
-The issue with this, as I've mentioned elsewhere, is that people might just give up hope since they can't reach the false threshold, and also might be anxious about making it in. The anxiety might hold less weight since it translates to relief once they've gotten in, but it mildly feels dishonest to scare people.
+The issue with this, as I've mentioned elsewhere, is that people might just give up hope since they can't reach the false threshold, and also might be anxious about making it in. The anxiety might hold low weight since it translates to relief once they've gotten in (more anxiety -> more pride over making it in), but it mildly feels dishonest to scare people.
 
 In 2024-2025, we held way more Round 3 sessions than the previous year, and after looking at the distribution of attendance, we decided to make 3 debates the bar. (3 plus the 2 debates of round 1 and round 2.)
 
 ![enter image description here](https://i.ibb.co/352ZQvV5/Screenshot-2025-09-06-165446.png)
 (A few of the Yes's and Maybe's came from people who had attended a bunch of debates.)
+
+There should be a better way to set the threshold and publicize it but we haven't found it yet.
 
 ---
 
@@ -2150,11 +2152,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMDYxMDMxNzMyLDU2ODQ4MDM5NCwxNzgyOTE4Nj
-MsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0x
-MjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MD
-k4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0Mzcy
-MTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLT
-E3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4
-Nzg4NV19
+c3RvcnkiOls1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2My
+wxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEy
+NDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOT
+g0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIx
+MjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMT
+cxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzODk2MywtMTgzMjg3
+ODg1XX0=
 -->
