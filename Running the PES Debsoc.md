@@ -251,7 +251,7 @@ How do you handle the trade-off between being inclusive/selective?
 
 A few pros of being selective:
 
-- A few PES clubs (like ECell) try to be extremely selective with their members. This generates initial hype over being a 'member of ECell.'
+- A few PES clubs (like ECell) try to be extremely selective with their members. This generates initial hype around being a 'member of ECell.'
 - Fewer members may mean less dilution of spirit allowing you to focus more.
 - It's way easier to deny entry to someone than it is to kick them out later.
 - You want to have people who actually care about debate so that you don't feel the emptiness of none among the 100 members of the group chat responding to your texts.
@@ -1868,13 +1868,13 @@ Carrying out any of this is easier said than done. Every bit of it takes Hercule
 
 I would like to express my deepest gratitude to 
 
-Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I fel, and supported me throughout my journeys of both debate and writing.
+Nikhil, an ex-club head, who had the vision behind many of these systems, framed words in a way that accurately described the way I felt, and supported me throughout my journeys of both debate and writing.
 
 Stuthi, an ex-club head, who proofread this book and gave me the very contributions I was missing.
 
 Nahush, who peeked at Stuthi's phone while she was proofreading it, searched up the site at home, read the whole book, and showed me that there's someone out there who would read all my word vomit. Without Nahush I would never have the determination to go on and complete this book.
 
-Samuel, another ex-club head, my mentor, the senior who I always looked up to, the soul who made scattered members converge around him like a campfire, my main source of Debsoc lore, and a man with whom I have discussed Debsoc systems extensively.
+Samuel, another ex-club head, my mentor, the senior whom I always looked up to, the soul who made scattered members converge around him like a campfire, my main source of Debsoc lore, and a man with whom I have discussed Debsoc systems extensively.
 
 Everyone, my seniors, my batchmates, my juniors, who I've met along the journey and gave me insight into how things work in the debate world.
 
@@ -2154,11 +2154,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQwNTI3NzYzMyw2MTgwOTYxLC0xMzU0ODA1MT
-Y4LC04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwt
-MTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMz
-M3NjI4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcx
-LDE4NzE2NTA3NjUsLTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNj
-EyMjc4NiwxMDg0MzA1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUz
-MzUxXX0=
+c3RvcnkiOlsxODMzMjQ2MzI3LDYxODA5NjEsLTEzNTQ4MDUxNj
+gsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0x
+NDMzNzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMz
+c2MjgyLC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEs
+MTg3MTY1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MT
+IyNzg2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMz
+NTFdfQ==
 -->
