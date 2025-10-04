@@ -1628,7 +1628,7 @@ The real time that you get after the main recruitment is the shared even semeste
 
 ---
 
-During regular recruitments, a lot of recruits show up with friends who just come to spend time with them, not debate. Sometimes these friends are unsure if they're even allowed. Encourage these friends to stay and watch/participate as a swing (if they don't want to join the club)/chill. People have fun engaging in an activity like debating, alongside or against their friends. Friends who join the soc together, often egg each other on to come to Debsoc later too. (To be fair, sometimes when one friend leaves the soc, their friend leaves the soc too, but we do have cases where the friend who was dragged into the soc ended up being the one who stayed.)
+During regular recruitments, a lot of recruits show up with friends who just come to spend time with them, not debate. Sometimes these friends are unsure if they're even allowed. Encourage these friends to **stay and watch**/_participate as a swing (if they don't want to join the club)_/**chill**. People have fun engaging in an activity like debating, alongside or against their friends. Friends who join the soc together, often egg each other on to come to Debsoc later too. (To be fair, sometimes when one friend leaves the soc, their friend leaves the soc too. We also have opposite cases where the friend who was dragged into the soc ended up being the one who stayed.)
 A major reason people find it difficult to come to sessions after classes is feeling they'd rather spend that time with their friend. Bringing the friend along solves that issue.
 
 ---
@@ -2153,11 +2153,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3NDkwMjk2MTEsLTEzNTQ4MDUxNjgsLTgxMTE5NT
-Q1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEw
-LC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zND
-M3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2
-NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwOD
-QzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3
-MjU1OTFdfQ==
+c3RvcnkiOls2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NT
+IsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwt
+MTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNz
+Y1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxLDE4NzE2NTA3NjUs
+LTgzMjQzMjc1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0Mz
+A1NjQyLC0yMDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1
+NTkxXX0=
 -->
