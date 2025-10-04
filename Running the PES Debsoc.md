@@ -270,7 +270,7 @@ The third round was a month long, with sessions every day, and people who attend
 ---
  **The month-long recruitment was highly effective** for a few reasons:
 
-- Since it wasn't confined to a particular few days, people could come according to the flexibility of their schedule. 
+- Since it wasn't confined to a particular few days, people could come according to their own schedules. 
 - People could get a feel of debate before they committed.
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
 - Glaring issues could surface, making us aware of problematic individuals before admitting them into the club.
@@ -2154,11 +2154,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDE4MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNj
-gsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0x
-NDMzNzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMz
-c2MjgyLC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEs
-MTg3MTY1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MT
-IyNzg2LDEwODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMz
-NTFdfQ==
+c3RvcnkiOlsxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MS
+wtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3
+Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NT
+Y2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgs
+LTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MD
+g3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNTY0MiwtMjA1MDM5MjEx
+M119
 -->
