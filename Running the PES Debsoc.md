@@ -604,7 +604,7 @@ There should be a better way to set the threshold and publicize it but we haven'
 
 #### What wasn't implementable from the Round 3 model
 
-You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after polls (and many don't vote).
+You can never accurately predict how many people will show up to a session, who these people are, or which days they will show up, because people change their minds even after they vote (and many don't even vote).
 
 Because of this, it wasn't possible for us to ensure that every junior got to pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track speaker positions, and then in the future check their past speaker positions before assigning them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
 The only thing that we could do was leave it to fate and 
@@ -2152,11 +2152,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2My
-wxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEy
-NDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOT
-g0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIx
-MjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMT
-cxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzODk2MywtMTgzMjg3
-ODg1XX0=
+c3RvcnkiOlsxNjA4Mzc2ODQ1LDUwMjg2MTMyMyw1Njg0ODAzOT
+QsMTc4MjkxODYzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYy
+MjcxNzQxOSwtMTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNz
+YyNTgsLTE1ODA5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2
+ODksLTMyNDM3MjEyOCwtMjk0ODY1NDYyLDkxODU4NTMzNCwxMT
+QyOTcxMzkzLC0xNzE3MDc2MTU2LDQ0NDcxNTUwNywtNzU4MjM4
+OTYzXX0=
 -->
