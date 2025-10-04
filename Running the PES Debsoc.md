@@ -574,9 +574,9 @@ We also made everyone fill feedback forms where they talked about their moderato
 
 By the time round 3 starts, around 60% of the recruits will have dropped out, and the challenge of conducting sessions shifts from having the energy to handle one intensive day, to having the stamina to retain energy for a month.
 
-Round 3 had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
+Round 3 in 2023 & 2025 (the 24-25 batch's r3 got pushed to march) had full-fledged APs. APs are simpler than BPs so we have always started with APs for the last 4 years. If 8 people show up one day and all these people have quite some experience debating, then you can try out a BP, but in all other cases, I believe AP is the way.
 
-Juniors are unaware that they even have the right to judge, so make sure you always give them the option to.
+Juniors are unaware that they even have the right to judge, so make sure you always inform them of this.
 
 ---
 
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODI4MDgyMzkzLDU2ODQ4MDM5NCwxNzgyOTE4Nj
-MsMTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0x
-MjQ5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MD
-k4NDY5MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0Mzcy
-MTI4LC0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLT
-E3MTcwNzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4
-Nzg4NV19
+c3RvcnkiOlstMTE3MTE4NzYyOCw1Njg0ODAzOTQsMTc4MjkxOD
+YzLDE4NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwt
+MTI0OTU4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1OD
+A5ODQ2OTAsLTE2MTEyMDA1NTUsLTEyODc5OTY2ODksLTMyNDM3
+MjEyOCwtMjk0ODY1NDYyLDkxODU4NTMzNCwxMTQyOTcxMzkzLC
+0xNzE3MDc2MTU2LDQ0NDcxNTUwNywtNzU4MjM4OTYzLC0xODMy
+ODc4ODVdfQ==
 -->
