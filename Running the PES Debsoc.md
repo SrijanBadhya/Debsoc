@@ -224,7 +224,7 @@ The main purposes of orientation are:
 I think a great feature of our Orientation has been our Demo Debate. In the interest of time, we usually have a 2 vs 2. 
 Allowing the audience to pick from the three motions displayed on screen made them feel more involved. To use time efficiently, we continued the orientation during the prep time of the debaters. Efficiency is crucial because as the orientation lengthens, people tend to lose focus and interest.
 
-What I find very effective is to tell your own story, talk about how debating has improved your own life, and show the freshers what they can become.
+What I find very effective is to tell your own story, how debating has improved your own life, and showing the freshers what they can become.
 
 In 2024, I engaged in crowd work while the club heads were setting things up for the orientation. Worried students commonly asked me, "Do you need prior debating experience to join the club?" This was probably since every other club filtered people based on skill.
 
@@ -620,7 +620,7 @@ I talk more about initial sessions later in [Session Concepts](#session-concepts
 ---
 
 A slight detour:
-I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
+I once judged a debate tournament for school kids, and my chair was Yash Alva from RCL. The PM, a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are school kids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these school kids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
 I was in awe. For a moment my eyes rolled back into my head, and I tapped into the far-sighted vision Yash possessed. I saw that it was worth bending the rules sometimes to keep people winning in the infinite game.
 
 Some places I find worthy of bending the rules are:
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNjQzMTEzMjEyLDE4NzE2NTA3NjUsLTgzMjQzMj
+c3RvcnkiOlsxMDg4NjcyNDMzLDE4NzE2NTA3NjUsLTgzMjQzMj
 c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
 MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
 g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
