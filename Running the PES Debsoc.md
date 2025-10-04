@@ -582,7 +582,7 @@ Round 3 in 2023 & 2025 (the 24-25 batch's r3 got pushed to march) had full-fledg
 ---
 
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
-I don't believe that making the recruitment bar seem high actually encourages debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
+I don't believe that making the recruitment bar seem high actually encouraged debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seemed to be a very short-term push.
 
 In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or fewer debates to dm us if they really wanted to be in the club. Because these people expressed interest (even if they had just done 1 debate), we added those who messaged us to the recruitment list. For everyone else we ended up setting the real bar at 2 debates, while still keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
 
@@ -607,7 +607,7 @@ There should be a better way to set the threshold and publicize it but we haven'
 
 You can never accurately predict how many people will show up to a session, who will show up, or which days they will show up on, because people change their minds even after they vote (and many don't even vote).
 
-Because of this, it wasn't possible for us to ensure that every junior got to Pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track people's speaker positions, check their past speaker positions, and assign them new positions (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
+Because of this, it wasn't possible for us to ensure that every junior got to Pro-Am. It wasn't possible for us to make everyone judge at least once, especially when only 5 or 6 people showed up. It was too much of an administrative burden to track people's speaker positions, check their past speaker positions, and assign them new roles (because the model had aimed to ensure that everyone had tried every speaker position by the end of round 3). 
 The only thing that we could do was leave it to fate and hope that people would naturally try out different roles themselves.
 
 ---
@@ -676,7 +676,7 @@ Round 1 has a massive load which needs to be distributed evenly.
 **Using a 'choose your slot' system can easily lead to chaos due to how fragile this system is.** 
 (I'm talking about having 6 slots everyday of 30 minutes each, and asking people to choose one of the 18 slots of the 3 days.)
 
-If slots are tight and not adaptive to changes, people who expected to start their slot earlier will wait unnecessarily. (If you've had a Capstone review you know what I'm talking about.)
+If slots are rigid and not adaptive to changes, people who expected to start their slot earlier will wait unnecessarily. (If you've had a Capstone review you know what I'm talking about.)
 Recruitments are very chaotic due to factors like:
 - Moderators coming at different times.
 - Recruits coming at different times. (90% of your recruits won't come sharply at their slot time.)
@@ -2155,7 +2155,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODA3MTc0NTgzLDQ5NjA0MzE1Myw5MDM1MzAwOC
+c3RvcnkiOlstMTgzNTkzNzA4LDQ5NjA0MzE1Myw5MDM1MzAwOC
 wxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OCw2MTgw
 OTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYzNTcxMy
 wtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4
