@@ -344,7 +344,7 @@ This has somehow become one of the most controversial practices of the society. 
 
 By breadth-wise inclusivity, I mean making an effort to take more people. Providing multiple days for people to finish their rounds 1 and 2. Adding extra days for the people who need them.  Making Round 3 open enough such that people with packed lives would be able to reach the minimum bar. 
 
-Absolutely do not set a percentage of applicants as the bar, for example, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to use marks in an exam as the metric to measure the grasp that people have on a subject.
+Absolutely do not set a percentage of applicants as the bar, for example, "The top 90% will be recruited." This is dumb for the same reasons that percentiles in competitive exams are dumb: just because someone was in the bottom 10% doesn't mean that they can't or don't like to do math. It's better to use marks in an exam as the metric to measure the grasp that people in a class have on math.
 Similarly, it's better to use a direct metric of interest (like the number of sessions attended) and set the threshold based on that. Choose people for being interested, not for being more interested than others.
 
 
@@ -2155,11 +2155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTM1NTA4MTk0LDkwMzUzMDA4LDEyMTAzOTExNz
-UsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LDYxODA5NjEsLTEzNTQ4
-MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMj
-A1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwt
-NTEzMzc2MjgyLC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyOD
-Y0NzEsMTg3MTY1MDc2NSwtODMyNDMyNzUsMTU4NDA4NzUwMV19
+c3RvcnkiOls0OTYwNDMxNTMsOTAzNTMwMDgsMTIxMDM5MTE3NS
+wxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MSwtMTM1NDgw
+NTE2OCwtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0MjIyMD
+UsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01
+MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4Nj
+Q3MSwxODcxNjUwNzY1LC04MzI0MzI3NSwxNTg0MDg3NTAxXX0=
 
 -->
