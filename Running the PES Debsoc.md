@@ -490,7 +490,7 @@ I'll just quote from Nikhil's document from here until Round 3.
  - + There is an increase in prep time from 5 minutes to 10 minutes. A lot of new debaters are intimidated by the process and struggle to kickstart idea generation, let alone structure and reasoning for the arguments. I personally was confused by the motion wording and felt a general sense of panic given the limited prep time during my round 1. An additional 5 minutes would help participants calm down, giving them enough leeway to structure their arguments and be ready to present them. 10 minutes is long enough to generate the level of arguments expected in round 1 but short enough to handle the scale of multiple people in a day.
  - After the speeches, the moderator asks questions to clarify logical gaps that the speakers may have missed in their speeches, giving them a chance to clarify themselves in a conversational manner.
  - The moderator later asks them retrospective questions on what they could have done better and how they would have argued for the other side.
- - + Previously, the moderator used to be passive in adjudicating the debate. Participants would leave after the speeches, and the moderator would note their inputs. In the new system, the moderator becomes more involved and 2 "enters the debate," interacting with the speakers and questioning them about various aspects of the debate. Here are a few reasons for this change:
+ - + Previously, the moderator used to be passive in adjudicating the debate. Participants would leave after the speeches, and the moderator would note their inputs. In the new system, the moderator becomes more involved and "enters the debate," interacting with the speakers and questioning them about various aspects of the debate. Here are a few reasons for this change:
  - + + Without 'active moderation', there is a feeling of mystery and anxiety after the speeches are over. The moderator passively tracks the debate, and participants are unsure about the metrics they are being judged on.
  - + + Most participants may have an intuitive understanding of the case, but it might not have come out in the speeches due to the new format and general anxiety of a recruitment round. The questions by the moderators are meant to allow speakers to explain themselves in a more conversational manner while allowing them to retrospectively analyze their case. The questions are aimed at understanding how well a participant responds to an issue in the debate that the moderator has pointed out.
  - + + From the participant's point of view, they feel that the process is more personal and feels like an interview of sorts. The questions assess them over multiple metrics, and they are also able to understand their performances better in retrospect.
@@ -2149,11 +2149,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NT
-g5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5
-MCwtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC
-0yOTQ4NjU0NjIsOTE4NTg1MzM0LDExNDI5NzEzOTMsLTE3MTcw
-NzYxNTYsNDQ0NzE1NTA3LC03NTgyMzg5NjMsLTE4MzI4Nzg4NS
-wxNjMxNTE1MDM5LC0xMDI0NTc2MzM1LC02NzgxNjk3MCwtMTg1
-NzM3Nzg1NV19
+c3RvcnkiOlsxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MT
+c0MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4
+LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC
+0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMTE0Mjk3
+MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIzODk2My
+wtMTgzMjg3ODg1LDE2MzE1MTUwMzksLTEwMjQ1NzYzMzUsLTY3
+ODE2OTcwXX0=
 -->
