@@ -591,7 +591,7 @@ https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJ
 In 2024-2025, when we were asked, "How many sessions are needed to get in the club?" we answered with the cryptic answer of, "There is no particular number. Something like twice a week would be ideal" (verbatim). 
 Disclosing the exact number of sessions might dissuade people from debating more once they've hit the bar, which is why we spin this web of lies every year. It does suck to be non-transparent, but I consider it more important to get juniors to debate as much as possible to increase the likelihood of them getting hooked (and also increase their skill). 
 
-The issue with this, as I've mentioned elsewhere, is that people might just give up hope since they can't reach the false threshold, and also might be anxious about making it in. The anxiety might hold low weight since it translates to relief once they've gotten in (more anxiety -> more pride over making it in), but it mildly feels dishonest to scare people.
+The issue with this, as I've mentioned before, is that a fe people might just give up hope since they can't reach the false threshold. Nearly everyone will be anxious about making it in. The anxiety might hold low weight since it translates to relief once they've gotten in (more anxiety -> more pride over making it in), but it mildly feels dishonest to scare people.
 
 In 2024-2025, we held way more Round 3 sessions than the previous year, and after looking at the distribution of attendance, we decided to make 3 debates the bar. (3 plus the 2 debates of round 1 and round 2.)
 
@@ -2151,11 +2151,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTQ2MzcyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMz
-k0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02
-MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMTM0ODI3MywtNTAxMz
-c2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAwNTU1LC0xMjg3OTk2
-Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Miw5MTg1ODUzMzQsMT
-E0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3MTU1MDcsLTc1ODIz
-ODk2M119
+c3RvcnkiOlstMTAwNDYzNzQxMSwtMTQ2MzcyNTU5MSw1MDI4Nj
+EzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3NzE4Mjc5LC0x
+MDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkxNjEsLTkwMT
+M0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC0xNjExMjAw
+NTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5NDg2NTQ2Mi
+w5MTg1ODUzMzQsMTE0Mjk3MTM5MywtMTcxNzA3NjE1Niw0NDQ3
+MTU1MDddfQ==
 -->
