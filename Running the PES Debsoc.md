@@ -222,7 +222,7 @@ The main purposes of orientation are:
 3. To ensure people understand what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
 
 I think a great feature of our Orientation has been our Demo Debate. In the interest of time, we usually have a 2 vs 2. 
-Allowing the audience to pick from the three motions displayed on screen made them feel more involved. To use time efficiently, we continued the orientation during the prep time of the debaters. Efficiency is crucial because as the orientation lengthens, people tend to lose focus and interest.
+Allowing the audience to pick from the three motions displayed on screen made them feel more involved. To use the time efficiently, we continued with the orientation while the debaters were in their prep time. Efficiency is crucial because as the orientation lengthens, people tend to lose focus and interest.
 
 What I find very effective is to tell your own story, how debating has improved your own life, and showing the freshers what they can become.
 
@@ -262,7 +262,7 @@ A few pros of being selective:
 Since 2023, the Debsoc has followed Harsha's idea to increase selectivity while remaining inclusive, which was to check who retained interest at the end of a 3-round-recruitment process.
 
 The first round remained the same. 
-_The second round was a 'group discussion', with one moderator and 6 recruits. And the one who scored more 'points' would be the one who engaged more._
+_The second round was a 'group discussion', with one moderator and 6 recruits. The person who scored more 'points' was the one who engaged more._
 In 2024, we got rid of the group discussion round and replaced it with an AP lite round. I think the 2024 model is the best model we've had so far, and later I'll talk about why. 
 
 The third round was a month long, with sessions every day, and people who attended the most sessions were recruited.
@@ -2155,11 +2155,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls1MDIxNDU3OTUsLTU1Mzg2MTc2OSw0OTYwNDMxNT
-MsOTAzNTMwMDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgx
-MzQ5OTgsNjE4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC
-03NzM2MzU3MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2
-NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NT
-g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1XX0=
+c3RvcnkiOlsyMTQwMjMwNjEzLC01NTM4NjE3NjksNDk2MDQzMT
+UzLDkwMzUzMDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4
+MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1Mi
+wtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0x
+NjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3Nj
+U4ODMsMjc5NTI5ODE4LC01MTAyODY0NzEsMTg3MTY1MDc2NV19
 
 -->
