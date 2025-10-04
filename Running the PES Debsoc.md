@@ -513,9 +513,9 @@ I think these changes by Nikhil were absolutely amazing, they made the recruitme
 
 Quoting Nikhil on the issues in the Group Discussion format of 2023:
 
-- A lot of participants were introverted or had social anxiety, and though they had ideas to contribute to the discussion, a lack of confidence prevented them from doing so.
+- Many participants were introverted or experienced social anxiety; though they had ideas to contribute to the discussion, a lack of confidence prevented them from doing so.
 - The group discussion format quickly turns into a ‘loudest person gets the room’ kind of situation, where a person comfortable with pushing their ideas through and holding their stance through all the noise wins.
-- The discussion takes the shape of the social dynamic holding the group in place, which dilutes the breadth and quality of discussion.
+- The discussion often takes shape according to the social dynamic of the group, which dilutes the breadth and quality of the discussion.
 
 Why is this bad?
 - Except maybe for panel deliberation, the skills tested in the group discussion round are never explicitly used in parliamentary debating. Sure, skills like quick thinking and being adaptive are transferable, but there are other methods to assess this.
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMTI0NDA3NzMsMTg3MTY1MDc2NSwtODMyNDMyNz
+c3RvcnkiOlstOTI4NDY3MDgsMTg3MTY1MDc2NSwtODMyNDMyNz
 UsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEwODQzMDU2NDIsLTIw
 NTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1OTEsNTAyOD
 YxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1NzcxODI3OSwt
