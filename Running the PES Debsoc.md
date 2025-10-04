@@ -219,10 +219,10 @@ If you do _have_ to take metrics, try to somehow link them to the joy, growth, a
 The main purposes of orientation are:
 1. To paint a clear picture of what debating and the Debsoc are like.
 2. To increase interest in debating.
-3. To ensure people know what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
+3. To ensure people understand what they're in for, so the people absolutely uninterested in parliamentary debating can drop out.
 
 I think a great feature of our Orientation has been our Demo Debate. In the interest of time, we usually have a 2 vs 2. 
-Letting the audience pick the motion among the 3 motions displayed on screen made the audience feel more involved. To use time efficiently, we continued the orientation during the prep time of the debaters. Efficiency is quite important because as the orientation stretches people lose focus and interest.
+Allowing the audience to pick from the three motions displayed on screen made them feel more involved. To use time efficiently, we continued the orientation during the prep time of the debaters. Efficiency is quite important because as the orientation stretches people lose focus and interest.
 
 What I find very effective is to tell your own story, talk about how debating has improved your own life, and show the freshers what they can become.
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTIzMjA4Mzg4NiwyMTM2MTIyNzg2LDEwODQzMD
-U2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0NjM3MjU1
-OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMsMTg1Nz
-cxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMjQ5NTg5
-MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4NDY5MC
-wtMTYxMTIwMDU1NSwtMTI4Nzk5NjY4OSwtMzI0MzcyMTI4LC0y
-OTQ4NjU0NjJdfQ==
+c3RvcnkiOlstMjExMjY0OTA5LDIxMzYxMjI3ODYsMTA4NDMwNT
+Y0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5
+MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2MywxODU3Nz
+E4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyNDk1ODkx
+NjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0NjkwLC
+0xNjExMjAwNTU1LC0xMjg3OTk2Njg5LC0zMjQzNzIxMjgsLTI5
+NDg2NTQ2Ml19
 -->
