@@ -446,7 +446,7 @@ This criticism has been applied on doing multiple matter sessions as well.
 So, how do you carry out breadth-wise inclusivity?
 
 - I staunchly believe that inclusivity should be maximized if you have the bandwidth to accommodate these people.
-- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the juniors who had asked me to. I don't recommend going the extra mile to this extreme without having the bandwidth yourself. Especially since during the recruitment period you'll already be attending more debates than a recruit.
+- I took this to the extreme, and since I had free bandwidth in my 4th year, I would go to first-year classrooms even 2 weeks after official round 1 recruitments to conduct unofficial recruitments for the juniors who had asked me to. I don't recommend going the extra mile to this extreme without having the bandwidth yourself. Especially since during the recruitment period you'll already be attending more debates than a recruit.
 
 ![enter image description here](https://i.imgflip.com/a7995z.jpg)
 
@@ -2150,11 +2150,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTE1NTUxMTYxLC01MTAyODY0NzEsMTg3MTY1MD
-c2NSwtODMyNDMyNzUsMTU4NDA4NzUwMSwyMTM2MTIyNzg2LDEw
-ODQzMDU2NDIsLTIwNTAzOTIxMTMsLTE2MDcxNTMzNTEsLTE0Nj
-M3MjU1OTEsNTAyODYxMzIzLDU2ODQ4MDM5NCwxNzgyOTE4NjMs
-MTg1NzcxODI3OSwtMTA5NDk1NTUzMSwtNjIyNzE3NDE5LC0xMj
-Q5NTg5MTYxLC05MDEzNDgyNzMsLTUwMTM3NjI1OCwtMTU4MDk4
-NDY5MF19
+c3RvcnkiOlsyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNz
+Y1LC04MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4
+NDMwNTY0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2Mz
+cyNTU5MSw1MDI4NjEzMjMsNTY4NDgwMzk0LDE3ODI5MTg2Mywx
+ODU3NzE4Mjc5LC0xMDk0OTU1NTMxLC02MjI3MTc0MTksLTEyND
+k1ODkxNjEsLTkwMTM0ODI3MywtNTAxMzc2MjU4LC0xNTgwOTg0
+NjkwXX0=
 -->
