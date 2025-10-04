@@ -274,7 +274,7 @@ The third round was a month long, with sessions every day, and people who attend
 - People could get a feel of debate before they committed.
 - People filtered themselves out, so people who still attended by the end were the people who were genuinely interested.
 - Glaring issues could pop up, making us aware of problematic people before taking them into the club.
-- Recruits would form bonds and some amount of loyalty would be built up, reducing the chances of them backstabbing by leaking info from the group later.
+- Recruits would form bonds and build loyalty, reducing the chances of them leaking information from the group later.
 - This was the best way to measure if someone could be an asset to the club in the future; to see if they would participate enthusiastically and be able to set aside time for the Debsoc.
 - **In our messages to the recruits, we kept telling them that we were measuring their consistency. Unfortunately, some people interpreted this as 'consistently high performance' instead of 'high attendance.' One guy showed up for just one debate and later complained to me that he wasn't taken in 'even though he won 1/1 of his debates'. So being careful with phrasing is critical. Using the word 'attendance' instead is also risky since it could turn off people by reminding them of college.**
 
@@ -583,7 +583,7 @@ Juniors are unaware that they even have the right to judge (since judging is for
 The weird thing about round 3 is how we've always dealt with the threshold. We've wanted to make the bar seem high (both to encourage debating during round 3 and post round 3) while actually keeping it low. 
 I don't believe that making the recruitment bar seem high was really able to encourage debating post round 3, because the feeling of, "I've made it into such a prestigious club with a high bar for entry, so I need to make it count," seems like a very short-term push to me.
 
-In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or less debates to dm us if they really wanted to be in the club. Because these people expressed interest (even if they had just done 1 debate), we added those who messaged us to the recruitment list. For everyone else we ended up setting the real bar at 2 debates, while still keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
+In 2023-2024, on the last night of round 3 before releasing results, we asked people with 5 or fewer debates to dm us if they really wanted to be in the club. Because these people expressed interest (even if they had just done 1 debate), we added those who messaged us to the recruitment list. For everyone else we ended up setting the real bar at 2 debates, while still keeping this number unknown to the recruits. (So in the end even people who did 2 debates and didn't DM us got in.)
 
 Since (for some reason) we cared about making the Debsoc look prestigious and difficult to get in, we published a list of names showing who got accepted and who got rejected. We added a bunch of fake names in the rejection list, consisting of great debaters (relevant at the time) from around the country lmaooo. This is the list we published:
 https://docs.google.com/spreadsheets/d/11wqDueQaUqx8TkVNi5iS_a-iretiSL-CdvE7ugtJY5s/edit#gid=0
@@ -681,7 +681,7 @@ Recruitments are very chaotic due to factors like:
 - Recruits coming at different times. (90% of your recruits won't come sharply at their slot time.)
 - Debates going on for varying lengths of time.
 - Sorting out a lot of aspects like guiding confused people to the basement, clarifying doubts, dividing people into batches, etc.
-- Sometimes you'll have too many people for a debate, and sometimes you'll have too less. Having fixed people for fixed slots won't work because a lot of people won't show up.
+- Sometimes you'll have too many people for a debate, and sometimes you'll have too few. Having fixed people for fixed slots won't work because a lot of people won't show up.
 - A lot of people would end up missing their slot entirely.
 
 Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people. 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNTk5NTg2Njg3LDE4NzE2NTA3NjUsLTgzMjQzMj
+c3RvcnkiOlsxMDA2MjM2NjU0LDE4NzE2NTA3NjUsLTgzMjQzMj
 c1LDE1ODQwODc1MDEsMjEzNjEyMjc4NiwxMDg0MzA1NjQyLC0y
 MDUwMzkyMTEzLC0xNjA3MTUzMzUxLC0xNDYzNzI1NTkxLDUwMj
 g2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4NTc3MTgyNzks
