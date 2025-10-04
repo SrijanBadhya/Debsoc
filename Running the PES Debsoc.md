@@ -665,14 +665,14 @@ This feedback form does contain some sensitive information, but since it's anony
 [Back to the Table of Contents](#table-of-contents)
 
 
-This section is packed with lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence in our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year) since one mistake results in one recruit missed entirely.
+This section is packed with lessons we've learned the hard way. A lot of these issues weren't predicted by us (due to overconfidence in our accuracy and memory), and I really don't want these mistakes to repeat (the way they've been repeating every year) **since one mistake results in one recruit missed entirely.**
 
-Make sure everyone is on the same page with respect to recruitments. This may require a briefing text or an in-person/virtual briefing session. In late 2024 we had a few random people suddenly change the format at the last minute, and it led to a frustrating mismatch between the vision and implementation.
+**Make sure everyone in the club is on the same page with respect to recruitments.** This may require a briefing text or an in-person/virtual briefing session. In late 2024 we had a few random people suddenly change the format at the last minute, and it led to a frustrating mismatch between the vision and implementation.
 
 ---
 
-Round 1 has a massive load which needs to distribute evenly. 
-Using a 'choose your slot' system can easily lead to chaos due to how fragile this system is. 
+Round 1 has a massive load which needs to be distributed evenly. 
+**Using a 'choose your slot' system can easily lead to chaos due to how fragile this system is.** 
 (I'm talking about having 6 slots everyday of 30 minutes each, and asking people to choose one of the 18 slots of the 3 days.)
 
 If slots are tight and not adaptive to changes, people who expected to start their slot earlier will wait unnecessarily. (If you've had a Capstone review you know what I'm talking about.)
@@ -684,7 +684,7 @@ Recruitments are very chaotic due to factors like:
 - Sometimes you'll have too many people for a debate, and sometimes you'll have too few. Having fixed people for fixed slots won't work because a lot of people won't show up.
 - A lot of people would end up missing their slot entirely.
 
-Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. As people continue to show up, hopefully the early moderators also get freed up in time to handle these people. 
+Being dynamic is the way to go. The super early people can go to moderator number one. The bulk of people who show up can be handled by the other moderators you have. **As people continue to show up,  usually the early moderators also get freed up in time to handle these people.** 
 
 To be able to handle people in the first place, planning is required.
 And the way to do this is by first calculating the expected turnout.
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNzM4NjQ4OTczLC01MTMzNzYyODIsLTM0Mzc2NT
+c3RvcnkiOlsxMDMxODQ2NDYxLC01MTMzNzYyODIsLTM0Mzc2NT
 g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04
 MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNT
 Y0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5
