@@ -633,15 +633,15 @@ The rebuttal to this is that you shouldn't teach juniors the wrong rules of deba
 
 ---
 
-Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. **Sometimes one person will be shy while the other 2 people simply talk to each other. Noticing this and reminding them to prep together can make a world of difference for this person. 
+Since we follow the AP format in round 3, 3-member-teams can be incohesive sometimes. Checking up on team dynamics can be pivotal to nipping unhealthy behaviors in the bud. Sometimes one person will be shy while the other 2 people simply talk to each other. **Noticing this and reminding them to prep together can make a world of difference for this person.** 
 
-A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent this rift or to encourage socialization with new people, but I don't find this necessary. It can be more fun and less scary to debate alongside your friend. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
+A very similar situation is when 2 friends come together for recruitments. Others have sometimes made an effort to split these friends into 2 different teams, maybe to prevent this rift or to encourage socialization with new people, but I don't find this necessary. Debating alongside your friend makes the whole experience more fun and less scary. If you ensure that the third person doesn't get suppressed, I think things can still go smoothly.
 
 ![enter image description here](https://i.ibb.co/MDLspPHv/Teamwork-Issues-add-this-later.png)
 
 ---
 
-It's important to alleviate anxiety and make people associate the soc with good feelings. Make it very very clear that there's no real winner and loser, and that this isn't measured to get into the soc (since anyone would naturally assume that it is). 
+It's important to alleviate anxiety and make people associate the soc with good feelings. **Make it very very clear that there's no real winner and loser, and that this isn't measured to get into the soc** (since anyone would naturally assume that it is). 
 
 ![enter image description here](https://i.ibb.co/Ld6K8wb5/Screenshot-2025-09-06-165112.png)
 
@@ -2150,7 +2150,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNjM4NjM5NzE4LC01MTMzNzYyODIsLTM0Mzc2NT
+c3RvcnkiOlstNzM4NjQ4OTczLC01MTMzNzYyODIsLTM0Mzc2NT
 g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1LC04
 MzI0MzI3NSwxNTg0MDg3NTAxLDIxMzYxMjI3ODYsMTA4NDMwNT
 Y0MiwtMjA1MDM5MjExMywtMTYwNzE1MzM1MSwtMTQ2MzcyNTU5
