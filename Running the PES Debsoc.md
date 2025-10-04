@@ -620,8 +620,8 @@ I talk more about initial sessions later in [Session Concepts](#session-concepts
 ---
 
 A slight detour:
-I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate, and scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
-I was in awe. For a moment my eyes rolled back into my head, and I saw the far-sighted vision Yash possessed. I saw that it was worthy to bend the rules sometimes, to keep the people winning in the infinite game.
+I once judged a debate tournament for schoolkids, and my chair was Yash Alva from RCL. The PM, who was a 9th grader, spoke for 4 minutes, and then her teammate kept whispering to her to help her with her speech. I was indignant that Yash wasn't doing anything and believed he was a dumb chair. However, after the debate, he explained to me, "These are schoolkids. The PM was already nervous, and if I shut her teammate up, she would feel more nervous and alone. I want to keep these schoolkids interested in debate. Scolding them would just traumatize them. The important thing is to keep them moving forward in debate." 
+I was in awe. For a moment my eyes rolled back into my head, and I tapped into the far-sighted vision Yash possessed. I saw that it was worth bending the rules sometimes to keep people winning in the infinite game.
 
 Some places I find worthy of bending the rules are:
 
@@ -2151,7 +2151,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstODM1OTk4NzQ5LC0xNjA3MTUzMzUxLC0xNDYzNz
+c3RvcnkiOlsxOTY5MjgwNzQ4LC0xNjA3MTUzMzUxLC0xNDYzNz
 I1NTkxLDUwMjg2MTMyMyw1Njg0ODAzOTQsMTc4MjkxODYzLDE4
 NTc3MTgyNzksLTEwOTQ5NTU1MzEsLTYyMjcxNzQxOSwtMTI0OT
 U4OTE2MSwtOTAxMzQ4MjczLC01MDEzNzYyNTgsLTE1ODA5ODQ2
