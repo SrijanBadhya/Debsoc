@@ -9,7 +9,7 @@
 Welcome, valued Debsoc core member.
 
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions replicable.
-As seniors, it's our responsibility to make you, our juniors, not feel lost about running the club. This document is extensive because I want to make you aware of every incident that can pop up during recruitments and debate sessions.
+As seniors, it's our responsibility to ensure you, our juniors, don't feel lost about running the club. This document is extensive because I want to make you aware of every incident that can pop up during recruitments and debate sessions.
 
 A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
 
@@ -2159,10 +2159,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjU2NjMxNjMsNjUzNTQxODIxLDk3NjQwNjUxNC
-wtNTUzODYxNzY5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkx
-MTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMz
-U0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQy
-MjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOT
-QsLTUxMzM3NjI4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOF19
+c3RvcnkiOlsxNDk2NTQwNTM2LC0yNTY2MzE2Myw2NTM1NDE4Mj
+EsOTc2NDA2NTE0LC01NTM4NjE3NjksNDk2MDQzMTUzLDkwMzUz
+MDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LD
+YxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1
+NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOT
+YyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3NjU4ODNdfQ==
+
 -->
