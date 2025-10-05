@@ -561,9 +561,11 @@ Verdicts can be straight up demotivating especially at a super early stage. It's
 After round 1 and round 2, rather than saying, "You all have progressed to the next round", we released the list (of all names), and said that these people progressed. 
 The massive issue here is that people who are missed due to administrative errors assume they were filtered out. As a result, they don't reach out for clarification, unaware that we intended to let everyone through. You can try awkward stuff like "DM us if your name is not on the list", but it's complicated.
 
-When I allowed POIs, even after stating the rules thrice, people still managed to break POI rules in increasingly creative and chaotic ways. **POIs definitely are not worth the hassle in round 1 and round 2.**
+When I allowed POIs, even after stating the rules thrice, people still managed to break POI rules in increasingly creative and chaotic ways. **POIs are not worth the hassle in round 1 and round 2.**
 
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
+
+The drawback of no POIs is that it mis
 
 ---
 We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their overall experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also because it allows the Debsoc to change course if something is shown to be a hindrance.
@@ -2155,11 +2157,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNT
-MsOTAzNTMwMDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgx
-MzQ5OTgsNjE4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC
-03NzM2MzU3MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2
-NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NT
-g4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MSwxODcxNjUwNzY1XX0=
+c3RvcnkiOlsxMTc3MDcxODc5LDk3NjQwNjUxNCwtNTUzODYxNz
+Y5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0
+NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC
+04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQz
+MzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3Nj
+I4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxXX0=
 
 -->
