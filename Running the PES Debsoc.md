@@ -35,7 +35,7 @@ There already exists a globally famous document, [How to Start a Debate Society]
 This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session on closing (I'm sorry Hadar), ==so here's the format of the content:==
 In true debate fashion, this book will have my claims about what I think a good action to follow is, and what to keep in mind for decisions. 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
-- If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
+- If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should proceed with your improved approach. 
 
 It does take effort to keep these policies implemented, and I want to be able to convince you that it is worth the effort to implement something rather than believing, "What happens naturally is enough".
 I don't want mistakes from the past to repeat because I wasn't able to empower my juniors with functional systems.
@@ -2159,11 +2159,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNTIwMTYwMzk5LC0yNTY2MzE2Myw2NTM1NDE4Mj
-EsOTc2NDA2NTE0LC01NTM4NjE3NjksNDk2MDQzMTUzLDkwMzUz
-MDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LD
-YxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1
-NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOT
-YyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3NjU4ODNdfQ==
-
+c3RvcnkiOls4NDg3NzA3ODEsLTI1NjYzMTYzLDY1MzU0MTgyMS
+w5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMw
+MDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNj
+E4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3
+MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5Nj
+IsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4M119
 -->
