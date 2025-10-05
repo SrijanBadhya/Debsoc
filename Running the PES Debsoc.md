@@ -466,7 +466,7 @@ The drastic drop of people across recruitments and even beyond is unavoidable an
 ![](https://i.ibb.co/2YNsSwzS/shooting-star-in-recruitments-inclusivity.jpg)
 
 You will feel frustrated about all the time and effort you put for these people, but remember:
-- **Even if people were temporary, they still contributed to the activity of the club for the time that they were there, and that's enough.**
+- **Even if these people were temporary, they still contributed to the activity of the club while they were here, and that's enough.**
 - You did your part, you provided value to them, and your effort contributed towards the vision of the Debsoc.
 - Every bit that you did, made you slightly better at debating, slightly better at organizing, and more knowledgeable of how people management works.
 
@@ -2159,11 +2159,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstNDY3MDExMjQwLDY1MzU0MTgyMSw5NzY0MDY1MT
-QsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMwMDgsMTIxMDM5
-MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MSwtMT
-M1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0
-MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mz
-k0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MThdfQ==
-
+c3RvcnkiOls4Njk2NDk0MTQsNjUzNTQxODIxLDk3NjQwNjUxNC
+wtNTUzODYxNzY5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkx
+MTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMz
+U0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQy
+MjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOT
+QsLTUxMzM3NjI4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOF19
 -->
