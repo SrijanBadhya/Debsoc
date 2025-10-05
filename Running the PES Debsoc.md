@@ -285,7 +285,7 @@ Having a round 1 and a round 2 before this month-long recruitment is still advan
 ---
 A few issues with the month-long recruitment:
 
-- You need to reserve a block of a month for recruitments. In 2024 there were 3 weeks of the semester left in November, and hence round 3 got pushed to 2025.
+- You need to reserve a block of a month for recruitments. In 2024 there were three weeks of the semester left in November, and hence round 3 got pushed to 2025.
 - First year B.Tech and other branches have different exam schedules, and people will always be super anxious about not being able to come on the week of exams and the week before (oh the sweet summer first-year children).
 - + Another issue this leads to is that if all active seniors are from B. Tech, then there's nobody to conduct sessions when B. Tech students have exams.
 - Some people feel like a month is too much of a commitment for a club they might not get selected for anyway. (To solve this, you may have to try to reassure people that they are very likely to be taken in.)
@@ -322,7 +322,7 @@ Reasons for being inclusive regardless of 'skill' are:
 - The point of the club is not just to have good debaters, but to help everyone who is interested pursue this interest and _make_ them good debaters. 
 - - Who these individuals are today is immaterial; they're just freshers. It's about who they can become. What matters is how the soc and the person will be able to contribute towards the growth of each other. 
 - Skilled debaters aren't our only assets. Our assets are people who participate and contribute to the activity of the club. People who enable debates, who fill APs and BPs simply by being there. Every person is precious. Without people there is no debate. Without people there is no soc.
-- Debate is a weird activity where love can grow over time. Everyone who is lukewarm at first has the potential to grow love for it later. (I took 3 years to enjoy debating.)
+- Debate is a weird activity where love can grow over time. Everyone who is lukewarm at first has the potential to grow love for it later. (I took three years to enjoy debating.)
 - - A good debater can always end up quitting. A bad debater can always have a growth arc. In the face of this uncertainty, the best metric available is their consistency, their dedication.
 
 
@@ -348,7 +348,7 @@ Absolutely do not set a percentage of applicants as the bar, for example, "The t
 Similarly, it's better to use a direct metric of interest (like the number of sessions attended) and set the threshold based on that. Choose people for being interested, not for being more interested than others.
 
 
-We usually conduct round 1 across 3 days so that people can come on any day according to their flexibility. Round 2 is also usually similarly over 3 days. 
+We usually conduct round 1 across three days so that people can come on any day according to their flexibility. Round 2 is also usually similarly over three days. 
 
 **How are there always people who miss out?**
 
@@ -409,7 +409,7 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 ---
 **Continuing the response to criticism: (point [2.](#addressing-the-criticism)) (people will feel they can get away with stuff)**
 - You won't look like bad planners since the reason for the extension is not you, but actually them, the recruits who didn't make it to the regular round 1. 
-- Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige **hampers your 3 main goals:** growth, community, and enjoyment of the people, since you have fewer people to provide value to.
+- Prestige doesn't have tangible value. The Debsoc doesn't need to be a prestigious club. It needs to be a good club which people have positive thoughts about. Being less inclusive because you care about prestige **hampers your three main goals:** growth, community, and enjoyment of the people, since you have fewer people to provide value to.
 - It's way easier for people to bitch, "This club was so unfair and I couldn't get in," than it is for them to bitch, "This club was so easy and they took nearly everybody in." The image of the club won't be ruined if you aren't strict. It might actually be better.
 - In feedback forms, **people have been very appreciative of our inclusivity and flexibility which makes them feel cared for.**
 <br>
@@ -423,7 +423,7 @@ If it still looks speculative that you can find valuable people in group 2, I'll
 - + However, with a tournament, reimbursed slots are limited because PES management applies pressure to reduce the number of people, and it's hard to push back against this. It's very valid to give reimbursement only to the people who have contributed the most to the soc; the people who have shown up the most for sessions. More on this in [Tournaments](#tournaments).
 - + The argument of, "people will get accustomed to a low bar so they'll leave the soc if they see a sudden high bar for tournaments," isn't something really caused by the low bar of entry to the soc.
 
-A major problem of the soc is the lack of members who actively debate 3 months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments', **only has a very short-term effect in how much they show up for sessions.** 
+A major problem of the soc is the lack of members who actively debate three months after recruitments, but having more selective recruitments won't solve the problem. People don't get 'seriousness' by knowing that the club they entered had strict filtration. Any ego boost from having made it through the challenging recruitments', **only has a very short-term effect in how much they show up for sessions.** 
 And nobody ever thinks this:
 "If we had taken in fewer people, we would have had more active people today". 
 
@@ -458,7 +458,7 @@ So, how do you carry out breadth-wise inclusivity?
 - One issue is that extending recruitments like this can cause transparency issues, like when you try to pressure people to come saying, "Last day guys!", but still proceed to accommodate people who need it after that. 
 - + The way we sneakily side-stepped this last year was by saying, "Thursday is the last day for official recruitments", and then on Friday saying, "anyone who still wants to get recruited needs to dm one of the club heads," and the people who dmed were told that they can get recruited under the table.
 - You can choose the stance on transparency that fits you the best.
-- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because the extended round 1 isn't over is dumb. The bulk of round 1s should be finished in a maximum of 3 days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
+- Ensure that this doesn't cause a delay in recruitments. Starting round 2 late because the extended round 1 isn't over is dumb. The bulk of round 1s should be finished in a maximum of three days. The delay can be avoided if you conduct extra round 1s for the few odd people while round 2 goes on. Especially since round 1 doesn't take up much time, it's easy to fit in people while another group of people prep.
 
 ---
 The drastic drop of people across recruitments and even beyond is unavoidable and happens every year. Don't beat yourself up over it, it's normal. 
@@ -2159,11 +2159,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDAwOTUzNzg2LC0yNTY2MzE2Myw2NTM1NDE4Mj
-EsOTc2NDA2NTE0LC01NTM4NjE3NjksNDk2MDQzMTUzLDkwMzUz
-MDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LD
-YxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1
-NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOT
-YyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3NjU4ODNdfQ==
-
+c3RvcnkiOls3OTE2NjY4OTUsLTI1NjYzMTYzLDY1MzU0MTgyMS
+w5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMw
+MDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNj
+E4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3
+MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5Nj
+IsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4M119
 -->
