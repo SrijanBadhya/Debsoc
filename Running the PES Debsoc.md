@@ -1209,7 +1209,7 @@ c) Another issue is the complications of adjing. This was initially a section un
 The Debsoc controversy I am the most infamous for is my history with Adjudication. This was before CUPD 2023, my first tournament. My seniors put up a poll for speakers and adjudicators, and naturally everyone from my batch including me voted for speaking. 
 
 2 weeks before the tournament, there were 4 of us who were still unsorted into the slots we had paid for. Our seniors were getting increasingly frustrated with us telling us, "How have you not decided your roles amongst yourselves yet?" As we freshers had never been to a tournament before, I expected our seniors to assign roles for us, but they seemed to avoid that responsibility. (I believe this is another underlying issue with the way we approach tournaments, giving 'freedom' without it really being freedom, and just leaving freshers clueless since there's no authority to back up a decision.)
-The 4 of us continued to remain silent about which 3 would form a team and who would adj.
+The four of us continued to remain silent about which three would form a team and who would adj.
 
 In an attempt to reach a decision, I texted, "Who wants to adj?" and nobody responded. Anyway my seniors saw it and the next debate session I was ripped apart. I said that since adjing was undesirable for everyone, they should have a fair system to select the adj, possibly spinning a wheel. I got told off for dissing on adjing and getting defensive (which is valid, I was), and was told that I'd be the adj (who saw this coming right). 
 
@@ -1247,7 +1247,7 @@ _One initial solution I had thought of a year ago, was to make people adj once e
 - _This number was chosen because contingents usually can afford twice (BP) or thrice (AP) the number of speakers than adjes (when N=N), and mathematically the ratios match when people switch roles across tournaments._
 - _Freshers will get to speak in their first two tournaments, and this will be enough for them to not quit even if their adjing experience sucked._ 
 - _This also distributes adjes evenly among multiple tournaments._
-- However, later I realized this was bad for the [narrative of adjing](#the-adj-narrative), and hence it was a bad idea. (The only way to still execute this is to equally say that _speaking_ twice in 3 tourneys is also 'compulsory', but this is too delicate and weird, and one slip-up ruins the narrative of adjing).
+- However, later I realized this was bad for the [narrative of adjing](#the-adj-narrative), and hence it was a bad idea. (The only way to still execute this is to equally say that _speaking_ twice in three tourneys is also 'compulsory', but this is too delicate and weird, and one slip-up ruins the narrative of adjing).
 6. Freshers can't really adj during round 1 round 2 recruitments because they don't know what to judge to decide a winner, or how to analyze clashes. The thrill of speaking is way more than the thrill of listening, so to bait them into the Debsoc they initially are made to speak.
 7. How do you get them to switch to adjing if they have gotten used to speaking?
 
@@ -1348,7 +1348,7 @@ _However, I wouldn't recommend getting the fresher to give an OA to everyone bec
 - _However, if you think you can interrupt their OA and catch them on every mistake or misleading piece of feedback, and prevent harm to the other fresher speakers, then you can go for public OAs._ 
 - + _However, interrupting is also annoying. To avoid this, you might decide make a mental note of their mistakes and tell them later. This flaw in this solution is that you're also quite likely to forget your mental notes._
 
-(That's it for these 3 confusing lines of a problem to a solution to a problem to a solution to a problem to a solution to a problem to a solution.)
+(That's it for these three confusing lines of a problem to a solution to a problem to a solution to a problem to a solution to a problem to a solution.)
 
 ---
 
@@ -1535,9 +1535,9 @@ PES WiFi sometimes randomly blocks and unblocks discord. Sometimes even when dis
 The major accessible spots at PES with Wi-fi are the GJB library, the GJB cafeteria, and the 13th floor at PES. (When our club head was the CCBD head, we once sat in the CCBD lab and debated.)
 The places you can debate in the GJB library are the small brainstorming rooms, but unfortunately only one team can fit in one of these rooms at a time (because otherwise two teams may talk over each other). Since you can't get together as a contingent, I wouldn't recommend this. Moreover, this place isn't open on Sundays.
 
-The GJB cafeteria has like 3 power sockets. I'd recommend this place only as a last resort. It's usually deserted on Saturdays and Sundays, so you can enter and turn the lights on yourself.  
+The GJB cafeteria has like three power sockets. I'd recommend this place only as a last resort. It's usually deserted on Saturdays and Sundays, so you can enter and turn the lights on yourself.  
 
-What I find to be the best place is the 13th floor of B block (heavy favoritism tbh). Debating in the indoors section usually isn't feasible because either there are people you'll disturb, or it's locked. There are 3 sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
+What I find to be the best place is the 13th floor of B block (heavy favoritism tbh). Debating in the indoors section usually isn't feasible because either there are people you'll disturb, or it's locked. There are three sections outdoors; the cafeteria, the place next to the cafeteria on the other side of the throne, and a spot with wide long tables on the opposite side of 13th floor (next to the faculty zone, on the other side of the silent room). 
 These are fairly empty on Saturday and Sunday. AND ALL OF THEM HAVE MULTIPLE POWER SOCKETS!!
 
 ---
@@ -1650,7 +1650,7 @@ Every year there are people initially anxious about speaking in front of strange
 ---
 #### What are the benefits of informal recruitments?
 - It lessens the load on the swarm of recruitments the next year.
-- **It really helps with the activity of the soc in the even sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At this point the atmosphere really gets subdued if there are only 3 people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire.) With informal recruits, you get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
+- **It really helps with the activity of the soc in the even sem.** Even if people haven't entirely dropped out of the club yet, hardly 10% of the people show up to 1 session a week by the time the even semester rolls around. At this point the atmosphere really gets subdued if there are only three people at an average session. **At a time like this, fresh blood is crucial to rejuvenate the soc.** (Yes the Debsoc is a big vampire.) With informal recruits, you get to do full APs again, you get to keep activity going and make the people on Whatsapp feel like they're missing out, and you prevent the full death of the club. 
 
 ![enter image description here](https://i.ibb.co/RGVgZkcN/Whats-App-Image-2025-09-10-at-00-11-01.jpg)
 
@@ -1788,8 +1788,8 @@ Allowing people to join sessions late does mitigate this, but this is really har
 <br>
 Okay I just learned today that Law is a category of its own, which follows the 8 am to 4 pm timetable every semester, and hence it defects between the minority and majority.
 
-2. **The weekly timing which gives different people different combinations of half days.** This further segregates the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like 3 days out of these to hold debates weekly. This calculation involves somehow balancing 'maximization of people' along with, 'making sure every recruit has at least one day a week they can debate.'
-The benefit of having a fixed 3 days per week is that it allows people to assimilate Debsoc into their routine, which leads to the benefits mentioned earlier.
+2. **The weekly timing which gives different people different combinations of half days.** This further segregates the available recruits into different days. What we usually do is take a poll at the start of the semester asking for people to announce their half days, and then choose like three days out of these to hold debates weekly. This calculation involves somehow balancing 'maximization of people' along with, 'making sure every recruit has at least one day a week they can debate.'
+The benefit of having fixed three days per week is that it allows people to assimilate Debsoc into their routine, which leads to the benefits mentioned earlier.
 
 3. **The alternate exam timing.** A significant portion of the semester is consumed by exams, and different branches have them on different weeks (seniors usually have different dates from juniors). Since all seniors are usually occupied together, juniors have no one to conduct any debate activity that week. When juniors have exams, the available seniors now sit idle. This is often severely overlooked in plan making. If you want to conduct an event like a matter session or a Cubbon session, try to conduct it as soon as possible, even if not all factors seem favorable to you. I'd advise against holding out hope for a better opportunity, as the chances of one appearing are often slimmer than they seem. The window of opportunity is very limited and precious.
 ~~At least thank god you're not living in 2022-2023 where everyone had 5 ISAs, one ISA every 3 weeks, 2 different weeks for seniors and juniors, so there were only 5 weeks in a sem to debate.~~
@@ -2159,11 +2159,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjAwODg4Njk1MiwtMjU2NjMxNjMsNjUzNTQxOD
-IxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0MzE1Myw5MDM1
-MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OC
-w2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYz
-NTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MD
-k2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1ODgzXX0=
-
+c3RvcnkiOls5NTI4OTM3NjksLTI1NjYzMTYzLDY1MzU0MTgyMS
+w5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMw
+MDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNj
+E4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3
+MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5Nj
+IsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4M119
 -->
