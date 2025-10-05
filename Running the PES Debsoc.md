@@ -678,7 +678,7 @@ This section is packed with lessons we've learned the hard way. A lot of these i
 
 Round 1 has a massive load which needs to be distributed evenly. 
 **Using a 'choose your slot' system can easily lead to chaos due to how fragile this system is.** 
-(I'm talking about having 6 slots everyday of 30 minutes each, and asking people to choose one of the 18 slots of the 3 days.)
+(I'm talking about having 6 slots everyday of 30 minutes each, and asking people to choose one of the 18 slots of the three days.)
 
 If slots are rigid and not adaptive to changes, people who expected to start their slot earlier will wait unnecessarily. (If you've had a Capstone review you know what I'm talking about.)
 Recruitments are inherently chaotic due to factors such as:
@@ -760,7 +760,7 @@ Last year we had a system of code words, assigned by the chair, which were uniqu
 
 
 The most effective step to minimize errors, which should be obvious, is to upload the data to the central database ASAP. The longer moderators delay, the higher chance that they either forget to do it or forget where they've written the data, and the harder it is to track recruits by asking questions to other recruits.
-Moderators needed to be given 3 reminders every day, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books (which made me wonder if a 4th reminder would lead to more people remembering to fill names).
+Moderators needed to be given three reminders every day, and each time I gave a reminder I could see people filling the form with fresh names they had written in their books (which made me wonder if a 4th reminder would lead to more people remembering to fill names).
 
 One time, a friend of mine wrote names in a notebook but left the notebook in class. We panicked for 2 days over this until he found his notebook in another classmate's bag. 
 
@@ -797,7 +797,7 @@ Starting case prep early like this is useful **even when you expect a moderator 
 
 The core concept of DAA (Design and Analysis of Algorithms), which people who have taken the course may have learned, is that when the amount of data involved increases, manual brute force methods become cumbersome (and also have a higher chance of error), and a smooth automated system would work better.
 
-I think this website discovered in late 2024 is ABSOLUTE GOLD, and it made the round 3 recruitment tracking process much smoother than it had been in the previous 3 years I had seen.
+I think this website discovered in late 2024 is ABSOLUTE GOLD, and it made the round 3 recruitment tracking process much smoother than it had been in the previous three years I had seen.
 
 https://myattendancetracker.com
 
@@ -930,7 +930,7 @@ The obvious solutions to this are:
  + People who come early deserve to get the extra prep time. Maybe this will incentivize latecomers to also put extra effort.
  
  ![enter image description here](https://i.ibb.co/vxmXxr6y/Screenshot-2025-09-06-164214.png)
- (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and hence cut the idle time of the 3 people who have already shown up). 
+ (I know the responses say that the current system is perfect, but I think there's no big harm to start even earlier and hence cut the idle time of the three people who have already shown up). 
  
  + Prep time isn't as valuable to whips anyway, since their content majorly depends on what is said during the debate. People who come just before the debate is supposed to start, can be whips if slots are open.
  + You can choose to either shorten the total prep time, or have the initial prep time as a bonus, depending on how late it's already gotten.
@@ -1053,7 +1053,7 @@ There isn't much 'risk'.
 - Even if the motion ends up in the hands of PES management, they wouldn't care enough to give us serious consequences. Our usual feminism motions about sex positivity and regretting the stigmatization of hookup culture are riskier, but we're desensitized to them.
 ---
 #### Turncoat
-When there have been 2 or 3 people showing up for a session (like it often happens in the odd sems before recruitments), we played Turncoat with each other. The speaker is given a prompt, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor and Bharath's experience conducting PESDT.
+When there have been two or three people showing up for a session (like it often happens in the odd sems before recruitments), we played Turncoat with each other. The speaker is given a prompt, and every time the prompter claps their hands, the speaker has to switch sides. Sometimes we have fun prompts too like someone's feelings about their microbiology professor and Bharath's experience conducting PESDT.
 It is still well aligned in the direction of sharpening your debate skills, and is super fun because of how quick-witted you have to be while changing your flow.
 
 We used this to market the Debsoc during the club showcase at Aarohi too, back in 2024. We wrote the topics on chits and placed them in a bowl for freshers to pick and speak from.
@@ -1061,7 +1061,7 @@ We used this to market the Debsoc during the club showcase at Aarohi too, back i
 ---
 #### Alley Debating
 I spoke to a few debate prodigies from Aditi Mallya (the two girls who were runners up at PESDT in 2024), and they told me about Alley debating. We've implemented it twice in Debsoc sessions.
-The way it works is that everyone goes to the podium and stands in 2 lines of 3 people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
+The way it works is that everyone goes to the podium and stands in two lines of three people each. It works like an AP with no prep time, no POIs, and 1-minute speeches per person. We would pass the phone which held the timer like a baton from speaker to speaker. Every speech had to be some sort of an extension like BP.
 It was fun cause of how goofy it was, and very time efficient too.
 
 ---
@@ -1126,7 +1126,7 @@ I think this is slightly exaggerated, because:
 - As long as people have access to the WUDC BP manual, you'll be mostly accurate enough. 
 - Even if you debate the same people over and over, it's rare for this to be the cause of improvement plateauing. There's so much you can improve even with the same people, like how well you characterize, mechanize, analyze, impact. Other people's debating _styles_ have less impact on your own skill improvement imo.
 - Before you reach anything close to a plateau of debating the same people, new juniors will have appeared.
-- Even if you're clueless and just debate over and over, there are still things to be learned, public speaking to be improved, and fun to be had, which meets the 3 goals of the club.
+- Even if you're clueless and just debate over and over, there are still things to be learned, public speaking to be improved, and fun to be had, which meets the three goals of the club.
 4. Tournaments _do_ provide a lot of the benefits which cross mocks try to provide but fail to.
 5. To be fair, speakers in cross mocks are usually more skilled than debaters at PES, so judging a high-quality cross mock or speaking in one (if you miraculously find an adj) can be beneficial to see how experts do it. 
 - This can still be gained by watching WUDC videos online, but to be fair there's more procrastination to watch a WUDC video than a "spar at 9pm today". (Side note, a great way to learn debate is by doing speeches and then seeing what the people in the round spoke. These directly give you access to great speakers instead of being limited to the weak speakers at PES LOL. [Here](https://docs.google.com/document/d/1YhK_1sxcSrt2CZhD_U4Y4FLEPGus7yu2td7NFLd5ze4/edit?tab=t.0) is a document with a bunch of recorded rounds of Majors.)
@@ -2159,10 +2159,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls3OTE2NjY4OTUsLTI1NjYzMTYzLDY1MzU0MTgyMS
-w5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMw
-MDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNj
-E4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3
-MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5Nj
-IsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4M119
+c3RvcnkiOlstMjAwODg4Njk1MiwtMjU2NjMxNjMsNjUzNTQxOD
+IxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0MzE1Myw5MDM1
+MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OC
+w2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYz
+NTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MD
+k2Miw4NjY1NjYzOTQsLTUxMzM3NjI4MiwtMzQzNzY1ODgzXX0=
+
 -->
