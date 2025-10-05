@@ -567,6 +567,8 @@ When I allowed POIs, even after stating the rules thrice, people still managed t
 
 The drawback of no POIs is that it misrepresents debate to be a little boring. A lot of people join debate expecting it to be dynamic and engaging like Phoenix Wright: Ace Attorney or what they see on TV. Having no POIs might cause people to drop out by round 2 when they see that debate has no back-and-forth. POIs add a lot of fun to debates, and if people are aware of this, then they might stick around.
 
+Maybe you can balance this by limiting POIs to a max of 2 per speech, so even if people break the rules, there's a limit to how often they'll interrupt the speaker's flow.
+
 ---
 We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their overall experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also because it allows the Debsoc to change course if something is shown to be a hindrance.
 
@@ -2157,11 +2159,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjE0MjY0MDk0Nyw5NzY0MDY1MTQsLTU1Mzg2MT
-c2OSw0OTYwNDMxNTMsOTAzNTMwMDgsMTIxMDM5MTE3NSwxMzk4
-NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MSwtMTM1NDgwNTE2OC
-wtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0MjIyMDUsLTE0
-MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mzk0LC01MTMzNz
-YyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MTgsLTUxMDI4NjQ3MV19
+c3RvcnkiOlstMjU3NDgxNjg3LDk3NjQwNjUxNCwtNTUzODYxNz
+Y5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0
+NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC
+04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQz
+MzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3Nj
+I4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxXX0=
 
 -->
