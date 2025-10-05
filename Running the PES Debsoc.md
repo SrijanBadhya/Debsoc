@@ -774,7 +774,7 @@ I also messed up multiple times at the end of round 3 by adding the wrong people
 
 **The basement seminar hall is difficult for first-year students to find**, especially since they expect it to be right under the ground floor seminar hall. Every year we have a dozen people calling us up or texting for help (even though the seminar hall was the room with the most activity). Clear instructions with pictures can go a long way. What we did was tell people to come to the basement and then we picked them up from there.
 
-One thing that we overlook is the fact that other campuses named EC and HN exist xD. When you send a PESU notification, **specify that this is for the RR campus**, to avoid an awkward conversation on the group later where you shoo people away.
+One thing we often overlook is the fact that other campuses, namely EC and HN, exist xD. When you send a PESU notification, **specify that this is for the RR campus**, to avoid an awkward conversation on the group later where you shoo people away.
 
 This one time I was texting a debater who was one week into round 3, during an online session. He told me that the Debsoc was doing a great job and that we reminded him of his Oxford Union days. My eyebrows shot up and I asked him a few questions. I was alarmed to find out he had completed a post graduate degree and was currently employed at Ahmedabad. He just liked debate and was here.
 Although this can't be avoided, and it _is_ important to make the link as accessible as possible, weird stuff like this _can_ happen. It's low impact and can be fixed easily, but it's still something to be prepared for lol.
@@ -2159,11 +2159,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMjU3NDgxNjg3LDk3NjQwNjUxNCwtNTUzODYxNz
-Y5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0
-NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC
-04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQz
-MzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3Nj
-I4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOCwtNTEwMjg2NDcxXX0=
+c3RvcnkiOls2NTM1NDE4MjEsOTc2NDA2NTE0LC01NTM4NjE3Nj
+ksNDk2MDQzMTUzLDkwMzUzMDA4LDEyMTAzOTExNzUsMTM5ODQ1
+MDA3OCwtNDE4MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUxNjgsLT
+gxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC0xNDMz
+NzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NCwtNTEzMzc2Mj
+gyLC0zNDM3NjU4ODMsMjc5NTI5ODE4LC01MTAyODY0NzFdfQ==
 
 -->
