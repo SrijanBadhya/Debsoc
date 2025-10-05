@@ -181,7 +181,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
   + **Debating should not feel like studying. People shouldn't feel guilty for not putting in the work. People shouldn't be so turned off by the concept of having to output results that they stop enjoying the activity itself.**
 
 _Some people believe that even having 3 members is enough as long as they're constantly debating and grinding. (The Debsoc did reach this point in 2020 I believe.)_
-Some of us (including me) believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
+Some of us, myself included, believe that being more chill and having more people for fun, is worth it, even if it slows our improvement in debating. 
 
 - A big reason people engage with the debate club is for community, for their friends, for fun with them, so I believe that having enjoyable chill time goes a long way in getting people to stay, and also motivates them to debate more. 
 - So this isn't as mutually exclusive as it seems. I believe that sacrificing chillness for grinding is worse than sacrificing grinding for chillness, because the chillness and fun motivates people to come to debates and grow anyway. 
@@ -1502,7 +1502,7 @@ Congratulating your friends who broke is a great display of contingent spirit. I
 The people who haven't broken, both the people who narrowly missed out and the people who aren't even close, feel a tinge of sadness amid this celebration. It's important for a senior to be aware and to tend to these people by providing reassurance and comfort. People feel really low after tourneys especially since in their head, the score next to their team is the most objective measurement of their skill. It sucks to have worked so hard but still be graded terribly.
 
 ---
-A few people including me believe glorifying the speaker score is useless and does more harm than good. As I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality, fluctuate to the point where they're unreliable. The main 'insight' people derive from a speaker score is who the superior teammate was and who the inferior teammate was. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but speaker scores feel especially harsh because the blame is on you. 
+A few people, myself included, believe glorifying the speaker score is useless and does more harm than good. As I've said in [Feedback](#feedback), speaker scores are something people believe to be an accurate measurement, but in reality, fluctuate to the point where they're unreliable. The main 'insight' people derive from a speaker score is who the superior teammate was and who the inferior teammate was. Regular scores can be blamed on the 'team's case' or the 'team's synergy', but speaker scores feel especially harsh because the blame is on you. 
 
 
 Glorifying one person's speaker score for being the best speaker is kinda an insult to their teammate. 
@@ -2159,10 +2159,11 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls4NDg3NzA3ODEsLTI1NjYzMTYzLDY1MzU0MTgyMS
-w5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMw
-MDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNj
-E4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3
-MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5Nj
-IsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4M119
+c3RvcnkiOlsyMDAwOTUzNzg2LC0yNTY2MzE2Myw2NTM1NDE4Mj
+EsOTc2NDA2NTE0LC01NTM4NjE3NjksNDk2MDQzMTUzLDkwMzUz
+MDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LD
+YxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1
+NzEzLC0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOT
+YyLDg2NjU2NjM5NCwtNTEzMzc2MjgyLC0zNDM3NjU4ODNdfQ==
+
 -->
