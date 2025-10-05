@@ -11,7 +11,7 @@ Welcome, valued Debsoc core member.
 The purpose of this document is to pass on knowledge, to prevent future batches from repeating mistakes, and to make tried-and-tested solutions replicable.
 As seniors, it's our responsibility to ensure you, our juniors, don't feel lost about running the club. This document is extensive because I want to make you aware of every incident that can pop up during recruitments and debate sessions.
 
-A lot of these solutions may seem like common knowledge, but I believe it's important that these are pondered and have motivated effort behind their implementation.
+Many of these solutions may seem like common knowledge, but I believe it's important that they are pondered and have motivated effort behind their implementation.
 
 - As every coder knows, replacing an existing solution with a different solution can lead to other problems popping up.
 - So, every solution I talk about will have reasoning, what it's meant to solve, and its flaws that still persist. Being aware of this reasoning will help you choose the system that's right for you and make more thoughtful changes.
@@ -32,7 +32,7 @@ There already exists a globally famous document, [How to Start a Debate Society]
 ---
 <br>
 
-This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session on closing (I'm sorry Hadar), ==so this will be the format of the content:==
+This document is long. I don't want to make you give up the way I gave up halfway through Hadar's matter session on closing (I'm sorry Hadar), ==so here's the format of the content:==
 In true debate fashion, this book will have my claims about what I think a good action to follow is, and what to keep in mind for decisions. 
 - If you believe in the claim and decide to implement it, you can skip the reasons and move on. **(try to skip as many bullet points as you can so that you don't lose the will to read this document)**
 - If you disagree instead, I implore you to read the reasoning behind the claim. If you're able to take down these reasons with a better claim, a better system, or outweigh them, then you should go ahead with this better claim. 
@@ -2159,7 +2159,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxNDk2NTQwNTM2LC0yNTY2MzE2Myw2NTM1NDE4Mj
+c3RvcnkiOlstNTIwMTYwMzk5LC0yNTY2MzE2Myw2NTM1NDE4Mj
 EsOTc2NDA2NTE0LC01NTM4NjE3NjksNDk2MDQzMTUzLDkwMzUz
 MDA4LDEyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LD
 YxODA5NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1
