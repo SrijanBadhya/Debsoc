@@ -565,7 +565,7 @@ When I allowed POIs, even after stating the rules thrice, people still managed t
 
 ![enter image description here](https://i.imgflip.com/a734qr.jpg)
 
-The drawback of no POIs is that it mis
+The drawback of no POIs is that it misrepresents debate as a little boring. A lot of people join debate expecting it to be dynamic and engaging like Phoenix Wright: Ace Attorney, or what they see on TV. Having no POIs might cause people to drop out by round 2 when they see that debate 
 
 ---
 We also made everyone fill feedback forms where they talked about their moderator, their teammates, and their overall experience. This was very interesting to read, but often incomplete because a lot of people didn't remember names. Feedback is cool because recruits feel like they affect the way the soc is run, and also because it allows the Debsoc to change course if something is shown to be a hindrance.
@@ -2157,7 +2157,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxMTc3MDcxODc5LDk3NjQwNjUxNCwtNTUzODYxNz
+c3RvcnkiOlsyMDM2NTUyNjA1LDk3NjQwNjUxNCwtNTUzODYxNz
 Y5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0
 NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC
 04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQz
