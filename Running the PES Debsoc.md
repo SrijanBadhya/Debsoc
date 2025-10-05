@@ -844,7 +844,7 @@ The motion weirdly has the phrase, "Would NOT", which is weird for gov, but this
 
 I heavily encouraged shitting on me personally, saying that it wouldn't affect their chances of getting in, and this led to the debates being incredibly entertaining and super fun for everyone involved (to the point where we were rolling on the floor laughing.) This motion feels incredibly fitting for the last day of recruitments.
 
-Video recording is optional. While itt makes for great lore, it decreases the chances of juniors being unhinged.
+Video recording is optional. While itt makes for great lore, it decreases the chances of juniors being completely unhinged.
 
 It feels incredibly fulfilling because the extent to which the juniors shit on you shows how comfortable they've gotten with you.
 
@@ -2159,11 +2159,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMzY4MDkyODEzLDY1MzU0MTgyMSw5NzY0MDY1MT
-QsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMwMDgsMTIxMDM5
-MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNjE4MDk2MSwtMT
-M1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3MTMsLTE3Njc0
-MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5NjIsODY2NTY2Mz
-k0LC01MTMzNzYyODIsLTM0Mzc2NTg4MywyNzk1Mjk4MThdfQ==
-
+c3RvcnkiOlstMjU2NjMxNjMsNjUzNTQxODIxLDk3NjQwNjUxNC
+wtNTUzODYxNzY5LDQ5NjA0MzE1Myw5MDM1MzAwOCwxMjEwMzkx
+MTc1LDEzOTg0NTAwNzgsLTQxODEzNDk5OCw2MTgwOTYxLC0xMz
+U0ODA1MTY4LC04MTExOTU0NTIsLTc3MzYzNTcxMywtMTc2NzQy
+MjIwNSwtMTQzMzcxODYxMCwtMTY3MTk3MDk2Miw4NjY1NjYzOT
+QsLTUxMzM3NjI4MiwtMzQzNzY1ODgzLDI3OTUyOTgxOF19
 -->
