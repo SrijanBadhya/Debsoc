@@ -305,7 +305,8 @@ A month-long recruitment might bore some people. I don't fully trust the followi
 
 This level of selectivity captured the most benefits. I believe that being even more selective gives diminishing marginal benefits and leads to more harm.
 
-Which takes us to **why I believe we should continue to push hard for inclusivity**:
+Which takes us to 
+**Why I believe we should continue to push hard for inclusivity**:
 
 When you see 240ish people on the recruitments group, you might get intimidated. Early on during recruitments, we had thought, "How are we going to run the club if all of them join?!"
 However, the pattern I've seen across the years is that 20% of people don't even show up for round 1 and 50% of people don't show up for round 3. Regardless of how excited so many juniors seem, a lot of them definitely will still drop out.
@@ -2159,7 +2160,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxOTAxMjcyMzYxLDk1Mjg5Mzc2OSwtMjU2NjMxNj
+c3RvcnkiOlsxODQyMTk0MTY3LDk1Mjg5Mzc2OSwtMjU2NjMxNj
 MsNjUzNTQxODIxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0
 MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLT
 QxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0
