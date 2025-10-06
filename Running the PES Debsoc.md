@@ -1,6 +1,6 @@
 ![enter image description here](https://ugc.production.linktr.ee/8c207a45-1912-438e-bb78-d4ec8700d94d_debsoc-logo.png-page-0001.jpeg?io=true&size=avatar-v3_0)
 
-[Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/hirac-delest.html) (
+[Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/hirac-delest.html) (this file)
 
 [Link to the Dropbox File where you can highlight portions of text and add comments for me to include into this document](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
 
@@ -160,7 +160,7 @@ _**Some have believed that the point of the debate club is to win tournaments an
 - _This does initially make sense since our tournament results are what our PES management gets to see._
 - _And the soc cares about getting funded by PES because that's how we get to go to more fun tournaments._
 
-**However, some of us believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
+**However, some of us (me included) believe that if you judge the club solely by its tournament wins, you may lose sight of what matters, and a number of unhealthy behaviors can creep in.**
 
 - To win tournaments, you might start prioritizing your attention towards the people who already show potential and debate skills, to hone them further.
 - This could also mean that when you have limited tournament slots or resources, you give them to the people already performing well.
@@ -2159,7 +2159,7 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsyMDkzMDc4MDgxLDk1Mjg5Mzc2OSwtMjU2NjMxNj
+c3RvcnkiOlsxOTAxMjcyMzYxLDk1Mjg5Mzc2OSwtMjU2NjMxNj
 MsNjUzNTQxODIxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0
 MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLT
 QxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0
