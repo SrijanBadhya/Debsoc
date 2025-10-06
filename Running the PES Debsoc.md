@@ -844,14 +844,14 @@ For a motion like this, to emphasize that this motion is being debated for the f
 The motion weirdly has the phrase, "Would NOT", which is weird for gov, but this is necessary to ensure that the debate starts off with a bang.
 
 I heavily encouraged shitting on me personally, saying that it wouldn't affect their chances of getting in, and this led to the debates being incredibly entertaining and super fun for everyone involved (to the point where we were rolling on the floor laughing.) This motion feels incredibly fitting for the last day of recruitments.
-
-Video recording is optional. While itt makes for great lore, it decreases the chances of juniors being completely unhinged.
-
 It feels incredibly fulfilling because the extent to which the juniors shit on you shows how comfortable they've gotten with you.
+
+Video recording is optional. While it makes for great lore, it decreases the chances of juniors being completely unhinged.
+
 
 An alternate motion which does make more sense is, "THR participating in the Debsoc recruitment process." This however nudges people toward boring likelihood analysis on getting in, as opposed to the other motion which nudges people to creatively argue that the club is a shit club to join.
 
-While fun, these motions double as a raw insight into the lives of first-years and their feelings about the Debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
+While fun, these motions double as raw insight into the lives of first-years and their feelings about the Debsoc (even if their speeches are exaggerated). Gov breaks you down and Opp builds you back up. It's truly a wonderful experience.
 
 ---
 
@@ -2160,10 +2160,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlsxODQyMTk0MTY3LDk1Mjg5Mzc2OSwtMjU2NjMxNj
-MsNjUzNTQxODIxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0
-MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLT
-QxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0
-NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMC
-wtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4Ml19
+c3RvcnkiOlsyMTM0OTA4MjUwLDE4NDIxOTQxNjcsOTUyODkzNz
+Y5LC0yNTY2MzE2Myw2NTM1NDE4MjEsOTc2NDA2NTE0LC01NTM4
+NjE3NjksNDk2MDQzMTUzLDkwMzUzMDA4LDEyMTAzOTExNzUsMT
+M5ODQ1MDA3OCwtNDE4MTM0OTk4LDYxODA5NjEsLTEzNTQ4MDUx
+NjgsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC0xNzY3NDIyMjA1LC
+0xNDMzNzE4NjEwLC0xNjcxOTcwOTYyLDg2NjU2NjM5NF19
 -->
