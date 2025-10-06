@@ -1,6 +1,6 @@
 ![enter image description here](https://ugc.production.linktr.ee/8c207a45-1912-438e-bb78-d4ec8700d94d_debsoc-logo.png-page-0001.jpeg?io=true&size=avatar-v3_0)
 
-[Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/hirac-delest.html)
+[Link to the Blogger file (please don't read this on github)](https://runningthepesdebsoc.blogspot.com/2025/08/hirac-delest.html) (
 
 [Link to the Dropbox File where you can highlight portions of text and add comments for me to include into this document](https://www.dropbox.com/scl/fi/szd1awq826z2rxb253d0t/Running-The-PES-DebSoc.paper?rlkey=vhwnbkgdhji62kci5s1rv2kh3&st=gqvyd0bh&dl=0)
 
@@ -2159,10 +2159,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOls5NTI4OTM3NjksLTI1NjYzMTYzLDY1MzU0MTgyMS
-w5NzY0MDY1MTQsLTU1Mzg2MTc2OSw0OTYwNDMxNTMsOTAzNTMw
-MDgsMTIxMDM5MTE3NSwxMzk4NDUwMDc4LC00MTgxMzQ5OTgsNj
-E4MDk2MSwtMTM1NDgwNTE2OCwtODExMTk1NDUyLC03NzM2MzU3
-MTMsLTE3Njc0MjIyMDUsLTE0MzM3MTg2MTAsLTE2NzE5NzA5Nj
-IsODY2NTY2Mzk0LC01MTMzNzYyODIsLTM0Mzc2NTg4M119
+c3RvcnkiOlsyMDkzMDc4MDgxLDk1Mjg5Mzc2OSwtMjU2NjMxNj
+MsNjUzNTQxODIxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0
+MzE1Myw5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLT
+QxODEzNDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0
+NTIsLTc3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMC
+wtMTY3MTk3MDk2Miw4NjY1NjYzOTQsLTUxMzM3NjI4Ml19
 -->
