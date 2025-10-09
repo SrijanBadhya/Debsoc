@@ -73,7 +73,7 @@ II. [Recruitments](#recruitments)
      &emsp;&emsp;c) [The Digital Attendance Tracker](#the-digital-attendance-tracker)
      
 &emsp; 4. [Meme Day](#meme-day)
-     
+
 III. [Inside a session](#inside-a-session)
 &emsp;1. [Session Concepts](#session-concepts)
 &emsp;2. [Time](#time)
@@ -2161,11 +2161,10 @@ eyJwcm9wZXJ0aWVzIjoidGl0bGU6IEhpcmFjIERlbGVzdFxuYX
 V0aG9yOiBTcmlqYW4gQmFkaHlhXG5zdGF0dXM6IEFsd2F5cyBJ
 biBQcm9ncmVzc1xuZGF0ZTogJzIwMjUtMDgtMTMnXG50YWdzOi
 AnZGViYXRlLCBzb2NpZXR5LCBQRVMsIGRlYnNvYydcbiIsImhp
-c3RvcnkiOlstMTExMDE4MDM5NiwyMTM0OTA4MjUwLDE4NDIxOT
-QxNjcsOTUyODkzNzY5LC0yNTY2MzE2Myw2NTM1NDE4MjEsOTc2
-NDA2NTE0LC01NTM4NjE3NjksNDk2MDQzMTUzLDkwMzUzMDA4LD
-EyMTAzOTExNzUsMTM5ODQ1MDA3OCwtNDE4MTM0OTk4LDYxODA5
-NjEsLTEzNTQ4MDUxNjgsLTgxMTE5NTQ1MiwtNzczNjM1NzEzLC
-0xNzY3NDIyMjA1LC0xNDMzNzE4NjEwLC0xNjcxOTcwOTYyXX0=
-
+c3RvcnkiOls5NzI1NTAyMzYsLTExMTAxODAzOTYsMjEzNDkwOD
+I1MCwxODQyMTk0MTY3LDk1Mjg5Mzc2OSwtMjU2NjMxNjMsNjUz
+NTQxODIxLDk3NjQwNjUxNCwtNTUzODYxNzY5LDQ5NjA0MzE1My
+w5MDM1MzAwOCwxMjEwMzkxMTc1LDEzOTg0NTAwNzgsLTQxODEz
+NDk5OCw2MTgwOTYxLC0xMzU0ODA1MTY4LC04MTExOTU0NTIsLT
+c3MzYzNTcxMywtMTc2NzQyMjIwNSwtMTQzMzcxODYxMF19
 -->
